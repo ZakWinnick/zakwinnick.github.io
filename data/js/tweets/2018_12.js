@@ -144,6 +144,101 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 18276,
+			"friends_count": 594,
+			"listed_count": 680,
+			"created_at": "Tue Dec 16 22:55:03 +0000 2008",
+			"favourites_count": 1134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000408267875/6d035ce55fa16c77947317c073486f1c_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000408267875/6d035ce55fa16c77947317c073486f1c_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18175442/1378271293",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Didn’t Vincent Chase land the lead in “Aquaman”?"
+	},
+	{
+		"created_at": "Sun Dec 09 04:43:55 +0000 2018",
+		"id": 1071626473180684300,
+		"id_str": "1071626473180684289",
+		"full_text": "Didn’t Vincent Chase land the lead in “Aquaman”?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18175442,
+			"id_str": "18175442",
+			"name": "Paul Farhi",
+			"screen_name": "farhip",
+			"location": "Washington, DC",
+			"description": "I write about the news media for the Washington Post. Random, inexplicable tweets about other stuff, too. All views someone else's. farhip@washpost.com.",
+			"url": "https://t.co/Hq7hTYkOPg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hq7hTYkOPg",
+							"expanded_url": "http://washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 18275,
 			"friends_count": 594,
 			"listed_count": 680,
