@@ -152,6 +152,321 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 750408,
+			"friends_count": 5745,
+			"listed_count": 10486,
+			"created_at": "Sun Jun 10 05:23:46 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 52097,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005839256382726144/G0JIPjua_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005839256382726144/G0JIPjua_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6708952/1492631651",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 237,
+		"favorite_count": 285,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Evelyn Berezin, 93, Dies; Built First Word Processor https://t.co/zPcZL4j80A “Why is this woman not famous? Without Ms. Berezin, there would be no Bill Gates, no Steve Jobs, no internet, no word processors, no spreadsheets.” #FacesOfFounders #HiddenFigures https://t.co/jfXtYSb0x0"
+	},
+	{
+		"created_at": "Tue Dec 11 14:20:28 +0000 2018",
+		"id": 1072496339861299200,
+		"id_str": "1072496339861299202",
+		"full_text": "@mattbirchler I’ve hosted all my files on @DreamHost for over 10 years. \n\nAt $9.99/mo for unlimited bandwidth and storage. Can’t beat it. Plus, it’s super fast, and they offer a great CDN product too.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattbirchler",
+					"name": "Matt Birchler",
+					"id": 27251386,
+					"id_str": "27251386",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "DreamHost",
+					"name": "DreamHost",
+					"id": 14217022,
+					"id_str": "14217022",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1072488955961069600,
+		"in_reply_to_status_id_str": "1072488955961069569",
+		"in_reply_to_user_id": 27251386,
+		"in_reply_to_user_id_str": "27251386",
+		"in_reply_to_screen_name": "mattbirchler",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 268,
+			"listed_count": 19,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9111,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069425231226433543/j2faW7UJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069425231226433543/j2faW7UJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1543805819",
+			"profile_link_color": "3F5B83",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mattbirchler I’ve hosted all my files on @DreamHost for over 10 years. \n\nAt $9.99/mo for unlimited bandwidth and storage. Can’t beat it. Plus, it’s super fast, and they offer a great CDN product too."
+	},
+	{
+		"created_at": "Tue Dec 11 14:19:02 +0000 2018",
+		"id": 1072495980145205200,
+		"id_str": "1072495980145205248",
+		"full_text": "Evelyn Berezin, 93, Dies; Built First Word Processor https://t.co/zPcZL4j80A “Why is this woman not famous? Without Ms. Berezin, there would be no Bill Gates, no Steve Jobs, no internet, no word processors, no spreadsheets.” #FacesOfFounders #HiddenFigures https://t.co/jfXtYSb0x0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FacesOfFounders",
+					"indices": [
+						225,
+						241
+					]
+				},
+				{
+					"text": "HiddenFigures",
+					"indices": [
+						242,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zPcZL4j80A",
+					"expanded_url": "https://nyti.ms/2EckscM",
+					"display_url": "nyti.ms/2EckscM",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072495978341679100,
+					"id_str": "1072495978341679107",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/DuJFaPQXQAMFzEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuJFaPQXQAMFzEZ.jpg",
+					"url": "https://t.co/jfXtYSb0x0",
+					"display_url": "pic.twitter.com/jfXtYSb0x0",
+					"expanded_url": "https://twitter.com/SteveCase/status/1072495980145205248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072495978341679100,
+					"id_str": "1072495978341679107",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/DuJFaPQXQAMFzEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuJFaPQXQAMFzEZ.jpg",
+					"url": "https://t.co/jfXtYSb0x0",
+					"display_url": "pic.twitter.com/jfXtYSb0x0",
+					"expanded_url": "https://twitter.com/SteveCase/status/1072495980145205248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6708952,
+			"id_str": "6708952",
+			"name": "Steve Case",
+			"screen_name": "SteveCase",
+			"location": "Washington DC",
+			"description": "Author of The Third Wave: An Entrepreneur's Vision of the Future. Chairman of Revolution. Chairman of Case Foundation. Co-founder of AOL. @ThirdWaveBook",
+			"url": "https://t.co/fKbrxjPNU4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fKbrxjPNU4",
+							"expanded_url": "http://ThirdWaveBook.com",
+							"display_url": "ThirdWaveBook.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 750410,
 			"friends_count": 5745,
 			"listed_count": 10485,
