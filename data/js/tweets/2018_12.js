@@ -196,6 +196,646 @@ Grailbird.data.tweets_2018_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 8,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Because #retrocomputing, here’s @kenfagerdotcom’s Apple IIe web server viewed in @71J059’s Courier browser on a Newton MessagePad 2100. https://t.co/zIYiLgafCx"
+	},
+	{
+		"created_at": "Thu Dec 20 13:57:24 +0000 2018",
+		"id": 1075752025525243900,
+		"id_str": "1075752025525243904",
+		"full_text": "Easiest $20 I’ve spent this week… https://t.co/BjfryLJIm9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BjfryLJIm9",
+					"expanded_url": "https://twitter.com/sigurros/status/1075736164399804417",
+					"display_url": "twitter.com/sigurros/statu…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 196,
+			"listed_count": 19,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069425231226433543/j2faW7UJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069425231226433543/j2faW7UJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1543805819",
+			"profile_link_color": "3F5B83",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075736164399804400,
+		"quoted_status_id_str": "1075736164399804417",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BjfryLJIm9",
+			"expanded": "https://twitter.com/sigurros/status/1075736164399804417",
+			"display": "twitter.com/sigurros/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 20 12:54:22 +0000 2018",
+			"id": 1075736164399804400,
+			"id_str": "1075736164399804417",
+			"full_text": "the first three volumes of @liminal_la - available on bandcamp with a 35% discount - for a limited time! https://t.co/XozuYTqI2s \n\n@sigurros @alexsomersmusic @paulcorley @iamjonsi #shareliminal https://t.co/T3hoq3JPim",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "shareliminal",
+						"indices": [
+							180,
+							193
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "liminal_la",
+						"name": "liminal",
+						"id": 983317614868029400,
+						"id_str": "983317614868029440",
+						"indices": [
+							27,
+							38
+						]
+					},
+					{
+						"screen_name": "sigurros",
+						"name": "sigur rós",
+						"id": 8350382,
+						"id_str": "8350382",
+						"indices": [
+							131,
+							140
+						]
+					},
+					{
+						"screen_name": "AlexSomersMusic",
+						"name": "Alex Somers",
+						"id": 23970708,
+						"id_str": "23970708",
+						"indices": [
+							141,
+							157
+						]
+					},
+					{
+						"screen_name": "paulcorley",
+						"name": "paul corley",
+						"id": 16426003,
+						"id_str": "16426003",
+						"indices": [
+							158,
+							169
+						]
+					},
+					{
+						"screen_name": "iamjonsi",
+						"name": "Jónsi",
+						"id": 93171197,
+						"id_str": "93171197",
+						"indices": [
+							170,
+							179
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XozuYTqI2s",
+						"expanded_url": "https://liminal.bandcamp.com",
+						"display_url": "liminal.bandcamp.com",
+						"indices": [
+							105,
+							128
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1075736146083242000,
+						"id_str": "1075736146083241991",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/Du3IU0tW4AcRarQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du3IU0tW4AcRarQ.jpg",
+						"url": "https://t.co/T3hoq3JPim",
+						"display_url": "pic.twitter.com/T3hoq3JPim",
+						"expanded_url": "https://twitter.com/sigurros/status/1075736164399804417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1075736146083242000,
+						"id_str": "1075736146083241991",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/Du3IU0tW4AcRarQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du3IU0tW4AcRarQ.jpg",
+						"url": "https://t.co/T3hoq3JPim",
+						"display_url": "pic.twitter.com/T3hoq3JPim",
+						"expanded_url": "https://twitter.com/sigurros/status/1075736164399804417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1075736146792063000,
+						"id_str": "1075736146792062976",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/Du3IU3WWoAAmNDs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du3IU3WWoAAmNDs.jpg",
+						"url": "https://t.co/T3hoq3JPim",
+						"display_url": "pic.twitter.com/T3hoq3JPim",
+						"expanded_url": "https://twitter.com/sigurros/status/1075736164399804417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1075736147622535200,
+						"id_str": "1075736147622535169",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/Du3IU6cWoAETUbR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du3IU6cWoAETUbR.jpg",
+						"url": "https://t.co/T3hoq3JPim",
+						"display_url": "pic.twitter.com/T3hoq3JPim",
+						"expanded_url": "https://twitter.com/sigurros/status/1075736164399804417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8350382,
+				"id_str": "8350382",
+				"name": "sigur rós",
+				"screen_name": "sigurros",
+				"location": "reykjavík, iceland",
+				"description": "official twitter for sigur rós and the https://t.co/TiWc3LGeVJ folks.",
+				"url": "https://t.co/KhXu5zXlwJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KhXu5zXlwJ",
+								"expanded_url": "https://www.sigur-ros.co.uk",
+								"display_url": "sigur-ros.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TiWc3LGeVJ",
+								"expanded_url": "http://sigur-ros.co.uk",
+								"display_url": "sigur-ros.co.uk",
+								"indices": [
+									39,
+									62
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 242909,
+				"friends_count": 19253,
+				"listed_count": 4328,
+				"created_at": "Wed Aug 22 06:44:35 +0000 2007",
+				"favourites_count": 629,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5430,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1050467518505213952/w4UkC9U9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050467518505213952/w4UkC9U9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8350382/1494231025",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "919191",
+				"profile_sidebar_fill_color": "D9D9D9",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 108,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Easiest $20 I’ve spent this week… https://t.co/BjfryLJIm9"
+	},
+	{
+		"created_at": "Thu Dec 20 01:49:54 +0000 2018",
+		"id": 1075568946529497100,
+		"id_str": "1075568946529497088",
+		"full_text": "Because #retrocomputing, here’s @kenfagerdotcom’s Apple IIe web server viewed in @71J059’s Courier browser on a Newton MessagePad 2100. https://t.co/zIYiLgafCx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "retrocomputing",
+					"indices": [
+						8,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kenfagerdotcom",
+					"name": "Ken Fager",
+					"id": 13104432,
+					"id_str": "13104432",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "71J059",
+					"name": "Programmer",
+					"id": 157247848,
+					"id_str": "157247848",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075568937948012500,
+					"id_str": "1075568937948012544",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Du0wQB3V4AAMQ2u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du0wQB3V4AAMQ2u.jpg",
+					"url": "https://t.co/zIYiLgafCx",
+					"display_url": "pic.twitter.com/zIYiLgafCx",
+					"expanded_url": "https://twitter.com/splorp/status/1075568946529497088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075568937948012500,
+					"id_str": "1075568937948012544",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Du0wQB3V4AAMQ2u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du0wQB3V4AAMQ2u.jpg",
+					"url": "https://t.co/zIYiLgafCx",
+					"display_url": "pic.twitter.com/zIYiLgafCx",
+					"expanded_url": "https://twitter.com/splorp/status/1075568946529497088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26253,
+			"id_str": "26253",
+			"name": "Grant Hutchinson",
+			"screen_name": "splorp",
+			"location": "Calgary, Canada",
+			"description": "Interface considerations. Gadget accumulation. Typography. Scotch. Proprietor of quirky interweb hotspots such as @newtontalk, @newtonglossary & @typostrophe",
+			"url": "https://t.co/sAauovnwSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sAauovnwSH",
+							"expanded_url": "http://splorp.com",
+							"display_url": "splorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4288,
+			"friends_count": 292,
+			"listed_count": 321,
+			"created_at": "Tue Nov 28 04:03:47 +0000 2006",
+			"favourites_count": 1679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59912,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "687237",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/477536986660483076/H7ojKLmn_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/477536986660483076/H7ojKLmn_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26253/1347979519",
+			"profile_link_color": "70704C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DED1B6",
+			"profile_text_color": "63442A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
 		"favorite_count": 19,
 		"favorited": false,
 		"retweeted": true,
