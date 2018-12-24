@@ -158,6 +158,211 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 1084357,
+			"friends_count": 8,
+			"listed_count": 5013,
+			"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4648,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1523314160",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3302,
+		"favorite_count": 11841,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bear wanders into cat's territory. https://t.co/RuBQFzVHR2"
+	},
+	{
+		"created_at": "Fri Dec 21 18:17:03 +0000 2018",
+		"id": 1076179760403800000,
+		"id_str": "1076179760403800065",
+		"full_text": "Bear wanders into cat's territory. https://t.co/RuBQFzVHR2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076179649674133500,
+					"id_str": "1076179649674133504",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076179649674133504/pu/img/zj80hu1pNVxZ62cp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076179649674133504/pu/img/zj80hu1pNVxZ62cp.jpg",
+					"url": "https://t.co/RuBQFzVHR2",
+					"display_url": "pic.twitter.com/RuBQFzVHR2",
+					"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/1076179760403800065/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076179649674133500,
+					"id_str": "1076179649674133504",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076179649674133504/pu/img/zj80hu1pNVxZ62cp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076179649674133504/pu/img/zj80hu1pNVxZ62cp.jpg",
+					"url": "https://t.co/RuBQFzVHR2",
+					"display_url": "pic.twitter.com/RuBQFzVHR2",
+					"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/1076179760403800065/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15633,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076179649674133504/pu/vid/640x360/VFAhPzI3FYXFBw-s.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076179649674133504/pu/vid/320x180/vEGhmbfrw8RlyLcH.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1076179649674133504/pu/pl/ZG3TQZog_X3sjuQO.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076179649674133504/pu/vid/1280x720/S30gdiIuN35csFGR.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2828212668,
+			"id_str": "2828212668",
+			"name": "Nature is Amazing ☘️",
+			"screen_name": "AMAZlNGNATURE",
+			"location": "🌍",
+			"description": "Animals 🐿️ Nature 🦋 Discovery 🦖                            ©Photos/Videos belong to credited owners  \n   \n*we own no content posted*    DM for credit/removal",
+			"url": "https://t.co/aD7MSH7D3N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aD7MSH7D3N",
+							"expanded_url": "http://Instagram.com/amaziingnature",
+							"display_url": "Instagram.com/amaziingnature",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 1084344,
 			"friends_count": 8,
 			"listed_count": 5002,
