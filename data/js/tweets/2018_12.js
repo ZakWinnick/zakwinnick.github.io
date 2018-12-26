@@ -127,6 +127,592 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 60470,
+			"friends_count": 260,
+			"listed_count": 1510,
+			"created_at": "Thu Jul 08 21:17:18 +0000 2010",
+			"favourites_count": 14202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20970,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836626755951726593/n4i54n4l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836626755951726593/n4i54n4l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164425558/1472266025",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 735,
+		"favorite_count": 2998,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On Christmas Day in 1990: the World Wide Web is first tested\n\nTim Berners-Lee, Robert Cailliau set up successful communication between a web browser &amp; server via the Internet https://t.co/MXPsDE0xI4"
+	},
+	{
+		"created_at": "Sat Dec 22 16:17:40 +0000 2018",
+		"id": 1076512103815614500,
+		"id_str": "1076512103815614464",
+		"full_text": "When your kid asks for a switch for Christmas https://t.co/EbwZRhkQfx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076512097712984000,
+					"id_str": "1076512097712984065",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DvCKDJyX0AEw547.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvCKDJyX0AEw547.jpg",
+					"url": "https://t.co/EbwZRhkQfx",
+					"display_url": "pic.twitter.com/EbwZRhkQfx",
+					"expanded_url": "https://twitter.com/Nag_FR/status/1076512103815614464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076512097712984000,
+					"id_str": "1076512097712984065",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DvCKDJyX0AEw547.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvCKDJyX0AEw547.jpg",
+					"url": "https://t.co/EbwZRhkQfx",
+					"display_url": "pic.twitter.com/EbwZRhkQfx",
+					"expanded_url": "https://twitter.com/Nag_FR/status/1076512103815614464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 324350068,
+			"id_str": "324350068",
+			"name": "Morgan",
+			"screen_name": "Nag_FR",
+			"location": "Paris",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48,
+			"friends_count": 49,
+			"listed_count": 0,
+			"created_at": "Sun Jun 26 13:10:57 +0000 2011",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802544430813237249/d0g-rC_p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802544430813237249/d0g-rC_p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/324350068/1480176429",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7044,
+		"favorite_count": 18627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When your kid asks for a switch for Christmas https://t.co/EbwZRhkQfx"
+	},
+	{
+		"created_at": "Tue Dec 25 16:29:23 +0000 2018",
+		"id": 1077602214091386900,
+		"id_str": "1077602214091386883",
+		"full_text": "Woah. This looks awesome! https://t.co/KQx9PKhlXz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KQx9PKhlXz",
+					"expanded_url": "https://twitter.com/CaseyNeistat/status/1077584992279191552",
+					"display_url": "twitter.com/CaseyNeistat/s…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "",
+			"url": "https://t.co/JSX6Ve09xP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JSX6Ve09xP",
+							"expanded_url": "https://zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 191,
+			"listed_count": 19,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077775629779681281/Fb_W9wfW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077775629779681281/Fb_W9wfW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1543805819",
+			"profile_link_color": "3F5B83",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077584992279191600,
+		"quoted_status_id_str": "1077584992279191552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KQx9PKhlXz",
+			"expanded": "https://twitter.com/CaseyNeistat/status/1077584992279191552",
+			"display": "twitter.com/CaseyNeistat/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 25 15:20:57 +0000 2018",
+			"id": 1077584992279191600,
+			"id_str": "1077584992279191552",
+			"full_text": "Jordan Peele’s new trailer just dropped.  This 2 and a half minute preview will give nightmares.. movie looks absolutely incredible — https://t.co/jcBMdUKJow",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jcBMdUKJow",
+						"expanded_url": "https://youtu.be/hNCmb-4oXJA",
+						"display_url": "youtu.be/hNCmb-4oXJA",
+						"indices": [
+							134,
+							157
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 154221292,
+				"id_str": "154221292",
+				"name": "Casey Neistat",
+				"screen_name": "CaseyNeistat",
+				"location": "nyc",
+				"description": "k pop!",
+				"url": "https://t.co/G29ueAVHlb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G29ueAVHlb",
+								"expanded_url": "http://www.youtube.com/caseyneistat",
+								"display_url": "youtube.com/caseyneistat",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1928414,
+				"friends_count": 1901,
+				"listed_count": 4721,
+				"created_at": "Thu Jun 10 17:54:33 +0000 2010",
+				"favourites_count": 32493,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21486,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "616161",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/154221292/1403543694",
+				"profile_link_color": "943D3D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "018a0b421a422518",
+				"url": "https://api.twitter.com/1.1/geo/id/018a0b421a422518.json",
+				"place_type": "city",
+				"name": "Watch Hill",
+				"full_name": "Watch Hill, RI",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-71.857986,
+								41.308576
+							],
+							[
+								-71.840622,
+								41.308576
+							],
+							[
+								-71.840622,
+								41.323629
+							],
+							[
+								-71.857986,
+								41.323629
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 175,
+			"favorite_count": 2272,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Woah. This looks awesome! https://t.co/KQx9PKhlXz"
+	},
+	{
+		"created_at": "Tue Dec 25 13:30:03 +0000 2018",
+		"id": 1077557085678784500,
+		"id_str": "1077557085678784512",
+		"full_text": "On Christmas Day in 1990: the World Wide Web is first tested\n\nTim Berners-Lee, Robert Cailliau set up successful communication between a web browser &amp; server via the Internet https://t.co/MXPsDE0xI4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077557080863600600,
+					"id_str": "1077557080863600642",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/DvRAdLYU8AIyRVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvRAdLYU8AIyRVw.jpg",
+					"url": "https://t.co/MXPsDE0xI4",
+					"display_url": "pic.twitter.com/MXPsDE0xI4",
+					"expanded_url": "https://twitter.com/JonErlichman/status/1077557085678784512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1030,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 604,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077557080863600600,
+					"id_str": "1077557080863600642",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/DvRAdLYU8AIyRVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvRAdLYU8AIyRVw.jpg",
+					"url": "https://t.co/MXPsDE0xI4",
+					"display_url": "pic.twitter.com/MXPsDE0xI4",
+					"expanded_url": "https://twitter.com/JonErlichman/status/1077557085678784512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1030,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 604,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164425558,
+			"id_str": "164425558",
+			"name": "Jon Erlichman",
+			"screen_name": "JonErlichman",
+			"location": "IG: @jonerlichman",
+			"description": "Anchor, “The Open” @BNNBloomberg 8:30am to 11am. @CTVNationalNews correspondent & fill-in anchor. Host, @CTV_Television celebrity entrepreneur show “Sidelines\"",
+			"url": "https://t.co/mMXSmkvudj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMXSmkvudj",
+							"expanded_url": "https://blog.twitter.com/official/en_ca/topics/insights/2018/Jon_Erlichman_talks_Twitter.html",
+							"display_url": "blog.twitter.com/official/en_ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 60466,
 			"friends_count": 260,
 			"listed_count": 1510,
