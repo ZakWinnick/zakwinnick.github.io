@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 15:20:20 +0000 2019",
+		"id": 1081208714768597000,
+		"id_str": "1081208714768596992",
+		"full_text": "Ouch. Glad I didn’t add my passport to my SPG profile. https://t.co/VEA5zGk9cZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VEA5zGk9cZ",
+					"expanded_url": "https://twitter.com/nytimes/status/1081207395261534208",
+					"display_url": "twitter.com/nytimes/status…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Amateur Social Media Professional",
+			"url": "https://t.co/JSX6Ve09xP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JSX6Ve09xP",
+							"expanded_url": "https://zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 184,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9112,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079453544812560385/2jaIhKmC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079453544812560385/2jaIhKmC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1543805819",
+			"profile_link_color": "3F5B83",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081207395261534200,
+		"quoted_status_id_str": "1081207395261534208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VEA5zGk9cZ",
+			"expanded": "https://twitter.com/nytimes/status/1081207395261534208",
+			"display": "twitter.com/nytimes/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 04 15:15:05 +0000 2019",
+			"id": 1081207395261534200,
+			"id_str": "1081207395261534208",
+			"full_text": "Marriott International conceded that its Starwood hotel unit did not encrypt the passport numbers for roughly 5 million guests. Those passport numbers were lost in an attack that many experts believe was carried out by Chinese intelligence agencies. https://t.co/47UDuCrtwM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/47UDuCrtwM",
+						"expanded_url": "https://nyti.ms/2F6FRoi",
+						"display_url": "nyti.ms/2F6FRoi",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807095,
+				"id_str": "807095",
+				"name": "The New York Times",
+				"screen_name": "nytimes",
+				"location": "New York City",
+				"description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.",
+				"url": "http://t.co/ahvuWqicF9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ahvuWqicF9",
+								"expanded_url": "http://www.nytimes.com/",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ghL9OoYKMM",
+								"expanded_url": "http://nyti.ms/2FVHq9v",
+								"display_url": "nyti.ms/2FVHq9v",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 42579626,
+				"friends_count": 881,
+				"listed_count": 198559,
+				"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+				"favourites_count": 17572,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 345567,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276",
+				"profile_link_color": "607696",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 135,
+			"favorite_count": 149,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ouch. Glad I didn’t add my passport to my SPG profile. https://t.co/VEA5zGk9cZ"
+	},
+	{
 		"created_at": "Fri Jan 04 15:12:32 +0000 2019",
 		"id": 1081206752627118100,
 		"id_str": "1081206752627118080",
