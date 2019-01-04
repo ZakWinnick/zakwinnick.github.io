@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 15:12:32 +0000 2019",
+		"id": 1081206752627118100,
+		"id_str": "1081206752627118080",
+		"full_text": "I think it looks like my Dad’s name is still up in the window in that first picture…\n\nLong live Terry Winnick &amp; Associates. https://t.co/PRzCV3rhDR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PRzCV3rhDR",
+					"expanded_url": "https://twitter.com/Cartarsauce/status/1081195462735081472",
+					"display_url": "twitter.com/Cartarsauce/st…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Amateur Social Media Professional",
+			"url": "https://t.co/JSX6Ve09xP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JSX6Ve09xP",
+							"expanded_url": "https://zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 184,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9111,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079453544812560385/2jaIhKmC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079453544812560385/2jaIhKmC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1543805819",
+			"profile_link_color": "3F5B83",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081195462735081500,
+		"quoted_status_id_str": "1081195462735081472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PRzCV3rhDR",
+			"expanded": "https://twitter.com/Cartarsauce/status/1081195462735081472",
+			"display": "twitter.com/Cartarsauce/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 04 14:27:40 +0000 2019",
+			"id": 1081195462735081500,
+			"id_str": "1081195462735081472",
+			"full_text": "Just some appreciation for the New York section of @UniversalORL https://t.co/0QLRd5dBwL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UniversalORL",
+						"name": "Universal Orlando Resort",
+						"id": 125988399,
+						"id_str": "125988399",
+						"indices": [
+							51,
+							64
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1081195420498513900,
+						"id_str": "1081195420498513920",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DwEtgauX0AAhCfp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwEtgauX0AAhCfp.jpg",
+						"url": "https://t.co/0QLRd5dBwL",
+						"display_url": "pic.twitter.com/0QLRd5dBwL",
+						"expanded_url": "https://twitter.com/Cartarsauce/status/1081195462735081472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1081195420498513900,
+						"id_str": "1081195420498513920",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DwEtgauX0AAhCfp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwEtgauX0AAhCfp.jpg",
+						"url": "https://t.co/0QLRd5dBwL",
+						"display_url": "pic.twitter.com/0QLRd5dBwL",
+						"expanded_url": "https://twitter.com/Cartarsauce/status/1081195462735081472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1081195420213219300,
+						"id_str": "1081195420213219328",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DwEtgZqWkAAqZdb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwEtgZqWkAAqZdb.jpg",
+						"url": "https://t.co/0QLRd5dBwL",
+						"display_url": "pic.twitter.com/0QLRd5dBwL",
+						"expanded_url": "https://twitter.com/Cartarsauce/status/1081195462735081472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1081195420490129400,
+						"id_str": "1081195420490129409",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DwEtgasX4AEGJsw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwEtgasX4AEGJsw.jpg",
+						"url": "https://t.co/0QLRd5dBwL",
+						"display_url": "pic.twitter.com/0QLRd5dBwL",
+						"expanded_url": "https://twitter.com/Cartarsauce/status/1081195462735081472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1081195420502683600,
+						"id_str": "1081195420502683651",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DwEtgavXcAMehxr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwEtgavXcAMehxr.jpg",
+						"url": "https://t.co/0QLRd5dBwL",
+						"display_url": "pic.twitter.com/0QLRd5dBwL",
+						"expanded_url": "https://twitter.com/Cartarsauce/status/1081195462735081472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54585516,
+				"id_str": "54585516",
+				"name": "Sam Carter",
+				"screen_name": "Cartarsauce",
+				"location": "Orange County, CA",
+				"description": "Designer, former Disney Creative Entertainment, WonderGround Artist, Laguna Festival of the Arts Juror, USC Creative Director & Theme Park Geek",
+				"url": "https://t.co/GxpfadeWmA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GxpfadeWmA",
+								"expanded_url": "http://samcarterart.com/",
+								"display_url": "samcarterart.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2424,
+				"friends_count": 1097,
+				"listed_count": 28,
+				"created_at": "Tue Jul 07 15:51:09 +0000 2009",
+				"favourites_count": 19373,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4938,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/941330955679043589/zCaqljBv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/941330955679043589/zCaqljBv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54585516/1534854956",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think it looks like my Dad’s name is still up in the window in that first picture…\n\nLong live Terry Winnick &amp; Associates. https://t.co/PRzCV3rhDR"
+	},
+	{
+		"created_at": "Thu Jan 03 22:53:01 +0000 2019",
+		"id": 1080960248117149700,
+		"id_str": "1080960248117149698",
+		"full_text": "We already miss you, Herbie. #HonoringHerb https://t.co/SQcvSdkbC2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HonoringHerb",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1080960246565212200,
+					"id_str": "1080960246565212162",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DwBXnfjWkAI5zwi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwBXnfjWkAI5zwi.jpg",
+					"url": "https://t.co/SQcvSdkbC2",
+					"display_url": "pic.twitter.com/SQcvSdkbC2",
+					"expanded_url": "https://twitter.com/SouthwestAir/status/1080960248117149698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 987,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 987,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080960246565212200,
+					"id_str": "1080960246565212162",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DwBXnfjWkAI5zwi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwBXnfjWkAI5zwi.jpg",
+					"url": "https://t.co/SQcvSdkbC2",
+					"display_url": "pic.twitter.com/SQcvSdkbC2",
+					"expanded_url": "https://twitter.com/SouthwestAir/status/1080960248117149698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 987,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 987,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7212562,
+			"id_str": "7212562",
+			"name": "Southwest Airlines",
+			"screen_name": "SouthwestAir",
+			"location": "Dallas, Texas",
+			"description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+			"url": "https://t.co/ceLMaSlRlB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ceLMaSlRlB",
+							"expanded_url": "http://southwest.com/feedback",
+							"display_url": "southwest.com/feedback",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2111571,
+			"friends_count": 36876,
+			"listed_count": 15158,
+			"created_at": "Mon Jul 02 19:56:44 +0000 2007",
+			"favourites_count": 7612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 752719,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1008735259578339328/ffLBiSjO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008735259578339328/ffLBiSjO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1535639426",
+			"profile_link_color": "304CB2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2398,
+		"favorite_count": 8436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We already miss you, Herbie. #HonoringHerb https://t.co/SQcvSdkbC2"
+	},
+	{
 		"created_at": "Thu Jan 03 22:53:01 +0000 2019",
 		"id": 1080960248117149700,
 		"id_str": "1080960248117149698",
