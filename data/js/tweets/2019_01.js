@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 05 04:54:46 +0000 2019",
+		"id": 1081413676106764300,
+		"id_str": "1081413676106764289",
+		"full_text": "https://t.co/NPhofL2FOA https://t.co/GIBnqGMVPR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NPhofL2FOA",
+					"expanded_url": "http://bit.ly/2SHQ1zK",
+					"display_url": "bit.ly/2SHQ1zK",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1081413674563186700,
+					"id_str": "1081413674563186693",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DwH0AeeWsAUsLs4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwH0AeeWsAUsLs4.jpg",
+					"url": "https://t.co/GIBnqGMVPR",
+					"display_url": "pic.twitter.com/GIBnqGMVPR",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1081413676106764289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081413674563186700,
+					"id_str": "1081413674563186693",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DwH0AeeWsAUsLs4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwH0AeeWsAUsLs4.jpg",
+					"url": "https://t.co/GIBnqGMVPR",
+					"display_url": "pic.twitter.com/GIBnqGMVPR",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1081413676106764289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Amateur Social Media Professional",
+			"url": "https://t.co/JSX6Ve09xP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JSX6Ve09xP",
+							"expanded_url": "https://zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 184,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9114,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079453544812560385/2jaIhKmC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079453544812560385/2jaIhKmC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1543805819",
+			"profile_link_color": "3F5B83",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/NPhofL2FOA https://t.co/GIBnqGMVPR"
+	},
+	{
 		"created_at": "Fri Jan 04 18:48:58 +0000 2019",
 		"id": 1081261218571210800,
 		"id_str": "1081261218571210752",
