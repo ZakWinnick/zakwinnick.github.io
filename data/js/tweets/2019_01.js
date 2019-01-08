@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 14:23:56 +0000 2019",
+		"id": 1082644072144224300,
+		"id_str": "1082644072144224256",
+		"full_text": "Paradox is becoming the Maxis of the “modern day”…and that’s definitely a good thing! https://t.co/i8kOwX4NOm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i8kOwX4NOm",
+					"expanded_url": "https://twitter.com/ebbalj/status/1082639728581709824",
+					"display_url": "twitter.com/ebbalj/status/…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Amateur Social Media Professional",
+			"url": "https://t.co/JSX6Ve09xP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JSX6Ve09xP",
+							"expanded_url": "https://zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 183,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9115,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079453544812560385/2jaIhKmC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079453544812560385/2jaIhKmC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1543805819",
+			"profile_link_color": "3F5B83",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082639728581709800,
+		"quoted_status_id_str": "1082639728581709824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i8kOwX4NOm",
+			"expanded": "https://twitter.com/ebbalj/status/1082639728581709824",
+			"display": "twitter.com/ebbalj/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 08 14:06:40 +0000 2019",
+			"id": 1082639728581709800,
+			"id_str": "1082639728581709824",
+			"full_text": "welcome to the family! @prisonarchitect Paradox Interactive Acquires Prison Architect from Introversion Software https://t.co/K3lmMcULcv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PrisonArchitect",
+						"name": "Prison Architect",
+						"id": 934792298,
+						"id_str": "934792298",
+						"indices": [
+							23,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/K3lmMcULcv",
+						"expanded_url": "https://www.paradoxinteractive.com/en/paradox-interactive-acquires-prison-architect-from-introversion-software/#.XDSuQ7mLlXM.twitter",
+						"display_url": "paradoxinteractive.com/en/paradox-int…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25707916,
+				"id_str": "25707916",
+				"name": "ebba ljungerud",
+				"screen_name": "ebbalj",
+				"location": "Stockholm, Sweden",
+				"description": "CEO of Paradox Interactive. Mother of Dragons.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2008,
+				"friends_count": 137,
+				"listed_count": 21,
+				"created_at": "Sat Mar 21 18:28:42 +0000 2009",
+				"favourites_count": 1418,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 301,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1036317530485411840/oeP8sv6k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036317530485411840/oeP8sv6k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25707916/1543849733",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Paradox is becoming the Maxis of the “modern day”…and that’s definitely a good thing! https://t.co/i8kOwX4NOm"
+	},
+	{
 		"created_at": "Sun Jan 06 19:35:51 +0000 2019",
 		"id": 1081997792892076000,
 		"id_str": "1081997792892076032",
