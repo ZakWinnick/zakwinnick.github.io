@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 13 05:26:09 +0000 2019",
+		"id": 1084320674129227800,
+		"id_str": "1084321895317757952",
+		"full_text": "At a movie theater that tells us if we download this really cool app, Noovie Arcade, we can play an augmented reality games. What a wonderful free service 🙄 https://t.co/E54n9gVLIs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084320660199956500,
+					"id_str": "1084320660199956485",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/DwxH5T3V4AUWBpR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwxH5T3V4AUWBpR.jpg",
+					"url": "https://t.co/E54n9gVLIs",
+					"display_url": "pic.twitter.com/E54n9gVLIs",
+					"expanded_url": "https://twitter.com/JoshuaWBaron/status/1084320674129227776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084320660199956500,
+					"id_str": "1084320660199956485",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/DwxH5T3V4AUWBpR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwxH5T3V4AUWBpR.jpg",
+					"url": "https://t.co/E54n9gVLIs",
+					"display_url": "pic.twitter.com/E54n9gVLIs",
+					"expanded_url": "https://twitter.com/JoshuaWBaron/status/1084320674129227776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084320660032122900,
+					"id_str": "1084320660032122880",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/DwxH5TPU8AAwXcz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwxH5TPU8AAwXcz.jpg",
+					"url": "https://t.co/E54n9gVLIs",
+					"display_url": "pic.twitter.com/E54n9gVLIs",
+					"expanded_url": "https://twitter.com/JoshuaWBaron/status/1084320674129227776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1220,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 405,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 715,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084320660032081900,
+					"id_str": "1084320660032081921",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/DwxH5TPUUAEvpjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwxH5TPUUAEvpjN.jpg",
+					"url": "https://t.co/E54n9gVLIs",
+					"display_url": "pic.twitter.com/E54n9gVLIs",
+					"expanded_url": "https://twitter.com/JoshuaWBaron/status/1084320674129227776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 391,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 690,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 714,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 719907537693327400,
+			"id_str": "719907537693327361",
+			"name": "Josh Baron",
+			"screen_name": "JoshuaWBaron",
+			"location": "RTs ≠ endorsements",
+			"description": "Program manager @DARPA. Interested in cryptography (MPC), privacy, anonymity, cyber security, and cyberspace operations. All opinions are mine alone.",
+			"url": "https://t.co/6azLdPgJis",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6azLdPgJis",
+							"expanded_url": "https://www.darpa.mil/staff/dr-joshua-baron",
+							"display_url": "darpa.mil/staff/dr-joshu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 886,
+			"friends_count": 316,
+			"listed_count": 47,
+			"created_at": "Tue Apr 12 15:18:27 +0000 2016",
+			"favourites_count": 586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1116,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/901823937662898178/3rL3aXlO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/901823937662898178/3rL3aXlO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/719907537693327361/1503847152",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At a movie theater that tells us if we download this really cool app, Noovie Arcade, we can play an augmented reality games. What a wonderful free service 🙄 https://t.co/E54n9gVLIs"
+	},
+	{
 		"created_at": "Sat Jan 12 23:11:17 +0000 2019",
 		"id": 1084226336862933000,
 		"id_str": "1084226336862932993",
