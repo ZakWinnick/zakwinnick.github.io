@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 19:26:14 +0000 2019",
+		"id": 1084894477943226400,
+		"id_str": "1084894477943226370",
+		"full_text": "One of my all-time favorite pitchers talking about one of the best pitchers/pitching coaches of all time. https://t.co/J0LzZV0UrM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J0LzZV0UrM",
+					"expanded_url": "https://twitter.com/dcone36/status/1084893207165579265",
+					"display_url": "twitter.com/dcone36/status…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Amateur Social Media Professional",
+			"url": "https://t.co/JSX6Ve09xP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JSX6Ve09xP",
+							"expanded_url": "https://zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 186,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9117,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079453544812560385/2jaIhKmC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079453544812560385/2jaIhKmC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1543805819",
+			"profile_link_color": "3F5B83",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084893207165579300,
+		"quoted_status_id_str": "1084893207165579265",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J0LzZV0UrM",
+			"expanded": "https://twitter.com/dcone36/status/1084893207165579265",
+			"display": "twitter.com/dcone36/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 14 19:21:11 +0000 2019",
+			"id": 1084893207165579300,
+			"id_str": "1084893207165579265",
+			"full_text": "He was more than a great pitcher and fantastic pitching coach. He was a father figure and touched so many in a positive way. We lost a great man. RIP Mel Stottlemyre",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 874481815,
+				"id_str": "874481815",
+				"name": "David Cone",
+				"screen_name": "dcone36",
+				"location": "P.G. 7-18-99",
+				"description": "Official twitter account of 5-time World Champion and YES Network announcer, David Cone.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86799,
+				"friends_count": 2483,
+				"listed_count": 857,
+				"created_at": "Thu Oct 11 22:59:47 +0000 2012",
+				"favourites_count": 3386,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2212,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2777553768/1ef00772f38f29737812935d245e0e28_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2777553768/1ef00772f38f29737812935d245e0e28_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/874481815/1351270598",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 228,
+			"favorite_count": 1385,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of my all-time favorite pitchers talking about one of the best pitchers/pitching coaches of all time. https://t.co/J0LzZV0UrM"
+	},
+	{
 		"created_at": "Mon Jan 14 14:54:46 +0000 2019",
 		"id": 1084826160566095900,
 		"id_str": "1084826160566095874",
