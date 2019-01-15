@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 13:11:45 +0000 2019",
+		"id": 1085162624361340900,
+		"id_str": "1085162624361340929",
+		"full_text": "I was there. This was a great moment. I never thought I’d ever see Danny or Emmylou live in any capacity, but here you go… https://t.co/8QYQgFDBD6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8QYQgFDBD6",
+					"expanded_url": "https://twitter.com/Copperpot5/status/1085002742555267074",
+					"display_url": "twitter.com/Copperpot5/sta…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Amateur Social Media Professional",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 187,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9118,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084959962411999233/2Doif5lb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084959962411999233/2Doif5lb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1547509624",
+			"profile_link_color": "3F5B83",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085002742555267100,
+		"quoted_status_id_str": "1085002742555267074",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8QYQgFDBD6",
+			"expanded": "https://twitter.com/Copperpot5/status/1085002742555267074",
+			"display": "twitter.com/Copperpot5/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 15 02:36:26 +0000 2019",
+			"id": 1085002742555267100,
+			"id_str": "1085002742555267074",
+			"full_text": "January 15, 2004: Daniel Lanois joins \"Dave Matthews &amp; Friends\" @ Staples Center to perform a cover of his song \"The Maker\". Emmylou Harris also guests. Clip: @Treyanastasio &amp; @daniellanois trade licks during the outro\n\nFull song on YT: https://t.co/XsKZ2RS810 https://t.co/gsYLmbHBl3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "treyanastasio",
+						"name": "Trey Anastasio",
+						"id": 107190473,
+						"id_str": "107190473",
+						"indices": [
+							163,
+							177
+						]
+					},
+					{
+						"screen_name": "daniellanois",
+						"name": "Daniel Lanois",
+						"id": 81788597,
+						"id_str": "81788597",
+						"indices": [
+							184,
+							197
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XsKZ2RS810",
+						"expanded_url": "https://www.youtube.com/watch?v=wWh1ohCa0DY",
+						"display_url": "youtube.com/watch?v=wWh1oh…",
+						"indices": [
+							245,
+							268
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 953085016170311700,
+						"id_str": "953085016170311680",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/DToLpR-VoAAl5cl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DToLpR-VoAAl5cl.jpg",
+						"url": "https://t.co/gsYLmbHBl3",
+						"display_url": "pic.twitter.com/gsYLmbHBl3",
+						"expanded_url": "https://twitter.com/Copperpot5/status/1085002742555267074/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 953085016170311700,
+						"id_str": "953085016170311680",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/DToLpR-VoAAl5cl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DToLpR-VoAAl5cl.jpg",
+						"url": "https://t.co/gsYLmbHBl3",
+						"display_url": "pic.twitter.com/gsYLmbHBl3",
+						"expanded_url": "https://twitter.com/Copperpot5/status/1085002742555267074/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/953085016170311680/pu/vid/640x360/vD9RsH4A6D-7KcZU.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/953085016170311680/pu/pl/BVRu7Xuae3RUuCo3.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/953085016170311680/pu/vid/1280x720/egKZc6RMpODJLIO6.mp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/953085016170311680/pu/vid/320x180/dQdf5OuIb3Nb4-vy.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158838945,
+				"id_str": "158838945",
+				"name": "Chester Copperpot5",
+				"screen_name": "Copperpot5",
+				"location": "California, USA",
+				"description": "Homegrown fan multicam concert videos - '90s/'00s Tape Trader. My Tweets here are mostly my renders sourced from DMB fan media.",
+				"url": "https://t.co/vC5W8SQbdJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vC5W8SQbdJ",
+								"expanded_url": "https://www.youtube.com/user/ChesterCopperPot5/videos",
+								"display_url": "youtube.com/user/ChesterCo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14846,
+				"friends_count": 93,
+				"listed_count": 193,
+				"created_at": "Wed Jun 23 20:00:12 +0000 2010",
+				"favourites_count": 15089,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29609,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796344263797653505/bmhy2Ir0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796344263797653505/bmhy2Ir0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158838945/1480490533",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was there. This was a great moment. I never thought I’d ever see Danny or Emmylou live in any capacity, but here you go… https://t.co/8QYQgFDBD6"
+	},
+	{
 		"created_at": "Mon Jan 14 19:26:14 +0000 2019",
 		"id": 1084894477943226400,
 		"id_str": "1084894477943226370",
