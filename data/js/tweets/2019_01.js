@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 16:11:29 +0000 2019",
+		"id": 1085207855655989200,
+		"id_str": "1085207855655989250",
+		"full_text": "Prove it. https://t.co/6a3IuSEa1L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6a3IuSEa1L",
+					"expanded_url": "https://twitter.com/UPSAirlines/status/1085171024788901888",
+					"display_url": "twitter.com/UPSAirlines/st…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Amateur Social Media Professional",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 187,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9119,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084959962411999233/2Doif5lb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084959962411999233/2Doif5lb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1547509624",
+			"profile_link_color": "3F5B83",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085171024788901900,
+		"quoted_status_id_str": "1085171024788901888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6a3IuSEa1L",
+			"expanded": "https://twitter.com/UPSAirlines/status/1085171024788901888",
+			"display": "twitter.com/UPSAirlines/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 15 13:45:08 +0000 2019",
+			"id": 1085171024788901900,
+			"id_str": "1085171024788901888",
+			"full_text": "#DYK our @BoeingAirplanes #UPS7478F can hold approximately 19 million ping-pong balls? #avgeeks https://t.co/xD1DCl5VPr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DYK",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"text": "UPS7478F",
+						"indices": [
+							26,
+							35
+						]
+					},
+					{
+						"text": "avgeeks",
+						"indices": [
+							87,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BoeingAirplanes",
+						"name": "Boeing Airplanes",
+						"id": 22090282,
+						"id_str": "22090282",
+						"indices": [
+							9,
+							25
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1085171023086059500,
+						"id_str": "1085171023086059521",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/Dw9NS8eXgAET0fj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dw9NS8eXgAET0fj.jpg",
+						"url": "https://t.co/xD1DCl5VPr",
+						"display_url": "pic.twitter.com/xD1DCl5VPr",
+						"expanded_url": "https://twitter.com/UPSAirlines/status/1085171024788901888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1085171023086059500,
+						"id_str": "1085171023086059521",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/Dw9NS8eXgAET0fj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dw9NS8eXgAET0fj.jpg",
+						"url": "https://t.co/xD1DCl5VPr",
+						"display_url": "pic.twitter.com/xD1DCl5VPr",
+						"expanded_url": "https://twitter.com/UPSAirlines/status/1085171024788901888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1465738201,
+				"id_str": "1465738201",
+				"name": "UPS Airlines",
+				"screen_name": "UPSAirlines",
+				"location": "Louisville, KY",
+				"description": "Providing the latest news and info on UPS Airlines, Worldport, and UPS’s global air network. Questions about a package? Just ask @UPSHelp.",
+				"url": "https://t.co/8lsIoUbPRv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8lsIoUbPRv",
+								"expanded_url": "http://bit.ly/1N0lEvR",
+								"display_url": "bit.ly/1N0lEvR",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14305,
+				"friends_count": 220,
+				"listed_count": 129,
+				"created_at": "Tue May 28 21:23:32 +0000 2013",
+				"favourites_count": 4371,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3828,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00ADEE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/927628296598175745/xvsfCuZ0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/927628296598175745/xvsfCuZ0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465738201/1509996010",
+				"profile_link_color": "4A1D00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Prove it. https://t.co/6a3IuSEa1L"
+	},
+	{
 		"created_at": "Tue Jan 15 13:11:45 +0000 2019",
 		"id": 1085162624361340900,
 		"id_str": "1085162624361340929",
