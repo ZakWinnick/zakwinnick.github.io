@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 23:46:59 +0000 2019",
+		"id": 1085322486215045100,
+		"id_str": "1085322486215045120",
+		"full_text": "🙏🏻🙏🏻🙏🏻 https://t.co/mR10Q3YSl0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mR10Q3YSl0",
+					"expanded_url": "https://twitter.com/ismh/status/1085285595088343042",
+					"display_url": "twitter.com/ismh/status/10…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Amateur Social Media Professional",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 190,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084959962411999233/2Doif5lb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084959962411999233/2Doif5lb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1547509624",
+			"profile_link_color": "3F5B83",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085285595088343000,
+		"quoted_status_id_str": "1085285595088343042",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mR10Q3YSl0",
+			"expanded": "https://twitter.com/ismh/status/1085285595088343042",
+			"display": "twitter.com/ismh/status/10…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 15 21:20:24 +0000 2019",
+			"id": 1085285595088343000,
+			"id_str": "1085285595088343042",
+			"full_text": "The iPhone battery case is back, and the iPad mini and iPod touch are in the rumor cycle. Maybe the Xserve is next!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1566661,
+				"id_str": "1566661",
+				"name": "Stephen Hackett",
+				"screen_name": "ismh",
+				"location": "Memphis, Tennessee",
+				"description": "Co-founder of the @_relayfm podcast network and the host of a few nerdy shows. Blogger at @512px. St. Jude dad.",
+				"url": "https://t.co/5wojIrVF91",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5wojIrVF91",
+								"expanded_url": "http://relay.fm",
+								"display_url": "relay.fm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19730,
+				"friends_count": 467,
+				"listed_count": 1050,
+				"created_at": "Tue Mar 20 00:37:22 +0000 2007",
+				"favourites_count": 20856,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1102,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079389931066146816/F_7e2GYW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079389931066146816/F_7e2GYW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1566661/1528205739",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🙏🏻🙏🏻🙏🏻 https://t.co/mR10Q3YSl0"
+	},
+	{
 		"created_at": "Tue Jan 15 20:14:38 +0000 2019",
 		"id": 1085269047305035800,
 		"id_str": "1085269047305035776",
