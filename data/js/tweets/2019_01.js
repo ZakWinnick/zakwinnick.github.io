@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 02:02:31 +0000 2019",
+		"id": 1085718980680208400,
+		"id_str": "1085718980680208384",
+		"full_text": "I mean…he’s not wrong. https://t.co/RRKR3eMjIh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RRKR3eMjIh",
+					"expanded_url": "https://twitter.com/noonanjo/status/1085716864016285697",
+					"display_url": "twitter.com/noonanjo/statu…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Amateur Social Media Professional",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 190,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084959962411999233/2Doif5lb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084959962411999233/2Doif5lb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1547509624",
+			"profile_link_color": "3F5B83",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085716864016285700,
+		"quoted_status_id_str": "1085716864016285697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RRKR3eMjIh",
+			"expanded": "https://twitter.com/noonanjo/status/1085716864016285697",
+			"display": "twitter.com/noonanjo/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 17 01:54:06 +0000 2019",
+			"id": 1085716864016285700,
+			"id_str": "1085716864016285697",
+			"full_text": "Imagine if an F-22 pilot went AWOL with his jet to the Brazilian rainforest for the sole purpose of studying neo-paganism from a weird old anchorite. \n\nThat is the plot to the Empire Strikes Back.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61122731,
+				"id_str": "61122731",
+				"name": "John Noonan",
+				"screen_name": "noonanjo",
+				"location": "Washington, DC",
+				"description": "No reason this national security stuff can't be fun. @SenTomCotton. Alumnus @JebBush @MittRomney. Ex-USAF nuke guy. @harvardiop",
+				"url": "https://t.co/anZ55X06YG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/anZ55X06YG",
+								"expanded_url": "http://m.redskins.com/",
+								"display_url": "m.redskins.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30027,
+				"friends_count": 958,
+				"listed_count": 861,
+				"created_at": "Wed Jul 29 05:28:40 +0000 2009",
+				"favourites_count": 5093,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 57144,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794242178243391488/FmbbAh58_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794242178243391488/FmbbAh58_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61122731/1485634141",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCD",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mean…he’s not wrong. https://t.co/RRKR3eMjIh"
+	},
+	{
 		"created_at": "Wed Jan 16 22:37:22 +0000 2019",
 		"id": 1085667353222881300,
 		"id_str": "1085667353222881281",
@@ -16,7 +223,7 @@ Grailbird.data.tweets_2019_01 =
 			"user_mentions": [
 				{
 					"screen_name": "davecobb",
-					"name": "Dave Cobb 🏳️‍🌈",
+					"name": "Dave Cobb 🏳️🌈",
 					"id": 7253402,
 					"id_str": "7253402",
 					"indices": [
