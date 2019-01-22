@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 21:47:01 +0000 2019",
+		"id": 1087829011407999000,
+		"id_str": "1087851801200807938",
+		"full_text": "Today in 1966, @BrianWilsonLive had a scheduled session at Gold Star. After 21 takes, the instrumental track for Wouldn't It Be Nice was ready. \n\nWhat did you acomplish today? https://t.co/EhCpvU1XTA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrianWilsonLive",
+					"name": "Brian Wilson",
+					"id": 64814367,
+					"id_str": "64814367",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087828993900974100,
+					"id_str": "1087828993900974080",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dxi-tNXWkAAUYz_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dxi-tNXWkAAUYz_.jpg",
+					"url": "https://t.co/EhCpvU1XTA",
+					"display_url": "pic.twitter.com/EhCpvU1XTA",
+					"expanded_url": "https://twitter.com/beachboyslegacy/status/1087829011407998976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 428,
+							"h": 322,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 428,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087828993900974100,
+					"id_str": "1087828993900974080",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dxi-tNXWkAAUYz_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dxi-tNXWkAAUYz_.jpg",
+					"url": "https://t.co/EhCpvU1XTA",
+					"display_url": "pic.twitter.com/EhCpvU1XTA",
+					"expanded_url": "https://twitter.com/beachboyslegacy/status/1087829011407998976/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 428,
+							"h": 322,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 428,
+							"h": 322,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							214,
+							161
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dxi-tNXWkAAUYz_.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3970325098,
+			"id_str": "3970325098",
+			"name": "Beach Boys Legacy",
+			"screen_name": "beachboyslegacy",
+			"location": "Hawthorne, CA",
+			"description": "The ultimate source for Beach Boys news and facts. Keepin' the summer alive for the new generations. Explore The Beach Boys discography on https://t.co/LTrKmtG2o8",
+			"url": "https://t.co/LTrKmtG2o8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LTrKmtG2o8",
+							"expanded_url": "http://beachboyslegacy.com",
+							"display_url": "beachboyslegacy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LTrKmtG2o8",
+							"expanded_url": "http://beachboyslegacy.com",
+							"display_url": "beachboyslegacy.com",
+							"indices": [
+								139,
+								162
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6509,
+			"friends_count": 1301,
+			"listed_count": 53,
+			"created_at": "Fri Oct 16 06:57:23 +0000 2015",
+			"favourites_count": 16441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8069,
+			"lang": "es",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/694236131332902913/ZrxZUnbH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/694236131332902913/ZrxZUnbH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3970325098/1468880062",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today in 1966, @BrianWilsonLive had a scheduled session at Gold Star. After 21 takes, the instrumental track for Wouldn't It Be Nice was ready. \n\nWhat did you acomplish today? https://t.co/EhCpvU1XTA"
+	},
+	{
 		"created_at": "Fri Jan 18 19:22:53 +0000 2019",
 		"id": 1086343184471507000,
 		"id_str": "1086343184471506944",
