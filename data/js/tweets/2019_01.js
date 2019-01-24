@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 14:30:20 +0000 2019",
+		"id": 1088443888627531800,
+		"id_str": "1088443888627531776",
+		"full_text": "This is pretty brilliant investigating/reporting. https://t.co/GxCuRsUAHi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GxCuRsUAHi",
+					"expanded_url": "https://twitter.com/farhip/status/1088437577110163456",
+					"display_url": "twitter.com/farhip/status/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 193,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9117,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086777388044902405/2s79_7d-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086777388044902405/2s79_7d-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1547942945",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088437577110163500,
+		"quoted_status_id_str": "1088437577110163456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GxCuRsUAHi",
+			"expanded": "https://twitter.com/farhip/status/1088437577110163456",
+			"display": "twitter.com/farhip/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 24 14:05:15 +0000 2019",
+			"id": 1088437577110163500,
+			"id_str": "1088437577110163456",
+			"full_text": "I’ve been hearing about this for the past week or so, so I looked into it. Herewith, the “mystery” of “Where in the World is Morning Joe?” solved. Thread: https://t.co/R2wLXMAEXi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R2wLXMAEXi",
+						"expanded_url": "https://twitter.com/willsmith1066/status/1088047905888526338",
+						"display_url": "twitter.com/willsmith1066/…",
+						"indices": [
+							155,
+							178
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18175442,
+				"id_str": "18175442",
+				"name": "Paul Farhi",
+				"screen_name": "farhip",
+				"location": "Washington, DC",
+				"description": "I write about the news media for the Washington Post. Random, inexplicable tweets about other stuff, too. All views someone else's. farhip@washpost.com.",
+				"url": "https://t.co/Hq7hTYkOPg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Hq7hTYkOPg",
+								"expanded_url": "http://washingtonpost.com",
+								"display_url": "washingtonpost.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18729,
+				"friends_count": 610,
+				"listed_count": 705,
+				"created_at": "Tue Dec 16 22:55:03 +0000 2008",
+				"favourites_count": 1318,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16537,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000408267875/6d035ce55fa16c77947317c073486f1c_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000408267875/6d035ce55fa16c77947317c073486f1c_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18175442/1378271293",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1088047905888526300,
+			"quoted_status_id_str": "1088047905888526338",
+			"quoted_status_permalink": {
+				"url": "https://t.co/R2wLXMAEXi",
+				"expanded": "https://twitter.com/willsmith1066/status/1088047905888526338",
+				"display": "twitter.com/willsmith1066/…"
+			},
+			"retweet_count": 18,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is pretty brilliant investigating/reporting. https://t.co/GxCuRsUAHi"
+	},
+	{
 		"created_at": "Thu Jan 24 11:09:04 +0000 2019",
 		"id": 1088393240569671700,
 		"id_str": "1088434762832855040",
