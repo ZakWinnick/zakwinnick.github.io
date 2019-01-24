@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 11:09:04 +0000 2019",
+		"id": 1088393240569671700,
+		"id_str": "1088434762832855040",
+		"full_text": "35 years ago, Macintosh said hello. It changed the way we think about computers and went on to change the world. We love the Mac, and today we’re proud that more people than ever are using it to follow their passions and create the future. https://t.co/oUQDJN3jRU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088393229836312600,
+					"id_str": "1088393229836312576",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxq_4EBVYAAY83B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxq_4EBVYAAY83B.jpg",
+					"url": "https://t.co/oUQDJN3jRU",
+					"display_url": "pic.twitter.com/oUQDJN3jRU",
+					"expanded_url": "https://twitter.com/tim_cook/status/1088393240569671681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1294,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088393229836312600,
+					"id_str": "1088393229836312576",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxq_4EBVYAAY83B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxq_4EBVYAAY83B.jpg",
+					"url": "https://t.co/oUQDJN3jRU",
+					"display_url": "pic.twitter.com/oUQDJN3jRU",
+					"expanded_url": "https://twitter.com/tim_cook/status/1088393240569671681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1294,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1636590253,
+			"id_str": "1636590253",
+			"name": "Tim Cook",
+			"screen_name": "tim_cook",
+			"location": "Cupertino",
+			"description": "Apple CEO  Auburn 🏈 Duke 🏀 National Parks 🏞️ “Life's most persistent and urgent question is, 'What are you doing for others?'” - MLK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11014491,
+			"friends_count": 60,
+			"listed_count": 20195,
+			"created_at": "Wed Jul 31 22:41:25 +0000 2013",
+			"favourites_count": 1418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 690,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035649273721847809/B0f8n_oe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035649273721847809/B0f8n_oe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1636590253/1535753003",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3299,
+		"favorite_count": 11111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "35 years ago, Macintosh said hello. It changed the way we think about computers and went on to change the world. We love the Mac, and today we’re proud that more people than ever are using it to follow their passions and create the future. https://t.co/oUQDJN3jRU"
+	},
+	{
 		"created_at": "Tue Jan 22 21:47:01 +0000 2019",
 		"id": 1087829011407999000,
 		"id_str": "1087851801200807938",
