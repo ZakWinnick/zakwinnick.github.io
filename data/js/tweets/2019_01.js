@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 14:26:00 +0000 2019",
+		"id": 1088805188046110700,
+		"id_str": "1088805188046110720",
+		"full_text": "Literally works for a government that has TWO aircraft that are literally flying (singular) wings (B-2 and F-117). \n\nThat’s ok. There’s no room for her on them anyway… https://t.co/V4mzmACnpy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V4mzmACnpy",
+					"expanded_url": "https://twitter.com/W7VOA/status/1088799813360066560",
+					"display_url": "twitter.com/W7VOA/status/1…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 194,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9118,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086777388044902405/2s79_7d-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086777388044902405/2s79_7d-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1547942945",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088799813360066600,
+		"quoted_status_id_str": "1088799813360066560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V4mzmACnpy",
+			"expanded": "https://twitter.com/W7VOA/status/1088799813360066560",
+			"display": "twitter.com/W7VOA/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 25 14:04:39 +0000 2019",
+			"id": 1088799813360066600,
+			"id_str": "1088799813360066560",
+			"full_text": "On why @WhiteHouse won’t accept deal with $5 billion for border security without money for a wall, @PressSec replies: \"Let me say it to you like this. I never want to get on an airplane with only one wing.”\n#GovernmentShutdown #FurloughFriday",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GovernmentShutdown",
+						"indices": [
+							207,
+							226
+						]
+					},
+					{
+						"text": "FurloughFriday",
+						"indices": [
+							227,
+							242
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WhiteHouse",
+						"name": "The White House",
+						"id": 822215673812119600,
+						"id_str": "822215673812119553",
+						"indices": [
+							7,
+							18
+						]
+					},
+					{
+						"screen_name": "PressSec",
+						"name": "Sarah Sanders",
+						"id": 818927131883356200,
+						"id_str": "818927131883356161",
+						"indices": [
+							99,
+							108
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17919393,
+				"id_str": "17919393",
+				"name": "Steve Herman",
+				"screen_name": "W7VOA",
+				"location": "Washington, DC",
+				"description": "@WhiteHouse bureau chief @VOANews. Ex president @fccjapan, @SeoulFCC; Ex @AP newsman and @Discovery Asia exec. Member: @aaja, @opcofamerica, @pressclubdc, @whca",
+				"url": "https://t.co/oIn7z41ljp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oIn7z41ljp",
+								"expanded_url": "http://www.insidevoa.com/a/178822.html",
+								"display_url": "insidevoa.com/a/178822.html",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 79037,
+				"friends_count": 1987,
+				"listed_count": 4007,
+				"created_at": "Sat Dec 06 08:56:45 +0000 2008",
+				"favourites_count": 5994,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 96994,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1087431039818043393/6rtteFA2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087431039818043393/6rtteFA2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17919393/1540929053",
+				"profile_link_color": "002868",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "191622",
+				"profile_text_color": "993B00",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01fbe706f872cb32",
+				"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+				"place_type": "city",
+				"name": "Washington",
+				"full_name": "Washington, DC",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-77.119401,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.9953797
+							],
+							[
+								-77.119401,
+								38.9953797
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Literally works for a government that has TWO aircraft that are literally flying (singular) wings (B-2 and F-117). \n\nThat’s ok. There’s no room for her on them anyway… https://t.co/V4mzmACnpy"
+	},
+	{
 		"created_at": "Thu Jan 24 14:30:20 +0000 2019",
 		"id": 1088443888627531800,
 		"id_str": "1088443888627531776",
