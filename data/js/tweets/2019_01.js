@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 30 19:15:18 +0000 2019",
+		"id": 1090689933105279000,
+		"id_str": "1090758952923607040",
+		"full_text": "The year is 2019 and the only power that effectively regulates Facebook is Apple. #cyberpunkdystopia https://t.co/NA6AGGp3QR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cyberpunkdystopia",
+					"indices": [
+						82,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NA6AGGp3QR",
+					"expanded_url": "https://twitter.com/zackwhittaker/status/1090686500331814914",
+					"display_url": "twitter.com/zackwhittaker/…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14707266,
+			"id_str": "14707266",
+			"name": "Eva",
+			"screen_name": "evacide",
+			"location": "",
+			"description": "Director of Cybersecurity @EFF/ Tech advisor at @freedomofpress/ My tweets are my own /PGP key: https://t.co/vmHReIq794",
+			"url": "https://t.co/1gDghboN0q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gDghboN0q",
+							"expanded_url": "https://www.eff.org",
+							"display_url": "eff.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vmHReIq794",
+							"expanded_url": "https://www.eff.org/files/2014/05/02/evagalperin.txt",
+							"display_url": "eff.org/files/2014/05/…",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 86294,
+			"friends_count": 1296,
+			"listed_count": 2357,
+			"created_at": "Thu May 08 23:34:06 +0000 2008",
+			"favourites_count": 10365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18020,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947281337915809793/TnGLqef0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947281337915809793/TnGLqef0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14707266/1403848153",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1090686500331814900,
+		"quoted_status_id_str": "1090686500331814914",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NA6AGGp3QR",
+			"expanded": "https://twitter.com/zackwhittaker/status/1090686500331814914",
+			"display": "twitter.com/zackwhittaker/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 30 19:01:40 +0000 2019",
+			"id": 1090686500331814900,
+			"id_str": "1090686500331814914",
+			"full_text": "Breaking: Google has also been found using a shady research app to monitor and analyze user traffic and data, a day after Facebook's app was uncovered to violate Apple's rules. https://t.co/UY0SKRjwrl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UY0SKRjwrl",
+						"expanded_url": "https://techcrunch.com/2019/01/30/googles-also-peddling-a-data-collector-through-apples-back-door/",
+						"display_url": "techcrunch.com/2019/01/30/goo…",
+						"indices": [
+							177,
+							200
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15752235,
+				"id_str": "15752235",
+				"name": "Zack Whittaker",
+				"screen_name": "zackwhittaker",
+				"location": "New York, NY",
+				"description": "Security editor, @TechCrunch. CBS alum. Email: zack.whittaker@gmail.com. WhatsApp, Signal: +1.646.755.8849. Newsletter: https://t.co/0aSHFyliQz",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0aSHFyliQz",
+								"expanded_url": "http://eepurl.com/dBQdJ5",
+								"display_url": "eepurl.com/dBQdJ5",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 37261,
+				"friends_count": 998,
+				"listed_count": 1407,
+				"created_at": "Wed Aug 06 17:00:05 +0000 2008",
+				"favourites_count": 47709,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3082,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011798454866235392/-WKpbT-d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011798454866235392/-WKpbT-d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15752235/1453743768",
+				"profile_link_color": "36345C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 911,
+			"favorite_count": 870,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 201,
+		"favorite_count": 563,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The year is 2019 and the only power that effectively regulates Facebook is Apple. #cyberpunkdystopia https://t.co/NA6AGGp3QR"
+	},
+	{
 		"created_at": "Mon Jan 28 00:40:46 +0000 2019",
 		"id": 1089684675046580200,
 		"id_str": "1089684675046580231",
