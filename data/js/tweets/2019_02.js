@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 01:06:29 +0000 2019",
+		"id": 1092590247714717700,
+		"id_str": "1092590247714717697",
+		"full_text": "The death of LA Radio, IMO. https://t.co/4cf3XE9wmj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4cf3XE9wmj",
+					"expanded_url": "https://twitter.com/nicolesandler/status/1092501548423356416",
+					"display_url": "twitter.com/nicolesandler/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 194,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9109,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091153949976084480/5dMFj49f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091153949976084480/5dMFj49f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1548453841",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092501548423356400,
+		"quoted_status_id_str": "1092501548423356416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4cf3XE9wmj",
+			"expanded": "https://twitter.com/nicolesandler/status/1092501548423356416",
+			"display": "twitter.com/nicolesandler/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 04 19:14:01 +0000 2019",
+			"id": 1092501548423356400,
+			"id_str": "1092501548423356416",
+			"full_text": "22 years ago today! KSCA 101.9 Final Day on Ch 5 https://t.co/0BmXnaWukh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0BmXnaWukh",
+						"expanded_url": "https://youtu.be/xNnnKQXQcGQ",
+						"display_url": "youtu.be/xNnnKQXQcGQ",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18344104,
+				"id_str": "18344104",
+				"name": "Nicole Sandler",
+				"screen_name": "nicolesandler",
+				"location": "Coral Springs, FL",
+				"description": "Host of The Nicole Sandler Show at https://t.co/SXc2fnlHYL  Tue-Fri 3-4pm ET & on the Progressive Voices Network 6pm ET",
+				"url": "https://t.co/fliigMcEQY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fliigMcEQY",
+								"expanded_url": "http://nicolesandler.com",
+								"display_url": "nicolesandler.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SXc2fnlHYL",
+								"expanded_url": "http://nicolesandler.com/listen-live",
+								"display_url": "nicolesandler.com/listen-live",
+								"indices": [
+									35,
+									58
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18018,
+				"friends_count": 6425,
+				"listed_count": 684,
+				"created_at": "Tue Dec 23 22:29:48 +0000 2008",
+				"favourites_count": 5589,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 59782,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789145523336781824/erhmkGsS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789145523336781824/erhmkGsS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18344104/1506798556",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The death of LA Radio, IMO. https://t.co/4cf3XE9wmj"
+	},
+	{
 		"created_at": "Sat Feb 02 19:00:56 +0000 2019",
 		"id": 1091773481677672400,
 		"id_str": "1091773481677672448",
