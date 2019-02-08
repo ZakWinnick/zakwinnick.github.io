@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 23:30:32 +0000 2019",
+		"id": 1093653265693265900,
+		"id_str": "1093653265693265920",
+		"full_text": "Amazing… https://t.co/Sie34HOrNU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sie34HOrNU",
+					"expanded_url": "https://twitter.com/PhilipBloom/status/1093646592488472576",
+					"display_url": "twitter.com/PhilipBloom/st…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 194,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9110,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091153949976084480/5dMFj49f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091153949976084480/5dMFj49f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1548453841",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093646592488472600,
+		"quoted_status_id_str": "1093646592488472576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Sie34HOrNU",
+			"expanded": "https://twitter.com/PhilipBloom/status/1093646592488472576",
+			"display": "twitter.com/PhilipBloom/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 07 23:04:01 +0000 2019",
+			"id": 1093646592488472600,
+			"id_str": "1093646592488472576",
+			"full_text": "I just uploaded “The Castle &amp; The Snow: DJI Mavic 2 Pro / Osmo Pocket” to #Vimeo: https://t.co/9eQFhta9Cw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Vimeo",
+						"indices": [
+							78,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9eQFhta9Cw",
+						"expanded_url": "https://vimeo.com/315961002",
+						"display_url": "vimeo.com/315961002",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://vimeo.com\" rel=\"nofollow\">Vimeo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18614747,
+				"id_str": "18614747",
+				"name": "Philip Bloom",
+				"screen_name": "PhilipBloom",
+				"location": "London ",
+				"description": "Filmmaker/ camera hoarder/ cat lover. Trying to shoot, share & help people as much as I can whilst trying to find my place in the world. Often silly/ grumpy!",
+				"url": "https://t.co/FY0qDwV7bk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FY0qDwV7bk",
+								"expanded_url": "http://www.philipbloom.net",
+								"display_url": "philipbloom.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 142015,
+				"friends_count": 2326,
+				"listed_count": 3825,
+				"created_at": "Sun Jan 04 22:38:56 +0000 2009",
+				"favourites_count": 811,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 78813,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/946745498874138624/ceOy2roF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946745498874138624/ceOy2roF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18614747/1513899921",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazing… https://t.co/Sie34HOrNU"
+	},
+	{
 		"created_at": "Tue Feb 05 01:06:29 +0000 2019",
 		"id": 1092590247714717700,
 		"id_str": "1092590247714717697",
