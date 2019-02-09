@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 09 14:27:58 +0000 2019",
+		"id": 1094241501129990100,
+		"id_str": "1094241501129990144",
+		"full_text": "If I wasn’t already a Patron, I’d sign up just because of this… https://t.co/MXOn9iUVc8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MXOn9iUVc8",
+					"expanded_url": "https://twitter.com/jimseven/status/1094218993504866309",
+					"display_url": "twitter.com/jimseven/statu…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 195,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9111,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091153949976084480/5dMFj49f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091153949976084480/5dMFj49f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1548453841",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1094218993504866300,
+		"quoted_status_id_str": "1094218993504866309",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MXOn9iUVc8",
+			"expanded": "https://twitter.com/jimseven/status/1094218993504866309",
+			"display": "twitter.com/jimseven/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 09 12:58:32 +0000 2019",
+			"id": 1094218993504866300,
+			"id_str": "1094218993504866309",
+			"full_text": "The temptation to do a series for Youtube on terrible coffee kickstarters is getting tough to resist…",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19153549,
+				"id_str": "19153549",
+				"name": "James Hoffmann",
+				"screen_name": "jimseven",
+				"location": "London",
+				"description": "Square Mile Coffee Roasters /  World Barista Champion /  Author / Other things\n2nd edition of the World Atlas of Coffee out now: https://t.co/r67KdKuTo0",
+				"url": "https://t.co/vWT5I0RhN9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vWT5I0RhN9",
+								"expanded_url": "http://www.jimseven.com",
+								"display_url": "jimseven.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/r67KdKuTo0",
+								"expanded_url": "http://geni.us/atlasofcoffee",
+								"display_url": "geni.us/atlasofcoffee",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 29779,
+				"friends_count": 466,
+				"listed_count": 864,
+				"created_at": "Sun Jan 18 18:53:21 +0000 2009",
+				"favourites_count": 759,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14881,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/700712021440901121/rD_azDbr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/700712021440901121/rD_azDbr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19153549/1541350762",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 78,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If I wasn’t already a Patron, I’d sign up just because of this… https://t.co/MXOn9iUVc8"
+	},
+	{
 		"created_at": "Thu Feb 07 23:30:32 +0000 2019",
 		"id": 1093653265693265900,
 		"id_str": "1093653265693265920",
