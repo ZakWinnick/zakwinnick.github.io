@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 11:32:37 +0000 2019",
+		"id": 1095646926199029800,
+		"id_str": "1095646926199029762",
+		"full_text": "What a great idea. Add this to my list of need to see movies… https://t.co/J4vADbnOzD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J4vADbnOzD",
+					"expanded_url": "https://twitter.com/augieray/status/1095514337995837441",
+					"display_url": "twitter.com/augieray/statu…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 198,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9112,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094796746125914113/MWzV1ufu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094796746125914113/MWzV1ufu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1548453841",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095514337995837400,
+		"quoted_status_id_str": "1095514337995837441",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J4vADbnOzD",
+			"expanded": "https://twitter.com/augieray/status/1095514337995837441",
+			"display": "twitter.com/augieray/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 13 02:45:46 +0000 2019",
+			"id": 1095514337995837400,
+			"id_str": "1095514337995837441",
+			"full_text": "I found this movie trailer genuinely interesting. A struggling singer-songwriter suffers an accident and wakes up in a world where The Beatles never existed--so he starts \"writing\" their tunes to great acclaim.\nYESTERDAY, Danny Boyle Movie HD https://t.co/3m4k9cokIU via @YouTube",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							271,
+							279
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3m4k9cokIU",
+						"expanded_url": "https://youtu.be/g0irKUtaCaU",
+						"display_url": "youtu.be/g0irKUtaCaU",
+						"indices": [
+							243,
+							266
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11991832,
+				"id_str": "11991832",
+				"name": "Augie Ray",
+				"screen_name": "augieray",
+				"location": "Chicago, IL",
+				"description": "#CustomerExperience advisor for F500 businesses at @GartnerDigital. Jazz Lover. Friend of animals. Striving for a kinder, fairer world. #CX #Advocacy #WOM #VoC",
+				"url": "https://t.co/QrbMSeyHwa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QrbMSeyHwa",
+								"expanded_url": "http://experiencetheblog.com",
+								"display_url": "experiencetheblog.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22943,
+				"friends_count": 15480,
+				"listed_count": 2231,
+				"created_at": "Tue Jan 08 17:16:18 +0000 2008",
+				"favourites_count": 7425,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54455,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1025414166004215808/Afvn_Qwg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025414166004215808/Afvn_Qwg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11991832/1392220408",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 664,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a great idea. Add this to my list of need to see movies… https://t.co/J4vADbnOzD"
+	},
+	{
 		"created_at": "Sat Feb 09 14:27:58 +0000 2019",
 		"id": 1094241501129990100,
 		"id_str": "1094241501129990144",
