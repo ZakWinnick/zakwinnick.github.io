@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 23 00:05:43 +0000 2019",
+		"id": 1099097940285636600,
+		"id_str": "1099097940285636610",
+		"full_text": "Tweet of the day... https://t.co/ih2KOfsjgo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ih2KOfsjgo",
+					"expanded_url": "https://twitter.com/docbrownlloyd/status/1099092908991377409",
+					"display_url": "twitter.com/docbrownlloyd/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 205,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9117,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097232449401163777/F4WWfoyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097232449401163777/F4WWfoyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1550435595",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1099092908991377400,
+		"quoted_status_id_str": "1099092908991377409",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ih2KOfsjgo",
+			"expanded": "https://twitter.com/docbrownlloyd/status/1099092908991377409",
+			"display": "twitter.com/docbrownlloyd/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 22 23:45:44 +0000 2019",
+			"id": 1099092908991377400,
+			"id_str": "1099092908991377409",
+			"full_text": "Hey @Nike I’d love to get my hands on some of those self-lacing sneakers! Don’t make me get my time machine...BRB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Nike",
+						"name": "Nike",
+						"id": 415859364,
+						"id_str": "415859364",
+						"indices": [
+							4,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 981392266748219400,
+				"id_str": "981392266748219392",
+				"name": "Christopher Lloyd",
+				"screen_name": "DocBrownLloyd",
+				"location": "",
+				"description": "The official Twitter account for actor Christopher Lloyd.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14213,
+				"friends_count": 23,
+				"listed_count": 35,
+				"created_at": "Wed Apr 04 04:45:24 +0000 2018",
+				"favourites_count": 47,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 49,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981393673081556992/4d7a4pZh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981393673081556992/4d7a4pZh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/981392266748219392/1522817413",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 350,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tweet of the day... https://t.co/ih2KOfsjgo"
+	},
+	{
+		"created_at": "Thu Feb 21 13:19:12 +0000 2019",
+		"id": 1098572849483341800,
+		"id_str": "1099091102114762754",
+		"full_text": "On this day in 1986: The Legend of Zelda released https://t.co/bUFNDuTujL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098572842910781400,
+					"id_str": "1098572842910781440",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dz7qLh2WkAAginD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dz7qLh2WkAAginD.jpg",
+					"url": "https://t.co/bUFNDuTujL",
+					"display_url": "pic.twitter.com/bUFNDuTujL",
+					"expanded_url": "https://twitter.com/JonErlichman/status/1098572849483341824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 520,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 472,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 472,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098572842910781400,
+					"id_str": "1098572842910781440",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dz7qLh2WkAAginD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dz7qLh2WkAAginD.jpg",
+					"url": "https://t.co/bUFNDuTujL",
+					"display_url": "pic.twitter.com/bUFNDuTujL",
+					"expanded_url": "https://twitter.com/JonErlichman/status/1098572849483341824/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 520,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 472,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 472,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							65,
+							59
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dz7qLh2WkAAginD.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164425558,
+			"id_str": "164425558",
+			"name": "Jon Erlichman",
+			"screen_name": "JonErlichman",
+			"location": "IG: @jonerlichman",
+			"description": "Anchor, “The Open” @BNNBloomberg 8:30am to 11am. @CTVNationalNews correspondent & fill-in anchor. Host, @CTV_Television celebrity entrepreneur show “Sidelines\"",
+			"url": "https://t.co/mMXSmkvudj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMXSmkvudj",
+							"expanded_url": "https://blog.twitter.com/official/en_ca/topics/insights/2018/Jon_Erlichman_talks_Twitter.html",
+							"display_url": "blog.twitter.com/official/en_ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74500,
+			"friends_count": 250,
+			"listed_count": 1608,
+			"created_at": "Thu Jul 08 21:17:18 +0000 2010",
+			"favourites_count": 14280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21156,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836626755951726593/n4i54n4l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836626755951726593/n4i54n4l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164425558/1472266025",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 766,
+		"favorite_count": 3301,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day in 1986: The Legend of Zelda released https://t.co/bUFNDuTujL"
+	},
+	{
 		"created_at": "Fri Feb 22 00:47:43 +0000 2019",
 		"id": 1098746122430890000,
 		"id_str": "1098756007365435392",
