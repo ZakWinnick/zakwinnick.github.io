@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 23 13:44:34 +0000 2019",
+		"id": 1099304010522202100,
+		"id_str": "1099304010522202112",
+		"full_text": "I can get behind this, but only with the original cast starring… https://t.co/lW4IiMLj9J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lW4IiMLj9J",
+					"expanded_url": "https://twitter.com/Cartarsauce/status/1099210365219434496",
+					"display_url": "twitter.com/Cartarsauce/st…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 205,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9118,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097232449401163777/F4WWfoyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097232449401163777/F4WWfoyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1550435595",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1099210365219434500,
+		"quoted_status_id_str": "1099210365219434496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lW4IiMLj9J",
+			"expanded": "https://twitter.com/Cartarsauce/status/1099210365219434496",
+			"display": "twitter.com/Cartarsauce/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 23 07:32:28 +0000 2019",
+			"id": 1099210365219434500,
+			"id_str": "1099210365219434496",
+			"full_text": "I want an #AvenueQ movie SOOOOO BAD https://t.co/PD4mF0HN2F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				35
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AvenueQ",
+						"indices": [
+							10,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1099210360534396900,
+						"id_str": "1099210360534396933",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/D0Et_8EU8AUrnkv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0Et_8EU8AUrnkv.jpg",
+						"url": "https://t.co/PD4mF0HN2F",
+						"display_url": "pic.twitter.com/PD4mF0HN2F",
+						"expanded_url": "https://twitter.com/Cartarsauce/status/1099210365219434496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 540,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 359,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1099210360534396900,
+						"id_str": "1099210360534396933",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/D0Et_8EU8AUrnkv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0Et_8EU8AUrnkv.jpg",
+						"url": "https://t.co/PD4mF0HN2F",
+						"display_url": "pic.twitter.com/PD4mF0HN2F",
+						"expanded_url": "https://twitter.com/Cartarsauce/status/1099210365219434496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 540,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 359,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54585516,
+				"id_str": "54585516",
+				"name": "Sam Carter",
+				"screen_name": "Cartarsauce",
+				"location": "Orange County, CA",
+				"description": "Experience Designer, former Disney Creative Entertainment, WonderGround Artist, USC Creative Director & Theme Park Geek",
+				"url": "https://t.co/GxpfadeWmA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GxpfadeWmA",
+								"expanded_url": "http://samcarterart.com/",
+								"display_url": "samcarterart.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2729,
+				"friends_count": 1152,
+				"listed_count": 31,
+				"created_at": "Tue Jul 07 15:51:09 +0000 2009",
+				"favourites_count": 22842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5459,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/941330955679043589/zCaqljBv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/941330955679043589/zCaqljBv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54585516/1534854956",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can get behind this, but only with the original cast starring… https://t.co/lW4IiMLj9J"
+	},
+	{
 		"created_at": "Sat Feb 23 00:05:43 +0000 2019",
 		"id": 1099097940285636600,
 		"id_str": "1099097940285636610",
