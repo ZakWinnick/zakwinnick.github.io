@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 24 21:54:50 +0000 2019",
+		"id": 1099789776100753400,
+		"id_str": "1099789776100753408",
+		"full_text": "Hey everyone...I don’t want to flood your timeline with puppy pictures, so you should go follow @bellanflynn! https://t.co/BPXtdMw038 https://t.co/DyNLzHb2k8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BPXtdMw038",
+					"expanded_url": "http://bit.ly/2VfT8Q3",
+					"display_url": "bit.ly/2VfT8Q3",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099789774964080600,
+					"id_str": "1099789774964080640",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/D0M8-TBXQAAeIgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0M8-TBXQAAeIgp.jpg",
+					"url": "https://t.co/DyNLzHb2k8",
+					"display_url": "pic.twitter.com/DyNLzHb2k8",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1099789776100753408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099789774964080600,
+					"id_str": "1099789774964080640",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/D0M8-TBXQAAeIgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0M8-TBXQAAeIgp.jpg",
+					"url": "https://t.co/DyNLzHb2k8",
+					"display_url": "pic.twitter.com/DyNLzHb2k8",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1099789776100753408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 200,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9120,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097232449401163777/F4WWfoyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097232449401163777/F4WWfoyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1550435595",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey everyone...I don’t want to flood your timeline with puppy pictures, so you should go follow @bellanflynn! https://t.co/BPXtdMw038 https://t.co/DyNLzHb2k8"
+	},
+	{
 		"created_at": "Sun Feb 24 05:14:12 +0000 2019",
 		"id": 1099537958229692400,
 		"id_str": "1099537958229692416",
