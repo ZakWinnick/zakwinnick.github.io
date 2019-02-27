@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 27 14:02:36 +0000 2019",
+		"id": 1100758100137648100,
+		"id_str": "1100758100137648129",
+		"full_text": "The school how to lie better. No university is paying anyone $1m. https://t.co/dqPQgd8hQi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dqPQgd8hQi",
+					"expanded_url": "https://twitter.com/AkilahObviously/status/1100421827216789504",
+					"display_url": "twitter.com/AkilahObviousl…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia | Podcaster @ https://t.co/llK9YOeXpN",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/llK9YOeXpN",
+							"expanded_url": "http://techkaffe.com",
+							"display_url": "techkaffe.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 200,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9116,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097232449401163777/F4WWfoyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097232449401163777/F4WWfoyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1550435595",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100421827216789500,
+		"quoted_status_id_str": "1100421827216789504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dqPQgd8hQi",
+			"expanded": "https://twitter.com/AkilahObviously/status/1100421827216789504",
+			"display": "twitter.com/AkilahObviousl…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 26 15:46:23 +0000 2019",
+			"id": 1100421827216789500,
+			"id_str": "1100421827216789504",
+			"full_text": "A reputable university asks you to teach a class starting tomorrow. You get paid $1 million a year, but you have to be an expert. What can you teach?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61371461,
+				"id_str": "61371461",
+				"name": "Akilah Hughes",
+				"screen_name": "AkilahObviously",
+				"location": "Brooklyn, NYC",
+				"description": "Comedy person | Blog: https://t.co/PYfL4hZxmf | @crookedmedia contributor |@SundanceOrg Alum | Pre-order OBVIOUSLY out 9/24!",
+				"url": "https://t.co/cCrovRERaN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cCrovRERaN",
+								"expanded_url": "http://bit.ly/obviouslybook",
+								"display_url": "bit.ly/obviouslybook",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PYfL4hZxmf",
+								"expanded_url": "http://www.ItsAkilahObviously.com",
+								"display_url": "ItsAkilahObviously.com",
+								"indices": [
+									22,
+									45
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 141791,
+				"friends_count": 2291,
+				"listed_count": 1183,
+				"created_at": "Thu Jul 30 02:54:28 +0000 2009",
+				"favourites_count": 188222,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 86611,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2B2A45",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080536531088142336/QZg6-1Rv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080536531088142336/QZg6-1Rv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61371461/1478976172",
+				"profile_link_color": "0E718A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BCCCD4",
+				"profile_text_color": "A8B5BD",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 375,
+			"favorite_count": 3724,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The school how to lie better. No university is paying anyone $1m. https://t.co/dqPQgd8hQi"
+	},
+	{
 		"created_at": "Sun Feb 24 21:54:50 +0000 2019",
 		"id": 1099789776100753400,
 		"id_str": "1099789776100753408",
