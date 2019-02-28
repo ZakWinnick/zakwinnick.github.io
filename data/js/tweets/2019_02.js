@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 28 20:58:00 +0000 2019",
+		"id": 1101225025762406400,
+		"id_str": "1101225025762406401",
+		"full_text": "This needs to be available to the public…yesterday. https://t.co/wHsognBzZ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wHsognBzZ8",
+					"expanded_url": "https://twitter.com/EmreKelly/status/1101224556142964736",
+					"display_url": "twitter.com/EmreKelly/stat…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia | Podcaster @ https://t.co/llK9YOeXpN",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/llK9YOeXpN",
+							"expanded_url": "http://techkaffe.com",
+							"display_url": "techkaffe.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 200,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9117,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097232449401163777/F4WWfoyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097232449401163777/F4WWfoyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1550435595",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101224556142964700,
+		"quoted_status_id_str": "1101224556142964736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wHsognBzZ8",
+			"expanded": "https://twitter.com/EmreKelly/status/1101224556142964736",
+			"display": "twitter.com/EmreKelly/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 28 20:56:08 +0000 2019",
+			"id": 1101224556142964700,
+			"id_str": "1101224556142964736",
+			"full_text": "Sneak peek at the #SpaceX DM-1 patch. I like it. https://t.co/fzijTuOm19",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SpaceX",
+						"indices": [
+							18,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1101224548555464700,
+						"id_str": "1101224548555464704",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/D0hV5HKWoAAkflV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0hV5HKWoAAkflV.jpg",
+						"url": "https://t.co/fzijTuOm19",
+						"display_url": "pic.twitter.com/fzijTuOm19",
+						"expanded_url": "https://twitter.com/EmreKelly/status/1101224556142964736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1101224548555464700,
+						"id_str": "1101224548555464704",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/D0hV5HKWoAAkflV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0hV5HKWoAAkflV.jpg",
+						"url": "https://t.co/fzijTuOm19",
+						"display_url": "pic.twitter.com/fzijTuOm19",
+						"expanded_url": "https://twitter.com/EmreKelly/status/1101224556142964736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 214274793,
+				"id_str": "214274793",
+				"name": "Emre Kelly",
+				"screen_name": "EmreKelly",
+				"location": "Space Coast",
+				"description": "Space reporter at @Florida_Today / @USATODAY Network",
+				"url": "https://t.co/NWPL2RGKJn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NWPL2RGKJn",
+								"expanded_url": "https://www.floridatoday.com/space/",
+								"display_url": "floridatoday.com/space/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4747,
+				"friends_count": 889,
+				"listed_count": 200,
+				"created_at": "Thu Nov 11 00:39:04 +0000 2010",
+				"favourites_count": 1237,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3387,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "30383D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1029095359191154693/IjobDZ0W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029095359191154693/IjobDZ0W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/214274793/1542400919",
+				"profile_link_color": "595959",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1739d72c18edbb1e",
+				"url": "https://api.twitter.com/1.1/geo/id/1739d72c18edbb1e.json",
+				"place_type": "city",
+				"name": "Cape Canaveral",
+				"full_name": "Cape Canaveral, FL",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-80.623285,
+								28.370388
+							],
+							[
+								-80.591184,
+								28.370388
+							],
+							[
+								-80.591184,
+								28.406111
+							],
+							[
+								-80.623285,
+								28.406111
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This needs to be available to the public…yesterday. https://t.co/wHsognBzZ8"
+	},
+	{
 		"created_at": "Thu Feb 28 11:55:00 +0000 2019",
 		"id": 1101088375518449700,
 		"id_str": "1101088375518449664",
