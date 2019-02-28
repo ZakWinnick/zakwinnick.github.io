@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 28 11:55:00 +0000 2019",
+		"id": 1101088375518449700,
+		"id_str": "1101088375518449664",
+		"full_text": "I mean…good for him. https://t.co/UMl2tG4e3F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UMl2tG4e3F",
+					"expanded_url": "https://twitter.com/ThemedAttractn/status/1100287703747153922",
+					"display_url": "twitter.com/ThemedAttractn…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia | Podcaster @ https://t.co/llK9YOeXpN",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/llK9YOeXpN",
+							"expanded_url": "http://techkaffe.com",
+							"display_url": "techkaffe.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 200,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9116,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097232449401163777/F4WWfoyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097232449401163777/F4WWfoyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1550435595",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100287703747153900,
+		"quoted_status_id_str": "1100287703747153922",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UMl2tG4e3F",
+			"expanded": "https://twitter.com/ThemedAttractn/status/1100287703747153922",
+			"display": "twitter.com/ThemedAttractn…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 26 06:53:25 +0000 2019",
+			"id": 1100287703747153900,
+			"id_str": "1100287703747153922",
+			"full_text": "Looking forward to April when @TEA_Connect honors Mark Woodbury of #UniversalParks with the Buzz Price Thea Award for lifetime achievement. #TEAtheas #TEAsummit https://t.co/stbw9mGhJg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UniversalParks",
+						"indices": [
+							67,
+							82
+						]
+					},
+					{
+						"text": "TEAtheas",
+						"indices": [
+							140,
+							149
+						]
+					},
+					{
+						"text": "TEAsummit",
+						"indices": [
+							150,
+							160
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TEA_Connect",
+						"name": "ThemedEntertainment",
+						"id": 221488568,
+						"id_str": "221488568",
+						"indices": [
+							30,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/stbw9mGhJg",
+						"expanded_url": "https://www.themedattraction.com/2019/02/26/tea-to-honor-universals-mark-woodbury-with-lifetime-achievement-award/",
+						"display_url": "themedattraction.com/2019/02/26/tea…",
+						"indices": [
+							161,
+							184
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 982277496346296300,
+				"id_str": "982277496346296320",
+				"name": "ThemedAttraction.com",
+				"screen_name": "ThemedAttractn",
+				"location": "",
+				"description": "ThemedAttraction is the first website dedicated to discussing how theme park attractions are made with people who actually design theme park attractions.",
+				"url": "https://t.co/1zYRGP0A0k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1zYRGP0A0k",
+								"expanded_url": "http://themedattraction.com/home/",
+								"display_url": "themedattraction.com/home/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 191,
+				"friends_count": 392,
+				"listed_count": 3,
+				"created_at": "Fri Apr 06 15:22:59 +0000 2018",
+				"favourites_count": 357,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 226,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033462761022341120/V_dttcDV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033462761022341120/V_dttcDV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/982277496346296320/1535231698",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mean…good for him. https://t.co/UMl2tG4e3F"
+	},
+	{
 		"created_at": "Wed Feb 27 14:02:36 +0000 2019",
 		"id": 1100758100137648100,
 		"id_str": "1100758100137648129",
