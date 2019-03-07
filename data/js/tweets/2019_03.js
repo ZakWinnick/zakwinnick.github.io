@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 07 00:10:23 +0000 2019",
+		"id": 1103358419824664600,
+		"id_str": "1103447768658518017",
+		"full_text": "On this day in 1967, a drum corps was born in Santa Clara, CA. Formed on a basis of class, tradition, and excellence - the Santa Clara Vanguard emerged &amp; took the marching arts by storm. 52 years later and we are still going strong! Thanks for being a part of our journey. #TNPLSC https://t.co/hB4qOeWOVL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TNPLSC",
+					"indices": [
+						277,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103355867179565000,
+					"id_str": "1103355867179565056",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/D0_oULwUwAA3O79.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0_oULwUwAA3O79.jpg",
+					"url": "https://t.co/hB4qOeWOVL",
+					"display_url": "pic.twitter.com/hB4qOeWOVL",
+					"expanded_url": "https://twitter.com/scvanguard/status/1103358419824664576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 757,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 757,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103355867179565000,
+					"id_str": "1103355867179565056",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/D0_oULwUwAA3O79.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0_oULwUwAA3O79.jpg",
+					"url": "https://t.co/hB4qOeWOVL",
+					"display_url": "pic.twitter.com/hB4qOeWOVL",
+					"expanded_url": "https://twitter.com/scvanguard/status/1103358419824664576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 757,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 757,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1103355878722351100,
+					"id_str": "1103355878722351104",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/D0_oU2wVsAABMLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0_oU2wVsAABMLo.jpg",
+					"url": "https://t.co/hB4qOeWOVL",
+					"display_url": "pic.twitter.com/hB4qOeWOVL",
+					"expanded_url": "https://twitter.com/scvanguard/status/1103358419824664576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16773124,
+			"id_str": "16773124",
+			"name": "Santa Clara Vanguard",
+			"screen_name": "scvanguard",
+			"location": "Santa Clara, CA",
+			"description": "A nonprofit performing arts organization based in Santa Clara, CA.",
+			"url": "https://t.co/DD4e8kae9G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DD4e8kae9G",
+							"expanded_url": "http://www.scvanguard.org",
+							"display_url": "scvanguard.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55867,
+			"friends_count": 2915,
+			"listed_count": 375,
+			"created_at": "Wed Oct 15 06:10:44 +0000 2008",
+			"favourites_count": 11723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "114111",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897963610684628992/Z_tbEKuX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897963610684628992/Z_tbEKuX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16773124/1534259916",
+			"profile_link_color": "8A2A2B",
+			"profile_sidebar_border_color": "0F381E",
+			"profile_sidebar_fill_color": "86181A",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 452,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day in 1967, a drum corps was born in Santa Clara, CA. Formed on a basis of class, tradition, and excellence - the Santa Clara Vanguard emerged &amp; took the marching arts by storm. 52 years later and we are still going strong! Thanks for being a part of our journey. #TNPLSC https://t.co/hB4qOeWOVL"
+	},
+	{
 		"created_at": "Wed Mar 06 23:04:00 +0000 2019",
 		"id": 1103431061676142600,
 		"id_str": "1103431061676142598",
