@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 13:07:37 +0000 2019",
+		"id": 1105455304937033700,
+		"id_str": "1105455304937033730",
+		"full_text": "In other words, they’re waiting for something to happen to a US airline, and then they’ll react. https://t.co/7kzFWgKQ87",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7kzFWgKQ87",
+					"expanded_url": "https://twitter.com/business/status/1105285037694615554",
+					"display_url": "twitter.com/business/statu…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia | Podcaster @ https://t.co/OGCcNBr1wH",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OGCcNBr1wH",
+							"expanded_url": "https://techkaffe.com",
+							"display_url": "techkaffe.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 179,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9121,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102663936837586946/d8TspB6c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102663936837586946/d8TspB6c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1551576813",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105285037694615600,
+		"quoted_status_id_str": "1105285037694615554",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7kzFWgKQ87",
+			"expanded": "https://twitter.com/business/status/1105285037694615554",
+			"display": "twitter.com/business/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 12 01:51:02 +0000 2019",
+			"id": 1105285037694615600,
+			"id_str": "1105285037694615554",
+			"full_text": "The FAA says the Boeing 737 Max remains airworthy and will act later if needed https://t.co/7uJoz9b7eZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7uJoz9b7eZ",
+						"expanded_url": "https://bloom.bg/2ESW5zu",
+						"display_url": "bloom.bg/2ESW5zu",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34713362,
+				"id_str": "34713362",
+				"name": "Bloomberg",
+				"screen_name": "business",
+				"location": "New York and the World",
+				"description": "The first word in business news.",
+				"url": "http://t.co/YFISwy1upH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YFISwy1upH",
+								"expanded_url": "http://www.bloomberg.com",
+								"display_url": "bloomberg.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5225334,
+				"friends_count": 1220,
+				"listed_count": 50993,
+				"created_at": "Thu Apr 23 20:05:17 +0000 2009",
+				"favourites_count": 454,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 434144,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "101112",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991818020233404416/alrBF_dr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991818020233404416/alrBF_dr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34713362/1503349279",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "DADADA",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In other words, they’re waiting for something to happen to a US airline, and then they’ll react. https://t.co/7kzFWgKQ87"
+	},
+	{
 		"created_at": "Thu Mar 07 00:10:23 +0000 2019",
 		"id": 1103358419824664600,
 		"id_str": "1103447768658518017",
