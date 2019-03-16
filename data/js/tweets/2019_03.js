@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 16 14:44:01 +0000 2019",
+		"id": 1106929115536474100,
+		"id_str": "1106929115536474113",
+		"full_text": "This is fascinating…\n\nOf course, a pre-order for @josephmenn’s book was made, but this story boosts @BetoORourke’s cred with me a bit more…(I still like @KamalaHarris in 2020, but Beto would be a good VP too). https://t.co/JgDV6U4gVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josephmenn",
+					"name": "Joseph Menn",
+					"id": 51233328,
+					"id_str": "51233328",
+					"indices": [
+						49,
+						60
+					]
+				},
+				{
+					"screen_name": "BetoORourke",
+					"name": "Beto O'Rourke",
+					"id": 342863309,
+					"id_str": "342863309",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"screen_name": "KamalaHarris",
+					"name": "Kamala Harris",
+					"id": 30354991,
+					"id_str": "30354991",
+					"indices": [
+						153,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JgDV6U4gVE",
+					"expanded_url": "https://twitter.com/josephmenn/status/1106578730904764416",
+					"display_url": "twitter.com/josephmenn/sta…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1106578730904764400,
+		"in_reply_to_status_id_str": "1106578730904764416",
+		"in_reply_to_user_id": 51233328,
+		"in_reply_to_user_id_str": "51233328",
+		"in_reply_to_screen_name": "josephmenn",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia | Podcaster @ https://t.co/OGCcNBr1wH",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OGCcNBr1wH",
+							"expanded_url": "https://techkaffe.com",
+							"display_url": "techkaffe.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 182,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102663936837586946/d8TspB6c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102663936837586946/d8TspB6c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1551576813",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106578730904764400,
+		"quoted_status_id_str": "1106578730904764416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JgDV6U4gVE",
+			"expanded": "https://twitter.com/josephmenn/status/1106578730904764416",
+			"display": "twitter.com/josephmenn/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 15 15:31:43 +0000 2019",
+			"id": 1106578730904764400,
+			"id_str": "1106578730904764416",
+			"full_text": "Fresh U.S presidential candidate @BetoORourke was a member of the country’s oldest hacking group, which has kept his role a secret for decades – until now. My story is up on Reuters at https://t.co/pvdNu7p7Yg, but let me say a little more in this thread. (1/10) https://t.co/luGt4QDhnK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BetoORourke",
+						"name": "Beto O'Rourke",
+						"id": 342863309,
+						"id_str": "342863309",
+						"indices": [
+							33,
+							45
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pvdNu7p7Yg",
+						"expanded_url": "https://www.reuters.com/investigates/special-report/usa-politics-beto-orourke/",
+						"display_url": "reuters.com/investigates/s…",
+						"indices": [
+							185,
+							208
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1106568902559952900,
+						"id_str": "1106568902559952897",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/D1tSjdSUcAE_-_V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1tSjdSUcAE_-_V.jpg",
+						"url": "https://t.co/luGt4QDhnK",
+						"display_url": "pic.twitter.com/luGt4QDhnK",
+						"expanded_url": "https://twitter.com/josephmenn/status/1106578730904764416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1106568902559952900,
+						"id_str": "1106568902559952897",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/D1tSjdSUcAE_-_V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1tSjdSUcAE_-_V.jpg",
+						"url": "https://t.co/luGt4QDhnK",
+						"display_url": "pic.twitter.com/luGt4QDhnK",
+						"expanded_url": "https://twitter.com/josephmenn/status/1106578730904764416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51233328,
+				"id_str": "51233328",
+				"name": "Joseph Menn",
+				"screen_name": "josephmenn",
+				"location": "California, mostly.",
+				"description": "Personal account for author of Cult of the Dead Cow, Fatal System Error + Napster bio All the Rave, doing investigative security stories at Reuters. Open DMs.",
+				"url": "https://t.co/Yy7a8Y8aXK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Yy7a8Y8aXK",
+								"expanded_url": "https://www.linkedin.com/in/josephmenn/",
+								"display_url": "linkedin.com/in/josephmenn/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8573,
+				"friends_count": 1128,
+				"listed_count": 624,
+				"created_at": "Fri Jun 26 21:28:04 +0000 2009",
+				"favourites_count": 9822,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7538,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "07090A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1089278000439259137/E8FO-I3R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089278000439259137/E8FO-I3R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51233328/1550682583",
+				"profile_link_color": "B6D613",
+				"profile_sidebar_border_color": "FFF7FF",
+				"profile_sidebar_fill_color": "1F1D1F",
+				"profile_text_color": "2AED23",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3206,
+			"favorite_count": 4967,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is fascinating…\n\nOf course, a pre-order for @josephmenn’s book was made, but this story boosts @BetoORourke’s cred with me a bit more…(I still like @KamalaHarris in 2020, but Beto would be a good VP too). https://t.co/JgDV6U4gVE"
+	},
+	{
 		"created_at": "Fri Mar 15 12:12:16 +0000 2019",
 		"id": 1106528539803824100,
 		"id_str": "1106528539803824129",
