@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 15:51:31 +0000 2019",
+		"id": 1107302916661149700,
+		"id_str": "1107308490077495296",
+		"full_text": "27th Lancers' Danny Boy!\n\n#StPatricksDay | https://t.co/dbRvmapcbH https://t.co/uZmzfvIJiS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StPatricksDay",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dbRvmapcbH",
+					"expanded_url": "http://ow.ly/G8Pm50nmomI",
+					"display_url": "ow.ly/G8Pm50nmomI",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1107302718090154000,
+					"id_str": "1107302718090153985",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107302718090153985/pu/img/DbEo6nBjMsYNl4D1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107302718090153985/pu/img/DbEo6nBjMsYNl4D1.jpg",
+					"url": "https://t.co/uZmzfvIJiS",
+					"display_url": "pic.twitter.com/uZmzfvIJiS",
+					"expanded_url": "https://twitter.com/DCI/status/1107302916661149698/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107302718090154000,
+					"id_str": "1107302718090153985",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107302718090153985/pu/img/DbEo6nBjMsYNl4D1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107302718090153985/pu/img/DbEo6nBjMsYNl4D1.jpg",
+					"url": "https://t.co/uZmzfvIJiS",
+					"display_url": "pic.twitter.com/uZmzfvIJiS",
+					"expanded_url": "https://twitter.com/DCI/status/1107302916661149698/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 133550,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1107302718090153985/pu/pl/QC5slulyxre7uW8K.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107302718090153985/pu/vid/480x360/raSzFHFGkyg3Yme1.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107302718090153985/pu/vid/240x180/X6Hsd0LLgux6wgrZ.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26576933,
+			"id_str": "26576933",
+			"name": "Drum Corps International",
+			"screen_name": "DCI",
+			"location": "Indianapolis, IN",
+			"description": "The official Twitter account of Marching Music's Major League™. #DCI2019 #GrowDrumCorps",
+			"url": "https://t.co/x8k0KHa3Mj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8k0KHa3Mj",
+							"expanded_url": "http://www.dci.org",
+							"display_url": "dci.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82639,
+			"friends_count": 20410,
+			"listed_count": 503,
+			"created_at": "Wed Mar 25 20:00:59 +0000 2009",
+			"favourites_count": 6856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25730,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0A095D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050087752367202306/FAwAGAHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050087752367202306/FAwAGAHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26576933/1534435008",
+			"profile_link_color": "0091FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "ABCEAC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "27th Lancers' Danny Boy!\n\n#StPatricksDay | https://t.co/dbRvmapcbH https://t.co/uZmzfvIJiS"
+	},
+	{
 		"created_at": "Sun Mar 17 12:22:43 +0000 2019",
 		"id": 1107255942876401700,
 		"id_str": "1107255942876401664",
