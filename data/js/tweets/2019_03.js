@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 12:22:43 +0000 2019",
+		"id": 1107255942876401700,
+		"id_str": "1107255942876401664",
+		"full_text": "What a great thread on what’s going on with the 737Max… https://t.co/LaUOp1mlPB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LaUOp1mlPB",
+					"expanded_url": "https://twitter.com/trevorsumner/status/1106934362531155974",
+					"display_url": "twitter.com/trevorsumner/s…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia | Podcaster @ https://t.co/OGCcNBr1wH",
+			"url": "https://t.co/mVEZMWANl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVEZMWANl3",
+							"expanded_url": "https://www.zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OGCcNBr1wH",
+							"expanded_url": "https://techkaffe.com",
+							"display_url": "techkaffe.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 184,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9127,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102663936837586946/d8TspB6c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102663936837586946/d8TspB6c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1551576813",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106934362531156000,
+		"quoted_status_id_str": "1106934362531155974",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LaUOp1mlPB",
+			"expanded": "https://twitter.com/trevorsumner/status/1106934362531155974",
+			"display": "twitter.com/trevorsumner/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 16 15:04:52 +0000 2019",
+			"id": 1106934362531156000,
+			"id_str": "1106934362531155974",
+			"full_text": "1of x: BEST analysis of what really is happening on the #Boeing737Max issue from my brother in law @davekammeyer, who’s a pilot, software engineer &amp; deep thinker. Bottom line don’t blame software that’s the band aid for many other engineering and economic forces in effect.👇🎖🤔",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Boeing737Max",
+						"indices": [
+							56,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "davekammeyer",
+						"name": "Dave Kammeyer",
+						"id": 27487105,
+						"id_str": "27487105",
+						"indices": [
+							99,
+							112
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21165566,
+				"id_str": "21165566",
+				"name": "Trevor Sumner",
+				"screen_name": "trevorsumner",
+				"location": "New York City",
+				"description": "CEO of @perchexperience, founder of LocalVox, tech exec, #NYC native, amateur chef & global #scuba diver. Contributor for @Inc and @Forbes.",
+				"url": "https://t.co/eiFPR7dJrU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eiFPR7dJrU",
+								"expanded_url": "http://trevorsumner.com",
+								"display_url": "trevorsumner.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17553,
+				"friends_count": 13435,
+				"listed_count": 477,
+				"created_at": "Wed Feb 18 03:38:48 +0000 2009",
+				"favourites_count": 178929,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14059,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "07090B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/979825757785657344/MBdCY9OR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979825757785657344/MBdCY9OR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21165566/1400615922",
+				"profile_link_color": "C34242",
+				"profile_sidebar_border_color": "BFBFBF",
+				"profile_sidebar_fill_color": "C9C9C9",
+				"profile_text_color": "1C1F23",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "011add077f4d2da3",
+				"url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+				"place_type": "city",
+				"name": "Brooklyn",
+				"full_name": "Brooklyn, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.041878,
+								40.570842
+							],
+							[
+								-73.855673,
+								40.570842
+							],
+							[
+								-73.855673,
+								40.739434
+							],
+							[
+								-74.041878,
+								40.739434
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1255,
+			"favorite_count": 1754,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a great thread on what’s going on with the 737Max… https://t.co/LaUOp1mlPB"
+	},
+	{
 		"created_at": "Sun Mar 17 00:54:46 +0000 2019",
 		"id": 1107082816679043100,
 		"id_str": "1107082816679043072",
