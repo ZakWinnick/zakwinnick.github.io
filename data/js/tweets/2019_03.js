@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 20 19:08:05 +0000 2019",
+		"id": 1108445120926502900,
+		"id_str": "1108445120926502912",
+		"full_text": "This is probably the movie I have been looking forward to the most over the past…(checks watch)…28 years. https://t.co/J7zKh814qC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J7zKh814qC",
+					"expanded_url": "https://twitter.com/BillandTed3/status/1108405344802242560",
+					"display_url": "twitter.com/BillandTed3/st…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia | Podcaster @ https://t.co/OGCcNBr1wH",
+			"url": "https://t.co/JSX6Ve09xP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JSX6Ve09xP",
+							"expanded_url": "https://zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OGCcNBr1wH",
+							"expanded_url": "https://techkaffe.com",
+							"display_url": "techkaffe.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 184,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9130,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107663735102025728/ADoVK7IL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107663735102025728/ADoVK7IL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1551576813",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108405344802242600,
+		"quoted_status_id_str": "1108405344802242560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J7zKh814qC",
+			"expanded": "https://twitter.com/BillandTed3/status/1108405344802242560",
+			"display": "twitter.com/BillandTed3/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 20 16:30:02 +0000 2019",
+			"id": 1108405344802242600,
+			"id_str": "1108405344802242560",
+			"full_text": "The world is about to get a lot more excellent. Watch this special announcement from your two favorite dudes! 8.21.20 🎸⚡️ https://t.co/miOtBhinlC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1108048466444337200,
+						"id_str": "1108048466444337152",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1108048466444337152/img/lI2wIdhYfJSmfHgI.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1108048466444337152/img/lI2wIdhYfJSmfHgI.jpg",
+						"url": "https://t.co/miOtBhinlC",
+						"display_url": "pic.twitter.com/miOtBhinlC",
+						"expanded_url": "https://twitter.com/BillandTed3/status/1108405344802242560/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1108048466444337200,
+						"id_str": "1108048466444337152",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1108048466444337152/img/lI2wIdhYfJSmfHgI.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1108048466444337152/img/lI2wIdhYfJSmfHgI.jpg",
+						"url": "https://t.co/miOtBhinlC",
+						"display_url": "pic.twitter.com/miOtBhinlC",
+						"expanded_url": "https://twitter.com/BillandTed3/status/1108405344802242560/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 36803,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1108048466444337152/vid/640x360/W6sdPH3EYrV53qzb.mp4?tag=11"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1108048466444337152/vid/320x180/s7Q5FtMccbU3XFKN.mp4?tag=11"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1108048466444337152/vid/1280x720/QM0-sP8-lj2CLS8m.mp4?tag=11"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1108048466444337152/pl/w66SNbTuJwXGLWK_.m3u8?tag=11"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 284929130,
+				"id_str": "284929130",
+				"name": "Bill & Ted 3",
+				"screen_name": "BillandTed3",
+				"location": "San Dimas, California",
+				"description": "Yes way, dude! Excellence returns on 8.21.20 🎸⚡️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28013,
+				"friends_count": 18,
+				"listed_count": 64,
+				"created_at": "Wed Apr 20 06:42:55 +0000 2011",
+				"favourites_count": 347,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 411,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093278402692431873/A2Q4F06C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093278402692431873/A2Q4F06C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/284929130/1486162290",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12798,
+			"favorite_count": 37275,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is probably the movie I have been looking forward to the most over the past…(checks watch)…28 years. https://t.co/J7zKh814qC"
+	},
+	{
 		"created_at": "Mon Mar 18 17:07:54 +0000 2019",
 		"id": 1107690099482001400,
 		"id_str": "1107690099482001409",
