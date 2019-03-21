@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 13:25:16 +0000 2019",
+		"id": 1108457717541138400,
+		"id_str": "1108721238116102149",
+		"full_text": "Lens Flares of the Third Kind:\nhttps://t.co/Ujg35cTnhA\n#CEOTTK https://t.co/cVBf9hrTy3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CEOTTK",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ujg35cTnhA",
+					"expanded_url": "https://www.benradatz.com/lens-flares-of-the-third-kind",
+					"display_url": "benradatz.com/lens-flares-of…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1108457609382641700,
+					"id_str": "1108457609382641665",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/D2IIUqfUwAEfRhL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2IIUqfUwAEfRhL.jpg",
+					"url": "https://t.co/cVBf9hrTy3",
+					"display_url": "pic.twitter.com/cVBf9hrTy3",
+					"expanded_url": "https://twitter.com/vashikoo/status/1108457717541138432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 629,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1964,
+							"h": 1816,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108457609382641700,
+					"id_str": "1108457609382641665",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/D2IIUqfUwAEfRhL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2IIUqfUwAEfRhL.jpg",
+					"url": "https://t.co/cVBf9hrTy3",
+					"display_url": "pic.twitter.com/cVBf9hrTy3",
+					"expanded_url": "https://twitter.com/vashikoo/status/1108457717541138432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 629,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1964,
+							"h": 1816,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35083292,
+			"id_str": "35083292",
+			"name": "Vashi Nedomansky, ACE",
+			"screen_name": "vashikoo",
+			"location": "Los Angeles / Palm Springs",
+			"description": "🎥 Editor of 11 Hollywood Feature Films 🏒 Ex-pro Hockey Player 🇨🇿 Defector from Czechoslovakia https://t.co/UpAG4TLCmv",
+			"url": "https://t.co/El6qn8LKvt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/El6qn8LKvt",
+							"expanded_url": "http://vashivisuals.com",
+							"display_url": "vashivisuals.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UpAG4TLCmv",
+							"expanded_url": "http://imdb.me/vashi",
+							"display_url": "imdb.me/vashi",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11479,
+			"friends_count": 2765,
+			"listed_count": 334,
+			"created_at": "Fri Apr 24 23:56:35 +0000 2009",
+			"favourites_count": 6858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11274,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/914724124303417344/YepwJ4ci_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/914724124303417344/YepwJ4ci_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35083292/1499505500",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "33B8FF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lens Flares of the Third Kind:\nhttps://t.co/Ujg35cTnhA\n#CEOTTK https://t.co/cVBf9hrTy3"
+	},
+	{
 		"created_at": "Thu Mar 21 12:53:40 +0000 2019",
 		"id": 1108713284717424600,
 		"id_str": "1108713284717424641",
