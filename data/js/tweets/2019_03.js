@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 12:53:40 +0000 2019",
+		"id": 1108713284717424600,
+		"id_str": "1108713284717424641",
+		"full_text": "iPhone 12. https://t.co/1HKdR6gEdw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1HKdR6gEdw",
+					"expanded_url": "https://twitter.com/ismh/status/1108705194458664960",
+					"display_url": "twitter.com/ismh/status/11…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia | Podcaster @ https://t.co/OGCcNBr1wH",
+			"url": "https://t.co/JSX6Ve09xP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JSX6Ve09xP",
+							"expanded_url": "https://zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OGCcNBr1wH",
+							"expanded_url": "https://techkaffe.com",
+							"display_url": "techkaffe.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 184,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107663735102025728/ADoVK7IL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107663735102025728/ADoVK7IL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1551576813",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108705194458665000,
+		"quoted_status_id_str": "1108705194458664960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1HKdR6gEdw",
+			"expanded": "https://twitter.com/ismh/status/1108705194458664960",
+			"display": "twitter.com/ismh/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 21 12:21:31 +0000 2019",
+			"id": 1108705194458665000,
+			"id_str": "1108705194458664960",
+			"full_text": "Which comes first: AirPower or the Mueller report?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1566661,
+				"id_str": "1566661",
+				"name": "Stephen Hackett",
+				"screen_name": "ismh",
+				"location": "Memphis, Tennessee",
+				"description": "Co-founder of the @_relayfm podcast network and the host of a few nerdy shows. Writer at @512px. St. Jude dad.",
+				"url": "https://t.co/5wojIrVF91",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5wojIrVF91",
+								"expanded_url": "http://relay.fm",
+								"display_url": "relay.fm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20206,
+				"friends_count": 455,
+				"listed_count": 1078,
+				"created_at": "Tue Mar 20 00:37:22 +0000 2007",
+				"favourites_count": 21108,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1711,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079389931066146816/F_7e2GYW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079389931066146816/F_7e2GYW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1566661/1552052975",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iPhone 12. https://t.co/1HKdR6gEdw"
+	},
+	{
 		"created_at": "Wed Mar 20 19:08:05 +0000 2019",
 		"id": 1108445120926502900,
 		"id_str": "1108445120926502912",
