@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 13:09:04 +0000 2019",
+		"id": 1110166711775436800,
+		"id_str": "1110166711775436800",
+		"full_text": "I think that if it was Petra Buttigieg, and she had the same background and was saying the exact same things @PeteButtigieg is saying, there would be the same amount of hype (if not more) than the Mayor is getting now. https://t.co/v0JvYwtest",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeteButtigieg",
+					"name": "Pete Buttigieg",
+					"id": 226222147,
+					"id_str": "226222147",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v0JvYwtest",
+					"expanded_url": "https://twitter.com/JillFilipovic/status/1109848692813676544",
+					"display_url": "twitter.com/JillFilipovic/…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia | Podcaster @ https://t.co/OGCcNBr1wH",
+			"url": "https://t.co/JSX6Ve09xP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JSX6Ve09xP",
+							"expanded_url": "https://zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OGCcNBr1wH",
+							"expanded_url": "https://techkaffe.com",
+							"display_url": "techkaffe.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 184,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9130,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107663735102025728/ADoVK7IL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107663735102025728/ADoVK7IL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1551576813",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109848692813676500,
+		"quoted_status_id_str": "1109848692813676544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v0JvYwtest",
+			"expanded": "https://twitter.com/JillFilipovic/status/1109848692813676544",
+			"display": "twitter.com/JillFilipovic/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 24 16:05:23 +0000 2019",
+			"id": 1109848692813676500,
+			"id_str": "1109848692813676544",
+			"full_text": "Talked to ⁦@jonallendc⁩ about Mayor Pete. He’s smart and exciting! But also, a 37-year-old female mayor of a small town would not be getting this kind of press. The problem with seeking out a Great Man to save us is that all the Great Men are men.  https://t.co/1hfoGXfcEp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jonallendc",
+						"name": "Jonathan Allen",
+						"id": 43409523,
+						"id_str": "43409523",
+						"indices": [
+							11,
+							22
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1hfoGXfcEp",
+						"expanded_url": "https://www.nbcnews.com/politics/2020-election/why-some-democrats-say-don-t-sleep-mayor-pete-buttigieg-n985906",
+						"display_url": "nbcnews.com/politics/2020-…",
+						"indices": [
+							249,
+							272
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16378093,
+				"id_str": "16378093",
+				"name": "Jill Filipovic",
+				"screen_name": "JillFilipovic",
+				"location": "Washington, DC",
+				"description": "Writer. Lawyer. Author of the The H-Spot: The Feminist Pursuit of Happiness. @newamerica fellow.",
+				"url": "https://t.co/SXxCvWunAd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SXxCvWunAd",
+								"expanded_url": "http://www.jillfilipovic.com",
+								"display_url": "jillfilipovic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 95552,
+				"friends_count": 5372,
+				"listed_count": 2393,
+				"created_at": "Sat Sep 20 14:36:18 +0000 2008",
+				"favourites_count": 26035,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31883,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B89807",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/926027853090738176/k9dPL2mY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/926027853090738176/k9dPL2mY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16378093/1525177536",
+				"profile_link_color": "0E0C54",
+				"profile_sidebar_border_color": "FFBF00",
+				"profile_sidebar_fill_color": "88DAE8",
+				"profile_text_color": "611961",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 200,
+			"favorite_count": 1032,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think that if it was Petra Buttigieg, and she had the same background and was saying the exact same things @PeteButtigieg is saying, there would be the same amount of hype (if not more) than the Mayor is getting now. https://t.co/v0JvYwtest"
+	},
+	{
 		"created_at": "Mon Mar 25 01:56:54 +0000 2019",
 		"id": 1109930400120488000,
 		"id_str": "1109997556468195328",
