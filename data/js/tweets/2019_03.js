@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 01:56:54 +0000 2019",
+		"id": 1109930400120488000,
+		"id_str": "1109997556468195328",
+		"full_text": "A win for Tesla — which entered into the competition in the first place.\nhttps://t.co/DF4sbNoaD4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DF4sbNoaD4",
+					"expanded_url": "https://techcrunch.com/2019/03/23/hackers-conquer-tesla-and-win-a-model-3/",
+					"display_url": "techcrunch.com/2019/03/23/hac…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15752235,
+			"id_str": "15752235",
+			"name": "Zack Whittaker",
+			"screen_name": "zackwhittaker",
+			"location": "New York, NY",
+			"description": "Security editor, @TechCrunch. CBS alum. Email: zack.whittaker@gmail.com. WhatsApp, Signal: +1.646.755.8849. Newsletter: https://t.co/0aSHFyliQz",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0aSHFyliQz",
+							"expanded_url": "http://eepurl.com/dBQdJ5",
+							"display_url": "eepurl.com/dBQdJ5",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40632,
+			"friends_count": 991,
+			"listed_count": 1454,
+			"created_at": "Wed Aug 06 17:00:05 +0000 2008",
+			"favourites_count": 48492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011798454866235392/-WKpbT-d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011798454866235392/-WKpbT-d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15752235/1453743768",
+			"profile_link_color": "36345C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A win for Tesla — which entered into the competition in the first place.\nhttps://t.co/DF4sbNoaD4"
+	},
+	{
 		"created_at": "Sun Mar 24 19:54:49 +0000 2019",
 		"id": 1109906433305468900,
 		"id_str": "1109906433305468930",
