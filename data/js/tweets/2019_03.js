@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 13:12:05 +0000 2019",
+		"id": 1110167468767625200,
+		"id_str": "1110167468767625216",
+		"full_text": "300 baud. It was a keyboard/computer combo that was provided by Bank of America. It was the first instance of “online banking” I’d ever seen. \n\nGranted, it was my Grandpa’s, but that didn’t stop me from trying to hack on it. https://t.co/N94pdCfpKt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N94pdCfpKt",
+					"expanded_url": "https://twitter.com/anildash/status/1110004644594487296",
+					"display_url": "twitter.com/anildash/statu…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia | Podcaster @ https://t.co/OGCcNBr1wH",
+			"url": "https://t.co/JSX6Ve09xP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JSX6Ve09xP",
+							"expanded_url": "https://zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OGCcNBr1wH",
+							"expanded_url": "https://techkaffe.com",
+							"display_url": "techkaffe.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 184,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9131,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107663735102025728/ADoVK7IL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107663735102025728/ADoVK7IL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1551576813",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110004644594487300,
+		"quoted_status_id_str": "1110004644594487296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N94pdCfpKt",
+			"expanded": "https://twitter.com/anildash/status/1110004644594487296",
+			"display": "twitter.com/anildash/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 25 02:25:04 +0000 2019",
+			"id": 1110004644594487300,
+			"id_str": "1110004644594487296",
+			"full_text": "What was the speed of the first internet connection you ever had?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36823,
+				"id_str": "36823",
+				"name": "Anil Dash 🥭",
+				"screen_name": "anildash",
+				"location": "NYC",
+				"description": "CEO of 🎏@Glitch, where everyone on the web can create the web together. Host of @podcastfunction. I 💜 ethical tech, mangoes, funk, transit & justice.",
+				"url": "https://t.co/IYfhqu0kNE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IYfhqu0kNE",
+								"expanded_url": "http://anildash.com/about/",
+								"display_url": "anildash.com/about/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 594071,
+				"friends_count": 730,
+				"listed_count": 9066,
+				"created_at": "Sat Dec 02 09:15:15 +0000 2006",
+				"favourites_count": 625306,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 190067,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1040592282032984071/RC8We7BG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040592282032984071/RC8We7BG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36823/1530683410",
+				"profile_link_color": "800080",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 160,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "300 baud. It was a keyboard/computer combo that was provided by Bank of America. It was the first instance of “online banking” I’d ever seen. \n\nGranted, it was my Grandpa’s, but that didn’t stop me from trying to hack on it. https://t.co/N94pdCfpKt"
+	},
+	{
 		"created_at": "Mon Mar 25 13:09:04 +0000 2019",
 		"id": 1110166711775436800,
 		"id_str": "1110166711775436800",
