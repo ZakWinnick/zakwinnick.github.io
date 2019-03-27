@@ -1,6 +1,503 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 12:53:13 +0000 2019",
+		"id": 1110884546050965500,
+		"id_str": "1110887499524722689",
+		"full_text": "*donuts https://t.co/PheVmrRazs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PheVmrRazs",
+					"expanded_url": "https://twitter.com/veggiefact/status/1110860468569194496",
+					"display_url": "twitter.com/veggiefact/sta…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1080914363819720700,
+			"id_str": "1080914363819720704",
+			"name": "hella",
+			"screen_name": "queenoxeno",
+			"location": "Florida, USA",
+			"description": "a girl of many names 🦂made in🇵🇭 Cash App: littlecheesybri 🤟🏼",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 122,
+			"friends_count": 227,
+			"listed_count": 0,
+			"created_at": "Thu Jan 03 19:50:41 +0000 2019",
+			"favourites_count": 1054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 240,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080914890414571520/I6U9HwZr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080914890414571520/I6U9HwZr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1080914363819720704/1552953696",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110860468569194500,
+		"quoted_status_id_str": "1110860468569194496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PheVmrRazs",
+			"expanded": "https://twitter.com/veggiefact/status/1110860468569194496",
+			"display": "twitter.com/veggiefact/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 27 11:05:49 +0000 2019",
+			"id": 1110860468569194500,
+			"id_str": "1110860468569194496",
+			"full_text": "bagels are just fun and edible cock rings",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				41
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2943625774,
+				"id_str": "2943625774",
+				"name": "Veggietales Facts",
+				"screen_name": "Veggiefact",
+				"location": "",
+				"description": "Are you a fan of Veggietales? Want to expand your veggie knowledge? Here at Veggietales Facts, we tweet trivia for fans like you.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 164723,
+				"friends_count": 0,
+				"listed_count": 317,
+				"created_at": "Sat Dec 27 10:28:12 +0000 2014",
+				"favourites_count": 2299,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7521,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/565762783871258625/fQ3y9ryv_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/565762783871258625/fQ3y9ryv_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2943625774/1419770989",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 260,
+			"favorite_count": 1709,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*donuts https://t.co/PheVmrRazs"
+	},
+	{
+		"created_at": "Wed Mar 27 12:46:09 +0000 2019",
+		"id": 1110885719042654200,
+		"id_str": "1110885719042654208",
+		"full_text": "Still one of the most beautiful buildings I have ever seen… https://t.co/y1Eq47pnOm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y1Eq47pnOm",
+					"expanded_url": "https://twitter.com/mmcphate/status/1110724124010254336",
+					"display_url": "twitter.com/mmcphate/statu…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia | Podcaster @ https://t.co/OGCcNBr1wH",
+			"url": "https://t.co/JSX6Ve09xP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JSX6Ve09xP",
+							"expanded_url": "https://zakwinnick.com",
+							"display_url": "zakwinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OGCcNBr1wH",
+							"expanded_url": "https://techkaffe.com",
+							"display_url": "techkaffe.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 184,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9134,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107663735102025728/ADoVK7IL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107663735102025728/ADoVK7IL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1551576813",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110724124010254300,
+		"quoted_status_id_str": "1110724124010254336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y1Eq47pnOm",
+			"expanded": "https://twitter.com/mmcphate/status/1110724124010254336",
+			"display": "twitter.com/mmcphate/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 27 02:04:02 +0000 2019",
+			"id": 1110724124010254300,
+			"id_str": "1110724124010254336",
+			"full_text": "This spidery behemoth is the Theme Building, one of the boldest examples of the Googie style pioneered in Southern California. → https://t.co/bKLLWJ2Uno\n\n(Photo: Thomas Hawk/CC BY-NC 2.0) https://t.co/6nxzpQ3S56",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bKLLWJ2Uno",
+						"expanded_url": "http://calif.sn/nobq",
+						"display_url": "calif.sn/nobq",
+						"indices": [
+							129,
+							152
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1110724122672328700,
+						"id_str": "1110724122672328704",
+						"indices": [
+							188,
+							211
+						],
+						"media_url": "http://pbs.twimg.com/media/D2oVtGdXcAA-QzT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2oVtGdXcAA-QzT.jpg",
+						"url": "https://t.co/6nxzpQ3S56",
+						"display_url": "pic.twitter.com/6nxzpQ3S56",
+						"expanded_url": "https://twitter.com/mmcphate/status/1110724124010254336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1110724122672328700,
+						"id_str": "1110724122672328704",
+						"indices": [
+							188,
+							211
+						],
+						"media_url": "http://pbs.twimg.com/media/D2oVtGdXcAA-QzT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2oVtGdXcAA-QzT.jpg",
+						"url": "https://t.co/6nxzpQ3S56",
+						"display_url": "pic.twitter.com/6nxzpQ3S56",
+						"expanded_url": "https://twitter.com/mmcphate/status/1110724124010254336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11136082,
+				"id_str": "11136082",
+				"name": "California Sun",
+				"screen_name": "mmcphate",
+				"location": "California, USA",
+				"description": "Must-read stories about the Golden State, delivered daily to your inbox. Sign up free: https://t.co/IuNB8rqs7T",
+				"url": "https://t.co/bTRUYfHeCY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bTRUYfHeCY",
+								"expanded_url": "http://www.californiasun.co",
+								"display_url": "californiasun.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IuNB8rqs7T",
+								"expanded_url": "http://californiasun.co",
+								"display_url": "californiasun.co",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14145,
+				"friends_count": 12672,
+				"listed_count": 289,
+				"created_at": "Thu Dec 13 18:08:10 +0000 2007",
+				"favourites_count": 4723,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6840,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6479E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11136082/1528743412",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still one of the most beautiful buildings I have ever seen… https://t.co/y1Eq47pnOm"
+	},
+	{
 		"created_at": "Mon Mar 25 13:12:05 +0000 2019",
 		"id": 1110167468767625200,
 		"id_str": "1110167468767625216",
