@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 15:42:50 +0000 2019",
+		"id": 1116633457269121000,
+		"id_str": "1116728390982295553",
+		"full_text": "Happy Cosmonautics Day! On April 12, 1961, Yuri Gagarin became the first human in space. (Poster art by Valentin Viktorov.) https://t.co/BOmx1zfZaL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116633426281394200,
+					"id_str": "1116633426281394177",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D38UL13UcAERq8V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D38UL13UcAERq8V.jpg",
+					"url": "https://t.co/BOmx1zfZaL",
+					"display_url": "pic.twitter.com/BOmx1zfZaL",
+					"expanded_url": "https://twitter.com/HumanoidHistory/status/1116633457269121026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 655,
+							"h": 974,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 655,
+							"h": 974,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116633426281394200,
+					"id_str": "1116633426281394177",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D38UL13UcAERq8V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D38UL13UcAERq8V.jpg",
+					"url": "https://t.co/BOmx1zfZaL",
+					"display_url": "pic.twitter.com/BOmx1zfZaL",
+					"expanded_url": "https://twitter.com/HumanoidHistory/status/1116633457269121026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 655,
+							"h": 974,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 655,
+							"h": 974,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 300774820,
+			"id_str": "300774820",
+			"name": "Humanoid History",
+			"screen_name": "HumanoidHistory",
+			"location": "United States, Earth",
+			"description": "All the wonders of space and time, from ancient lands to galaxies far, far away.\n#space #science #history #scifi",
+			"url": "http://t.co/caQovfsaeg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/caQovfsaeg",
+							"expanded_url": "http://humanoidhistory.tumblr.com/",
+							"display_url": "humanoidhistory.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26604,
+			"friends_count": 770,
+			"listed_count": 682,
+			"created_at": "Wed May 18 10:22:49 +0000 2011",
+			"favourites_count": 7318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18232,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451548599474614272/Geg2221m_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451548599474614272/Geg2221m_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/300774820/1539775683",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 317,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Cosmonautics Day! On April 12, 1961, Yuri Gagarin became the first human in space. (Poster art by Valentin Viktorov.) https://t.co/BOmx1zfZaL"
+	},
+	{
 		"created_at": "Fri Apr 12 01:08:11 +0000 2019",
 		"id": 1116508276705910800,
 		"id_str": "1116508276705910784",
