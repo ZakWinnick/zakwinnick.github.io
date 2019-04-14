@@ -1,6 +1,175 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 14 04:29:30 +0000 2019",
+		"id": 1117097160913219600,
+		"id_str": "1117283716236304384",
+		"full_text": "Mystery of who's laughing at the end of the trailer: SOLVED.\n#JediJoker https://t.co/QUGmagYU2A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JediJoker",
+					"indices": [
+						61,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117096675237961700,
+					"id_str": "1117096675237961728",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/D4C5getUIAA6niS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4C5getUIAA6niS.jpg",
+					"url": "https://t.co/QUGmagYU2A",
+					"display_url": "pic.twitter.com/QUGmagYU2A",
+					"expanded_url": "https://twitter.com/HamillHimself/status/1117097160913219586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 630,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117096675237961700,
+					"id_str": "1117096675237961728",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/D4C5getUIAA6niS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4C5getUIAA6niS.jpg",
+					"url": "https://t.co/QUGmagYU2A",
+					"display_url": "pic.twitter.com/QUGmagYU2A",
+					"expanded_url": "https://twitter.com/HamillHimself/status/1117097160913219586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 630,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 304679484,
+			"id_str": "304679484",
+			"name": "Mark Hamill",
+			"screen_name": "HamillHimself",
+			"location": "",
+			"description": "Believe in yourself! Work hard, never give up & anything's possible! OR: Kick back, relax & aim low: You'll never be disappointed...😜 NO DMs!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3091135,
+			"friends_count": 429,
+			"listed_count": 12194,
+			"created_at": "Tue May 24 22:52:49 +0000 2011",
+			"favourites_count": 265835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113897557883670528/FhKwWDvp_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113897557883670528/FhKwWDvp_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/304679484/1554409067",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9567,
+		"favorite_count": 59574,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mystery of who's laughing at the end of the trailer: SOLVED.\n#JediJoker https://t.co/QUGmagYU2A"
+	},
+	{
 		"created_at": "Sun Apr 14 01:43:51 +0000 2019",
 		"id": 1117242029476651000,
 		"id_str": "1117242029476651008",
