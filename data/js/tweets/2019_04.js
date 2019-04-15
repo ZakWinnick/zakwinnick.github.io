@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 13:47:46 +0000 2019",
+		"id": 1117786593484472300,
+		"id_str": "1117786593484472320",
+		"full_text": "Not surprising on multiple levels.\n\n#becausekentucky https://t.co/QtZNkaIFEK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "becausekentucky",
+					"indices": [
+						36,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QtZNkaIFEK",
+					"expanded_url": "https://twitter.com/JuliaDavisNews/status/1117783281783668738",
+					"display_url": "twitter.com/JuliaDavisNews…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 185,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9149,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116728911621128192/W2YdgYiy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116728911621128192/W2YdgYiy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1551576813",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117783281783668700,
+		"quoted_status_id_str": "1117783281783668738",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QtZNkaIFEK",
+			"expanded": "https://twitter.com/JuliaDavisNews/status/1117783281783668738",
+			"display": "twitter.com/JuliaDavisNews…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 15 13:34:36 +0000 2019",
+			"id": 1117783281783668700,
+			"id_str": "1117783281783668738",
+			"full_text": "Rusal — Oleg Deripaska's company that was recently granted sanctions relief by Treasury — plans to invest $200 million in a Kentucky rolling mill that would be the largest new aluminum plant built in the U.S. in nearly four decades. \n#Russia \nhttps://t.co/r3w80hG72Y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Russia",
+						"indices": [
+							234,
+							241
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/r3w80hG72Y",
+						"expanded_url": "https://www.marketwatch.com/story/russias-rusal-to-invest-200-million-in-kentucky-aluminum-plant-2019-04-14",
+						"display_url": "marketwatch.com/story/russias-…",
+						"indices": [
+							243,
+							266
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 105327432,
+				"id_str": "105327432",
+				"name": "Julia Davis",
+				"screen_name": "JuliaDavisNews",
+				"location": "United States",
+				"description": "Julia Davis, M.S.— Investigative Journalist, bylines in @WashingtonPost, @TheDailyBeast. Russian Media Analyst, featured expert @AtlanticCouncil @DisinfoPortal.",
+				"url": "https://t.co/WwzfsTXkOc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WwzfsTXkOc",
+								"expanded_url": "http://www.juliadavisnews.com/",
+								"display_url": "juliadavisnews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89918,
+				"friends_count": 1376,
+				"listed_count": 1484,
+				"created_at": "Sat Jan 16 01:34:50 +0000 2010",
+				"favourites_count": 82932,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 70587,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F71B1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054178151138582528/Nx021Qhy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054178151138582528/Nx021Qhy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/105327432/1515339180",
+				"profile_link_color": "395A61",
+				"profile_sidebar_border_color": "1AFF05",
+				"profile_sidebar_fill_color": "FFD9F7",
+				"profile_text_color": "0E0F0F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 295,
+			"favorite_count": 268,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not surprising on multiple levels.\n\n#becausekentucky https://t.co/QtZNkaIFEK"
+	},
+	{
 		"created_at": "Mon Apr 15 10:31:02 +0000 2019",
 		"id": 1117683933867434000,
 		"id_str": "1117737086017257472",
