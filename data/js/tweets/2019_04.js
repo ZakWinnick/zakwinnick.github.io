@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 10:31:02 +0000 2019",
+		"id": 1117683933867434000,
+		"id_str": "1117737086017257472",
+		"full_text": "Seems like a minute ago. Thanks to all our Say Anything family! Happy Anniversary...@canyonjim, @johncusack, @ioneskye,@lilitaylor,@realjoancusack,@pameladlon,@bebeneuwirth, @jeremypiven,@chynnaphillips, @itspetergabriel... https://t.co/zaTK9L6B3i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "canyonjim",
+					"name": "james l. brooks",
+					"id": 21542677,
+					"id_str": "21542677",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"screen_name": "johncusack",
+					"name": "John Cusack",
+					"id": 17017636,
+					"id_str": "17017636",
+					"indices": [
+						96,
+						107
+					]
+				},
+				{
+					"screen_name": "Ioneskye",
+					"name": "Ione",
+					"id": 1599922256,
+					"id_str": "1599922256",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"screen_name": "lilitaylor",
+					"name": "LiliTaylor",
+					"id": 165601494,
+					"id_str": "165601494",
+					"indices": [
+						119,
+						130
+					]
+				},
+				{
+					"screen_name": "realjoancusack",
+					"name": "Joan Cusack",
+					"id": 46404534,
+					"id_str": "46404534",
+					"indices": [
+						131,
+						146
+					]
+				},
+				{
+					"screen_name": "BebeNeuwirth",
+					"name": "Bebe Neuwirth",
+					"id": 703284374779895800,
+					"id_str": "703284374779895810",
+					"indices": [
+						159,
+						172
+					]
+				},
+				{
+					"screen_name": "jeremypiven",
+					"name": "Jeremy Piven",
+					"id": 20221159,
+					"id_str": "20221159",
+					"indices": [
+						174,
+						186
+					]
+				},
+				{
+					"screen_name": "ChynnaPhillips",
+					"name": "Chynna Phillips",
+					"id": 322457711,
+					"id_str": "322457711",
+					"indices": [
+						187,
+						202
+					]
+				},
+				{
+					"screen_name": "itspetergabriel",
+					"name": "Peter Gabriel",
+					"id": 107544554,
+					"id_str": "107544554",
+					"indices": [
+						204,
+						220
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117683137830502400,
+					"id_str": "1117683137830502400",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D4LO5GHUwAAU5f8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4LO5GHUwAAU5f8.jpg",
+					"url": "https://t.co/zaTK9L6B3i",
+					"display_url": "pic.twitter.com/zaTK9L6B3i",
+					"expanded_url": "https://twitter.com/CameronCrowe/status/1117683933867433984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1282,
+							"h": 868,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117683137830502400,
+					"id_str": "1117683137830502400",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D4LO5GHUwAAU5f8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4LO5GHUwAAU5f8.jpg",
+					"url": "https://t.co/zaTK9L6B3i",
+					"display_url": "pic.twitter.com/zaTK9L6B3i",
+					"expanded_url": "https://twitter.com/CameronCrowe/status/1117683933867433984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1282,
+							"h": 868,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 275197798,
+			"id_str": "275197798",
+			"name": "Cameron Crowe",
+			"screen_name": "CameronCrowe",
+			"location": "",
+			"description": "Writer-director.",
+			"url": "https://t.co/c0RknEmBA3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c0RknEmBA3",
+							"expanded_url": "http://www.theuncool.com",
+							"display_url": "theuncool.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149855,
+			"friends_count": 1017,
+			"listed_count": 2011,
+			"created_at": "Thu Mar 31 20:31:06 +0000 2011",
+			"favourites_count": 2417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3797,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "21C4B6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/642532549198090241/veRDzO6U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/642532549198090241/veRDzO6U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/275197798/1444631856",
+			"profile_link_color": "5C9191",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seems like a minute ago. Thanks to all our Say Anything family! Happy Anniversary...@canyonjim, @johncusack, @ioneskye,@lilitaylor,@realjoancusack,@pameladlon,@bebeneuwirth, @jeremypiven,@chynnaphillips, @itspetergabriel... https://t.co/zaTK9L6B3i"
+	},
+	{
 		"created_at": "Sun Apr 14 04:29:30 +0000 2019",
 		"id": 1117097160913219600,
 		"id_str": "1117283716236304384",
