@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 15:12:03 +0000 2019",
+		"id": 1117807805992452100,
+		"id_str": "1117807805992452097",
+		"full_text": "Looks the same now as it did then… https://t.co/HGco4MJE9x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HGco4MJE9x",
+					"expanded_url": "https://twitter.com/BeschlossDC/status/1117805800997699584",
+					"display_url": "twitter.com/BeschlossDC/st…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 185,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9150,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116728911621128192/W2YdgYiy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116728911621128192/W2YdgYiy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1551576813",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117805800997699600,
+		"quoted_status_id_str": "1117805800997699584",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HGco4MJE9x",
+			"expanded": "https://twitter.com/BeschlossDC/status/1117805800997699584",
+			"display": "twitter.com/BeschlossDC/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 15 15:04:05 +0000 2019",
+			"id": 1117805800997699600,
+			"id_str": "1117805800997699584",
+			"full_text": "Ford’s Theatre at time of Lincoln’s assassination: https://t.co/Viv4qZkiFx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1117805787479457800,
+						"id_str": "1117805787479457792",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/D4M-cPqWwAAcH65.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4M-cPqWwAAcH65.jpg",
+						"url": "https://t.co/Viv4qZkiFx",
+						"display_url": "pic.twitter.com/Viv4qZkiFx",
+						"expanded_url": "https://twitter.com/BeschlossDC/status/1117805800997699584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 942,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 942,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 534,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1117805787479457800,
+						"id_str": "1117805787479457792",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/D4M-cPqWwAAcH65.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4M-cPqWwAAcH65.jpg",
+						"url": "https://t.co/Viv4qZkiFx",
+						"display_url": "pic.twitter.com/Viv4qZkiFx",
+						"expanded_url": "https://twitter.com/BeschlossDC/status/1117805800997699584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 942,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 942,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 534,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 874916178,
+				"id_str": "874916178",
+				"name": "Michael Beschloss",
+				"screen_name": "BeschlossDC",
+				"location": "PRESIDENTS OF WAR:",
+				"description": "Author, most recently, of PRESIDENTS OF WAR (Crown). Ten books. @NBCNews Presidential Historian. Contributor to PBS @NewsHour. Williams College. Born Chicago.",
+				"url": "https://t.co/LPacpXMyCT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LPacpXMyCT",
+								"expanded_url": "http://PRH.com/presidentsofwar",
+								"display_url": "PRH.com/presidentsofwar",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 391254,
+				"friends_count": 2334,
+				"listed_count": 4970,
+				"created_at": "Fri Oct 12 04:25:45 +0000 2012",
+				"favourites_count": 5062,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13645,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1017422524898934784/dGwBCGXO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017422524898934784/dGwBCGXO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/874916178/1549904047",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 225,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looks the same now as it did then… https://t.co/HGco4MJE9x"
+	},
+	{
 		"created_at": "Mon Apr 15 13:47:46 +0000 2019",
 		"id": 1117786593484472300,
 		"id_str": "1117786593484472320",
