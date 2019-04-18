@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 23:43:15 +0000 2019",
+		"id": 1118652870692429800,
+		"id_str": "1118661227616657409",
+		"full_text": "When Flea learned that the band program at his old high school had been decimated, he founded the Silver Lake Music Conservatory. Thousands of kids have studied there, and whoever can't afford it goes for free. Flea called it the best thing in his life. → https://t.co/blGWzWY6Wg https://t.co/qiGOireVot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/blGWzWY6Wg",
+					"expanded_url": "http://calif.sn/lqkb",
+					"display_url": "calif.sn/lqkb",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118652868624568300,
+					"id_str": "1118652868624568320",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D4ZA221W0AAUGnH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4ZA221W0AAUGnH.jpg",
+					"url": "https://t.co/qiGOireVot",
+					"display_url": "pic.twitter.com/qiGOireVot",
+					"expanded_url": "https://twitter.com/mmcphate/status/1118652870692429824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118652868624568300,
+					"id_str": "1118652868624568320",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D4ZA221W0AAUGnH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4ZA221W0AAUGnH.jpg",
+					"url": "https://t.co/qiGOireVot",
+					"display_url": "pic.twitter.com/qiGOireVot",
+					"expanded_url": "https://twitter.com/mmcphate/status/1118652870692429824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11136082,
+			"id_str": "11136082",
+			"name": "California Sun",
+			"screen_name": "mmcphate",
+			"location": "California, USA",
+			"description": "Must-read stories about the Golden State, delivered daily to your inbox. Sign up free: https://t.co/IuNB8rqs7T",
+			"url": "https://t.co/bTRUYfHeCY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bTRUYfHeCY",
+							"expanded_url": "http://www.californiasun.co",
+							"display_url": "californiasun.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IuNB8rqs7T",
+							"expanded_url": "http://californiasun.co",
+							"display_url": "californiasun.co",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14285,
+			"friends_count": 12688,
+			"listed_count": 291,
+			"created_at": "Thu Dec 13 18:08:10 +0000 2007",
+			"favourites_count": 4885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7104,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6479E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11136082/1528743412",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When Flea learned that the band program at his old high school had been decimated, he founded the Silver Lake Music Conservatory. Thousands of kids have studied there, and whoever can't afford it goes for free. Flea called it the best thing in his life. → https://t.co/blGWzWY6Wg https://t.co/qiGOireVot"
+	},
+	{
 		"created_at": "Wed Apr 17 22:55:00 +0000 2019",
 		"id": 1118649085408481300,
 		"id_str": "1118649085408481280",
