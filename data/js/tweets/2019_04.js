@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 22:11:37 +0000 2019",
+		"id": 1119725331722719200,
+		"id_str": "1119725331722719234",
+		"full_text": "“Water Pipe” https://t.co/2bG3mCrCFT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2bG3mCrCFT",
+					"expanded_url": "https://twitter.com/CrimeADay/status/1119718850893889536",
+					"display_url": "twitter.com/CrimeADay/stat…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 175,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9134,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119718850893889500,
+		"quoted_status_id_str": "1119718850893889536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2bG3mCrCFT",
+			"expanded": "https://twitter.com/CrimeADay/status/1119718850893889536",
+			"display": "twitter.com/CrimeADay/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 20 21:45:52 +0000 2019",
+			"id": 1119718850893889500,
+			"id_str": "1119718850893889536",
+			"full_text": "21 USC §863(a)(1) &amp; (d)(12) make it a federal crime to offer to sell a bong for smoking marijuana.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2655321690,
+				"id_str": "2655321690",
+				"name": "A Crime a Day",
+				"screen_name": "CrimeADay",
+				"location": "crimeaday@gmail.com",
+				"description": "In 1982, the DOJ  attempted to count the total number of federal crimes.  The WSJ said 'Since then, no one has tried anything nearly as extensive.'  Until...",
+				"url": "https://t.co/QgcyqpSxPo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QgcyqpSxPo",
+								"expanded_url": "http://crimehandbook.com",
+								"display_url": "crimehandbook.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 103069,
+				"friends_count": 0,
+				"listed_count": 804,
+				"created_at": "Fri Jul 18 00:59:08 +0000 2014",
+				"favourites_count": 2067,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2947,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/489939563305922562/YLOLIdFq_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/489939563305922562/YLOLIdFq_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2655321690/1552044192",
+				"profile_link_color": "1E2629",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 156,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Water Pipe” https://t.co/2bG3mCrCFT"
+	},
+	{
 		"created_at": "Sat Apr 20 18:44:51 +0000 2019",
 		"id": 1119673297678020600,
 		"id_str": "1119673297678020608",
