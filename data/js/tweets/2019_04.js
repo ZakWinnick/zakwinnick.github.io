@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 13:13:27 +0000 2019",
+		"id": 1119589899471130600,
+		"id_str": "1119589899471130625",
+		"full_text": "People still use those passwords…in 2019. 🤦🏻‍♂️ https://t.co/tiyGvxNLuU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tiyGvxNLuU",
+					"expanded_url": "https://twitter.com/cydefe/status/1118286210911416323",
+					"display_url": "twitter.com/cydefe/status/…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 185,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118286210911416300,
+		"quoted_status_id_str": "1118286210911416323",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tiyGvxNLuU",
+			"expanded": "https://twitter.com/cydefe/status/1118286210911416323",
+			"display": "twitter.com/cydefe/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 16 22:53:04 +0000 2019",
+			"id": 1118286210911416300,
+			"id_str": "1118286210911416323",
+			"full_text": "In case anyone was curious. Here is a ranking of some of the worst passwords in 2018. #infosec #passwords #fail #hacking https://t.co/6I5XPQjBJD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "infosec",
+						"indices": [
+							86,
+							94
+						]
+					},
+					{
+						"text": "passwords",
+						"indices": [
+							95,
+							105
+						]
+					},
+					{
+						"text": "fail",
+						"indices": [
+							106,
+							111
+						]
+					},
+					{
+						"text": "hacking",
+						"indices": [
+							112,
+							120
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1118286206385709000,
+						"id_str": "1118286206385709059",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/D4TzYTjW4AMGD5H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4TzYTjW4AMGD5H.jpg",
+						"url": "https://t.co/6I5XPQjBJD",
+						"display_url": "pic.twitter.com/6I5XPQjBJD",
+						"expanded_url": "https://twitter.com/cydefe/status/1118286210911416323/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118286206385709000,
+						"id_str": "1118286206385709059",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/D4TzYTjW4AMGD5H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4TzYTjW4AMGD5H.jpg",
+						"url": "https://t.co/6I5XPQjBJD",
+						"display_url": "pic.twitter.com/6I5XPQjBJD",
+						"expanded_url": "https://twitter.com/cydefe/status/1118286210911416323/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3063767237,
+				"id_str": "3063767237",
+				"name": "CYDEFE",
+				"screen_name": "cydefe",
+				"location": "",
+				"description": "Cyber security podcast by Raymond, and Micheil. Covering malware, IoT, hacking, DFIR and much more.",
+				"url": "http://t.co/9bqleoLZYt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9bqleoLZYt",
+								"expanded_url": "http://www.cydefe.com",
+								"display_url": "cydefe.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1525,
+				"friends_count": 84,
+				"listed_count": 289,
+				"created_at": "Thu Feb 26 02:02:55 +0000 2015",
+				"favourites_count": 551,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5452,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/570766438940409856/zEw_28ZX_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/570766438940409856/zEw_28ZX_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3063767237/1484514382",
+				"profile_link_color": "FF5A09",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "People still use those passwords…in 2019. 🤦🏻‍♂️ https://t.co/tiyGvxNLuU"
+	},
+	{
 		"created_at": "Thu Apr 18 22:18:53 +0000 2019",
 		"id": 1119002385437864000,
 		"id_str": "1119002385437863942",
