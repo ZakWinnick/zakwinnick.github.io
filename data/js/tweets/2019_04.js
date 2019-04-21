@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 22:53:50 +0000 2019",
+		"id": 1119604627702415400,
+		"id_str": "1120098344129396736",
+		"full_text": "imagine baking fucked up bread ONCE when you’re in a huge rush and centuries later your descendants are still gathering once a year to discuss how fucked that bread was",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2289160027,
+			"id_str": "2289160027",
+			"name": "Sarah Lazarus",
+			"screen_name": "sarahclazarus",
+			"location": "Brooklyn",
+			"description": "NYC comedian doing comedy in NYC",
+			"url": "https://t.co/YOwCgyL7Zg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YOwCgyL7Zg",
+							"expanded_url": "http://sarahlazaruscomedy.com",
+							"display_url": "sarahlazaruscomedy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14449,
+			"friends_count": 778,
+			"listed_count": 122,
+			"created_at": "Mon Jan 13 05:40:15 +0000 2014",
+			"favourites_count": 5745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1841,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094097294385926144/SICG1Jl6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094097294385926144/SICG1Jl6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2289160027/1454882533",
+			"profile_link_color": "5683AD",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4514,
+		"favorite_count": 34527,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "imagine baking fucked up bread ONCE when you’re in a huge rush and centuries later your descendants are still gathering once a year to discuss how fucked that bread was"
+	},
+	{
 		"created_at": "Sat Apr 20 22:11:37 +0000 2019",
 		"id": 1119725331722719200,
 		"id_str": "1119725331722719234",
