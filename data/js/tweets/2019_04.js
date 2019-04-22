@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 10:36:59 +0000 2019",
+		"id": 1119767408556687400,
+		"id_str": "1120275296387829761",
+		"full_text": "Tesla Autonomy Day is on Mon, April 22nd \n\nWatch the event livestream @11am PDT:\n– https://t.co/ZA0fWV7ATV\n– https://t.co/aUISVoqkuD\n\nhttps://t.co/PucKdAQVfv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "11am",
+					"name": "11 am in morning",
+					"id": 19808320,
+					"id_str": "19808320",
+					"indices": [
+						70,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZA0fWV7ATV",
+					"expanded_url": "http://Livestream.tesla.com",
+					"display_url": "Livestream.tesla.com",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/aUISVoqkuD",
+					"expanded_url": "http://ts.la/YouTube",
+					"display_url": "ts.la/YouTube",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/PucKdAQVfv",
+					"expanded_url": "https://cards.twitter.com/cards/7x0uw/78f0m",
+					"display_url": "cards.twitter.com/cards/7x0uw/78…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13298072,
+			"id_str": "13298072",
+			"name": "Tesla",
+			"screen_name": "Tesla",
+			"location": "",
+			"description": "Electric cars, giant batteries and solar",
+			"url": "https://t.co/MxFwoUXrrG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MxFwoUXrrG",
+							"expanded_url": "http://ts.la/w0i",
+							"display_url": "ts.la/w0i",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3626461,
+			"friends_count": 77,
+			"listed_count": 13186,
+			"created_at": "Sun Feb 10 01:12:32 +0000 2008",
+			"favourites_count": 3089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7071,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666666",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/489192650474414080/4RxZxsud_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/489192650474414080/4RxZxsud_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1554236549",
+			"profile_link_color": "C90000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F5EDF5",
+			"profile_text_color": "555555",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1238,
+		"favorite_count": 6565,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tesla Autonomy Day is on Mon, April 22nd \n\nWatch the event livestream @11am PDT:\n– https://t.co/ZA0fWV7ATV\n– https://t.co/aUISVoqkuD\n\nhttps://t.co/PucKdAQVfv"
+	},
+	{
 		"created_at": "Sun Apr 21 22:53:50 +0000 2019",
 		"id": 1119604627702415400,
 		"id_str": "1120098344129396736",
