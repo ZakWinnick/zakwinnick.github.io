@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 15:16:56 +0000 2019",
+		"id": 1120708136208351200,
+		"id_str": "1120708136208351232",
+		"full_text": "Well, I’ve been saying this for years… https://t.co/FktVnaAc83",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FktVnaAc83",
+					"expanded_url": "https://twitter.com/DrJenGunter/status/1120555749057363968",
+					"display_url": "twitter.com/DrJenGunter/st…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 172,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9135,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120555749057364000,
+		"quoted_status_id_str": "1120555749057363968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FktVnaAc83",
+			"expanded": "https://twitter.com/DrJenGunter/status/1120555749057363968",
+			"display": "twitter.com/DrJenGunter/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 23 05:11:24 +0000 2019",
+			"id": 1120555749057364000,
+			"id_str": "1120555749057363968",
+			"full_text": "Why you should not put garlic in your vagina.\nA thread.\nGarlic contains allicin, in THE LAB it MAY have antifungal (i.e. anti yeast) properties. This is in a lab, not even in mice. Just a dish of cells. Your vagina is not a dish of cells. #vaginaisanogarliczone 1/8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "vaginaisanogarliczone",
+						"indices": [
+							239,
+							261
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25728193,
+				"id_str": "25728193",
+				"name": "Jennifer Gunter",
+				"screen_name": "DrJenGunter",
+				"location": "San Francisco, CA",
+				"description": "The Gray Lady’s gynecologist (@NYTStyles), sexpert, appropriately confident, lasso of truth, ponysister, I speak for no one but me. The Vagina Bible (Aug 2019).",
+				"url": "https://t.co/SUZ6UPnK7c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SUZ6UPnK7c",
+								"expanded_url": "https://drjengunter.com",
+								"display_url": "drjengunter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 154263,
+				"friends_count": 14643,
+				"listed_count": 2293,
+				"created_at": "Sat Mar 21 21:01:47 +0000 2009",
+				"favourites_count": 18760,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 165591,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012145353964048385/CciLZNoc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012145353964048385/CciLZNoc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25728193/1510876381",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 120,
+			"favorite_count": 528,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, I’ve been saying this for years… https://t.co/FktVnaAc83"
+	},
+	{
 		"created_at": "Tue Apr 23 02:12:02 +0000 2019",
 		"id": 1120510613355225100,
 		"id_str": "1120510613355225088",
