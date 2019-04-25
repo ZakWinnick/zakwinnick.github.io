@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 25 13:03:30 +0000 2019",
+		"id": 1121399335143530500,
+		"id_str": "1121399335143530496",
+		"full_text": "I was literally just wondering what was going on with the new #Bond25. \n\nThis is a really exciting announcement. I can’t wait to see @ItsRamiMalek as a Bond villain! https://t.co/wx5u9OJ9iT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bond25",
+					"indices": [
+						62,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ItsRamiMalek",
+					"name": "Rami Malek",
+					"id": 763440894,
+					"id_str": "763440894",
+					"indices": [
+						133,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wx5u9OJ9iT",
+					"expanded_url": "https://twitter.com/007/status/1121390256803254273",
+					"display_url": "twitter.com/007/status/112…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 172,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9139,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121390256803254300,
+		"quoted_status_id_str": "1121390256803254273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wx5u9OJ9iT",
+			"expanded": "https://twitter.com/007/status/1121390256803254273",
+			"display": "twitter.com/007/status/112…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 25 12:27:26 +0000 2019",
+			"id": 1121390256803254300,
+			"id_str": "1121390256803254273",
+			"full_text": "And finally Rami Malek joins the cast of #BOND25 https://t.co/5AzLJIuVo0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BOND25",
+						"indices": [
+							41,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1121390252952883200,
+						"id_str": "1121390252952883200",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/D4_6fmHXkAAIelg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4_6fmHXkAAIelg.jpg",
+						"url": "https://t.co/5AzLJIuVo0",
+						"display_url": "pic.twitter.com/5AzLJIuVo0",
+						"expanded_url": "https://twitter.com/007/status/1121390256803254273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121390252952883200,
+						"id_str": "1121390252952883200",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/D4_6fmHXkAAIelg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4_6fmHXkAAIelg.jpg",
+						"url": "https://t.co/5AzLJIuVo0",
+						"display_url": "pic.twitter.com/5AzLJIuVo0",
+						"expanded_url": "https://twitter.com/007/status/1121390256803254273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 389229444,
+				"id_str": "389229444",
+				"name": "James Bond",
+				"screen_name": "007",
+				"location": "",
+				"description": "The official James Bond Twitter account. The gun barrel logo and related James Bond Trademarks, TM Danjaq. All Rights Reserved",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 429306,
+				"friends_count": 0,
+				"listed_count": 2474,
+				"created_at": "Wed Oct 12 02:17:35 +0000 2011",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4206,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876771373619843072/loRucdAt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876771373619843072/loRucdAt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/389229444/1556127711",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3805,
+			"favorite_count": 7340,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was literally just wondering what was going on with the new #Bond25. \n\nThis is a really exciting announcement. I can’t wait to see @ItsRamiMalek as a Bond villain! https://t.co/wx5u9OJ9iT"
+	},
+	{
 		"created_at": "Wed Apr 24 13:47:08 +0000 2019",
 		"id": 1121047926460100600,
 		"id_str": "1121047926460100608",
