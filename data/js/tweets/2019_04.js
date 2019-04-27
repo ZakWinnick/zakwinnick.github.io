@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 14:37:35 +0000 2019",
+		"id": 1122147785032327200,
+		"id_str": "1122147785032327168",
+		"full_text": "A thread in which the most philosophical analysis of an SNL sketch ever lives… https://t.co/yMHw1rJFX5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yMHw1rJFX5",
+					"expanded_url": "https://twitter.com/WilliamBibbiani/status/1121705051007832064",
+					"display_url": "twitter.com/WilliamBibbian…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 172,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121705051007832000,
+		"quoted_status_id_str": "1121705051007832064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yMHw1rJFX5",
+			"expanded": "https://twitter.com/WilliamBibbiani/status/1121705051007832064",
+			"display": "twitter.com/WilliamBibbian…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 26 09:18:19 +0000 2019",
+			"id": 1121705051007832000,
+			"id_str": "1121705051007832064",
+			"full_text": "I never, in my wildest dreams, thought I would have to explain the @nbcsnl \"Cowbell\" sketch to another human being, but okay, here we go.... \n\nFirst: Yes, there's a joke, and no, it's not watching other people pretend they get it. They actually get it. You're the one who's lost. https://t.co/uwssSw6NqX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nbcsnl",
+						"name": "Saturday Night Live - SNL",
+						"id": 28221296,
+						"id_str": "28221296",
+						"indices": [
+							67,
+							74
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1121684824249397200,
+						"id_str": "1121684824249397249",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/D5EGZ5tU8AE0c8W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5EGZ5tU8AE0c8W.jpg",
+						"url": "https://t.co/uwssSw6NqX",
+						"display_url": "pic.twitter.com/uwssSw6NqX",
+						"expanded_url": "https://twitter.com/WilliamBibbiani/status/1121705051007832064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 944,
+								"h": 764,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 944,
+								"h": 764,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 550,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121684824249397200,
+						"id_str": "1121684824249397249",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/D5EGZ5tU8AE0c8W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5EGZ5tU8AE0c8W.jpg",
+						"url": "https://t.co/uwssSw6NqX",
+						"display_url": "pic.twitter.com/uwssSw6NqX",
+						"expanded_url": "https://twitter.com/WilliamBibbiani/status/1121705051007832064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 944,
+								"h": 764,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 944,
+								"h": 764,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 550,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1121684824664592400,
+						"id_str": "1121684824664592385",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/D5EGZ7QUUAEGp1T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5EGZ7QUUAEGp1T.jpg",
+						"url": "https://t.co/uwssSw6NqX",
+						"display_url": "pic.twitter.com/uwssSw6NqX",
+						"expanded_url": "https://twitter.com/WilliamBibbiani/status/1121705051007832064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 952,
+								"h": 262,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 952,
+								"h": 262,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 187,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80921082,
+				"id_str": "80921082",
+				"name": "William Bibbiani",
+				"screen_name": "WilliamBibbiani",
+				"location": "Los Angeles, California",
+				"description": "Film critic, co-host of @CanceledCast and @CriticAcclaim (via @SchmoesKnow), former @TheSchmoedown Singles Champion, member @LAOFCS.",
+				"url": "https://t.co/Fg5awjmmEr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Fg5awjmmEr",
+								"expanded_url": "http://canceledtoosoon.libsyn.com/",
+								"display_url": "canceledtoosoon.libsyn.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13888,
+				"friends_count": 2464,
+				"listed_count": 222,
+				"created_at": "Thu Oct 08 19:20:29 +0000 2009",
+				"favourites_count": 21472,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 58163,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793504533301252096/Qw1nURvF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793504533301252096/Qw1nURvF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80921082/1534901428",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4814,
+			"favorite_count": 16937,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A thread in which the most philosophical analysis of an SNL sketch ever lives… https://t.co/yMHw1rJFX5"
+	},
+	{
 		"created_at": "Sat Apr 27 01:54:46 +0000 2019",
 		"id": 1121955818251878400,
 		"id_str": "1121955818251878407",
