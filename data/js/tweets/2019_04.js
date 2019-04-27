@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 17:23:34 +0000 2019",
+		"id": 1122189559612284900,
+		"id_str": "1122189559612284928",
+		"full_text": "What a great feature! \n\nAll the more reason @OvercastFM is the best podcast player on the market. https://t.co/CF6wCwn6uM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OvercastFM",
+					"name": "Overcast",
+					"id": 1673763672,
+					"id_str": "1673763672",
+					"indices": [
+						44,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CF6wCwn6uM",
+					"expanded_url": "https://twitter.com/marcoarment/status/1122179576124276736",
+					"display_url": "twitter.com/marcoarment/st…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 172,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9148,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1122179576124276700,
+		"quoted_status_id_str": "1122179576124276736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CF6wCwn6uM",
+			"expanded": "https://twitter.com/marcoarment/status/1122179576124276736",
+			"display": "twitter.com/marcoarment/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 27 16:43:54 +0000 2019",
+			"id": 1122179576124276700,
+			"id_str": "1122179576124276736",
+			"full_text": "New to Overcast: Clip sharing!\n\nRead more: https://t.co/OHDZuaE4Ms https://t.co/zqqXF4umm7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OHDZuaE4Ms",
+						"expanded_url": "https://marco.org/2019/04/27/overcast-clip-sharing",
+						"display_url": "marco.org/2019/04/27/ove…",
+						"indices": [
+							43,
+							66
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1122179504506589200,
+						"id_str": "1122179504506589184",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1122179504506589184/pu/img/M81E7UzuviX53VKC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1122179504506589184/pu/img/M81E7UzuviX53VKC.jpg",
+						"url": "https://t.co/zqqXF4umm7",
+						"display_url": "pic.twitter.com/zqqXF4umm7",
+						"expanded_url": "https://twitter.com/marcoarment/status/1122179576124276736/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1008,
+								"h": 1008,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1008,
+								"h": 1008,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1122179504506589200,
+						"id_str": "1122179504506589184",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1122179504506589184/pu/img/M81E7UzuviX53VKC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1122179504506589184/pu/img/M81E7UzuviX53VKC.jpg",
+						"url": "https://t.co/zqqXF4umm7",
+						"display_url": "pic.twitter.com/zqqXF4umm7",
+						"expanded_url": "https://twitter.com/marcoarment/status/1122179576124276736/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1008,
+								"h": 1008,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1008,
+								"h": 1008,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 39783,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1122179504506589184/pu/vid/480x480/JnoXviV9tXVc9Wdv.mp4?tag=9"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1122179504506589184/pu/vid/720x720/KQvt4BUe2Rup39OF.mp4?tag=9"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1122179504506589184/pu/vid/320x320/g70bvfVDNNMnL71u.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1122179504506589184/pu/pl/9n_CsMNrwy_BPi9-.m3u8?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14231571,
+				"id_str": "14231571",
+				"name": "Marco Arment",
+				"screen_name": "marcoarment",
+				"location": "New York",
+				"description": "Husband of renowned podcaster @tiffanyarment.",
+				"url": "https://t.co/uJY2D2tEgI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uJY2D2tEgI",
+								"expanded_url": "http://www.marco.org/",
+								"display_url": "marco.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 112066,
+				"friends_count": 160,
+				"listed_count": 6886,
+				"created_at": "Thu Mar 27 01:01:42 +0000 2008",
+				"favourites_count": 19318,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 662,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1005850629028352000/jHsNM3wM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005850629028352000/jHsNM3wM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14231571/1505914114",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 117,
+			"favorite_count": 492,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a great feature! \n\nAll the more reason @OvercastFM is the best podcast player on the market. https://t.co/CF6wCwn6uM"
+	},
+	{
 		"created_at": "Sat Apr 27 14:37:35 +0000 2019",
 		"id": 1122147785032327200,
 		"id_str": "1122147785032327168",
