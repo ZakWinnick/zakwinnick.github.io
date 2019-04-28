@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 28 00:24:48 +0000 2019",
+		"id": 1121926645215047700,
+		"id_str": "1122295566396997632",
+		"full_text": "if there is an animal anywhere, there is a house cat who has slapped the shit out of it. the sea is no exception\n https://t.co/dISYA5fyyk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119589061235179500,
+					"id_str": "1119589061235179520",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1119589061235179520/pu/img/j17zcgAhunckttf3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1119589061235179520/pu/img/j17zcgAhunckttf3.jpg",
+					"url": "https://t.co/dISYA5fyyk",
+					"display_url": "pic.twitter.com/dISYA5fyyk",
+					"expanded_url": "https://twitter.com/iyashiworld/status/1119589083087503360/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1119589083087503400,
+					"source_status_id_str": "1119589083087503360",
+					"source_user_id": 852174673781641200,
+					"source_user_id_str": "852174673781641216"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119589061235179500,
+					"id_str": "1119589061235179520",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1119589061235179520/pu/img/j17zcgAhunckttf3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1119589061235179520/pu/img/j17zcgAhunckttf3.jpg",
+					"url": "https://t.co/dISYA5fyyk",
+					"display_url": "pic.twitter.com/dISYA5fyyk",
+					"expanded_url": "https://twitter.com/iyashiworld/status/1119589083087503360/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1119589083087503400,
+					"source_status_id_str": "1119589083087503360",
+					"source_user_id": 852174673781641200,
+					"source_user_id_str": "852174673781641216",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6067,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1119589061235179520/pu/pl/5l8BQEF0guxKnv4K.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1119589061235179520/pu/vid/480x480/z4FMK3ylEyvx-nIj.mp4?tag=8"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1119589061235179520/pu/vid/320x320/8XOUlvyu3B0Hzzr2.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 852174673781641200,
+							"id_str": "852174673781641216",
+							"name": "動物癒しワールド",
+							"screen_name": "iyashiworld",
+							"location": "",
+							"description": "犬・猫・動物などの癒し動画をつぶやいていきます。 心が満たされたらRT・いいね・フォローよろしくお願いします。",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 11995,
+							"friends_count": 8269,
+							"listed_count": 39,
+							"created_at": "Wed Apr 12 15:00:49 +0000 2017",
+							"favourites_count": 2,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 74,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1013939286167584769/CT7ps7nZ_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013939286167584769/CT7ps7nZ_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/852174673781641216/1530576964",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40291895,
+			"id_str": "40291895",
+			"name": "dream ghoul",
+			"screen_name": "TheDreamGhoul",
+			"location": "Twin Cities",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24153,
+			"friends_count": 953,
+			"listed_count": 298,
+			"created_at": "Fri May 15 17:47:54 +0000 2009",
+			"favourites_count": 119075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50509,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118303909880246272/yFTdmK1j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118303909880246272/yFTdmK1j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40291895/1554297925",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44290,
+		"favorite_count": 169124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "if there is an animal anywhere, there is a house cat who has slapped the shit out of it. the sea is no exception\n https://t.co/dISYA5fyyk"
+	},
+	{
 		"created_at": "Sat Apr 27 17:23:34 +0000 2019",
 		"id": 1122189559612284900,
 		"id_str": "1122189559612284928",
