@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 01 13:35:04 +0000 2019",
+		"id": 1123579345295904800,
+		"id_str": "1123581605606563840",
+		"full_text": "Mike Doyle, known for his big-wave prowess &amp; one of the original “hot doggers,” died in his sleep April 30. He was 78. Doyle was a champion, inventor, boardmaker — a #surfing icon. At 13, he caught his first wave at the Manhattan Beach Pier. https://t.co/igi79RCh1O #RIPMikeDoyle https://t.co/BZr1rAqQ4d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "surfing",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"text": "RIPMikeDoyle",
+					"indices": [
+						270,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/igi79RCh1O",
+					"expanded_url": "https://bit.ly/2V7r71H",
+					"display_url": "bit.ly/2V7r71H",
+					"indices": [
+						246,
+						269
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1123578566447251500,
+					"id_str": "1123578566447251456",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D5fAwNJUwAAvmCG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5fAwNJUwAAvmCG.jpg",
+					"url": "https://t.co/BZr1rAqQ4d",
+					"display_url": "pic.twitter.com/BZr1rAqQ4d",
+					"expanded_url": "https://twitter.com/EdJoyce/status/1123579345295904768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1173,
+							"h": 769,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1173,
+							"h": 769,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123578566447251500,
+					"id_str": "1123578566447251456",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D5fAwNJUwAAvmCG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5fAwNJUwAAvmCG.jpg",
+					"url": "https://t.co/BZr1rAqQ4d",
+					"display_url": "pic.twitter.com/BZr1rAqQ4d",
+					"expanded_url": "https://twitter.com/EdJoyce/status/1123579345295904768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1173,
+							"h": 769,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1173,
+							"h": 769,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73452506,
+			"id_str": "73452506",
+			"name": "Ed Joyce",
+			"screen_name": "EdJoyce",
+			"location": "San Diego, CA",
+			"description": "Multimedia Writer/Editor 🌊🌲🌳🏔️Oceans, mountains, islands, lakes, rivers and trees. Tweets/RTs/likes/follows by me are not endorsements. @UW alum",
+			"url": "https://t.co/cMFItuni2D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cMFItuni2D",
+							"expanded_url": "https://www.linkedin.com/in/joyceeddy",
+							"display_url": "linkedin.com/in/joyceeddy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15168,
+			"friends_count": 7597,
+			"listed_count": 860,
+			"created_at": "Fri Sep 11 18:44:16 +0000 2009",
+			"favourites_count": 230188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/734771278159056896/GN0knJ5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/734771278159056896/GN0knJ5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73452506/1473013514",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "fbd6d2f5a4e4a15e",
+			"url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json",
+			"place_type": "admin",
+			"name": "California",
+			"full_name": "California, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-124.482003,
+							32.528832
+						],
+						[
+							-114.131212,
+							32.528832
+						],
+						[
+							-114.131212,
+							42.009519
+						],
+						[
+							-124.482003,
+							42.009519
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mike Doyle, known for his big-wave prowess &amp; one of the original “hot doggers,” died in his sleep April 30. He was 78. Doyle was a champion, inventor, boardmaker — a #surfing icon. At 13, he caught his first wave at the Manhattan Beach Pier. https://t.co/igi79RCh1O #RIPMikeDoyle https://t.co/BZr1rAqQ4d"
+	},
+	{
 		"created_at": "Wed May 01 00:34:12 +0000 2019",
 		"id": 1123385092162969600,
 		"id_str": "1123385092162969600",
