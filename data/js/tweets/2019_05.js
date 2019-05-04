@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 12:23:40 +0000 2019",
+		"id": 1124449494047838200,
+		"id_str": "1124650800096133120",
+		"full_text": "Hollywood hacking VS real hacking https://t.co/mYB6XuyPkk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124449480877727700,
+					"id_str": "1124449480877727745",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D5rY2GOW4AE9YHv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5rY2GOW4AE9YHv.jpg",
+					"url": "https://t.co/mYB6XuyPkk",
+					"display_url": "pic.twitter.com/mYB6XuyPkk",
+					"expanded_url": "https://twitter.com/YourAnonNews/status/1124449494047838209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 651,
+							"h": 1213,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 365,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 644,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124449480877727700,
+					"id_str": "1124449480877727745",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D5rY2GOW4AE9YHv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5rY2GOW4AE9YHv.jpg",
+					"url": "https://t.co/mYB6XuyPkk",
+					"display_url": "pic.twitter.com/mYB6XuyPkk",
+					"expanded_url": "https://twitter.com/YourAnonNews/status/1124449494047838209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 651,
+							"h": 1213,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 365,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 644,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279390084,
+			"id_str": "279390084",
+			"name": "Anonymous",
+			"screen_name": "YourAnonNews",
+			"location": "The Interwebs",
+			"description": "We are Anonymous, we are legion, we do not forgive, we do not forget. Expect us. \n\n#Anonymous #HackThePlanet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554774,
+			"friends_count": 883,
+			"listed_count": 16142,
+			"created_at": "Sat Apr 09 05:10:37 +0000 2011",
+			"favourites_count": 8321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 172534,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080129252069122049/KHzL8Frl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080129252069122049/KHzL8Frl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279390084/1459539143",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 344,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hollywood hacking VS real hacking https://t.co/mYB6XuyPkk"
+	},
+	{
 		"created_at": "Wed May 01 13:35:04 +0000 2019",
 		"id": 1123579345295904800,
 		"id_str": "1123581605606563840",
