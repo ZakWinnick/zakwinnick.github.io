@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 19:45:49 +0000 2019",
+		"id": 1124717608652148700,
+		"id_str": "1124762070354989057",
+		"full_text": "While it's not a TIE fighter, the @Space_Station was seen in this 2007 view from space shuttle Atlantis. You, too, can spot the orbiting lab where astronauts live &amp; work in space if you know where &amp; when to look. Info: https://t.co/AK4klZxpYb #StarWarsDay #MayThe4thBeWithYou https://t.co/R92DJdVJIS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StarWarsDay",
+					"indices": [
+						251,
+						263
+					]
+				},
+				{
+					"text": "MayThe4thBeWithYou",
+					"indices": [
+						264,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Space_Station",
+					"name": "Intl. Space Station",
+					"id": 1451773004,
+					"id_str": "1451773004",
+					"indices": [
+						34,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AK4klZxpYb",
+					"expanded_url": "https://go.nasa.gov/2PNRBix",
+					"display_url": "go.nasa.gov/2PNRBix",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1124717573520728000,
+					"id_str": "1124717573520728065",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5vMrJJXoAEGzeZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5vMrJJXoAEGzeZ.jpg",
+					"url": "https://t.co/R92DJdVJIS",
+					"display_url": "pic.twitter.com/R92DJdVJIS",
+					"expanded_url": "https://twitter.com/NASA/status/1124717608652148739/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124717573520728000,
+					"id_str": "1124717573520728065",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5vMrJJXoAEGzeZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5vMrJJXoAEGzeZ.jpg",
+					"url": "https://t.co/R92DJdVJIS",
+					"display_url": "pic.twitter.com/R92DJdVJIS",
+					"expanded_url": "https://twitter.com/NASA/status/1124717608652148739/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D5vMrJJXoAEGzeZ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11348282,
+			"id_str": "11348282",
+			"name": "NASA",
+			"screen_name": "NASA",
+			"location": "",
+			"description": "Explore the universe and discover our home planet with @NASA. We usually post in EDT (UTC-4)",
+			"url": "https://t.co/TcEE6NS8nD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TcEE6NS8nD",
+							"expanded_url": "http://www.nasa.gov",
+							"display_url": "nasa.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31060103,
+			"friends_count": 298,
+			"listed_count": 93894,
+			"created_at": "Wed Dec 19 20:20:32 +0000 2007",
+			"favourites_count": 5535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 55736,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091070803184177153/TI2qItoi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091070803184177153/TI2qItoi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1555772954",
+			"profile_link_color": "205BA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F2F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 773,
+		"favorite_count": 3301,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "While it's not a TIE fighter, the @Space_Station was seen in this 2007 view from space shuttle Atlantis. You, too, can spot the orbiting lab where astronauts live &amp; work in space if you know where &amp; when to look. Info: https://t.co/AK4klZxpYb #StarWarsDay #MayThe4thBeWithYou https://t.co/R92DJdVJIS"
+	},
+	{
 		"created_at": "Sat May 04 12:23:40 +0000 2019",
 		"id": 1124449494047838200,
 		"id_str": "1124650800096133120",
