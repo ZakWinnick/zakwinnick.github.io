@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 01:35:41 +0000 2019",
+		"id": 1125937279971807200,
+		"id_str": "1125937279971807232",
+		"full_text": "This x1000. https://t.co/EeLvStxGou",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EeLvStxGou",
+					"expanded_url": "https://twitter.com/peterdaou/status/1125934528118317057",
+					"display_url": "twitter.com/peterdaou/stat…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54,
+			"friends_count": 172,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9157,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125934528118317000,
+		"quoted_status_id_str": "1125934528118317057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EeLvStxGou",
+			"expanded": "https://twitter.com/peterdaou/status/1125934528118317057",
+			"display": "twitter.com/peterdaou/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 08 01:24:45 +0000 2019",
+			"id": 1125934528118317000,
+			"id_str": "1125934528118317057",
+			"full_text": "Though it's intriguing, I'm not really sure what the #TrumpTaxes story will do. His power is more entrenched by the day. Republican sycophants like #LindseyGraham and #MitchMcConnell will do everything in their power to protect him. And his MAGA voters don't give a crap.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TrumpTaxes",
+						"indices": [
+							53,
+							64
+						]
+					},
+					{
+						"text": "LindseyGraham",
+						"indices": [
+							148,
+							162
+						]
+					},
+					{
+						"text": "MitchMcConnell",
+						"indices": [
+							167,
+							182
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18464266,
+				"id_str": "18464266",
+				"name": "Peter Daou",
+				"screen_name": "peterdaou",
+				"location": "",
+				"description": "War survivor. Former Clinton and Kerry adviser. Jazz musician. Married to @leeladaou. Author of Digital Civil War. https://t.co/kAk9BOVTkF",
+				"url": "http://t.co/PAymxiYMXb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PAymxiYMXb",
+								"expanded_url": "http://peterdaou.com",
+								"display_url": "peterdaou.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kAk9BOVTkF",
+								"expanded_url": "http://DigitalCivilWar.info",
+								"display_url": "DigitalCivilWar.info",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 243702,
+				"friends_count": 980,
+				"listed_count": 3500,
+				"created_at": "Tue Dec 30 00:21:14 +0000 2008",
+				"favourites_count": 27771,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 71670,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013204830062432256/712_lJKl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013204830062432256/712_lJKl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18464266/1556539249",
+				"profile_link_color": "30547D",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "4E6D83",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 170,
+			"favorite_count": 595,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This x1000. https://t.co/EeLvStxGou"
+	},
+	{
 		"created_at": "Tue May 07 16:54:55 +0000 2019",
 		"id": 1125806224342233100,
 		"id_str": "1125806224342233088",
