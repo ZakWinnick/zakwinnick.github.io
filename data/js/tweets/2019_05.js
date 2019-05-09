@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 14:11:36 +0000 2019",
+		"id": 1126484994917113900,
+		"id_str": "1126489902273708032",
+		"full_text": "5 MB harddrive being shipped by IBM, 1956. https://t.co/Ysd60lUKPi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126484925509771300,
+					"id_str": "1126484925509771266",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D6IUEkXXoAIV2dt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6IUEkXXoAIV2dt.jpg",
+					"url": "https://t.co/Ysd60lUKPi",
+					"display_url": "pic.twitter.com/Ysd60lUKPi",
+					"expanded_url": "https://twitter.com/historylvrsclub/status/1126484994917113863/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 515,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 515,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 515,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126484925509771300,
+					"id_str": "1126484925509771266",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D6IUEkXXoAIV2dt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6IUEkXXoAIV2dt.jpg",
+					"url": "https://t.co/Ysd60lUKPi",
+					"display_url": "pic.twitter.com/Ysd60lUKPi",
+					"expanded_url": "https://twitter.com/historylvrsclub/status/1126484994917113863/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 515,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 515,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 515,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3863605355,
+			"id_str": "3863605355",
+			"name": "History Lovers Club",
+			"screen_name": "historylvrsclub",
+			"location": "London, England",
+			"description": "Rare historical photos.  All copyrights belong to their respective owners. Business, removal requests and questions: ask.history.lovers.club@gmail.com",
+			"url": "https://t.co/gggmdpuCSK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gggmdpuCSK",
+							"expanded_url": "http://historyloversclub.com",
+							"display_url": "historyloversclub.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458727,
+			"friends_count": 0,
+			"listed_count": 4610,
+			"created_at": "Sun Oct 04 17:25:59 +0000 2015",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 193646,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111759052328091648/XUOR5x4R_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111759052328091648/XUOR5x4R_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3863605355/1443983426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5 MB harddrive being shipped by IBM, 1956. https://t.co/Ysd60lUKPi"
+	},
+	{
 		"created_at": "Wed May 08 01:35:41 +0000 2019",
 		"id": 1125937279971807200,
 		"id_str": "1125937279971807232",
