@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 14:54:49 +0000 2019",
+		"id": 1126500777378369500,
+		"id_str": "1126500777378369536",
+		"full_text": "@Cartarsauce It needs to be hanging in my office next to all of the concept art from the BTTF:TR (I’d include a pic, but I just moved and haven’t put it all back up yet), and that pic of Doc Brown in the second photo. \n\nLove it! Wish I could be there to see it in person!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cartarsauce",
+					"name": "Sam Carter",
+					"id": 54585516,
+					"id_str": "54585516",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1126499820649078800,
+		"in_reply_to_status_id_str": "1126499820649078786",
+		"in_reply_to_user_id": 54585516,
+		"in_reply_to_user_id_str": "54585516",
+		"in_reply_to_screen_name": "Cartarsauce",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 172,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9154,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Cartarsauce It needs to be hanging in my office next to all of the concept art from the BTTF:TR (I’d include a pic, but I just moved and haven’t put it all back up yet), and that pic of Doc Brown in the second photo. \n\nLove it! Wish I could be there to see it in person!"
+	},
+	{
 		"created_at": "Thu May 09 14:11:36 +0000 2019",
 		"id": 1126484994917113900,
 		"id_str": "1126489902273708032",
