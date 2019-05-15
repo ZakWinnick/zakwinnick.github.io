@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 15:51:24 +0000 2019",
+		"id": 1128689344909332500,
+		"id_str": "1128689344909332482",
+		"full_text": "I’m not one to retweet Brit Hume (or even follow him), but this popped up in my timeline a couple of times, and holy shit… https://t.co/j3uPq5PTTV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j3uPq5PTTV",
+					"expanded_url": "https://twitter.com/brithume/status/1128306657979719680",
+					"display_url": "twitter.com/brithume/statu…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 177,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128306657979719700,
+		"quoted_status_id_str": "1128306657979719680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j3uPq5PTTV",
+			"expanded": "https://twitter.com/brithume/status/1128306657979719680",
+			"display": "twitter.com/brithume/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 14 14:30:44 +0000 2019",
+			"id": 1128306657979719700,
+			"id_str": "1128306657979719680",
+			"full_text": "Do not miss this. https://t.co/sV3MrDDtvw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				17
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1128306549535932400,
+						"id_str": "1128306549535932416",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1128306549535932416/pu/img/6YmJCXyG1DOockEW.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1128306549535932416/pu/img/6YmJCXyG1DOockEW.jpg",
+						"url": "https://t.co/sV3MrDDtvw",
+						"display_url": "pic.twitter.com/sV3MrDDtvw",
+						"expanded_url": "https://twitter.com/brithume/status/1128306657979719680/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 864,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 864,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128306549535932400,
+						"id_str": "1128306549535932416",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1128306549535932416/pu/img/6YmJCXyG1DOockEW.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1128306549535932416/pu/img/6YmJCXyG1DOockEW.jpg",
+						"url": "https://t.co/sV3MrDDtvw",
+						"display_url": "pic.twitter.com/sV3MrDDtvw",
+						"expanded_url": "https://twitter.com/brithume/status/1128306657979719680/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 864,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 864,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								5
+							],
+							"duration_millis": 114080,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1128306549535932416/pu/pl/oI0KOuoKp4y7R04X.m3u8?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1128306549535932416/pu/vid/864x480/_7T3h-Zg__unZ2sL.mp4?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1128306549535932416/pu/vid/648x360/AFkRPFa-RZhT8dbD.mp4?tag=9"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1128306549535932416/pu/vid/324x180/WMFrme8OKDSMaNLq.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 112047805,
+				"id_str": "112047805",
+				"name": "Brit Hume",
+				"screen_name": "brithume",
+				"location": "Washington, D.C.",
+				"description": "Sr. Political Analyst, Fox News Channel. Arguments welcome. Name callers & verbal abusers blocked.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1026156,
+				"friends_count": 722,
+				"listed_count": 6262,
+				"created_at": "Sun Feb 07 02:55:13 +0000 2010",
+				"favourites_count": 559,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19457,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1107802138137247745/LmtJZtmY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107802138137247745/LmtJZtmY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/112047805/1542242653",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3688,
+			"favorite_count": 8514,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m not one to retweet Brit Hume (or even follow him), but this popped up in my timeline a couple of times, and holy shit… https://t.co/j3uPq5PTTV"
+	},
+	{
 		"created_at": "Wed May 15 13:09:13 +0000 2019",
 		"id": 1128648530011271200,
 		"id_str": "1128648530011271168",
