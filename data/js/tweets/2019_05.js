@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 13:15:56 +0000 2019",
+		"id": 1129012606168182800,
+		"id_str": "1129012606168182785",
+		"full_text": "One of the many reasons @SteveMartinToGo is one of my most favorite people on this planet… https://t.co/MONVaPosYW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteveMartinToGo",
+					"name": "Steve Martin",
+					"id": 14824849,
+					"id_str": "14824849",
+					"indices": [
+						24,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MONVaPosYW",
+					"expanded_url": "https://twitter.com/SteveMartinToGo/status/1129004009233235968",
+					"display_url": "twitter.com/SteveMartinToG…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1129004009233236000,
+		"in_reply_to_status_id_str": "1129004009233235968",
+		"in_reply_to_user_id": 14824849,
+		"in_reply_to_user_id_str": "14824849",
+		"in_reply_to_screen_name": "SteveMartinToGo",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 177,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9160,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129004009233236000,
+		"quoted_status_id_str": "1129004009233235968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MONVaPosYW",
+			"expanded": "https://twitter.com/SteveMartinToGo/status/1129004009233235968",
+			"display": "twitter.com/SteveMartinToG…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 16 12:41:46 +0000 2019",
+			"id": 1129004009233236000,
+			"id_str": "1129004009233235968",
+			"full_text": "I don’t know if this is behind a paywall, but I’m posting it anyway.  https://t.co/BZjFmLo60U",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BZjFmLo60U",
+						"expanded_url": "https://www.washingtonpost.com/entertainment/museums/aboriginal-artists-find-a-surprising-new-champion-steve-martin/2019/05/15/d34c3c1e-763d-11e9-b3f5-5673edf2d127_story.html",
+						"display_url": "washingtonpost.com/entertainment/…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14824849,
+				"id_str": "14824849",
+				"name": "Steve Martin",
+				"screen_name": "SteveMartinToGo",
+				"location": "On a plane, probably. ",
+				"description": "Back to posting, but only for selfish interests.",
+				"url": "https://t.co/IP4IONORL9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IP4IONORL9",
+								"expanded_url": "http://www.stevemartin.com",
+								"display_url": "stevemartin.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8535265,
+				"friends_count": 283,
+				"listed_count": 45045,
+				"created_at": "Sun May 18 21:33:55 +0000 2008",
+				"favourites_count": 32,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 78,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778368151566295040/8DfAAMcA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778368151566295040/8DfAAMcA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14824849/1465314916",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 639,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of the many reasons @SteveMartinToGo is one of my most favorite people on this planet… https://t.co/MONVaPosYW"
+	},
+	{
 		"created_at": "Thu May 16 00:05:00 +0000 2019",
 		"id": 1128790381724930000,
 		"id_str": "1128813563290750982",
