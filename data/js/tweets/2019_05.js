@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 11:35:49 +0000 2019",
+		"id": 1129349802578382800,
+		"id_str": "1129349802578382848",
+		"full_text": "Aww…you don’t mean that! (Says the guy that was in love with that ride, and was literally the only person in the history of SFMM to request being a lead there…and was the last person to ever ride it)\n\nSeriously, there are worse. Manhattan Express, for one. https://t.co/miZxxNyCbM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/miZxxNyCbM",
+					"expanded_url": "https://twitter.com/westcoasternet/status/1129235600257703937",
+					"display_url": "twitter.com/westcoasternet…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 177,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9162,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129235600257704000,
+		"quoted_status_id_str": "1129235600257703937",
+		"quoted_status_permalink": {
+			"url": "https://t.co/miZxxNyCbM",
+			"expanded": "https://twitter.com/westcoasternet/status/1129235600257703937",
+			"display": "twitter.com/westcoasternet…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 17 04:02:01 +0000 2019",
+			"id": 1129235600257704000,
+			"id_str": "1129235600257703937",
+			"full_text": "Flashback at Six Flags Magic Mountain https://t.co/OkTkAKOqsc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OkTkAKOqsc",
+						"expanded_url": "https://twitter.com/jordanmid/status/1128720872418811904",
+						"display_url": "twitter.com/jordanmid/stat…",
+						"indices": [
+							38,
+							61
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14656102,
+				"id_str": "14656102",
+				"name": "Jim Disney",
+				"screen_name": "westcoasternet",
+				"location": "Hollywood, Los Angeles",
+				"description": "Lifestyle site with sarcasm. Art. Theme parks. Movies. Your mom. This is Westcoaster.",
+				"url": "https://t.co/2X8JxJxbKv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2X8JxJxbKv",
+								"expanded_url": "http://www.westcoaster.net",
+								"display_url": "westcoaster.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3839,
+				"friends_count": 1102,
+				"listed_count": 144,
+				"created_at": "Mon May 05 05:17:50 +0000 2008",
+				"favourites_count": 13260,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 74988,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9BAAC7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054560102638804992/E4yLgp9V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054560102638804992/E4yLgp9V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14656102/1350855009",
+				"profile_link_color": "308FCF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "242424",
+				"profile_text_color": "616161",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1128720872418811900,
+			"quoted_status_id_str": "1128720872418811904",
+			"quoted_status_permalink": {
+				"url": "https://t.co/OkTkAKOqsc",
+				"expanded": "https://twitter.com/jordanmid/status/1128720872418811904",
+				"display": "twitter.com/jordanmid/stat…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Aww…you don’t mean that! (Says the guy that was in love with that ride, and was literally the only person in the history of SFMM to request being a lead there…and was the last person to ever ride it)\n\nSeriously, there are worse. Manhattan Express, for one. https://t.co/miZxxNyCbM"
+	},
+	{
 		"created_at": "Thu May 16 17:27:10 +0000 2019",
 		"id": 1129075831115046900,
 		"id_str": "1129075831115046917",
