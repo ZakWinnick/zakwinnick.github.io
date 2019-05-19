@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 02:09:34 +0000 2019",
+		"id": 1129932077028323300,
+		"id_str": "1129932077028323328",
+		"full_text": "Wait…no. I can’t help that the backwoods hillbillies that live in/run my state (TN) voted for these…abortions…of a bill. \n\nThank God for VPNs.\n\nAt least I don’t live in KY… https://t.co/ao4RY7Ja36",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ao4RY7Ja36",
+					"expanded_url": "https://twitter.com/westcoasternet/status/1129924707166253056",
+					"display_url": "twitter.com/westcoasternet…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 176,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129924707166253000,
+		"quoted_status_id_str": "1129924707166253056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ao4RY7Ja36",
+			"expanded": "https://twitter.com/westcoasternet/status/1129924707166253056",
+			"display": "twitter.com/westcoasternet…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 19 01:40:17 +0000 2019",
+			"id": 1129924707166253000,
+			"id_str": "1129924707166253056",
+			"full_text": "Wait. This is actually fucking genius. C’mon, @Pornhub... do it!! https://t.co/oclSnYOLCB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Pornhub",
+						"name": "Pornhub ARIA",
+						"id": 74466455,
+						"id_str": "74466455",
+						"indices": [
+							46,
+							54
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oclSnYOLCB",
+						"expanded_url": "https://twitter.com/wraithkelso/status/1129659727351205889",
+						"display_url": "twitter.com/wraithkelso/st…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14656102,
+				"id_str": "14656102",
+				"name": "Jim Disney",
+				"screen_name": "westcoasternet",
+				"location": "Hollywood, Los Angeles",
+				"description": "Lifestyle site with sarcasm. Art. Theme parks. Movies. Your mom. This is Westcoaster.",
+				"url": "https://t.co/2X8JxJxbKv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2X8JxJxbKv",
+								"expanded_url": "http://www.westcoaster.net",
+								"display_url": "westcoaster.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3839,
+				"friends_count": 1102,
+				"listed_count": 144,
+				"created_at": "Mon May 05 05:17:50 +0000 2008",
+				"favourites_count": 13293,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 75005,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9BAAC7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054560102638804992/E4yLgp9V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054560102638804992/E4yLgp9V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14656102/1350855009",
+				"profile_link_color": "308FCF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "242424",
+				"profile_text_color": "616161",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1129659727351205900,
+			"quoted_status_id_str": "1129659727351205889",
+			"quoted_status_permalink": {
+				"url": "https://t.co/oclSnYOLCB",
+				"expanded": "https://twitter.com/wraithkelso/status/1129659727351205889",
+				"display": "twitter.com/wraithkelso/st…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wait…no. I can’t help that the backwoods hillbillies that live in/run my state (TN) voted for these…abortions…of a bill. \n\nThank God for VPNs.\n\nAt least I don’t live in KY… https://t.co/ao4RY7Ja36"
+	},
+	{
 		"created_at": "Sat May 18 11:43:59 +0000 2019",
 		"id": 1129714245950672900,
 		"id_str": "1129714245950672896",
