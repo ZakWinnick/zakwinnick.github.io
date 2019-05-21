@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 21 10:35:51 +0000 2019",
+		"id": 1130702574083104800,
+		"id_str": "1130784260141518848",
+		"full_text": "Rest in peace Niki Lauda. \n\nForever carried in our hearts, forever immortalised in our history. The motorsport community today mourns the devastating loss of a true legend.\n\nThe thoughts of everyone at F1 are with his friends and family. https://t.co/olmnjDaefo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130702515929067500,
+					"id_str": "1130702515929067521",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/D7EP8pCXsAE_RPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7EP8pCXsAE_RPZ.jpg",
+					"url": "https://t.co/olmnjDaefo",
+					"display_url": "pic.twitter.com/olmnjDaefo",
+					"expanded_url": "https://twitter.com/F1/status/1130702574083104768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 693,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1183,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130702515929067500,
+					"id_str": "1130702515929067521",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/D7EP8pCXsAE_RPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7EP8pCXsAE_RPZ.jpg",
+					"url": "https://t.co/olmnjDaefo",
+					"display_url": "pic.twitter.com/olmnjDaefo",
+					"expanded_url": "https://twitter.com/F1/status/1130702574083104768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 693,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1183,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69008563,
+			"id_str": "69008563",
+			"name": "Formula 1",
+			"screen_name": "F1",
+			"location": "Great Britain",
+			"description": "The Official Formula 1® Account. F1 TV is here! Get closer to the action: https://t.co/YDZS5McHXM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YDZS5McHXM",
+							"expanded_url": "http://www.F1.com/TVAccess",
+							"display_url": "F1.com/TVAccess",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3928981,
+			"friends_count": 66,
+			"listed_count": 21630,
+			"created_at": "Wed Aug 26 15:19:37 +0000 2009",
+			"favourites_count": 1548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 47782,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118184417791496192/fjTJ-Kzf_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118184417791496192/fjTJ-Kzf_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69008563/1558422567",
+			"profile_link_color": "DC291E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "222222",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26261,
+		"favorite_count": 68079,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rest in peace Niki Lauda. \n\nForever carried in our hearts, forever immortalised in our history. The motorsport community today mourns the devastating loss of a true legend.\n\nThe thoughts of everyone at F1 are with his friends and family. https://t.co/olmnjDaefo"
+	},
+	{
 		"created_at": "Mon May 20 03:04:15 +0000 2019",
 		"id": 1130307214223323100,
 		"id_str": "1130308223699947521",
