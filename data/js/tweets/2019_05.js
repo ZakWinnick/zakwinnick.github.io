@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 01:40:56 +0000 2019",
+		"id": 1131012033070227500,
+		"id_str": "1131012033070227457",
+		"full_text": "Well, now that’s a more satisfying ending… https://t.co/hljTQdaMmS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hljTQdaMmS",
+					"expanded_url": "https://twitter.com/FoldableHuman/status/1130581319593783296",
+					"display_url": "twitter.com/FoldableHuman/…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 176,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130581319593783300,
+		"quoted_status_id_str": "1130581319593783296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hljTQdaMmS",
+			"expanded": "https://twitter.com/FoldableHuman/status/1130581319593783296",
+			"display": "twitter.com/FoldableHuman/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 20 21:09:26 +0000 2019",
+			"id": 1130581319593783300,
+			"id_str": "1130581319593783296",
+			"full_text": "Say what you will about the #GameOfThronesFinale, the John Hughes homage was a bold choice to end on. https://t.co/kKJrJyV9d7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GameOfThronesFinale",
+						"indices": [
+							28,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1130580795909759000,
+						"id_str": "1130580795909758976",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130580795909758976/pu/img/vewcXwqqqrUymkQf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130580795909758976/pu/img/vewcXwqqqrUymkQf.jpg",
+						"url": "https://t.co/kKJrJyV9d7",
+						"display_url": "pic.twitter.com/kKJrJyV9d7",
+						"expanded_url": "https://twitter.com/FoldableHuman/status/1130581319593783296/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1130580795909759000,
+						"id_str": "1130580795909758976",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130580795909758976/pu/img/vewcXwqqqrUymkQf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130580795909758976/pu/img/vewcXwqqqrUymkQf.jpg",
+						"url": "https://t.co/kKJrJyV9d7",
+						"display_url": "pic.twitter.com/kKJrJyV9d7",
+						"expanded_url": "https://twitter.com/FoldableHuman/status/1130581319593783296/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 113583,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1130580795909758976/pu/vid/320x180/sZTazvUkBzzyMYgn.mp4?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1130580795909758976/pu/vid/1280x720/bIjGfACvkZBEGqe7.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1130580795909758976/pu/pl/WhEpDFaJtpVSvimn.m3u8?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1130580795909758976/pu/vid/640x360/vzhYrie1bSLKaGtT.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 344331268,
+				"id_str": "344331268",
+				"name": "Dan Olson",
+				"screen_name": "FoldableHuman",
+				"location": "Calgary, Canada",
+				"description": "Fascism is a loser ideology.",
+				"url": "https://t.co/BGNVoMUZ5K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BGNVoMUZ5K",
+								"expanded_url": "https://www.youtube.com/foldingideas",
+								"display_url": "youtube.com/foldingideas",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57038,
+				"friends_count": 286,
+				"listed_count": 323,
+				"created_at": "Thu Jul 28 22:14:12 +0000 2011",
+				"favourites_count": 2336,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 66219,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093975533556195328/nGdQsCwd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093975533556195328/nGdQsCwd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/344331268/1549582541",
+				"profile_link_color": "F800FF",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59191,
+			"favorite_count": 183145,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, now that’s a more satisfying ending… https://t.co/hljTQdaMmS"
+	},
+	{
 		"created_at": "Tue May 21 10:35:51 +0000 2019",
 		"id": 1130702574083104800,
 		"id_str": "1130784260141518848",
