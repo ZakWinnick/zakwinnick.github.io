@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 02:45:02 +0000 2019",
+		"id": 1132404467075182600,
+		"id_str": "1132477715997745152",
+		"full_text": "And also with you, previous crew. 🙂 https://t.co/HiZ5VuHVkq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132404452063793200,
+					"id_str": "1132404452063793152",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D7cb2XNVUAAejOr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7cb2XNVUAAejOr.jpg",
+					"url": "https://t.co/HiZ5VuHVkq",
+					"display_url": "pic.twitter.com/HiZ5VuHVkq",
+					"expanded_url": "https://twitter.com/flytruenorth/status/1132404467075182593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132404452063793200,
+					"id_str": "1132404452063793152",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D7cb2XNVUAAejOr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7cb2XNVUAAejOr.jpg",
+					"url": "https://t.co/HiZ5VuHVkq",
+					"display_url": "pic.twitter.com/HiZ5VuHVkq",
+					"expanded_url": "https://twitter.com/flytruenorth/status/1132404467075182593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 575464126,
+			"id_str": "575464126",
+			"name": "Sarina Houston",
+			"screen_name": "flytruenorth",
+			"location": "Boise, ID",
+			"description": "Airline Pilot, Flight Instructor, Coffee Addict, Recovering Multi-Tasker. Tweets about aviation, coffee, parenting. sarina.j.houston@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4863,
+			"friends_count": 3313,
+			"listed_count": 101,
+			"created_at": "Wed May 09 15:48:50 +0000 2012",
+			"favourites_count": 10583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088146928812969984/PJspsDg4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088146928812969984/PJspsDg4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/575464126/1505859172",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And also with you, previous crew. 🙂 https://t.co/HiZ5VuHVkq"
+	},
+	{
 		"created_at": "Thu May 23 01:48:20 +0000 2019",
 		"id": 1131376283244531700,
 		"id_str": "1131376283244531714",
