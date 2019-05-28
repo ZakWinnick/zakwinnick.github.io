@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 22:51:40 +0000 2019",
+		"id": 1133506152409522200,
+		"id_str": "1133506152409522177",
+		"full_text": "Two days in a row now. \n\n#hendersonvillehatesdogs https://t.co/h50MincQUC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hendersonvillehatesdogs",
+					"indices": [
+						25,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h50MincQUC",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1133146380720058375",
+					"display_url": "twitter.com/ZakWinnick/sta…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1133146380720058400,
+		"in_reply_to_status_id_str": "1133146380720058375",
+		"in_reply_to_user_id": 9586552,
+		"in_reply_to_user_id_str": "9586552",
+		"in_reply_to_screen_name": "ZakWinnick",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 178,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133146380720058400,
+		"quoted_status_id_str": "1133146380720058375",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h50MincQUC",
+			"expanded": "https://twitter.com/ZakWinnick/status/1133146380720058375",
+			"display": "twitter.com/ZakWinnick/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 27 23:02:04 +0000 2019",
+			"id": 1133146380720058400,
+			"id_str": "1133146380720058375",
+			"full_text": "Hey @HvilleTN! How about you guys leave the water on for the puppies at Hendersonville Dog Park? It’s literally the hottest day of the year, and my dogs weren’t able to drink any water from the fountains you all provide because they were off. \n\nWe weren’t alone either.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HvilleTN",
+						"name": "Hendersonville TN",
+						"id": 203328560,
+						"id_str": "203328560",
+						"indices": [
+							4,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9586552,
+				"id_str": "9586552",
+				"name": "Zak Winnick",
+				"screen_name": "ZakWinnick",
+				"location": "Nashville, TN",
+				"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+				"url": "https://t.co/h6N0tCU1zj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h6N0tCU1zj",
+								"expanded_url": "http://ZakWinnick.com",
+								"display_url": "ZakWinnick.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55,
+				"friends_count": 178,
+				"listed_count": 18,
+				"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+				"favourites_count": 141,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9172,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "3F5B66",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+				"profile_link_color": "483D8B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "858080",
+				"profile_text_color": "086660",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Two days in a row now. \n\n#hendersonvillehatesdogs https://t.co/h50MincQUC"
+	},
+	{
 		"created_at": "Tue May 28 22:04:06 +0000 2019",
 		"id": 1133494182151098400,
 		"id_str": "1133494182151098369",
