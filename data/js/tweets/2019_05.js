@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 20:28:05 +0000 2019",
+		"id": 1133470016945446900,
+		"id_str": "1133470016945446912",
+		"full_text": "I don’t think I’ve ever backed a Kickstarter faster… https://t.co/HzEoXw4UiA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HzEoXw4UiA",
+					"expanded_url": "https://twitter.com/robjyeo/status/1133436417806405633",
+					"display_url": "twitter.com/robjyeo/status…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 177,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133436417806405600,
+		"quoted_status_id_str": "1133436417806405633",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HzEoXw4UiA",
+			"expanded": "https://twitter.com/robjyeo/status/1133436417806405633",
+			"display": "twitter.com/robjyeo/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 28 18:14:34 +0000 2019",
+			"id": 1133436417806405600,
+			"id_str": "1133436417806405633",
+			"full_text": "Just launched my Attraction Travel Sticker Kickstarter campaign - if you want to own these designs as stickers or magnets - check out the project now. Rewards from just £5! 👉https://t.co/FasEMQh0Os\nAnd if you could RT, I'd really appreciate it 😊 https://t.co/s4GptkSEqg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FasEMQh0Os",
+						"expanded_url": "http://www.kickstarter.com/projects/robyeo/attraction-travel-stickers",
+						"display_url": "kickstarter.com/projects/robye…",
+						"indices": [
+							174,
+							197
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1133426750757720000,
+						"id_str": "1133426750757720064",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/D7q9n-nW0AAcf2h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7q9n-nW0AAcf2h.jpg",
+						"url": "https://t.co/s4GptkSEqg",
+						"display_url": "pic.twitter.com/s4GptkSEqg",
+						"expanded_url": "https://twitter.com/robjyeo/status/1133436417806405633/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133426750757720000,
+						"id_str": "1133426750757720064",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/D7q9n-nW0AAcf2h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7q9n-nW0AAcf2h.jpg",
+						"url": "https://t.co/s4GptkSEqg",
+						"display_url": "pic.twitter.com/s4GptkSEqg",
+						"expanded_url": "https://twitter.com/robjyeo/status/1133436417806405633/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1133426775290200000,
+						"id_str": "1133426775290200065",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/D7q9paAWwAEzZO2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7q9paAWwAEzZO2.jpg",
+						"url": "https://t.co/s4GptkSEqg",
+						"display_url": "pic.twitter.com/s4GptkSEqg",
+						"expanded_url": "https://twitter.com/robjyeo/status/1133436417806405633/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9660482,
+				"id_str": "9660482",
+				"name": "Rob Yeo",
+				"screen_name": "robjyeo",
+				"location": "Coventry, England",
+				"description": "Illustrator // Themed Entertainment Designer // Theme Park Geek // Frat Boy // Improviser // Married to @aroopert //Instagram: robjyeo // He/Him",
+				"url": "https://t.co/vpnSFs0fSV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vpnSFs0fSV",
+								"expanded_url": "http://www.robyeodesign.com",
+								"display_url": "robyeodesign.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4645,
+				"friends_count": 2224,
+				"listed_count": 109,
+				"created_at": "Wed Oct 24 17:30:11 +0000 2007",
+				"favourites_count": 64373,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 40672,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1107959877824057344/jRGLzZGL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107959877824057344/jRGLzZGL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9660482/1542130054",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don’t think I’ve ever backed a Kickstarter faster… https://t.co/HzEoXw4UiA"
+	},
+	{
 		"created_at": "Mon May 27 23:02:04 +0000 2019",
 		"id": 1133146380720058400,
 		"id_str": "1133146380720058375",
