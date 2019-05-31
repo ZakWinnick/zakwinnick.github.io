@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 31 18:41:06 +0000 2019",
+		"id": 1134530258982592500,
+		"id_str": "1134530258982592514",
+		"full_text": "Lucas and the Nerf Herders - Trippin’ the Lightspeed Fantastic, dropping today. https://t.co/RPle3czYLl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RPle3czYLl",
+					"expanded_url": "https://twitter.com/guyselga/status/1134177296573616128",
+					"display_url": "twitter.com/guyselga/statu…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 178,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134177296573616100,
+		"quoted_status_id_str": "1134177296573616128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RPle3czYLl",
+			"expanded": "https://twitter.com/guyselga/status/1134177296573616128",
+			"display": "twitter.com/guyselga/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 30 19:18:34 +0000 2019",
+			"id": 1134177296573616100,
+			"id_str": "1134177296573616128",
+			"full_text": "I can’t wait for this album to drop https://t.co/ynofjJRqy7 https://t.co/GaqF59MKBd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ynofjJRqy7",
+						"expanded_url": "https://twitter.com/realbdw/status/1134127192844058624",
+						"display_url": "twitter.com/realbdw/status…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1134177281419538400,
+						"id_str": "1134177281419538432",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/D71oOnNUcAAk9VF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D71oOnNUcAAk9VF.jpg",
+						"url": "https://t.co/GaqF59MKBd",
+						"display_url": "pic.twitter.com/GaqF59MKBd",
+						"expanded_url": "https://twitter.com/guyselga/status/1134177296573616128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 978,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 649,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 978,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1134177281419538400,
+						"id_str": "1134177281419538432",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/D71oOnNUcAAk9VF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D71oOnNUcAAk9VF.jpg",
+						"url": "https://t.co/GaqF59MKBd",
+						"display_url": "pic.twitter.com/GaqF59MKBd",
+						"expanded_url": "https://twitter.com/guyselga/status/1134177296573616128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 978,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 649,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 978,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15344318,
+				"id_str": "15344318",
+				"name": "Guy Selga",
+				"screen_name": "guyselga",
+				"location": "Long Beach, CA",
+				"description": "Obsessed with Disneyland. \nDisneyland writer for @TouringPlans & Unofficial Guide to Disneyland.",
+				"url": "https://t.co/H9bwaA5DBA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H9bwaA5DBA",
+								"expanded_url": "http://angryap.com",
+								"display_url": "angryap.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9375,
+				"friends_count": 1471,
+				"listed_count": 186,
+				"created_at": "Mon Jul 07 17:42:16 +0000 2008",
+				"favourites_count": 17191,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 68611,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988868286015156224/ZpFbQfj0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988868286015156224/ZpFbQfj0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15344318/1370830946",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1134127192844058600,
+			"quoted_status_id_str": "1134127192844058624",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ynofjJRqy7",
+				"expanded": "https://twitter.com/realbdw/status/1134127192844058624",
+				"display": "twitter.com/realbdw/status…"
+			},
+			"retweet_count": 15,
+			"favorite_count": 95,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lucas and the Nerf Herders - Trippin’ the Lightspeed Fantastic, dropping today. https://t.co/RPle3czYLl"
+	},
+	{
 		"created_at": "Thu May 30 12:48:27 +0000 2019",
 		"id": 1133912736876945400,
 		"id_str": "1134079123075358720",
