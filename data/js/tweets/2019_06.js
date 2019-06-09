@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 16:42:12 +0000 2019",
+		"id": 1137761826068947000,
+		"id_str": "1137761826068946945",
+		"full_text": "I’m excited that @Casey is doing this. Great exposure for @Tesla (not that it needs it)! https://t.co/Ru96uu0249",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Casey",
+					"name": "Casey Neistat",
+					"id": 154221292,
+					"id_str": "154221292",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"screen_name": "Tesla",
+					"name": "Tesla",
+					"id": 13298072,
+					"id_str": "13298072",
+					"indices": [
+						58,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ru96uu0249",
+					"expanded_url": "https://twitter.com/Casey/status/1137739002805727232",
+					"display_url": "twitter.com/Casey/status/1…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1137739002805727200,
+		"in_reply_to_status_id_str": "1137739002805727232",
+		"in_reply_to_user_id": 154221292,
+		"in_reply_to_user_id_str": "154221292",
+		"in_reply_to_screen_name": "Casey",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 177,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1137739002805727200,
+		"quoted_status_id_str": "1137739002805727232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ru96uu0249",
+			"expanded": "https://twitter.com/Casey/status/1137739002805727232",
+			"display": "twitter.com/Casey/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 09 15:11:31 +0000 2019",
+			"id": 1137739002805727200,
+			"id_str": "1137739002805727232",
+			"full_text": "I'm driving across the USA, from New York City to Los Angeles. I'm going alone, it's something I've always wanted to do.  also, I needed to get the Tesla to LA and didn't want to ship it.  This thread will document the journey - this is mile 1. https://t.co/FJ7pUT6Ik3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1137738994492424200,
+						"id_str": "1137738994492424193",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/D8oPlmXUwAEovgw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8oPlmXUwAEovgw.jpg",
+						"url": "https://t.co/FJ7pUT6Ik3",
+						"display_url": "pic.twitter.com/FJ7pUT6Ik3",
+						"expanded_url": "https://twitter.com/Casey/status/1137739002805727232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1137738994492424200,
+						"id_str": "1137738994492424193",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/D8oPlmXUwAEovgw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8oPlmXUwAEovgw.jpg",
+						"url": "https://t.co/FJ7pUT6Ik3",
+						"display_url": "pic.twitter.com/FJ7pUT6Ik3",
+						"expanded_url": "https://twitter.com/Casey/status/1137739002805727232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 154221292,
+				"id_str": "154221292",
+				"name": "Casey Neistat",
+				"screen_name": "Casey",
+				"location": "nyc",
+				"description": "family + work",
+				"url": "https://t.co/G29ueAVHlb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G29ueAVHlb",
+								"expanded_url": "http://www.youtube.com/caseyneistat",
+								"display_url": "youtube.com/caseyneistat",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1982382,
+				"friends_count": 2055,
+				"listed_count": 4870,
+				"created_at": "Thu Jun 10 17:54:33 +0000 2010",
+				"favourites_count": 37237,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22970,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "616161",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/154221292/1403543694",
+				"profile_link_color": "943D3D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1097,
+			"favorite_count": 21488,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m excited that @Casey is doing this. Great exposure for @Tesla (not that it needs it)! https://t.co/Ru96uu0249"
+	},
+	{
 		"created_at": "Sun Jun 09 13:54:58 +0000 2019",
 		"id": 1137719739168546800,
 		"id_str": "1137719739168546816",
