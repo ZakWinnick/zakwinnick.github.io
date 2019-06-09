@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 13:54:58 +0000 2019",
+		"id": 1137719739168546800,
+		"id_str": "1137719739168546816",
+		"full_text": "What a wild ride this thread is… https://t.co/b4EU7c4ReP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b4EU7c4ReP",
+					"expanded_url": "https://twitter.com/sixthformpoet/status/1137658720698228736",
+					"display_url": "twitter.com/sixthformpoet/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 177,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117910108032442368/PuYwWPMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1137658720698228700,
+		"quoted_status_id_str": "1137658720698228736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b4EU7c4ReP",
+			"expanded": "https://twitter.com/sixthformpoet/status/1137658720698228736",
+			"display": "twitter.com/sixthformpoet/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 09 09:52:30 +0000 2019",
+			"id": 1137658720698228700,
+			"id_str": "1137658720698228736",
+			"full_text": "ONE\n\nMy dad died. Classic start to a funny story. He was buried in a small village in Sussex. I was really close to my dad so I visited his grave a lot. I still do. [DON’T WORRY, IT GETS FUNNIER.]",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 250560251,
+				"id_str": "250560251",
+				"name": "sixthformpoet",
+				"screen_name": "sixthformpoet",
+				"location": "",
+				"description": "Please buy my book, I owe people money.",
+				"url": "https://t.co/wdvqGi5Uke",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wdvqGi5Uke",
+								"expanded_url": "http://www.amazon.co.uk/gp/product/1849533199/ref=s9_simh_gw_p14_d0_i1?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_",
+								"display_url": "amazon.co.uk/gp/product/184…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 148457,
+				"friends_count": 1410,
+				"listed_count": 1745,
+				"created_at": "Fri Feb 11 10:12:10 +0000 2011",
+				"favourites_count": 1842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8788,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1736717679/SFP_2012_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1736717679/SFP_2012_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/250560251/1355344367",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41152,
+			"favorite_count": 79312,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a wild ride this thread is… https://t.co/b4EU7c4ReP"
+	},
+	{
 		"created_at": "Fri Jun 07 01:52:22 +0000 2019",
 		"id": 1136773052639916000,
 		"id_str": "1136813115591528449",
