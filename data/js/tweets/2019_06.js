@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 13:07:16 +0000 2019",
+		"id": 1139135426965508100,
+		"id_str": "1139157288491651073",
+		"full_text": "Tim Russert died 11 years ago today. A reminder of his unparalleled ability to separate guests from the answers they THOUGHT they were going to give. 💯\n\n(via @MeetThePress) #RIP \nhttps://t.co/TfbiI6zZ0v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RIP",
+					"indices": [
+						173,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeetThePress",
+					"name": "Meet the Press",
+					"id": 11856892,
+					"id_str": "11856892",
+					"indices": [
+						158,
+						171
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1006893241403363300,
+					"id_str": "1006893241403363328",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Dfk2s_PWAAEoS-1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dfk2s_PWAAEoS-1.jpg",
+					"url": "https://t.co/TfbiI6zZ0v",
+					"display_url": "pic.twitter.com/TfbiI6zZ0v",
+					"expanded_url": "https://twitter.com/MeetThePress/status/1006896195170701312/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1453,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006896195170701300,
+					"source_status_id_str": "1006896195170701312",
+					"source_user_id": 11856892,
+					"source_user_id_str": "11856892"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1006893241403363300,
+					"id_str": "1006893241403363328",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Dfk2s_PWAAEoS-1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dfk2s_PWAAEoS-1.jpg",
+					"url": "https://t.co/TfbiI6zZ0v",
+					"display_url": "pic.twitter.com/TfbiI6zZ0v",
+					"expanded_url": "https://twitter.com/MeetThePress/status/1006896195170701312/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1453,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006896195170701300,
+					"source_status_id_str": "1006896195170701312",
+					"source_user_id": 11856892,
+					"source_user_id_str": "11856892",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 132767,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1006893241403363328/vid/240x240/eaq6KuFcTcVrNrxa.mp4?tag=2"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1006893241403363328/vid/480x480/qIl-5H8O4FRMvjie.mp4?tag=2"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1006893241403363328/pl/ZcdSDFXas3EA5KxJ.m3u8?tag=2"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1006893241403363328/vid/720x720/DpGUHnHQ2bH4fuf0.mp4?tag=2"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "10 years ago today, Tim Russert passed away",
+						"description": "10 years ago today, Tim Russert passed away while preparing for Meet the Press.",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 11856892,
+							"id_str": "11856892",
+							"name": "Meet the Press",
+							"screen_name": "MeetThePress",
+							"location": "Washington, D.C.",
+							"description": "Meet the Press is the longest-running television show in history. If it's Sunday, it's Meet the Press with @ChuckTodd. #MTP #IfItsSunday #MTPDaily",
+							"url": "https://t.co/uqtRXPrjFZ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/uqtRXPrjFZ",
+											"expanded_url": "http://MeetThePress.com",
+											"display_url": "MeetThePress.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 587229,
+							"friends_count": 403,
+							"listed_count": 6994,
+							"created_at": "Fri Jan 04 22:28:20 +0000 2008",
+							"favourites_count": 1488,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 60435,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/929666076279017472/HSm8OUL7_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/929666076279017472/HSm8OUL7_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/11856892/1510484695",
+							"profile_link_color": "124578",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "D5D7EB",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114782468,
+			"id_str": "114782468",
+			"name": "Carl Quintanilla",
+			"screen_name": "carlquintanilla",
+			"location": "nyc",
+			"description": "@CNBC @NBCUniversal anchor / @WSJ alum / @NYCityCenter board member / “Empathy is the most essential quality of civilization.\" - Roger Ebert",
+			"url": "https://t.co/vAgDHCwpnx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vAgDHCwpnx",
+							"expanded_url": "https://www.cnbc.com/carl-quintanilla/",
+							"display_url": "cnbc.com/carl-quintanil…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173878,
+			"friends_count": 4654,
+			"listed_count": 3197,
+			"created_at": "Tue Feb 16 15:59:04 +0000 2010",
+			"favourites_count": 670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066411703901016064/a_TaL2TQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066411703901016064/a_TaL2TQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114782468/1560424160",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 504,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tim Russert died 11 years ago today. A reminder of his unparalleled ability to separate guests from the answers they THOUGHT they were going to give. 💯\n\n(via @MeetThePress) #RIP \nhttps://t.co/TfbiI6zZ0v"
+	},
+	{
 		"created_at": "Thu Jun 13 00:19:01 +0000 2019",
 		"id": 1138832019851493400,
 		"id_str": "1138963949813227523",
