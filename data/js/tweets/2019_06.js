@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 25 12:49:12 +0000 2019",
+		"id": 1143501395208933400,
+		"id_str": "1143501395208933382",
+		"full_text": "If they can have Norman Bates run at the Trams every 2 minutes in front of the Bates Motel, I think this might be a slight upgrade… https://t.co/inPBwbMrME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/inPBwbMrME",
+					"expanded_url": "https://twitter.com/Cartarsauce/status/1143410832350384128",
+					"display_url": "twitter.com/Cartarsauce/st…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/h6N0tCU1zj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6N0tCU1zj",
+							"expanded_url": "http://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 178,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143312329943199745/YF20o6ni_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143312329943199745/YF20o6ni_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143410832350384100,
+		"quoted_status_id_str": "1143410832350384128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/inPBwbMrME",
+			"expanded": "https://twitter.com/Cartarsauce/status/1143410832350384128",
+			"display": "twitter.com/Cartarsauce/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 25 06:49:20 +0000 2019",
+			"id": 1143410832350384100,
+			"id_str": "1143410832350384128",
+			"full_text": "Literally Nobody:\n\nMe: All I want is a #BacktotheFuture live action stunt show on the tram tour in Hill Valley. Stunt Doc sliding down the cable, DeLorean zooming by into flame tracks, some lightning pyro. Even if it’s just at night, a 60 second show, every 2 minutes. Go.🔥🔥🔥🔥 https://t.co/LqaCl0xq0a",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BacktotheFuture",
+						"indices": [
+							39,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1143410826407100400,
+						"id_str": "1143410826407100416",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D942FqxUwAAW4-K.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D942FqxUwAAW4-K.jpg",
+						"url": "https://t.co/LqaCl0xq0a",
+						"display_url": "pic.twitter.com/LqaCl0xq0a",
+						"expanded_url": "https://twitter.com/Cartarsauce/status/1143410832350384128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 384,
+								"h": 206,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 384,
+								"h": 206,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 384,
+								"h": 206,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1143410826407100400,
+						"id_str": "1143410826407100416",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D942FqxUwAAW4-K.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D942FqxUwAAW4-K.jpg",
+						"url": "https://t.co/LqaCl0xq0a",
+						"display_url": "pic.twitter.com/LqaCl0xq0a",
+						"expanded_url": "https://twitter.com/Cartarsauce/status/1143410832350384128/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 384,
+								"h": 206,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 384,
+								"h": 206,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 384,
+								"h": 206,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								192,
+								103
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D942FqxUwAAW4-K.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54585516,
+				"id_str": "54585516",
+				"name": "Sam Carter",
+				"screen_name": "Cartarsauce",
+				"location": "Orange County, CA",
+				"description": "Experience Designer, former Disney Creative Entertainment, WonderGround Artist, USC Creative Director & Theme Park Geek",
+				"url": "https://t.co/GxpfadeWmA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GxpfadeWmA",
+								"expanded_url": "http://samcarterart.com/",
+								"display_url": "samcarterart.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3487,
+				"friends_count": 1285,
+				"listed_count": 35,
+				"created_at": "Tue Jul 07 15:51:09 +0000 2009",
+				"favourites_count": 32132,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7143,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/941330955679043589/zCaqljBv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/941330955679043589/zCaqljBv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54585516/1561130962",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If they can have Norman Bates run at the Trams every 2 minutes in front of the Bates Motel, I think this might be a slight upgrade… https://t.co/inPBwbMrME"
+	},
+	{
 		"created_at": "Mon Jun 24 12:49:43 +0000 2019",
 		"id": 1143139138650169300,
 		"id_str": "1143139138650169344",
