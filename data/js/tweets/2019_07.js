@@ -1,6 +1,175 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 13:17:12 +0000 2019",
+		"id": 1148537626066075600,
+		"id_str": "1148581871200153601",
+		"full_text": "Make the Upside-Down Great Again!\n\n#mindflayer2020 https://t.co/bymfLrqWXh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mindflayer2020",
+					"indices": [
+						35,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148537619812442100,
+					"id_str": "1148537619812442112",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Bs4UgX4AAFToX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Bs4UgX4AAFToX.jpg",
+					"url": "https://t.co/bymfLrqWXh",
+					"display_url": "pic.twitter.com/bymfLrqWXh",
+					"expanded_url": "https://twitter.com/forgottentowel/status/1148537626066075649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148537619812442100,
+					"id_str": "1148537619812442112",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Bs4UgX4AAFToX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Bs4UgX4AAFToX.jpg",
+					"url": "https://t.co/bymfLrqWXh",
+					"display_url": "pic.twitter.com/bymfLrqWXh",
+					"expanded_url": "https://twitter.com/forgottentowel/status/1148537626066075649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65007470,
+			"id_str": "65007470",
+			"name": "Simon Buckmaster",
+			"screen_name": "forgottentowel",
+			"location": "Nantes, Europe",
+			"description": "Design for @standardshows // Warning: contains language",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1261,
+			"friends_count": 338,
+			"listed_count": 47,
+			"created_at": "Wed Aug 12 11:14:59 +0000 2009",
+			"favourites_count": 26003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119733130343194624/F8yJP6lp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119733130343194624/F8yJP6lp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65007470/1555800845",
+			"profile_link_color": "14171A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E1E4E5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Make the Upside-Down Great Again!\n\n#mindflayer2020 https://t.co/bymfLrqWXh"
+	},
+	{
 		"created_at": "Fri Jul 05 11:17:39 +0000 2019",
 		"id": 1147102234276220900,
 		"id_str": "1147102234276220929",
