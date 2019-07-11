@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 13:29:05 +0000 2019",
+		"id": 1149162514682265600,
+		"id_str": "1149309637860167680",
+		"full_text": "THE LION KING (2019) | Director: Jon Favreau | Director of Photography: Caleb Deschanel | #OnePerfectShot https://t.co/NzOqaWN26z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnePerfectShot",
+					"indices": [
+						90,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149162409531080700,
+					"id_str": "1149162409531080705",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D_KlH3lVAAEvomi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_KlH3lVAAEvomi.jpg",
+					"url": "https://t.co/NzOqaWN26z",
+					"display_url": "pic.twitter.com/NzOqaWN26z",
+					"expanded_url": "https://twitter.com/JustinCChang/status/1149162514682265603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1310,
+							"h": 956,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 876,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149162409531080700,
+					"id_str": "1149162409531080705",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D_KlH3lVAAEvomi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_KlH3lVAAEvomi.jpg",
+					"url": "https://t.co/NzOqaWN26z",
+					"display_url": "pic.twitter.com/NzOqaWN26z",
+					"expanded_url": "https://twitter.com/JustinCChang/status/1149162514682265603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1310,
+							"h": 956,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 876,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96683173,
+			"id_str": "96683173",
+			"name": "Justin Chang",
+			"screen_name": "JustinCChang",
+			"location": "Los Angeles",
+			"description": "Film Critic, @latimes and @nprfreshair | Chair, @NatSocFilmCrix | Author, Filmcraft: Editing",
+			"url": "https://t.co/tk0e8zy2x6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tk0e8zy2x6",
+							"expanded_url": "http://www.latimes.com/la-bio-justin-chang-staff.html",
+							"display_url": "latimes.com/la-bio-justin-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137186,
+			"friends_count": 2130,
+			"listed_count": 771,
+			"created_at": "Mon Dec 14 03:18:53 +0000 2009",
+			"favourites_count": 24300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/450798665733386240/Au9CftTO_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/450798665733386240/Au9CftTO_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96683173/1554940327",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 391,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THE LION KING (2019) | Director: Jon Favreau | Director of Photography: Caleb Deschanel | #OnePerfectShot https://t.co/NzOqaWN26z"
+	},
+	{
 		"created_at": "Thu Jul 11 12:48:34 +0000 2019",
 		"id": 1149299442484465700,
 		"id_str": "1149299442484465670",
