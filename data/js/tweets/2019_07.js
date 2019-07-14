@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 14 20:48:15 +0000 2019",
+		"id": 1150287795761471500,
+		"id_str": "1150507322952814594",
+		"full_text": "Paul and Ringo reunite for Sgt. Pepper’s on the last night of Paul McCartney’s tour!!!! THE BEATLES BABY!!! https://t.co/QGVX75UeMP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150287184588492800,
+					"id_str": "1150287184588492800",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150287184588492800/pu/img/33d92Joo-rXO0Ztk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150287184588492800/pu/img/33d92Joo-rXO0Ztk.jpg",
+					"url": "https://t.co/QGVX75UeMP",
+					"display_url": "pic.twitter.com/QGVX75UeMP",
+					"expanded_url": "https://twitter.com/tarabitran/status/1150287795761471489/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150287184588492800,
+					"id_str": "1150287184588492800",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150287184588492800/pu/img/33d92Joo-rXO0Ztk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150287184588492800/pu/img/33d92Joo-rXO0Ztk.jpg",
+					"url": "https://t.co/QGVX75UeMP",
+					"display_url": "pic.twitter.com/QGVX75UeMP",
+					"expanded_url": "https://twitter.com/tarabitran/status/1150287795761471489/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 135105,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1150287184588492800/pu/vid/640x360/-SINRfGF_JORfKGb.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1150287184588492800/pu/vid/1280x720/A3GDigj72E4jBCkk.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1150287184588492800/pu/vid/480x270/I-6IQq-V8wutHf0T.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1150287184588492800/pu/pl/goITD4Mj04ahuNUY.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2978274942,
+			"id_str": "2978274942",
+			"name": "Tara Bitran",
+			"screen_name": "tarabitran",
+			"location": "LA // London",
+			"description": "Editorial @THR, @Variety. Previously seen in @TeenVogue, @businessinsider, @SpoonUniversity. I love peanut butter and period dramas.",
+			"url": "https://t.co/B8Nrp8gY4V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B8Nrp8gY4V",
+							"expanded_url": "http://variety.com/author/tarabitran/",
+							"display_url": "variety.com/author/tarabit…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 482,
+			"friends_count": 789,
+			"listed_count": 6,
+			"created_at": "Tue Jan 13 03:10:19 +0000 2015",
+			"favourites_count": 4928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972609369077526528/xPWgO-Q9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972609369077526528/xPWgO-Q9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2978274942/1422739276",
+			"profile_link_color": "33CCCC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9e39295083001",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9e39295083001.json",
+			"place_type": "poi",
+			"name": "Dodger Stadium",
+			"full_name": "Dodger Stadium",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.24057594169545,
+							34.07365323883934
+						],
+						[
+							-118.24057594169545,
+							34.07365323883934
+						],
+						[
+							-118.24057594169545,
+							34.07365323883934
+						],
+						[
+							-118.24057594169545,
+							34.07365323883934
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Paul and Ringo reunite for Sgt. Pepper’s on the last night of Paul McCartney’s tour!!!! THE BEATLES BABY!!! https://t.co/QGVX75UeMP"
+	},
+	{
 		"created_at": "Thu Jul 11 15:04:33 +0000 2019",
 		"id": 1149327487769501700,
 		"id_str": "1149333662741258241",
