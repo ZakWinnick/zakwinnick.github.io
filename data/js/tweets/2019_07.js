@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 15 15:11:18 +0000 2019",
+		"id": 1150784911319720000,
+		"id_str": "1150784911319719937",
+		"full_text": "If you only watch one thing on the internet today, make it this…\n\nHell, just watch it even if you’ve watched something else. https://t.co/SJsA400EKl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SJsA400EKl",
+					"expanded_url": "https://twitter.com/EddieSpuhghetti/status/1148731123515744256",
+					"display_url": "twitter.com/EddieSpuhghett…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 180,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1148731123515744300,
+		"quoted_status_id_str": "1148731123515744256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SJsA400EKl",
+			"expanded": "https://twitter.com/EddieSpuhghetti/status/1148731123515744256",
+			"display": "twitter.com/EddieSpuhghett…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 09 23:10:16 +0000 2019",
+			"id": 1148731123515744300,
+			"id_str": "1148731123515744256",
+			"full_text": "I give you the VHS recorded intro for Hopper, P.I.\n@DavidKHarbour @Stranger_Things @netflix Let's do lunch.\n#strangerthings #hopperpi #vhs #eddiespuhghetti #davidharbour https://t.co/hvadfV9v6F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "strangerthings",
+						"indices": [
+							108,
+							123
+						]
+					},
+					{
+						"text": "hopperpi",
+						"indices": [
+							124,
+							133
+						]
+					},
+					{
+						"text": "vhs",
+						"indices": [
+							134,
+							138
+						]
+					},
+					{
+						"text": "eddiespuhghetti",
+						"indices": [
+							139,
+							155
+						]
+					},
+					{
+						"text": "davidharbour",
+						"indices": [
+							156,
+							169
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DavidKHarbour",
+						"name": "David Harbour",
+						"id": 1416622795,
+						"id_str": "1416622795",
+						"indices": [
+							51,
+							65
+						]
+					},
+					{
+						"screen_name": "Stranger_Things",
+						"name": "Stranger Things",
+						"id": 3320478908,
+						"id_str": "3320478908",
+						"indices": [
+							66,
+							82
+						]
+					},
+					{
+						"screen_name": "netflix",
+						"name": "Netflix US",
+						"id": 16573941,
+						"id_str": "16573941",
+						"indices": [
+							83,
+							91
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1148727119608000500,
+						"id_str": "1148727119608000514",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1148727119608000514/pu/img/mYC3Qk3bbYTu-wLh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1148727119608000514/pu/img/mYC3Qk3bbYTu-wLh.jpg",
+						"url": "https://t.co/hvadfV9v6F",
+						"display_url": "pic.twitter.com/hvadfV9v6F",
+						"expanded_url": "https://twitter.com/EddieSpuhghetti/status/1148731123515744256/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 636,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 636,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 636,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1148727119608000500,
+						"id_str": "1148727119608000514",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1148727119608000514/pu/img/mYC3Qk3bbYTu-wLh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1148727119608000514/pu/img/mYC3Qk3bbYTu-wLh.jpg",
+						"url": "https://t.co/hvadfV9v6F",
+						"display_url": "pic.twitter.com/hvadfV9v6F",
+						"expanded_url": "https://twitter.com/EddieSpuhghetti/status/1148731123515744256/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 636,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 636,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 636,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								53,
+								40
+							],
+							"duration_millis": 58558,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1148727119608000514/pu/vid/636x480/0ZHz4t6My7wSKHfE.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1148727119608000514/pu/vid/476x360/Ofu2LFPvVgHck3ZA.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1148727119608000514/pu/pl/u7Uac2TcVQgzfQVp.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1148727119608000514/pu/vid/356x270/JQ4Et-MYhwas-aWb.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 907978565655941100,
+				"id_str": "907978565655941124",
+				"name": "Eddie Spuhghetti",
+				"screen_name": "EddieSpuhghetti",
+				"location": "Beverly Hills, CA",
+				"description": "Retro-Horror Host of Here Lies. Hollywood Producer and Video Artist #therightstuff",
+				"url": "https://t.co/P8bhGWhXMR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P8bhGWhXMR",
+								"expanded_url": "http://www.youtube.com/hereliesofficial",
+								"display_url": "youtube.com/hereliesoffici…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 260,
+				"friends_count": 105,
+				"listed_count": 0,
+				"created_at": "Wed Sep 13 14:45:34 +0000 2017",
+				"favourites_count": 1040,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 421,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/907981831412338689/mAO_cSZ0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/907981831412338689/mAO_cSZ0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/907978565655941124/1505314737",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2558,
+			"favorite_count": 8876,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you only watch one thing on the internet today, make it this…\n\nHell, just watch it even if you’ve watched something else. https://t.co/SJsA400EKl"
+	},
+	{
 		"created_at": "Mon Jul 15 12:50:28 +0000 2019",
 		"id": 1150746375224799200,
 		"id_str": "1150749471027974144",
