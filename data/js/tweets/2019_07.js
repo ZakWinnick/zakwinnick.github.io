@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 15 12:50:28 +0000 2019",
+		"id": 1150746375224799200,
+		"id_str": "1150749471027974144",
+		"full_text": "Alan Turing, the World War II code-breaker who introduced the basis of modern computing and was castrated for being gay, is the new face of Britain's £50 note https://t.co/wnAbVBBesj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wnAbVBBesj",
+					"expanded_url": "https://cnn.it/2jX2aVb",
+					"display_url": "cnn.it/2jX2aVb",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 759251,
+			"id_str": "759251",
+			"name": "CNN",
+			"screen_name": "CNN",
+			"location": "",
+			"description": "It’s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK  & Download our app ?https://t.co/UCHG9M367J",
+			"url": "http://t.co/IaghNW8Xm2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/IaghNW8Xm2",
+							"expanded_url": "http://www.cnn.com",
+							"display_url": "cnn.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UCHG9M367J",
+							"expanded_url": "http://cnn.com/apps",
+							"display_url": "cnn.com/apps",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 42296030,
+			"friends_count": 1108,
+			"listed_count": 138710,
+			"created_at": "Fri Feb 09 00:35:02 +0000 2007",
+			"favourites_count": 1437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 251593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "323232",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1508752874",
+			"profile_link_color": "004287",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 322,
+		"favorite_count": 1202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alan Turing, the World War II code-breaker who introduced the basis of modern computing and was castrated for being gay, is the new face of Britain's £50 note https://t.co/wnAbVBBesj"
+	},
+	{
 		"created_at": "Sun Jul 14 20:48:15 +0000 2019",
 		"id": 1150287795761471500,
 		"id_str": "1150507322952814594",
