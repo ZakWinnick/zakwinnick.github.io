@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 15 19:23:39 +0000 2019",
+		"id": 1150812270898896900,
+		"id_str": "1150848421152141314",
+		"full_text": "Almost 50 years ago, humanity achieved the impossible.\n\nFrom the Earth to the Moon is now streaming. https://t.co/HE2LalWEPK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150809548904632300,
+					"id_str": "1150809548904632320",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D_h_ZZZWsAAtaEH.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_h_ZZZWsAAtaEH.png",
+					"url": "https://t.co/HE2LalWEPK",
+					"display_url": "pic.twitter.com/HE2LalWEPK",
+					"expanded_url": "https://twitter.com/HBO/status/1150812270898896897/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 704,
+							"h": 704,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 704,
+							"h": 704,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150809548904632300,
+					"id_str": "1150809548904632320",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D_h_ZZZWsAAtaEH.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_h_ZZZWsAAtaEH.png",
+					"url": "https://t.co/HE2LalWEPK",
+					"display_url": "pic.twitter.com/HE2LalWEPK",
+					"expanded_url": "https://twitter.com/HBO/status/1150812270898896897/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 704,
+							"h": 704,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 704,
+							"h": 704,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 35035,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1150809548904632320/vid/480x480/0qzTYQuqrjqyrKCo.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1150809548904632320/vid/640x640/e3Xz0gCw_O563WrR.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1150809548904632320/pl/UrG4li-Izaf0_moJ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1150809548904632320/vid/320x320/S7qrqFWynmCSBuc0.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15635604,
+			"id_str": "15635604",
+			"name": "HBO",
+			"screen_name": "HBO",
+			"location": "United States",
+			"description": "It's not TV. It's HBO.",
+			"url": "https://t.co/3or88vLaSX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3or88vLaSX",
+							"expanded_url": "https://www.hbo.com/",
+							"display_url": "hbo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2401152,
+			"friends_count": 596,
+			"listed_count": 11818,
+			"created_at": "Mon Jul 28 18:30:12 +0000 2008",
+			"favourites_count": 17581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 47915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1F1F1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121474717477679105/pjJ_ElTq_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121474717477679105/pjJ_ElTq_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15635604/1561391889",
+			"profile_link_color": "2160A3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252525",
+			"profile_text_color": "757075",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Almost 50 years ago, humanity achieved the impossible.\n\nFrom the Earth to the Moon is now streaming. https://t.co/HE2LalWEPK"
+	},
+	{
 		"created_at": "Mon Jul 15 15:11:18 +0000 2019",
 		"id": 1150784911319720000,
 		"id_str": "1150784911319719937",
