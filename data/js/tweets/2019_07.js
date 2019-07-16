@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 16 15:20:04 +0000 2019",
+		"id": 1151149508975312900,
+		"id_str": "1151149508975312897",
+		"full_text": "Ooh…this looks like it has amazing potential! https://t.co/o7JZtdBuV0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o7JZtdBuV0",
+					"expanded_url": "https://twitter.com/LoungeSorcerer/status/1151120562388910082",
+					"display_url": "twitter.com/LoungeSorcerer…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 181,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151120562388910100,
+		"quoted_status_id_str": "1151120562388910082",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o7JZtdBuV0",
+			"expanded": "https://twitter.com/LoungeSorcerer/status/1151120562388910082",
+			"display": "twitter.com/LoungeSorcerer…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 16 13:25:03 +0000 2019",
+			"id": 1151120562388910100,
+			"id_str": "1151120562388910082",
+			"full_text": "Coming Soon!  A brand new podcast where we invite you to join us at the bar as we discuss themed entertainment design. https://t.co/5Z953HQeev",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1151120227012419600,
+						"id_str": "1151120227012419584",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_mZv2DXoAA5R4K.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_mZv2DXoAA5R4K.jpg",
+						"url": "https://t.co/5Z953HQeev",
+						"display_url": "pic.twitter.com/5Z953HQeev",
+						"expanded_url": "https://twitter.com/LoungeSorcerer/status/1151120562388910082/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 250,
+								"h": 120,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 250,
+								"h": 120,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 250,
+								"h": 120,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 120,
+								"h": 120,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1151120227012419600,
+						"id_str": "1151120227012419584",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_mZv2DXoAA5R4K.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_mZv2DXoAA5R4K.jpg",
+						"url": "https://t.co/5Z953HQeev",
+						"display_url": "pic.twitter.com/5Z953HQeev",
+						"expanded_url": "https://twitter.com/LoungeSorcerer/status/1151120562388910082/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 250,
+								"h": 120,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 250,
+								"h": 120,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 250,
+								"h": 120,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 120,
+								"h": 120,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								12
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D_mZv2DXoAA5R4K.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1125483125289705500,
+				"id_str": "1125483125289705476",
+				"name": "Sorcerer's Lounge Podcast",
+				"screen_name": "LoungeSorcerer",
+				"location": "England, United Kingdom",
+				"description": "Join @185peracre and @robjyeo at the bar as we discuss themed entertainment design. Coming Soon!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44,
+				"friends_count": 38,
+				"listed_count": 0,
+				"created_at": "Mon May 06 19:31:02 +0000 2019",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1151103458419892224/PjIqqtsh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151103458419892224/PjIqqtsh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125483125289705476/1563280065",
+				"profile_link_color": "70CAC7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ooh…this looks like it has amazing potential! https://t.co/o7JZtdBuV0"
+	},
+	{
 		"created_at": "Tue Jul 16 14:45:07 +0000 2019",
 		"id": 1151140710931816400,
 		"id_str": "1151140710931816449",
