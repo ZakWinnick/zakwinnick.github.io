@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 14:01:43 +0000 2019",
+		"id": 1151834648445620200,
+		"id_str": "1151854566440427520",
+		"full_text": "Worrying is a misuse of your imagination.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1336103401,
+			"id_str": "1336103401",
+			"name": "Dan Mace",
+			"screen_name": "Dannmace",
+			"location": "Cape Town, South Africa",
+			"description": "Eternal student of human behavior and creativity! I practically sleep with my camera..",
+			"url": "https://t.co/faxpwaeulK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/faxpwaeulK",
+							"expanded_url": "https://www.youtube.com/c/DanMace",
+							"display_url": "youtube.com/c/DanMace",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101330,
+			"friends_count": 410,
+			"listed_count": 255,
+			"created_at": "Mon Apr 08 08:36:46 +0000 2013",
+			"favourites_count": 2240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120294216255590400/WdHjV1CL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120294216255590400/WdHjV1CL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1336103401/1365411092",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 540,
+		"favorite_count": 1943,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Worrying is a misuse of your imagination."
+	},
+	{
 		"created_at": "Wed Jul 17 13:43:08 +0000 2019",
 		"id": 1151487502680821800,
 		"id_str": "1151487502680821760",
