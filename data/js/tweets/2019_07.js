@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 20 00:34:49 +0000 2019",
+		"id": 1152315020568604700,
+		"id_str": "1152376276805705729",
+		"full_text": "This Sunday marks the 30th anniversary of the theatrical release of UHF.  Here's a little interview I did about it with @lyndseyparker from @YahooEnt: https://t.co/Zc4kBbCnrP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lyndseyparker",
+					"name": "Lÿndsey Parker",
+					"id": 29860849,
+					"id_str": "29860849",
+					"indices": [
+						120,
+						134
+					]
+				},
+				{
+					"screen_name": "YahooEnt",
+					"name": "Yahoo Entertainment",
+					"id": 17852343,
+					"id_str": "17852343",
+					"indices": [
+						140,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Zc4kBbCnrP",
+					"expanded_url": "https://yhoo.it/32zAl6J",
+					"display_url": "yhoo.it/32zAl6J",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22461427,
+			"id_str": "22461427",
+			"name": "Al Yankovic",
+			"screen_name": "alyankovic",
+			"location": "Los Angeles",
+			"description": "You know... the weird one.",
+			"url": "https://t.co/AQRv276mUy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AQRv276mUy",
+							"expanded_url": "http://weirdal.com",
+							"display_url": "weirdal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5158895,
+			"friends_count": 600,
+			"listed_count": 30580,
+			"created_at": "Mon Mar 02 07:00:29 +0000 2009",
+			"favourites_count": 4065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22461427/1398828117",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 532,
+		"favorite_count": 3288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This Sunday marks the 30th anniversary of the theatrical release of UHF.  Here's a little interview I did about it with @lyndseyparker from @YahooEnt: https://t.co/Zc4kBbCnrP"
+	},
+	{
 		"created_at": "Thu Jul 18 14:01:43 +0000 2019",
 		"id": 1151834648445620200,
 		"id_str": "1151854566440427520",
