@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 24 13:12:16 +0000 2019",
+		"id": 1154014923321684000,
+		"id_str": "1154016447636656133",
+		"full_text": "Trimp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17824099,
+			"id_str": "17824099",
+			"name": "Will Bunch",
+			"screen_name": "Will_Bunch",
+			"location": "Philly",
+			"description": "National opinion columnist for the Philadelphia Inquirer. Author of The Bern Identity https://t.co/KIBdYUZnhD and Tear Down This Myth #impeach",
+			"url": "http://t.co/5gprsKxOE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/5gprsKxOE5",
+							"expanded_url": "http://Attytood.com",
+							"display_url": "Attytood.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KIBdYUZnhD",
+							"expanded_url": "http://amzn.to/1VxGLJk",
+							"display_url": "amzn.to/1VxGLJk",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 45925,
+			"friends_count": 1883,
+			"listed_count": 1191,
+			"created_at": "Wed Dec 03 00:56:21 +0000 2008",
+			"favourites_count": 54448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 79465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122133174849548290/TyNtR5GY_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122133174849548290/TyNtR5GY_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17824099/1446991332",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Trimp"
+	},
+	{
 		"created_at": "Mon Jul 22 02:10:20 +0000 2019",
 		"id": 1153125091338858500,
 		"id_str": "1153125091338858497",
