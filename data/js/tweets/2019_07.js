@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 25 12:42:56 +0000 2019",
+		"id": 1154371452600295400,
+		"id_str": "1154371452600295424",
+		"full_text": "Lanny McDonald v. Martin Brodeur.\n\nI might have a chance… https://t.co/GH5AvGJRbK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GH5AvGJRbK",
+					"expanded_url": "https://twitter.com/GameTimeArt/status/1153872018145607680",
+					"display_url": "twitter.com/GameTimeArt/st…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 182,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1153872018145607700,
+		"quoted_status_id_str": "1153872018145607680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GH5AvGJRbK",
+			"expanded": "https://twitter.com/GameTimeArt/status/1153872018145607680",
+			"display": "twitter.com/GameTimeArt/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 24 03:38:21 +0000 2019",
+			"id": 1153872018145607700,
+			"id_str": "1153872018145607680",
+			"full_text": "The best hockey player born on your birthday has to score on a penalty shot to save your life. The goalie he's facing is the starter of the Stanley Cup champs the year you graduated high school.\n\nDo you get to see tomorrow?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9388832,
+				"id_str": "9388832",
+				"name": "Noted Hockey Fan",
+				"screen_name": "GameTimeArt",
+				"location": "Edmonton, Alberta, Canada",
+				"description": "@NHLJetsNation guy. Wrestling nerd writer with @All_Wrestling. Tweets too much. Overwatch addict. Go Astros, Spurs & Seahawks. https://t.co/ImUFUIvwiQ",
+				"url": "https://t.co/lT2BIK4l37",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lT2BIK4l37",
+								"expanded_url": "http://JetsNation.ca",
+								"display_url": "JetsNation.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ImUFUIvwiQ",
+								"expanded_url": "http://Twitch.tv/CleverishGaming",
+								"display_url": "Twitch.tv/CleverishGaming",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2968,
+				"friends_count": 1599,
+				"listed_count": 161,
+				"created_at": "Thu Oct 11 21:12:59 +0000 2007",
+				"favourites_count": 33364,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 162655,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "092AA2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150644929447649280/jENFJpsM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150644929447649280/jENFJpsM_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9388832/1563170170",
+				"profile_link_color": "003366",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 371,
+			"favorite_count": 2049,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lanny McDonald v. Martin Brodeur.\n\nI might have a chance… https://t.co/GH5AvGJRbK"
+	},
+	{
 		"created_at": "Wed Jul 24 13:12:16 +0000 2019",
 		"id": 1154014923321684000,
 		"id_str": "1154016447636656133",
