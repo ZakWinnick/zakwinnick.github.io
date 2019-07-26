@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 26 22:06:36 +0000 2019",
+		"id": 1154853149955494000,
+		"id_str": "1154875694717034496",
+		"full_text": "There was a time, glorious and distant, when Los Angeles's freeways were a symbol of optimism, holding the promise of better lives in a decentralized city. \n\nHere's a look back at Southern California's freeways when they were new — and empty. → https://t.co/R8DxqwQvBV https://t.co/nCNGy3QUWK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R8DxqwQvBV",
+					"expanded_url": "https://www.kcet.org/shows/lost-la/concrete-fantasy-when-southern-californias-freeways-were-new-and-empty",
+					"display_url": "kcet.org/shows/lost-la/…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1154853147082444800,
+					"id_str": "1154853147082444802",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EAbc0Y-XUAIoq7t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAbc0Y-XUAIoq7t.jpg",
+					"url": "https://t.co/nCNGy3QUWK",
+					"display_url": "pic.twitter.com/nCNGy3QUWK",
+					"expanded_url": "https://twitter.com/mmcphate/status/1154853149955493888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154853147082444800,
+					"id_str": "1154853147082444802",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EAbc0Y-XUAIoq7t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAbc0Y-XUAIoq7t.jpg",
+					"url": "https://t.co/nCNGy3QUWK",
+					"display_url": "pic.twitter.com/nCNGy3QUWK",
+					"expanded_url": "https://twitter.com/mmcphate/status/1154853149955493888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154853147682267100,
+					"id_str": "1154853147682267136",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EAbc0bNX4AAciqZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAbc0bNX4AAciqZ.jpg",
+					"url": "https://t.co/nCNGy3QUWK",
+					"display_url": "pic.twitter.com/nCNGy3QUWK",
+					"expanded_url": "https://twitter.com/mmcphate/status/1154853149955493888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1876,
+							"h": 1275,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154853147334119400,
+					"id_str": "1154853147334119436",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EAbc0Z6XkAwZG0-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAbc0Z6XkAwZG0-.jpg",
+					"url": "https://t.co/nCNGy3QUWK",
+					"display_url": "pic.twitter.com/nCNGy3QUWK",
+					"expanded_url": "https://twitter.com/mmcphate/status/1154853149955493888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 566,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 781,
+							"h": 939,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 781,
+							"h": 939,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154853147233403000,
+					"id_str": "1154853147233402881",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EAbc0ZiWwAEE7Ay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAbc0ZiWwAEE7Ay.jpg",
+					"url": "https://t.co/nCNGy3QUWK",
+					"display_url": "pic.twitter.com/nCNGy3QUWK",
+					"expanded_url": "https://twitter.com/mmcphate/status/1154853149955493888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11136082,
+			"id_str": "11136082",
+			"name": "California Sun",
+			"screen_name": "mmcphate",
+			"location": "California, USA",
+			"description": "Must-read stories about the Golden State, delivered daily to your inbox. Sign up free: https://t.co/IuNB8rqs7T",
+			"url": "https://t.co/bTRUYfHeCY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bTRUYfHeCY",
+							"expanded_url": "http://www.californiasun.co",
+							"display_url": "californiasun.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IuNB8rqs7T",
+							"expanded_url": "http://californiasun.co",
+							"display_url": "californiasun.co",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14655,
+			"friends_count": 10184,
+			"listed_count": 303,
+			"created_at": "Thu Dec 13 18:08:10 +0000 2007",
+			"favourites_count": 5494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6479E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11136082/1528743412",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There was a time, glorious and distant, when Los Angeles's freeways were a symbol of optimism, holding the promise of better lives in a decentralized city. \n\nHere's a look back at Southern California's freeways when they were new — and empty. → https://t.co/R8DxqwQvBV https://t.co/nCNGy3QUWK"
+	},
+	{
 		"created_at": "Thu Jul 25 23:53:56 +0000 2019",
 		"id": 1154540316176707600,
 		"id_str": "1154540316176707584",
