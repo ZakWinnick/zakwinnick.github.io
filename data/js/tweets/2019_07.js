@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 27 01:08:46 +0000 2019",
+		"id": 1154921537331454000,
+		"id_str": "1154921537331453954",
+		"full_text": "Yeah. It happens every year. \n\nThis is news? https://t.co/iFyjIURDYB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iFyjIURDYB",
+					"expanded_url": "https://twitter.com/KFIAM640/status/1154919091519594496",
+					"display_url": "twitter.com/KFIAM640/statu…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 184,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154919091519594500,
+		"quoted_status_id_str": "1154919091519594496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iFyjIURDYB",
+			"expanded": "https://twitter.com/KFIAM640/status/1154919091519594496",
+			"display": "twitter.com/KFIAM640/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 27 00:59:03 +0000 2019",
+			"id": 1154919091519594500,
+			"id_str": "1154919091519594496",
+			"full_text": "The insects are attracted to the bright lights of Las Vegas Boulevard. \n\nhttps://t.co/R7RHC3Jy6N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R7RHC3Jy6N",
+						"expanded_url": "http://ihe.art/hf1G9Ul",
+						"display_url": "ihe.art/hf1G9Ul",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17077313,
+				"id_str": "17077313",
+				"name": "KFI AM 640",
+				"screen_name": "KFIAM640",
+				"location": "Southern California",
+				"description": "Stay connected. Like us at https://t.co/gTB2tyJlD3 and follow @KFIAM640 on Instagram.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gTB2tyJlD3",
+								"expanded_url": "http://Facebook.com/KFIAM640",
+								"display_url": "Facebook.com/KFIAM640",
+								"indices": [
+									27,
+									50
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 52413,
+				"friends_count": 695,
+				"listed_count": 1114,
+				"created_at": "Thu Oct 30 23:57:21 +0000 2008",
+				"favourites_count": 878,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 77387,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/525744959811383296/1279Gv3N_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/525744959811383296/1279Gv3N_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17077313/1555346539",
+				"profile_link_color": "E26613",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C1C0C0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yeah. It happens every year. \n\nThis is news? https://t.co/iFyjIURDYB"
+	},
+	{
 		"created_at": "Fri Jul 26 22:06:36 +0000 2019",
 		"id": 1154853149955494000,
 		"id_str": "1154875694717034496",
