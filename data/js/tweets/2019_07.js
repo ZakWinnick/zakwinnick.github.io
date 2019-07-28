@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 28 01:07:44 +0000 2019",
+		"id": 1155223213913325600,
+		"id_str": "1155283665842311168",
+		"full_text": "A rainbow brontosaurus at Keyhole Arch in Big Sur. → https://t.co/FykGbkWita\n\nPhoto by Darren Pearson https://t.co/axvXJTg6Vt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FykGbkWita",
+					"expanded_url": "http://calif.sn/jqvoj",
+					"display_url": "calif.sn/jqvoj",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1155223212042653700,
+					"id_str": "1155223212042653698",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EAgtZAYWkAIIHcR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAgtZAYWkAIIHcR.jpg",
+					"url": "https://t.co/axvXJTg6Vt",
+					"display_url": "pic.twitter.com/axvXJTg6Vt",
+					"expanded_url": "https://twitter.com/mmcphate/status/1155223213913325568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1155223212042653700,
+					"id_str": "1155223212042653698",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EAgtZAYWkAIIHcR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAgtZAYWkAIIHcR.jpg",
+					"url": "https://t.co/axvXJTg6Vt",
+					"display_url": "pic.twitter.com/axvXJTg6Vt",
+					"expanded_url": "https://twitter.com/mmcphate/status/1155223213913325568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11136082,
+			"id_str": "11136082",
+			"name": "California Sun",
+			"screen_name": "mmcphate",
+			"location": "California, USA",
+			"description": "Must-read stories about the Golden State, delivered daily to your inbox. Sign up free: https://t.co/IuNB8rqs7T",
+			"url": "https://t.co/bTRUYfHeCY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bTRUYfHeCY",
+							"expanded_url": "http://www.californiasun.co",
+							"display_url": "californiasun.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IuNB8rqs7T",
+							"expanded_url": "http://californiasun.co",
+							"display_url": "californiasun.co",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14660,
+			"friends_count": 10186,
+			"listed_count": 303,
+			"created_at": "Thu Dec 13 18:08:10 +0000 2007",
+			"favourites_count": 5503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6479E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11136082/1528743412",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A rainbow brontosaurus at Keyhole Arch in Big Sur. → https://t.co/FykGbkWita\n\nPhoto by Darren Pearson https://t.co/axvXJTg6Vt"
+	},
+	{
 		"created_at": "Sat Jul 27 16:39:54 +0000 2019",
 		"id": 1155155865026121700,
 		"id_str": "1155155865026121728",
