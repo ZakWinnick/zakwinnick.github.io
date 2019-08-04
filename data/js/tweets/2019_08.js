@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 04 16:07:24 +0000 2019",
+		"id": 1158046787212644400,
+		"id_str": "1158046787212644354",
+		"full_text": "I mean, this essentially happened with the 737MAX… https://t.co/bBAenrRI3n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bBAenrRI3n",
+					"expanded_url": "https://twitter.com/jonostrower/status/1158044447596138496",
+					"display_url": "twitter.com/jonostrower/st…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 185,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1158044447596138500,
+		"quoted_status_id_str": "1158044447596138496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bBAenrRI3n",
+			"expanded": "https://twitter.com/jonostrower/status/1158044447596138496",
+			"display": "twitter.com/jonostrower/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 04 15:58:06 +0000 2019",
+			"id": 1158044447596138500,
+			"id_str": "1158044447596138496",
+			"full_text": "Let’s just say, for the sake of this mass shootings are plane crashes argument, that if two crashes happened in rapid succession, a populace would insist on action by regulators, manufacturers and investigators to look for any links and find ways to break the chain of events.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14892330,
+				"id_str": "14892330",
+				"name": "Jon Ostrower",
+				"screen_name": "jonostrower",
+				"location": "Seattle",
+				"description": "Editor-in-chief of The Air Current. Chaser of things that fly, unapologetic geek. CNN, WSJ & Flightglobal alum. Email jon @theaircurrent dot com.",
+				"url": "https://t.co/HhfS2op0nC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HhfS2op0nC",
+								"expanded_url": "http://www.theaircurrent.com",
+								"display_url": "theaircurrent.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 80106,
+				"friends_count": 5268,
+				"listed_count": 2501,
+				"created_at": "Sat May 24 16:36:26 +0000 2008",
+				"favourites_count": 13102,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 54454,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "31266E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/864687790553944064/mVGioPWa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/864687790553944064/mVGioPWa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14892330/1476587298",
+				"profile_link_color": "1111C3",
+				"profile_sidebar_border_color": "D0D0D0",
+				"profile_sidebar_fill_color": "8D7BBC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mean, this essentially happened with the 737MAX… https://t.co/bBAenrRI3n"
+	},
+	{
 		"created_at": "Sun Aug 04 15:07:47 +0000 2019",
 		"id": 1158031785843994600,
 		"id_str": "1158031785843994624",
