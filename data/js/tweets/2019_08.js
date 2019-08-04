@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 23:37:12 +0000 2019",
+		"id": 1157797595764465700,
+		"id_str": "1157797595764465664",
+		"full_text": "I still use my MP2100 to this day (it’s a fantastic notepad). \n\nGranted, it was the last model produced, and technically not an Apple product (Apple spun off the Newton group for the MP2100, and Steve Jobs killed it when he returned to Apple in ‘97). https://t.co/8zWedAx5Fh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8zWedAx5Fh",
+					"expanded_url": "https://twitter.com/BrianRoemmele/status/1157671611023015936",
+					"display_url": "twitter.com/BrianRoemmele/…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 185,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1157671611023016000,
+		"quoted_status_id_str": "1157671611023015936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8zWedAx5Fh",
+			"expanded": "https://twitter.com/BrianRoemmele/status/1157671611023015936",
+			"display": "twitter.com/BrianRoemmele/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 03 15:16:35 +0000 2019",
+			"id": 1157671611023016000,
+			"id_str": "1157671611023015936",
+			"full_text": "On this day August 2nd, 1993 Apple released the Newton MP100.\n\nThis is the antecedent to the every smartphone. Apple invested $2.5m for 43% of ARM. The ARM chip would have been a footnote otherwise.\n\nThe Newton plan was handwriting and speech recognition—a knowledge navigator. https://t.co/1MzSBCbMOf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1157671602470846500,
+						"id_str": "1157671602470846464",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EBDgMFfVAAAeJ4n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBDgMFfVAAAeJ4n.jpg",
+						"url": "https://t.co/1MzSBCbMOf",
+						"display_url": "pic.twitter.com/1MzSBCbMOf",
+						"expanded_url": "https://twitter.com/BrianRoemmele/status/1157671611023015936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 474,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1427,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 836,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1157671602470846500,
+						"id_str": "1157671602470846464",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EBDgMFfVAAAeJ4n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBDgMFfVAAAeJ4n.jpg",
+						"url": "https://t.co/1MzSBCbMOf",
+						"display_url": "pic.twitter.com/1MzSBCbMOf",
+						"expanded_url": "https://twitter.com/BrianRoemmele/status/1157671611023015936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 474,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1427,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 836,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1157671602470846500,
+						"id_str": "1157671602470846465",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EBDgMFfVAAE2iZ5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBDgMFfVAAE2iZ5.jpg",
+						"url": "https://t.co/1MzSBCbMOf",
+						"display_url": "pic.twitter.com/1MzSBCbMOf",
+						"expanded_url": "https://twitter.com/BrianRoemmele/status/1157671611023015936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 1077,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 505,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1077,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1157671602462445600,
+						"id_str": "1157671602462445568",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EBDgMFdU0AAXWqV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBDgMFdU0AAXWqV.jpg",
+						"url": "https://t.co/1MzSBCbMOf",
+						"display_url": "pic.twitter.com/1MzSBCbMOf",
+						"expanded_url": "https://twitter.com/BrianRoemmele/status/1157671611023015936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 650,
+								"h": 651,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 650,
+								"h": 651,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 650,
+								"h": 651,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1157671602475036700,
+						"id_str": "1157671602475036673",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EBDgMFgU8AEC_Gv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBDgMFgU8AEC_Gv.jpg",
+						"url": "https://t.co/1MzSBCbMOf",
+						"display_url": "pic.twitter.com/1MzSBCbMOf",
+						"expanded_url": "https://twitter.com/BrianRoemmele/status/1157671611023015936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 650,
+								"h": 496,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 650,
+								"h": 496,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 650,
+								"h": 496,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101584084,
+				"id_str": "101584084",
+				"name": "Brian Roemmele",
+				"screen_name": "BrianRoemmele",
+				"location": "transcendence",
+				"description": "we can only see what we think is possible...",
+				"url": "https://t.co/i9oM6p7PHi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i9oM6p7PHi",
+								"expanded_url": "http://VoiceFirst.expert",
+								"display_url": "VoiceFirst.expert",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 76854,
+				"friends_count": 16198,
+				"listed_count": 713,
+				"created_at": "Sun Jan 03 22:04:29 +0000 2010",
+				"favourites_count": 110603,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36843,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101584084/1414798559",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I still use my MP2100 to this day (it’s a fantastic notepad). \n\nGranted, it was the last model produced, and technically not an Apple product (Apple spun off the Newton group for the MP2100, and Steve Jobs killed it when he returned to Apple in ‘97). https://t.co/8zWedAx5Fh"
+	},
+	{
 		"created_at": "Fri Aug 02 12:46:32 +0000 2019",
 		"id": 1157271464208453600,
 		"id_str": "1157271464208453639",
