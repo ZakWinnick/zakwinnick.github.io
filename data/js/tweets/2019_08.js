@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 06 00:40:12 +0000 2019",
+		"id": 1158538227537633300,
+		"id_str": "1158538227537633280",
+		"full_text": "CC: @DCI @GoldDrumCorps https://t.co/G2J8OxdJ1w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DCI",
+					"name": "Drum Corps International",
+					"id": 26576933,
+					"id_str": "26576933",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"screen_name": "GoldDrumCorps",
+					"name": "Gold Drum Corps",
+					"id": 119295822,
+					"id_str": "119295822",
+					"indices": [
+						9,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G2J8OxdJ1w",
+					"expanded_url": "https://twitter.com/CrimeADay/status/1158528942648778752",
+					"display_url": "twitter.com/CrimeADay/stat…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 186,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1158528942648778800,
+		"quoted_status_id_str": "1158528942648778752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/G2J8OxdJ1w",
+			"expanded": "https://twitter.com/CrimeADay/status/1158528942648778752",
+			"display": "twitter.com/CrimeADay/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 06 00:03:19 +0000 2019",
+			"id": 1158528942648778800,
+			"id_str": "1158528942648778752",
+			"full_text": "To be fair, while there's no bag limit, 16 USC §668dd &amp; 50 CFR §32.23 make it a federal crime to take a live feral hog from the Pond Creek Wildlife Refuge in Arkansas.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2655321690,
+				"id_str": "2655321690",
+				"name": "A Crime a Day",
+				"screen_name": "CrimeADay",
+				"location": "crimeaday@gmail.com",
+				"description": "In 1982, the DOJ  attempted to count the total number of federal crimes.  The WSJ said 'Since then, no one has tried anything nearly as extensive.'  Until...",
+				"url": "https://t.co/QgcyqpSxPo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QgcyqpSxPo",
+								"expanded_url": "http://crimehandbook.com",
+								"display_url": "crimehandbook.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115222,
+				"friends_count": 0,
+				"listed_count": 876,
+				"created_at": "Fri Jul 18 00:59:08 +0000 2014",
+				"favourites_count": 2552,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3378,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/489939563305922562/YLOLIdFq_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/489939563305922562/YLOLIdFq_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2655321690/1563885434",
+				"profile_link_color": "1E2629",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 90,
+			"favorite_count": 318,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "CC: @DCI @GoldDrumCorps https://t.co/G2J8OxdJ1w"
+	},
+	{
 		"created_at": "Sun Aug 04 16:07:24 +0000 2019",
 		"id": 1158046787212644400,
 		"id_str": "1158046787212644354",
