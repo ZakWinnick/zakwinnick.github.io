@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 09 00:51:42 +0000 2019",
+		"id": 1159628283048276000,
+		"id_str": "1159628283048275969",
+		"full_text": "This is literally the coolest thing I’ve seen in a long time. https://t.co/U0FYsbQNgM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U0FYsbQNgM",
+					"expanded_url": "https://twitter.com/farbodsaraf/status/1159090851122991104",
+					"display_url": "twitter.com/farbodsaraf/st…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 188,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1159090851122991000,
+		"quoted_status_id_str": "1159090851122991104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/U0FYsbQNgM",
+			"expanded": "https://twitter.com/farbodsaraf/status/1159090851122991104",
+			"display": "twitter.com/farbodsaraf/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 07 13:16:08 +0000 2019",
+			"id": 1159090851122991000,
+			"id_str": "1159090851122991104",
+			"full_text": "Teaching chemistry using augmented reality https://t.co/rH9HNUjp57",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1158231626754797600,
+						"id_str": "1158231626754797568",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1158231626754797568/pu/img/6kYP-5vuTUpXe2nm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1158231626754797568/pu/img/6kYP-5vuTUpXe2nm.jpg",
+						"url": "https://t.co/rH9HNUjp57",
+						"display_url": "pic.twitter.com/rH9HNUjp57",
+						"expanded_url": "https://twitter.com/ZonePhysics/status/1158231675903651840/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1158231675903651800,
+						"source_status_id_str": "1158231675903651840",
+						"source_user_id": 934281246435405800,
+						"source_user_id_str": "934281246435405824"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1158231626754797600,
+						"id_str": "1158231626754797568",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1158231626754797568/pu/img/6kYP-5vuTUpXe2nm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1158231626754797568/pu/img/6kYP-5vuTUpXe2nm.jpg",
+						"url": "https://t.co/rH9HNUjp57",
+						"display_url": "pic.twitter.com/rH9HNUjp57",
+						"expanded_url": "https://twitter.com/ZonePhysics/status/1158231675903651840/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1158231675903651800,
+						"source_status_id_str": "1158231675903651840",
+						"source_user_id": 934281246435405800,
+						"source_user_id_str": "934281246435405824",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 55367,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1158231626754797568/pu/vid/360x360/raFjLjCzydlR6Mvw.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1158231626754797568/pu/pl/Vg4fd47Jx1PONq1m.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 934281246435405800,
+								"id_str": "934281246435405824",
+								"name": "Physics & Astronomy Zone",
+								"screen_name": "ZonePhysics",
+								"location": "Earth",
+								"description": "Science Educational Website 🔬🔭\nWelcome to the official page physics & astronomy zone.this page is primarily Dedicated to physics and astronomy lovers.",
+								"url": "https://t.co/l9rEF8Zaer",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/l9rEF8Zaer",
+												"expanded_url": "https://www.facebook.com/physicsastronomyzone/",
+												"display_url": "facebook.com/physicsastrono…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 538502,
+								"friends_count": 23851,
+								"listed_count": 2206,
+								"created_at": "Sat Nov 25 04:43:02 +0000 2017",
+								"favourites_count": 4059,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 7962,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1005757901766627333/nii7Bs2B_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005757901766627333/nii7Bs2B_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/934281246435405824/1511586771",
+								"profile_link_color": "E81C4F",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 256900512,
+				"id_str": "256900512",
+				"name": "Farbod Saraf",
+				"screen_name": "farbodsaraf",
+				"location": "San Francisco - Amsterdam",
+				"description": "Co-founder @geteverboard YCombinator SUS17 | @CanvasKeyboard Apple's 20 Under 20 | Product at @Mobiquityinc | https://t.co/2AF3iF6zbZ",
+				"url": "https://t.co/rglgYXJadd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rglgYXJadd",
+								"expanded_url": "https://farbodsaraf.com/links",
+								"display_url": "farbodsaraf.com/links",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2AF3iF6zbZ",
+								"expanded_url": "http://linkedin.com/in/farbodsaraf",
+								"display_url": "linkedin.com/in/farbodsaraf",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 31981,
+				"friends_count": 19007,
+				"listed_count": 1337,
+				"created_at": "Thu Feb 24 09:04:34 +0000 2011",
+				"favourites_count": 127855,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43530,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/854703172841025537/0HaCebN__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/854703172841025537/0HaCebN__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/256900512/1501193552",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4874,
+			"favorite_count": 19597,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is literally the coolest thing I’ve seen in a long time. https://t.co/U0FYsbQNgM"
+	},
+	{
 		"created_at": "Tue Aug 06 23:55:24 +0000 2019",
 		"id": 1158889340040298500,
 		"id_str": "1158889340040298503",
