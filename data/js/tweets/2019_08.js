@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 10 21:54:22 +0000 2019",
+		"id": 1160162774221299700,
+		"id_str": "1160308432823554049",
+		"full_text": "Aug 10th 1988 - Zero Cool was in the New York Times for crashing 1,507 computer systems #Hackers #HackThePlanet https://t.co/EgEdyZ66ds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hackers",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "HackThePlanet",
+					"indices": [
+						97,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160162772744843300,
+					"id_str": "1160162772744843266",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EBm55R8WsAIPqN9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBm55R8WsAIPqN9.jpg",
+					"url": "https://t.co/EgEdyZ66ds",
+					"display_url": "pic.twitter.com/EgEdyZ66ds",
+					"expanded_url": "https://twitter.com/DatesInMovies/status/1160162774221299712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 921,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 921,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160162772744843300,
+					"id_str": "1160162772744843266",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EBm55R8WsAIPqN9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBm55R8WsAIPqN9.jpg",
+					"url": "https://t.co/EgEdyZ66ds",
+					"display_url": "pic.twitter.com/EgEdyZ66ds",
+					"expanded_url": "https://twitter.com/DatesInMovies/status/1160162774221299712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 921,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 921,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1146429722,
+			"id_str": "1146429722",
+			"name": "Dates in Movies",
+			"screen_name": "DatesInMovies",
+			"location": "",
+			"description": "Tweeting the dates of major events in movie history. There will be spoilers!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15336,
+			"friends_count": 23,
+			"listed_count": 121,
+			"created_at": "Sun Feb 03 22:41:50 +0000 2013",
+			"favourites_count": 3522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976878578209050625/5V6NERvJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976878578209050625/5V6NERvJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146429722/1554069771",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 342,
+		"favorite_count": 716,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Aug 10th 1988 - Zero Cool was in the New York Times for crashing 1,507 computer systems #Hackers #HackThePlanet https://t.co/EgEdyZ66ds"
+	},
+	{
 		"created_at": "Fri Aug 09 18:30:50 +0000 2019",
 		"id": 1159894823085777000,
 		"id_str": "1159894823085776896",
