@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 11 02:59:14 +0000 2019",
+		"id": 1160384438896869400,
+		"id_str": "1160385153946062853",
+		"full_text": "Congratulations, Blue Devils! 👻🏆💡\n\n#DCI2019 | @TheBlueDevils https://t.co/dGXeDZKhQp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DCI2019",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheBlueDevils",
+					"name": "The Blue Devils",
+					"id": 16789643,
+					"id_str": "16789643",
+					"indices": [
+						46,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160384431456215000,
+					"id_str": "1160384431456215040",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EBqDfg_XYAAWPcj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBqDfg_XYAAWPcj.jpg",
+					"url": "https://t.co/dGXeDZKhQp",
+					"display_url": "pic.twitter.com/dGXeDZKhQp",
+					"expanded_url": "https://twitter.com/DCI/status/1160384438896869376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160384431456215000,
+					"id_str": "1160384431456215040",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EBqDfg_XYAAWPcj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBqDfg_XYAAWPcj.jpg",
+					"url": "https://t.co/dGXeDZKhQp",
+					"display_url": "pic.twitter.com/dGXeDZKhQp",
+					"expanded_url": "https://twitter.com/DCI/status/1160384438896869376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26576933,
+			"id_str": "26576933",
+			"name": "Drum Corps International",
+			"screen_name": "DCI",
+			"location": "Indianapolis, IN",
+			"description": "The official Twitter account of Marching Music's Major League™. #DCI2019 #GrowDrumCorps",
+			"url": "https://t.co/x8k0KHa3Mj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8k0KHa3Mj",
+							"expanded_url": "http://www.dci.org",
+							"display_url": "dci.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86901,
+			"friends_count": 392,
+			"listed_count": 509,
+			"created_at": "Wed Mar 25 20:00:59 +0000 2009",
+			"favourites_count": 6871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0A095D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158107421010812928/bnJlG3Xd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158107421010812928/bnJlG3Xd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26576933/1564949350",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "ABCEAC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 173,
+		"favorite_count": 376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations, Blue Devils! 👻🏆💡\n\n#DCI2019 | @TheBlueDevils https://t.co/dGXeDZKhQp"
+	},
+	{
 		"created_at": "Sat Aug 10 21:54:22 +0000 2019",
 		"id": 1160162774221299700,
 		"id_str": "1160308432823554049",
