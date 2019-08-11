@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 11 17:07:32 +0000 2019",
+		"id": 1160583375364792300,
+		"id_str": "1160598634913763329",
+		"full_text": "📺DEBUT: ‘Doug,’ ‘Rugrats’ &amp; ‘The Ren &amp; Stimpy Show’ premiered 28 years ago today, August 11, 1991, on @Nickelodeon https://t.co/N3oHphJ7Wb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nickelodeon",
+					"name": "Nickelodeon",
+					"id": 58309829,
+					"id_str": "58309829",
+					"indices": [
+						110,
+						122
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160583365550104600,
+					"id_str": "1160583365550104576",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EBs4bAPXYAAljcq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBs4bAPXYAAljcq.jpg",
+					"url": "https://t.co/N3oHphJ7Wb",
+					"display_url": "pic.twitter.com/N3oHphJ7Wb",
+					"expanded_url": "https://twitter.com/RetroNewsNow/status/1160583375364792321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1794,
+							"h": 1715,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 650,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1147,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160583365550104600,
+					"id_str": "1160583365550104576",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EBs4bAPXYAAljcq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBs4bAPXYAAljcq.jpg",
+					"url": "https://t.co/N3oHphJ7Wb",
+					"display_url": "pic.twitter.com/N3oHphJ7Wb",
+					"expanded_url": "https://twitter.com/RetroNewsNow/status/1160583375364792321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1794,
+							"h": 1715,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 650,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1147,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2377703834,
+			"id_str": "2377703834",
+			"name": "RetroNewsNow",
+			"screen_name": "RetroNewsNow",
+			"location": "USA",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68755,
+			"friends_count": 845,
+			"listed_count": 730,
+			"created_at": "Fri Mar 07 21:59:24 +0000 2014",
+			"favourites_count": 2196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043422441261998080/d9HSuZTA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043422441261998080/d9HSuZTA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2377703834/1546363443",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📺DEBUT: ‘Doug,’ ‘Rugrats’ &amp; ‘The Ren &amp; Stimpy Show’ premiered 28 years ago today, August 11, 1991, on @Nickelodeon https://t.co/N3oHphJ7Wb"
+	},
+	{
 		"created_at": "Sun Aug 11 02:59:14 +0000 2019",
 		"id": 1160384438896869400,
 		"id_str": "1160385153946062853",
