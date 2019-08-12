@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 12 23:17:06 +0000 2019",
+		"id": 1161030322114519000,
+		"id_str": "1161054030950539264",
+		"full_text": "Inside the hidden world of elevator phone phreaking https://t.co/BhhAFU9MCf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BhhAFU9MCf",
+					"expanded_url": "https://www.wired.com/story/elevator-phone-phreaking-defcon/",
+					"display_url": "wired.com/story/elevator…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 826610423025778700,
+			"id_str": "826610423025778688",
+			"name": "Hacker Radio Show",
+			"screen_name": "HackerRadioShow",
+			"location": "",
+			"description": "A radio show and podcast by and for hackers.  iTunes: https://t.co/flN4Vu8cOS",
+			"url": "https://t.co/CrQrkhw659",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrQrkhw659",
+							"expanded_url": "https://www.2600.com/offthehook/",
+							"display_url": "2600.com/offthehook/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/flN4Vu8cOS",
+							"expanded_url": "https://itunes.apple.com/us/podcast/off-the-hook-high-bitrate/id121592949?mt=2",
+							"display_url": "itunes.apple.com/us/podcast/off…",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5080,
+			"friends_count": 6,
+			"listed_count": 76,
+			"created_at": "Wed Feb 01 01:57:37 +0000 2017",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826610765545222144/Ka_cEwY4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826610765545222144/Ka_cEwY4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/826610423025778688/1502580054",
+			"profile_link_color": "2EA4CF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inside the hidden world of elevator phone phreaking https://t.co/BhhAFU9MCf"
+	},
+	{
 		"created_at": "Mon Aug 12 13:30:35 +0000 2019",
 		"id": 1160906427503792000,
 		"id_str": "1160906427503792131",
