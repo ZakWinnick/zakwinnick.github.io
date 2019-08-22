@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 22 13:34:04 +0000 2019",
+		"id": 1164531182413000700,
+		"id_str": "1164531182413000704",
+		"full_text": "This is mildly intriguing to me… https://t.co/BWSOEhNcN7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BWSOEhNcN7",
+					"expanded_url": "https://twitter.com/primevideouk/status/1164212564638806016",
+					"display_url": "twitter.com/primevideouk/s…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 188,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1164212564638806000,
+		"quoted_status_id_str": "1164212564638806016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BWSOEhNcN7",
+			"expanded": "https://twitter.com/primevideouk/status/1164212564638806016",
+			"display": "twitter.com/primevideouk/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 21 16:28:00 +0000 2019",
+			"id": 1164212564638806000,
+			"id_str": "1164212564638806016",
+			"full_text": "Ever been watching Lost and thought “this needs more @RichardHammond and @ToryBelleci”? Well, you’re in luck. Get ready for a new shipwreck pop-science show set on a desert island, coming soon to Prime Video... https://t.co/Q6VRCIVnX7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RichardHammond",
+						"name": "Richard Hammond",
+						"id": 243662948,
+						"id_str": "243662948",
+						"indices": [
+							53,
+							68
+						]
+					},
+					{
+						"screen_name": "ToryBelleci",
+						"name": "Tory Belleci",
+						"id": 60101131,
+						"id_str": "60101131",
+						"indices": [
+							73,
+							85
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1164212558502465500,
+						"id_str": "1164212558502465536",
+						"indices": [
+							211,
+							234
+						],
+						"media_url": "http://pbs.twimg.com/media/ECgdJ1iWkAACTgw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECgdJ1iWkAACTgw.jpg",
+						"url": "https://t.co/Q6VRCIVnX7",
+						"display_url": "pic.twitter.com/Q6VRCIVnX7",
+						"expanded_url": "https://twitter.com/primevideouk/status/1164212564638806016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1164212558502465500,
+						"id_str": "1164212558502465536",
+						"indices": [
+							211,
+							234
+						],
+						"media_url": "http://pbs.twimg.com/media/ECgdJ1iWkAACTgw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECgdJ1iWkAACTgw.jpg",
+						"url": "https://t.co/Q6VRCIVnX7",
+						"display_url": "pic.twitter.com/Q6VRCIVnX7",
+						"expanded_url": "https://twitter.com/primevideouk/status/1164212564638806016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19338359,
+				"id_str": "19338359",
+				"name": "Prime Video UK",
+				"screen_name": "primevideouk",
+				"location": "",
+				"description": "For the last time, *NO DOLPHINS WERE HARMED DURING THE MAKING OF THE BOYS*",
+				"url": "https://t.co/VXzuRoDmzx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VXzuRoDmzx",
+								"expanded_url": "http://www.amazon.co.uk/primevideo",
+								"display_url": "amazon.co.uk/primevideo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121586,
+				"friends_count": 126,
+				"listed_count": 1129,
+				"created_at": "Thu Jan 22 13:41:39 +0000 2009",
+				"favourites_count": 7985,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 60783,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1104860626860605441/_qgNqET9_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104860626860605441/_qgNqET9_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338359/1564158323",
+				"profile_link_color": "00A8E1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 128,
+			"favorite_count": 1267,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is mildly intriguing to me… https://t.co/BWSOEhNcN7"
+	},
+	{
 		"created_at": "Thu Aug 22 12:55:15 +0000 2019",
 		"id": 1164521414168338400,
 		"id_str": "1164521414168338433",
