@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 23 12:39:46 +0000 2019",
+		"id": 1164879906754506800,
+		"id_str": "1164879906754506752",
+		"full_text": "Are they selling prints of these? I don't think there is a price I wouldn't pay for them all. https://t.co/wEdBBVGK8D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wEdBBVGK8D",
+					"expanded_url": "https://twitter.com/laughing_place/status/1164737731722792962",
+					"display_url": "twitter.com/laughing_place…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 188,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1164737731722793000,
+		"quoted_status_id_str": "1164737731722792962",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wEdBBVGK8D",
+			"expanded": "https://twitter.com/laughing_place/status/1164737731722792962",
+			"display": "twitter.com/laughing_place…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 23 03:14:49 +0000 2019",
+			"id": 1164737731722793000,
+			"id_str": "1164737731722792962",
+			"full_text": "A look at the Epcot attraction posters old and new on display at Imagining Tomorrow, Today pavilion at #D23Expo https://t.co/oPcWBfWw8O",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "D23Expo",
+						"indices": [
+							103,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1164737702337499100,
+						"id_str": "1164737702337499136",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/ECn6xOxU0AAF1Yu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECn6xOxU0AAF1Yu.jpg",
+						"url": "https://t.co/oPcWBfWw8O",
+						"display_url": "pic.twitter.com/oPcWBfWw8O",
+						"expanded_url": "https://twitter.com/laughing_place/status/1164737731722792962/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1164737702337499100,
+						"id_str": "1164737702337499136",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/ECn6xOxU0AAF1Yu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECn6xOxU0AAF1Yu.jpg",
+						"url": "https://t.co/oPcWBfWw8O",
+						"display_url": "pic.twitter.com/oPcWBfWw8O",
+						"expanded_url": "https://twitter.com/laughing_place/status/1164737731722792962/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1164737702572392400,
+						"id_str": "1164737702572392448",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/ECn6xPpVAAAlQLy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECn6xPpVAAAlQLy.jpg",
+						"url": "https://t.co/oPcWBfWw8O",
+						"display_url": "pic.twitter.com/oPcWBfWw8O",
+						"expanded_url": "https://twitter.com/laughing_place/status/1164737731722792962/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1164737702580723700,
+						"id_str": "1164737702580723712",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/ECn6xPrUIAAOdc6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECn6xPrUIAAOdc6.jpg",
+						"url": "https://t.co/oPcWBfWw8O",
+						"display_url": "pic.twitter.com/oPcWBfWw8O",
+						"expanded_url": "https://twitter.com/laughing_place/status/1164737731722792962/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1164737702576529400,
+						"id_str": "1164737702576529408",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/ECn6xPqUIAAHLkG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECn6xPqUIAAHLkG.jpg",
+						"url": "https://t.co/oPcWBfWw8O",
+						"display_url": "pic.twitter.com/oPcWBfWw8O",
+						"expanded_url": "https://twitter.com/laughing_place/status/1164737731722792962/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36251026,
+				"id_str": "36251026",
+				"name": "LaughingPlace.com at #D23Expo",
+				"screen_name": "laughing_place",
+				"location": "Orlando, FL",
+				"description": "The official Walt Disney World, Disneyland and Disney news Twitter of https://t.co/ma73gto2vZ",
+				"url": "https://t.co/ma73gto2vZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ma73gto2vZ",
+								"expanded_url": "http://LaughingPlace.com",
+								"display_url": "LaughingPlace.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ma73gto2vZ",
+								"expanded_url": "http://LaughingPlace.com",
+								"display_url": "LaughingPlace.com",
+								"indices": [
+									70,
+									93
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 28355,
+				"friends_count": 405,
+				"listed_count": 622,
+				"created_at": "Wed Apr 29 01:56:44 +0000 2009",
+				"favourites_count": 3786,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60457,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1135892386306043904/NYpk9eYw_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135892386306043904/NYpk9eYw_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36251026/1566512473",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 113,
+			"favorite_count": 364,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are they selling prints of these? I don't think there is a price I wouldn't pay for them all. https://t.co/wEdBBVGK8D"
+	},
+	{
 		"created_at": "Fri Aug 23 01:56:57 +0000 2019",
 		"id": 1164718135787888600,
 		"id_str": "1164718135787888646",
