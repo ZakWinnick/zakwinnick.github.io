@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 23 00:14:18 +0000 2019",
+		"id": 1164629680579928000,
+		"id_str": "1164692303438589953",
+		"full_text": "Just saying… https://t.co/40ExDPdNbN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1164629670349955000,
+					"id_str": "1164629670349955073",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/ECmYg8QW4AENye9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECmYg8QW4AENye9.jpg",
+					"url": "https://t.co/40ExDPdNbN",
+					"display_url": "pic.twitter.com/40ExDPdNbN",
+					"expanded_url": "https://twitter.com/Bonney/status/1164629680579928064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1006,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164629670349955000,
+					"id_str": "1164629670349955073",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/ECmYg8QW4AENye9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECmYg8QW4AENye9.jpg",
+					"url": "https://t.co/40ExDPdNbN",
+					"display_url": "pic.twitter.com/40ExDPdNbN",
+					"expanded_url": "https://twitter.com/Bonney/status/1164629680579928064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1006,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15201327,
+			"id_str": "15201327",
+			"name": "Matt Bonney",
+			"screen_name": "Bonney",
+			"location": "Rockland, ME",
+			"description": "Your premier source for organic, home-grown internet snark.",
+			"url": "https://t.co/mcKQzNa5cB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mcKQzNa5cB",
+							"expanded_url": "http://bonney.io",
+							"display_url": "bonney.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370,
+			"friends_count": 425,
+			"listed_count": 16,
+			"created_at": "Sun Jun 22 22:25:16 +0000 2008",
+			"favourites_count": 497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157265231267188736/gyWvu-ZC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157265231267188736/gyWvu-ZC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15201327/1564748507",
+			"profile_link_color": "21B9D9",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just saying… https://t.co/40ExDPdNbN"
+	},
+	{
 		"created_at": "Thu Aug 22 13:34:04 +0000 2019",
 		"id": 1164531182413000700,
 		"id_str": "1164531182413000704",
