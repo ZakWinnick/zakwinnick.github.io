@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 26 13:30:04 +0000 2019",
+		"id": 1165979727649288200,
+		"id_str": "1165979727649288194",
+		"full_text": "I don’t know what this movie is, but that shot is 100%. https://t.co/1ai5MnsW2B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1ai5MnsW2B",
+					"expanded_url": "https://twitter.com/vashikoo/status/1165767652045967360",
+					"display_url": "twitter.com/vashikoo/statu…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 189,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1165767652045967400,
+		"quoted_status_id_str": "1165767652045967360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1ai5MnsW2B",
+			"expanded": "https://twitter.com/vashikoo/status/1165767652045967360",
+			"display": "twitter.com/vashikoo/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 25 23:27:21 +0000 2019",
+			"id": 1165767652045967400,
+			"id_str": "1165767652045967360",
+			"full_text": "The Ultimate 2000mm Lens Shot\n\nTinker Tailor Soldier Spy (2011)\n\nhttps://t.co/laNH1Lo1VR\n\n#cinematography #filmmaking https://t.co/wWfFpkiPQc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "cinematography",
+						"indices": [
+							90,
+							105
+						]
+					},
+					{
+						"text": "filmmaking",
+						"indices": [
+							106,
+							117
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/laNH1Lo1VR",
+						"expanded_url": "https://vashivisuals.com/dramatic-filmmaking-with-a-2000mm-lens/",
+						"display_url": "vashivisuals.com/dramatic-filmm…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1165766875910828000,
+						"id_str": "1165766875910828032",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165766875910828032/pu/img/ykxy2aolHwMwMnwE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165766875910828032/pu/img/ykxy2aolHwMwMnwE.jpg",
+						"url": "https://t.co/wWfFpkiPQc",
+						"display_url": "pic.twitter.com/wWfFpkiPQc",
+						"expanded_url": "https://twitter.com/vashikoo/status/1165767652045967360/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1165766875910828000,
+						"id_str": "1165766875910828032",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165766875910828032/pu/img/ykxy2aolHwMwMnwE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165766875910828032/pu/img/ykxy2aolHwMwMnwE.jpg",
+						"url": "https://t.co/wWfFpkiPQc",
+						"display_url": "pic.twitter.com/wWfFpkiPQc",
+						"expanded_url": "https://twitter.com/vashikoo/status/1165767652045967360/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 44169,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1165766875910828032/pu/vid/640x360/i6BlE_mLd41o-FwW.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1165766875910828032/pu/vid/480x270/6pXUeTRNiZIBKw3o.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1165766875910828032/pu/pl/kwi3Tv-1UoE8L7e5.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1165766875910828032/pu/vid/1280x720/yLFlsvDfYCRfSdQ4.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35083292,
+				"id_str": "35083292",
+				"name": "Vashi Nedomansky, ACE",
+				"screen_name": "vashikoo",
+				"location": "Los Angeles / Palm Springs",
+				"description": "🎥 Editor of 11 Hollywood Feature Films 🏒 Ex-Pro Hockey Player 🇨🇿 Defector from Czechoslovakia https://t.co/UpAG4TLCmv",
+				"url": "https://t.co/El6qn8LKvt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/El6qn8LKvt",
+								"expanded_url": "http://vashivisuals.com",
+								"display_url": "vashivisuals.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UpAG4TLCmv",
+								"expanded_url": "http://imdb.me/vashi",
+								"display_url": "imdb.me/vashi",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16748,
+				"friends_count": 2907,
+				"listed_count": 380,
+				"created_at": "Fri Apr 24 23:56:35 +0000 2009",
+				"favourites_count": 8208,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12214,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914724124303417344/YepwJ4ci_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914724124303417344/YepwJ4ci_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35083292/1499505500",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "33B8FF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 328,
+			"favorite_count": 1632,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don’t know what this movie is, but that shot is 100%. https://t.co/1ai5MnsW2B"
+	},
+	{
 		"created_at": "Mon Aug 26 00:20:00 +0000 2019",
 		"id": 1165780900262666200,
 		"id_str": "1165780900262666241",
