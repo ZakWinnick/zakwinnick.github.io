@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 26 00:20:00 +0000 2019",
+		"id": 1165780900262666200,
+		"id_str": "1165780900262666241",
+		"full_text": "This is quite literally the best version of this song ever. \n\n…and that’s saying a lot because it’s one of my favorites, too. https://t.co/74q10WxtbO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/74q10WxtbO",
+					"expanded_url": "https://twitter.com/Copperpot5/status/1165765846808969216",
+					"display_url": "twitter.com/Copperpot5/sta…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 189,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1165765846808969200,
+		"quoted_status_id_str": "1165765846808969216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/74q10WxtbO",
+			"expanded": "https://twitter.com/Copperpot5/status/1165765846808969216",
+			"display": "twitter.com/Copperpot5/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 25 23:20:11 +0000 2019",
+			"id": 1165765846808969200,
+			"id_str": "1165765846808969216",
+			"full_text": "August 26, 2007 - [12yrs] - The Roots w/ Dave Matthews Band - Black Thought &amp; The Roots guest on an amazing version of \"Eh Hee\" at Alpine on 8/26/07. There's nothing else like this one.  Worth a listen if you haven't heard it....\n\nFull on Youtube: https://t.co/YStypfeTrL https://t.co/SWigluPDNF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YStypfeTrL",
+						"expanded_url": "https://www.youtube.com/watch?v=Ur2IYFeYCqg",
+						"display_url": "youtube.com/watch?v=Ur2IYF…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1033556785020293100,
+						"id_str": "1033556785020293121",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/Dlf3gNEVAAEX1e0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dlf3gNEVAAEX1e0.jpg",
+						"url": "https://t.co/SWigluPDNF",
+						"display_url": "pic.twitter.com/SWigluPDNF",
+						"expanded_url": "https://twitter.com/Copperpot5/status/1165765846808969216/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1033556785020293100,
+						"id_str": "1033556785020293121",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/Dlf3gNEVAAEX1e0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dlf3gNEVAAEX1e0.jpg",
+						"url": "https://t.co/SWigluPDNF",
+						"display_url": "pic.twitter.com/SWigluPDNF",
+						"expanded_url": "https://twitter.com/Copperpot5/status/1165765846808969216/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1033556785020293121/pu/vid/640x360/giFm7HeeV27P1M0P.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1033556785020293121/pu/vid/1280x720/WtHZ2glgaOePF1r6.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1033556785020293121/pu/vid/320x180/B0Ivg3xy9v8rY2Oj.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1033556785020293121/pu/pl/nR1U_vzsRug22-Rd.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158838945,
+				"id_str": "158838945",
+				"name": "Chester Copperpot5",
+				"screen_name": "Copperpot5",
+				"location": "California, USA",
+				"description": "Custom concert videos - Videos are my own renders. '90s/'00s Tape Trader. Tweets are mostly DMB fan media based content. Youtuber. Nothing monetized. Free",
+				"url": "https://t.co/vC5W8SQbdJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vC5W8SQbdJ",
+								"expanded_url": "https://www.youtube.com/user/ChesterCopperPot5/videos",
+								"display_url": "youtube.com/user/ChesterCo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16116,
+				"friends_count": 112,
+				"listed_count": 196,
+				"created_at": "Wed Jun 23 20:00:12 +0000 2010",
+				"favourites_count": 17567,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30823,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1156033236784410624/xbvbiYmB_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156033236784410624/xbvbiYmB_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158838945/1558311971",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 80,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is quite literally the best version of this song ever. \n\n…and that’s saying a lot because it’s one of my favorites, too. https://t.co/74q10WxtbO"
+	},
+	{
 		"created_at": "Sat Aug 24 15:20:09 +0000 2019",
 		"id": 1165105082347729000,
 		"id_str": "1165282655237214208",
