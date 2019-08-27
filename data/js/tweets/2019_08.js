@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 27 13:03:35 +0000 2019",
+		"id": 1166335451197821000,
+		"id_str": "1166335451197820928",
+		"full_text": "Well, there’s a niche market I’d never thought I’d see…Credit Card Skins… https://t.co/mKa0g2H9In",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mKa0g2H9In",
+					"expanded_url": "https://twitter.com/mattbirchler/status/1166152669163085834",
+					"display_url": "twitter.com/mattbirchler/s…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 189,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1166152669163085800,
+		"quoted_status_id_str": "1166152669163085834",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mKa0g2H9In",
+			"expanded": "https://twitter.com/mattbirchler/status/1166152669163085834",
+			"display": "twitter.com/mattbirchler/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 27 00:57:17 +0000 2019",
+			"id": 1166152669163085800,
+			"id_str": "1166152669163085834",
+			"full_text": "Some will prefer an Otterbox, but I just prefer a dbrand skin. 😋 https://t.co/jkPz9oRTik",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1166152665010770000,
+						"id_str": "1166152665010769920",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/EC8Bq5fXkAA7uai.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EC8Bq5fXkAA7uai.jpg",
+						"url": "https://t.co/jkPz9oRTik",
+						"display_url": "pic.twitter.com/jkPz9oRTik",
+						"expanded_url": "https://twitter.com/mattbirchler/status/1166152669163085834/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 946,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1166152665010770000,
+						"id_str": "1166152665010769920",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/EC8Bq5fXkAA7uai.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EC8Bq5fXkAA7uai.jpg",
+						"url": "https://t.co/jkPz9oRTik",
+						"display_url": "pic.twitter.com/jkPz9oRTik",
+						"expanded_url": "https://twitter.com/mattbirchler/status/1166152669163085834/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 946,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27251386,
+				"id_str": "27251386",
+				"name": "Matt Birchler",
+				"screen_name": "mattbirchler",
+				"location": "",
+				"description": "I write at https://t.co/PtMWxijpnH and have a podcast https://t.co/i6ZMgIybkZ",
+				"url": "https://t.co/A73ctOscbt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A73ctOscbt",
+								"expanded_url": "https://birchtree.me",
+								"display_url": "birchtree.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PtMWxijpnH",
+								"expanded_url": "http://birchtree.me",
+								"display_url": "birchtree.me",
+								"indices": [
+									11,
+									34
+								]
+							},
+							{
+								"url": "https://t.co/i6ZMgIybkZ",
+								"expanded_url": "http://birchtree.simplecast.fm",
+								"display_url": "birchtree.simplecast.fm",
+								"indices": [
+									54,
+									77
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1444,
+				"friends_count": 409,
+				"listed_count": 86,
+				"created_at": "Sat Mar 28 15:53:46 +0000 2009",
+				"favourites_count": 11078,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44331,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1128020313076375560/4DemcvKp_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128020313076375560/4DemcvKp_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27251386/1556922009",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, there’s a niche market I’d never thought I’d see…Credit Card Skins… https://t.co/mKa0g2H9In"
+	},
+	{
 		"created_at": "Mon Aug 26 13:30:04 +0000 2019",
 		"id": 1165979727649288200,
 		"id_str": "1165979727649288194",
