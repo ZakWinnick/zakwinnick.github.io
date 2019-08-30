@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 30 13:14:36 +0000 2019",
+		"id": 1167425386357174300,
+		"id_str": "1167425386357174272",
+		"full_text": "So, basically Avenue Q and/or Meet the Feebles.\n\nGot it. https://t.co/jvEsp47aXu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jvEsp47aXu",
+					"expanded_url": "https://twitter.com/laughing_place/status/1167278610849222657",
+					"display_url": "twitter.com/laughing_place…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 190,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1167278610849222700,
+		"quoted_status_id_str": "1167278610849222657",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jvEsp47aXu",
+			"expanded": "https://twitter.com/laughing_place/status/1167278610849222657",
+			"display": "twitter.com/laughing_place…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 30 03:31:22 +0000 2019",
+			"id": 1167278610849222700,
+			"id_str": "1167278610849222657",
+			"full_text": "Brian Henson’s #PuppetUp: Uncensored is coming to @Knotts #ScaryFarm!  #KnottsBerryFarm https://t.co/LyYrr3YrJ3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PuppetUp",
+						"indices": [
+							15,
+							24
+						]
+					},
+					{
+						"text": "ScaryFarm",
+						"indices": [
+							58,
+							68
+						]
+					},
+					{
+						"text": "KnottsBerryFarm",
+						"indices": [
+							71,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "knotts",
+						"name": "Knott's Berry Farm",
+						"id": 48519989,
+						"id_str": "48519989",
+						"indices": [
+							50,
+							57
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1167278585515667500,
+						"id_str": "1167278585515667456",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EDMBsGOU8AAJCXY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDMBsGOU8AAJCXY.jpg",
+						"url": "https://t.co/LyYrr3YrJ3",
+						"display_url": "pic.twitter.com/LyYrr3YrJ3",
+						"expanded_url": "https://twitter.com/laughing_place/status/1167278610849222657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1167278585515667500,
+						"id_str": "1167278585515667456",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EDMBsGOU8AAJCXY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDMBsGOU8AAJCXY.jpg",
+						"url": "https://t.co/LyYrr3YrJ3",
+						"display_url": "pic.twitter.com/LyYrr3YrJ3",
+						"expanded_url": "https://twitter.com/laughing_place/status/1167278610849222657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1167278585536602000,
+						"id_str": "1167278585536602112",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EDMBsGTUYAA0RJO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDMBsGTUYAA0RJO.jpg",
+						"url": "https://t.co/LyYrr3YrJ3",
+						"display_url": "pic.twitter.com/LyYrr3YrJ3",
+						"expanded_url": "https://twitter.com/laughing_place/status/1167278610849222657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 412,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 727,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1240,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1167278585519853600,
+						"id_str": "1167278585519853569",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EDMBsGPU0AECUKY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDMBsGPU0AECUKY.jpg",
+						"url": "https://t.co/LyYrr3YrJ3",
+						"display_url": "pic.twitter.com/LyYrr3YrJ3",
+						"expanded_url": "https://twitter.com/laughing_place/status/1167278610849222657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1167278585532432400,
+						"id_str": "1167278585532432384",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EDMBsGSUwAAU0WU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDMBsGSUwAAU0WU.jpg",
+						"url": "https://t.co/LyYrr3YrJ3",
+						"display_url": "pic.twitter.com/LyYrr3YrJ3",
+						"expanded_url": "https://twitter.com/laughing_place/status/1167278610849222657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 447,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1346,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 789,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36251026,
+				"id_str": "36251026",
+				"name": "LaughingPlace.com",
+				"screen_name": "laughing_place",
+				"location": "Orlando, FL",
+				"description": "The official Walt Disney World, Disneyland and Disney news Twitter of https://t.co/ma73gtFDUz",
+				"url": "https://t.co/ma73gtFDUz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ma73gtFDUz",
+								"expanded_url": "http://LaughingPlace.com",
+								"display_url": "LaughingPlace.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ma73gtFDUz",
+								"expanded_url": "http://LaughingPlace.com",
+								"display_url": "LaughingPlace.com",
+								"indices": [
+									70,
+									93
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 29251,
+				"friends_count": 417,
+				"listed_count": 637,
+				"created_at": "Wed Apr 29 01:56:44 +0000 2009",
+				"favourites_count": 3880,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 61328,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1135892386306043904/NYpk9eYw_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135892386306043904/NYpk9eYw_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36251026/1566512473",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So, basically Avenue Q and/or Meet the Feebles.\n\nGot it. https://t.co/jvEsp47aXu"
+	},
+	{
 		"created_at": "Fri Aug 30 13:09:13 +0000 2019",
 		"id": 1167424032016339000,
 		"id_str": "1167424032016338946",
