@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 30 13:09:13 +0000 2019",
+		"id": 1167424032016339000,
+		"id_str": "1167424032016338946",
+		"full_text": "I’m just here for the @SchittsCreek memes in the replies… https://t.co/q6VnkvVymJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchittsCreek",
+					"name": "Schitt's Creek",
+					"id": 2237952289,
+					"id_str": "2237952289",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q6VnkvVymJ",
+					"expanded_url": "https://twitter.com/thisisandygill/status/1167380799160803329",
+					"display_url": "twitter.com/thisisandygill…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 190,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1167380799160803300,
+		"quoted_status_id_str": "1167380799160803329",
+		"quoted_status_permalink": {
+			"url": "https://t.co/q6VnkvVymJ",
+			"expanded": "https://twitter.com/thisisandygill/status/1167380799160803329",
+			"display": "twitter.com/thisisandygill…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 30 10:17:26 +0000 2019",
+			"id": 1167380799160803300,
+			"id_str": "1167380799160803329",
+			"full_text": "So far today too many people have asked me what this T-shirt is all about. Honestly, y’all are trash. https://t.co/OOHCc4cZYK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1167380794547064800,
+						"id_str": "1167380794547064833",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/EDNepciXUAE3RWe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDNepciXUAE3RWe.jpg",
+						"url": "https://t.co/OOHCc4cZYK",
+						"display_url": "pic.twitter.com/OOHCc4cZYK",
+						"expanded_url": "https://twitter.com/thisisandygill/status/1167380799160803329/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 560,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1688,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 989,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1167380794547064800,
+						"id_str": "1167380794547064833",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/EDNepciXUAE3RWe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDNepciXUAE3RWe.jpg",
+						"url": "https://t.co/OOHCc4cZYK",
+						"display_url": "pic.twitter.com/OOHCc4cZYK",
+						"expanded_url": "https://twitter.com/thisisandygill/status/1167380799160803329/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 560,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1688,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 989,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118373199,
+				"id_str": "118373199",
+				"name": "Andy",
+				"screen_name": "thisisandygill",
+				"location": "",
+				"description": "So, anyway....",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1538,
+				"friends_count": 891,
+				"listed_count": 13,
+				"created_at": "Sun Feb 28 13:34:26 +0000 2010",
+				"favourites_count": 6149,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4467,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1105854900997681153/FDJDVTNc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105854900997681153/FDJDVTNc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118373199/1429781659",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 140,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m just here for the @SchittsCreek memes in the replies… https://t.co/q6VnkvVymJ"
+	},
+	{
 		"created_at": "Tue Aug 27 13:03:35 +0000 2019",
 		"id": 1166335451197821000,
 		"id_str": "1166335451197820928",
