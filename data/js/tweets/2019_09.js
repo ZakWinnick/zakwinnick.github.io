@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 09 00:43:33 +0000 2019",
+		"id": 1170810576769101800,
+		"id_str": "1170860256316014592",
+		"full_text": "I’m glad that Obama killed bin Laden before Trump had a chance to become friends with him.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 580224794,
+			"id_str": "580224794",
+			"name": "Travis Allen 🇺🇸",
+			"screen_name": "TravisAllen02",
+			"location": "Louisville, KY",
+			"description": "Blocked by Trump three times. I help Democrats. Vandy Engineer 🤓. Not legally responsible for myself",
+			"url": "https://t.co/dAMkQV6cM4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dAMkQV6cM4",
+							"expanded_url": "https://www.amazon.com/shop/travisallen02",
+							"display_url": "amazon.com/shop/travisall…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185597,
+			"friends_count": 109399,
+			"listed_count": 549,
+			"created_at": "Mon May 14 20:47:16 +0000 2012",
+			"favourites_count": 2908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079930006342721536/2iWdklAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079930006342721536/2iWdklAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/580224794/1542761852",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3677,
+		"favorite_count": 16007,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m glad that Obama killed bin Laden before Trump had a chance to become friends with him."
+	},
+	{
 		"created_at": "Mon Sep 02 12:47:26 +0000 2019",
 		"id": 1168505713649488000,
 		"id_str": "1168505713649487873",
