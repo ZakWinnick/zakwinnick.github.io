@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 10 18:37:31 +0000 2019",
+		"id": 1171483521111621600,
+		"id_str": "1171492917975769090",
+		"full_text": "I’m already calling “slofie” the worst word of 2019 #AppleEvent",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AppleEvent",
+					"indices": [
+						52,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20904050,
+			"id_str": "20904050",
+			"name": "Federico Viticci",
+			"screen_name": "viticci",
+			"location": "In your web browser.",
+			"description": "Founder and Editor-in-Chief of @MacStoriesNet & @ClubMacStories. Co-host of @AppStoriesNet & @DialogPodcast. Italian accent on @_RelayFM. viticci@macstories.net",
+			"url": "https://t.co/8eXD1ETiUi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8eXD1ETiUi",
+							"expanded_url": "https://www.macstories.net/",
+							"display_url": "macstories.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68344,
+			"friends_count": 731,
+			"listed_count": 3947,
+			"created_at": "Sun Feb 15 10:52:33 +0000 2009",
+			"favourites_count": 17250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 106787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "062039",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005494943677235200/NArzJ6fT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005494943677235200/NArzJ6fT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20904050/1492522863",
+			"profile_link_color": "0081C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F7",
+			"profile_text_color": "191A19",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 187,
+		"favorite_count": 580,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m already calling “slofie” the worst word of 2019 #AppleEvent"
+	},
+	{
 		"created_at": "Tue Sep 10 00:49:35 +0000 2019",
 		"id": 1171224162012192800,
 		"id_str": "1171224162012192768",
