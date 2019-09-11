@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 11 01:43:44 +0000 2019",
+		"id": 1171598987075317800,
+		"id_str": "1171600178568187904",
+		"full_text": "When Apple ships a future device with the next generation of the U1 ultra wideband wireless chip, people will  complain that Apple keeps putting U2 on their phones...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 784912,
+			"id_str": "784912",
+			"name": "Jason Snell",
+			"screen_name": "jsnell",
+			"location": "Mill Valley, CA",
+			"description": "I write about tech and make podcasts about everything. @theincomparable @_upgradefm @tvtm and more. @bleedsixcolors writer, @macworld EIC-turned-columnist.",
+			"url": "https://t.co/5ajg3A4SPy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5ajg3A4SPy",
+							"expanded_url": "https://sixcolors.com/",
+							"display_url": "sixcolors.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75083,
+			"friends_count": 379,
+			"listed_count": 4888,
+			"created_at": "Wed Feb 21 00:04:08 +0000 2007",
+			"favourites_count": 11685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 141101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "061C69",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/539992431496667136/qblx7qeY_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/539992431496667136/qblx7qeY_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/784912/1481057522",
+			"profile_link_color": "000066",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "3399FF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "When Apple ships a future device with the next generation of the U1 ultra wideband wireless chip, people will  complain that Apple keeps putting U2 on their phones..."
+	},
+	{
 		"created_at": "Tue Sep 10 23:58:46 +0000 2019",
 		"id": 1171573762464080000,
 		"id_str": "1171573762464079872",
