@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 15 21:54:44 +0000 2019",
+		"id": 1173194276643192800,
+		"id_str": "1173354487513325570",
+		"full_text": "Hackers was released 24 years ago, today. https://t.co/7VMTbs5agb\n\n#Hackers #Hacker #Hacking #Hack #HackThePlanet #90sMovies #90s #CyberPunk https://t.co/vLlK6kov4f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hackers",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "Hacker",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "Hacking",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "Hack",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "HackThePlanet",
+					"indices": [
+						99,
+						113
+					]
+				},
+				{
+					"text": "90sMovies",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "90s",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "CyberPunk",
+					"indices": [
+						130,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7VMTbs5agb",
+					"expanded_url": "http://amzn.to/1IFzzqw",
+					"display_url": "amzn.to/1IFzzqw",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1173194271526142000,
+					"id_str": "1173194271526141952",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EEgF-V7WwAAhrkZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEgF-V7WwAAhrkZ.jpg",
+					"url": "https://t.co/vLlK6kov4f",
+					"display_url": "pic.twitter.com/vLlK6kov4f",
+					"expanded_url": "https://twitter.com/HackedPlanet/status/1173194276643192832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 648,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 648,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173194271526142000,
+					"id_str": "1173194271526141952",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EEgF-V7WwAAhrkZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEgF-V7WwAAhrkZ.jpg",
+					"url": "https://t.co/vLlK6kov4f",
+					"display_url": "pic.twitter.com/vLlK6kov4f",
+					"expanded_url": "https://twitter.com/HackedPlanet/status/1173194276643192832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 648,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 648,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 516858219,
+			"id_str": "516858219",
+			"name": "Hack The Planet",
+			"screen_name": "HackedPlanet",
+			"location": "The Internet",
+			"description": "The Twitter account for all things related to the film #Hackers. Love it? Tweet us! Now available on Blu-ray. Get 30% off, here: https://t.co/Ys3CatO1QH.",
+			"url": "https://t.co/PBy6Pb8g6X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PBy6Pb8g6X",
+							"expanded_url": "http://HackThePlanet.com",
+							"display_url": "HackThePlanet.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Ys3CatO1QH",
+							"expanded_url": "http://amzn.to/1IFzzqw",
+							"display_url": "amzn.to/1IFzzqw",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 367,
+			"friends_count": 5,
+			"listed_count": 4,
+			"created_at": "Tue Mar 06 20:25:01 +0000 2012",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1893382818/razor-n-blade_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1893382818/razor-n-blade_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/516858219/1442440620",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 199,
+		"favorite_count": 381,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hackers was released 24 years ago, today. https://t.co/7VMTbs5agb\n\n#Hackers #Hacker #Hacking #Hack #HackThePlanet #90sMovies #90s #CyberPunk https://t.co/vLlK6kov4f"
+	},
+	{
 		"created_at": "Sat Sep 14 23:18:17 +0000 2019",
 		"id": 1173013125257449500,
 		"id_str": "1173013125257449472",
