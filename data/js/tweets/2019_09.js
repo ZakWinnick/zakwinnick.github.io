@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 17 17:57:26 +0000 2019",
+		"id": 1174011455835795500,
+		"id_str": "1174019546476351488",
+		"full_text": "At long last, here it is - the “Harvey the Wonder Hamster” music video. Thanks to @SpaceParanoids for creating this for our 2019 Strings Attached tour. https://t.co/gTVN73v8TG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpaceParanoids",
+					"name": "Jarrett Heather",
+					"id": 17597770,
+					"id_str": "17597770",
+					"indices": [
+						82,
+						97
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174011343550046200,
+					"id_str": "1174011343550046208",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1174011343550046208/pu/img/twfYbZ-kzVbqSz1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1174011343550046208/pu/img/twfYbZ-kzVbqSz1_.jpg",
+					"url": "https://t.co/gTVN73v8TG",
+					"display_url": "pic.twitter.com/gTVN73v8TG",
+					"expanded_url": "https://twitter.com/alyankovic/status/1174011455835795456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174011343550046200,
+					"id_str": "1174011343550046208",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1174011343550046208/pu/img/twfYbZ-kzVbqSz1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1174011343550046208/pu/img/twfYbZ-kzVbqSz1_.jpg",
+					"url": "https://t.co/gTVN73v8TG",
+					"display_url": "pic.twitter.com/gTVN73v8TG",
+					"expanded_url": "https://twitter.com/alyankovic/status/1174011455835795456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26293,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1174011343550046208/pu/vid/480x270/HTL1ouotJLwX1EeB.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1174011343550046208/pu/pl/miYcwf_jX5qJt8yf.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1174011343550046208/pu/vid/640x360/qfzWNaN0oI8QYtgF.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1174011343550046208/pu/vid/1280x720/qX6xUhrYBdsPwna1.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22461427,
+			"id_str": "22461427",
+			"name": "Al Yankovic",
+			"screen_name": "alyankovic",
+			"location": "Los Angeles",
+			"description": "You know... the weird one.",
+			"url": "https://t.co/AQRv276mUy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AQRv276mUy",
+							"expanded_url": "http://weirdal.com",
+							"display_url": "weirdal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5155158,
+			"friends_count": 601,
+			"listed_count": 30512,
+			"created_at": "Mon Mar 02 07:00:29 +0000 2009",
+			"favourites_count": 4155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22461427/1398828117",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 237,
+		"favorite_count": 880,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At long last, here it is - the “Harvey the Wonder Hamster” music video. Thanks to @SpaceParanoids for creating this for our 2019 Strings Attached tour. https://t.co/gTVN73v8TG"
+	},
+	{
 		"created_at": "Mon Sep 16 18:17:24 +0000 2019",
 		"id": 1173662181604384800,
 		"id_str": "1173662181604384770",
