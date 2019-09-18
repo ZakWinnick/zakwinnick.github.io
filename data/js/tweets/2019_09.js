@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 18 15:33:58 +0000 2019",
+		"id": 1174330061501210600,
+		"id_str": "1174345829475409920",
+		"full_text": "Think about this at least once a day https://t.co/8xTFfKiIsk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174330055008428000,
+					"id_str": "1174330055008428032",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EEwO9pHXoAAUv6R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEwO9pHXoAAUv6R.jpg",
+					"url": "https://t.co/8xTFfKiIsk",
+					"display_url": "pic.twitter.com/8xTFfKiIsk",
+					"expanded_url": "https://twitter.com/CheeseNolan/status/1174330061501210627/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 516,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 516,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 516,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174330055008428000,
+					"id_str": "1174330055008428032",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EEwO9pHXoAAUv6R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEwO9pHXoAAUv6R.jpg",
+					"url": "https://t.co/8xTFfKiIsk",
+					"display_url": "pic.twitter.com/8xTFfKiIsk",
+					"expanded_url": "https://twitter.com/CheeseNolan/status/1174330061501210627/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 516,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 516,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 516,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 292546822,
+			"id_str": "292546822",
+			"name": "Conor Nolan",
+			"screen_name": "CheeseNolan",
+			"location": "Dublin",
+			"description": "illustrator, printmaker, zine man and fake artist",
+			"url": "https://t.co/A0NuMLvH1V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A0NuMLvH1V",
+							"expanded_url": "http://www.conornolan.net/shop",
+							"display_url": "conornolan.net/shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1236,
+			"friends_count": 1076,
+			"listed_count": 34,
+			"created_at": "Tue May 03 20:41:29 +0000 2011",
+			"favourites_count": 22080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C725C7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110178985785389058/_2DTetK0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110178985785389058/_2DTetK0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/292546822/1548969093",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCE3FA",
+			"profile_text_color": "332A33",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Think about this at least once a day https://t.co/8xTFfKiIsk"
+	},
+	{
 		"created_at": "Wed Sep 18 13:13:35 +0000 2019",
 		"id": 1174310498856251400,
 		"id_str": "1174310498856251398",
