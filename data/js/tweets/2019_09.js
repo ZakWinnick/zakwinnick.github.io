@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 18 13:13:35 +0000 2019",
+		"id": 1174310498856251400,
+		"id_str": "1174310498856251398",
+		"full_text": "Why the hell would anyone buy anything from Facebook? https://t.co/lzo3YCPSal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lzo3YCPSal",
+					"expanded_url": "https://twitter.com/CaseyNewton/status/1174292782699220994",
+					"display_url": "twitter.com/CaseyNewton/st…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 191,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174292782699221000,
+		"quoted_status_id_str": "1174292782699220994",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lzo3YCPSal",
+			"expanded": "https://twitter.com/CaseyNewton/status/1174292782699220994",
+			"display": "twitter.com/CaseyNewton/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 18 12:03:11 +0000 2019",
+			"id": 1174292782699221000,
+			"id_str": "1174292782699220994",
+			"full_text": "Portal TV is here! Do you want a camera watching you watch TV because now you can HAVE one https://t.co/OKx24vSq9p https://t.co/gnTtA35PJr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OKx24vSq9p",
+						"expanded_url": "https://www.theverge.com/2019/9/18/20871173/facebook-portal-camera-price-release-date-availability?utm_campaign=caseynewton&utm_content=chorus&utm_medium=social&utm_source=twitter",
+						"display_url": "theverge.com/2019/9/18/2087…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1174292781495398400,
+						"id_str": "1174292781495398400",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/EEvtECdWsAAXyGr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEvtECdWsAAXyGr.jpg",
+						"url": "https://t.co/gnTtA35PJr",
+						"display_url": "pic.twitter.com/gnTtA35PJr",
+						"expanded_url": "https://twitter.com/CaseyNewton/status/1174292782699220994/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1174292781495398400,
+						"id_str": "1174292781495398400",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/EEvtECdWsAAXyGr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEvtECdWsAAXyGr.jpg",
+						"url": "https://t.co/gnTtA35PJr",
+						"display_url": "pic.twitter.com/gnTtA35PJr",
+						"expanded_url": "https://twitter.com/CaseyNewton/status/1174292782699220994/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69426451,
+				"id_str": "69426451",
+				"name": "Casey Newton",
+				"screen_name": "CaseyNewton",
+				"location": "San Francisco",
+				"description": "I write The Interface. Get it by email: https://t.co/0umDpRUfyZ\n\ncasey@theverge.com | instagram: @crumbler",
+				"url": "https://t.co/384TCkf3TR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/384TCkf3TR",
+								"expanded_url": "https://www.theverge.com/theinterface",
+								"display_url": "theverge.com/theinterface",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0umDpRUfyZ",
+								"expanded_url": "http://bit.ly/2yTbZcK",
+								"display_url": "bit.ly/2yTbZcK",
+								"indices": [
+									40,
+									63
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 80255,
+				"friends_count": 760,
+				"listed_count": 2671,
+				"created_at": "Thu Aug 27 22:37:09 +0000 2009",
+				"favourites_count": 175201,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2994,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69426451/1536691543",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why the hell would anyone buy anything from Facebook? https://t.co/lzo3YCPSal"
+	},
+	{
 		"created_at": "Wed Sep 18 12:53:16 +0000 2019",
 		"id": 1174124906327330800,
 		"id_str": "1174305386796593153",
