@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 21 07:05:23 +0000 2019",
+		"id": 1175240443765956600,
+		"id_str": "1175305004305006593",
+		"full_text": "the iPhone 11 doesn’t make you a photographer it makes you a rich white boy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20831064,
+			"id_str": "20831064",
+			"name": "Bret Spire Outpost",
+			"screen_name": "Schmoofy",
+			"location": "That's Proprietary",
+			"description": "The middle ground between blogger and troll. Themed Entertainment Influencer, Orlando, Shenanigans. 🥃🐀 Only a fool would take these tweets seriously",
+			"url": "https://t.co/PItPJBSE1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PItPJBSE1k",
+							"expanded_url": "http://Schmoofy.com",
+							"display_url": "Schmoofy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6107,
+			"friends_count": 477,
+			"listed_count": 105,
+			"created_at": "Sat Feb 14 04:24:57 +0000 2009",
+			"favourites_count": 32753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 58687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952738895514480640/MzHl9fe1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952738895514480640/MzHl9fe1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20831064/1491107036",
+			"profile_link_color": "571297",
+			"profile_sidebar_border_color": "6417CF",
+			"profile_sidebar_fill_color": "1EA1B0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "the iPhone 11 doesn’t make you a photographer it makes you a rich white boy"
+	},
+	{
 		"created_at": "Sat Sep 21 00:29:42 +0000 2019",
 		"id": 1175113418543526000,
 		"id_str": "1175205424490004482",
