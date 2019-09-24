@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 24 22:34:15 +0000 2019",
+		"id": 1176476877927510000,
+		"id_str": "1176625923963199494",
+		"full_text": "Good morning, Twitter. Muppeteer Jim Henson was born today in 1936. Here he is giving Rowlf the dog the old Darth Vader treatment. https://t.co/VPd27c56Af",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1176185172724789200,
+					"id_str": "1176185172724789248",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFKmLtJXsAAl2fz.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFKmLtJXsAAl2fz.jpg",
+					"url": "https://t.co/VPd27c56Af",
+					"display_url": "pic.twitter.com/VPd27c56Af",
+					"expanded_url": "https://twitter.com/BradyCarlson/status/1176476877927510017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176185172724789200,
+					"id_str": "1176185172724789248",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFKmLtJXsAAl2fz.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFKmLtJXsAAl2fz.jpg",
+					"url": "https://t.co/VPd27c56Af",
+					"display_url": "pic.twitter.com/VPd27c56Af",
+					"expanded_url": "https://twitter.com/BradyCarlson/status/1176476877927510017/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EFKmLtJXsAAl2fz.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14629299,
+			"id_str": "14629299",
+			"name": "Brady Carlson",
+			"screen_name": "BradyCarlson",
+			"location": "Madison, WI",
+			"description": "host/reporter @WPR, @CoolWeirdPod, @PplOfLocalNews (former @NHPR). Author of @wwnorton book DEAD PRESIDENTS. Serenity now: https://t.co/41Q9EPIC9S",
+			"url": "https://t.co/VAS0d46gFC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VAS0d46gFC",
+							"expanded_url": "http://www.bradycarlson.com",
+							"display_url": "bradycarlson.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/41Q9EPIC9S",
+							"expanded_url": "https://www.patreon.com/Bradycarlson",
+							"display_url": "patreon.com/Bradycarlson",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2884,
+			"friends_count": 583,
+			"listed_count": 151,
+			"created_at": "Fri May 02 18:28:07 +0000 2008",
+			"favourites_count": 10505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151211836949356544/NvoROeoo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151211836949356544/NvoROeoo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14629299/1447774838",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good morning, Twitter. Muppeteer Jim Henson was born today in 1936. Here he is giving Rowlf the dog the old Darth Vader treatment. https://t.co/VPd27c56Af"
+	},
+	{
 		"created_at": "Sun Sep 22 20:46:43 +0000 2019",
 		"id": 1175874085693399000,
 		"id_str": "1175874085693399040",
