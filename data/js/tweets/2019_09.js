@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 25 13:14:30 +0000 2019",
+		"id": 1176847447391449000,
+		"id_str": "1176847447391449088",
+		"full_text": "Say wha…!?\n\nI guess life really does, uh, find a way… https://t.co/pXmzTRdbjz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pXmzTRdbjz",
+					"expanded_url": "https://twitter.com/amblin/status/1176723893978972161",
+					"display_url": "twitter.com/amblin/status/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 194,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176723893978972200,
+		"quoted_status_id_str": "1176723893978972161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pXmzTRdbjz",
+			"expanded": "https://twitter.com/amblin/status/1176723893978972161",
+			"display": "twitter.com/amblin/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 25 05:03:33 +0000 2019",
+			"id": 1176723893978972200,
+			"id_str": "1176723893978972161",
+			"full_text": "When the whole world's gone prehistoric, you call in the experts. Sam Neill, Laura Dern and Jeff Goldblum are all set to reprise their legendary roles in the third chapter of the @JurassicWorld saga.\n\n https://t.co/DOPJ1uZUAt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JurassicWorld",
+						"name": "Jurassic World",
+						"id": 525808515,
+						"id_str": "525808515",
+						"indices": [
+							179,
+							193
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DOPJ1uZUAt",
+						"expanded_url": "https://amblin.com/press/neill-dern-and-goldblum-return-to-jurassic-franchise-for-jurassic-world-3/",
+						"display_url": "amblin.com/press/neill-de…",
+						"indices": [
+							202,
+							225
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34676063,
+				"id_str": "34676063",
+				"name": "Amblin",
+				"screen_name": "amblin",
+				"location": "Hollywood, USA",
+				"description": "Amblin (Amblin Entertainment/ DreamWorks Pictures) is a film and television production company founded by filmmaker Steven Spielberg.",
+				"url": "https://t.co/ZDZHgAsay2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZDZHgAsay2",
+								"expanded_url": "http://amblin.com",
+								"display_url": "amblin.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1096591,
+				"friends_count": 971,
+				"listed_count": 3823,
+				"created_at": "Thu Apr 23 17:45:30 +0000 2009",
+				"favourites_count": 5415,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2876,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145738053224239104/B-KHcTzM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145738053224239104/B-KHcTzM_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34676063/1564671506",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 911,
+			"favorite_count": 3056,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Say wha…!?\n\nI guess life really does, uh, find a way… https://t.co/pXmzTRdbjz"
+	},
+	{
 		"created_at": "Wed Sep 25 12:32:19 +0000 2019",
 		"id": 1176836830907502600,
 		"id_str": "1176836830907502592",
