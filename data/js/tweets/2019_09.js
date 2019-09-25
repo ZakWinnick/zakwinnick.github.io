@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 25 12:32:19 +0000 2019",
+		"id": 1176836830907502600,
+		"id_str": "1176836830907502592",
+		"full_text": "Well, Adam Sandler finally grew up… https://t.co/eq5Q7gaZv1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eq5Q7gaZv1",
+					"expanded_url": "https://twitter.com/Complex/status/1176503296984584198",
+					"display_url": "twitter.com/Complex/status…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 194,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176503296984584200,
+		"quoted_status_id_str": "1176503296984584198",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eq5Q7gaZv1",
+			"expanded": "https://twitter.com/Complex/status/1176503296984584198",
+			"display": "twitter.com/Complex/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 24 14:26:59 +0000 2019",
+			"id": 1176503296984584200,
+			"id_str": "1176503296984584198",
+			"full_text": "💎 Here's the first trailer for Adam Sandler's #UncutGems 💎\nhttps://t.co/boGiajI9Qz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UncutGems",
+						"indices": [
+							46,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1176338866841759700,
+						"id_str": "1176338866841759746",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/EFM0Bw_XsAAC6xY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFM0Bw_XsAAC6xY.jpg",
+						"url": "https://t.co/boGiajI9Qz",
+						"display_url": "pic.twitter.com/boGiajI9Qz",
+						"expanded_url": "https://twitter.com/uncutgems/status/1176481411815092225/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2000,
+								"h": 1125,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1176481411815092200,
+						"source_status_id_str": "1176481411815092225",
+						"source_user_id": 866711474143719400,
+						"source_user_id_str": "866711474143719426"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1176338866841759700,
+						"id_str": "1176338866841759746",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/EFM0Bw_XsAAC6xY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFM0Bw_XsAAC6xY.jpg",
+						"url": "https://t.co/boGiajI9Qz",
+						"display_url": "pic.twitter.com/boGiajI9Qz",
+						"expanded_url": "https://twitter.com/uncutgems/status/1176481411815092225/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 2000,
+								"h": 1125,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1176481411815092200,
+						"source_status_id_str": "1176481411815092225",
+						"source_user_id": 866711474143719400,
+						"source_user_id_str": "866711474143719426",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 137263,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1176338866841759746/vid/1280x720/lfC1e-3qcpiGsMJn.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1176338866841759746/vid/640x360/tSFQzqfEj9kkXSIe.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1176338866841759746/pl/Jgqmg83cXRQv_r4N.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1176338866841759746/vid/480x270/cuMAJ4gN8FObfb2n.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Uncut Gems | Official Trailer HD | A24",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 866711474143719400,
+								"id_str": "866711474143719426",
+								"name": "Uncut Gems",
+								"screen_name": "uncutgems",
+								"location": "",
+								"description": "@A24 presents #UncutGems, a @JOSH_BENNY film starring @AdamSandler @KevinGarnett5KG @IdinaMenzel @TheWeeknd Julia Fox and Lakeith Stanfield — December 💎",
+								"url": "https://t.co/ZFEeo3iZGg",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/ZFEeo3iZGg",
+												"expanded_url": "http://uncutgems.movie",
+												"display_url": "uncutgems.movie",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1971,
+								"friends_count": 8,
+								"listed_count": 4,
+								"created_at": "Mon May 22 17:44:52 +0000 2017",
+								"favourites_count": 44,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 24,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1176484142730698753/SihufPpa_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176484142730698753/SihufPpa_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/866711474143719426/1569330855",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13049362,
+				"id_str": "13049362",
+				"name": "Complex",
+				"screen_name": "Complex",
+				"location": "New York",
+				"description": "Making Culture Pop.",
+				"url": "https://t.co/jPEji9tZYr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPEji9tZYr",
+								"expanded_url": "http://www.complex.com",
+								"display_url": "complex.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1840243,
+				"friends_count": 685,
+				"listed_count": 10586,
+				"created_at": "Mon Feb 04 14:34:39 +0000 2008",
+				"favourites_count": 19831,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 325492,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839858358920310785/JVgCbSHx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839858358920310785/JVgCbSHx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13049362/1552417871",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F2F2F2",
+				"profile_text_color": "787878",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2947,
+			"favorite_count": 10217,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, Adam Sandler finally grew up… https://t.co/eq5Q7gaZv1"
+	},
+	{
 		"created_at": "Tue Sep 24 22:34:15 +0000 2019",
 		"id": 1176476877927510000,
 		"id_str": "1176625923963199494",
