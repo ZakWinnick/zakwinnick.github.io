@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 27 12:54:06 +0000 2019",
+		"id": 1177567087939719200,
+		"id_str": "1177567087939719170",
+		"full_text": "Woah…this is huge.\n\nThread: https://t.co/k5l42WDiLd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k5l42WDiLd",
+					"expanded_url": "https://twitter.com/axi0mX/status/1177542201670168576",
+					"display_url": "twitter.com/axi0mX/status/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 194,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149479819937103872/14NI-n9s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177542201670168600,
+		"quoted_status_id_str": "1177542201670168576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k5l42WDiLd",
+			"expanded": "https://twitter.com/axi0mX/status/1177542201670168576",
+			"display": "twitter.com/axi0mX/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 27 11:15:13 +0000 2019",
+			"id": 1177542201670168600,
+			"id_str": "1177542201670168576",
+			"full_text": "EPIC JAILBREAK: Introducing checkm8 (read \"checkmate\"), a permanent unpatchable bootrom exploit for hundreds of millions of iOS devices.\n\nMost generations of iPhones and iPads are vulnerable: from iPhone 4S (A5 chip) to iPhone 8 and iPhone X (A11 chip). \n\nhttps://t.co/dQJtXb78sG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dQJtXb78sG",
+						"expanded_url": "https://github.com/axi0mX/ipwndfu",
+						"display_url": "github.com/axi0mX/ipwndfu",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3888772694,
+				"id_str": "3888772694",
+				"name": "axi0mX",
+				"screen_name": "axi0mX",
+				"location": "0x4141414141414141",
+				"description": "I ❤  • 📱 • 👁️👢 • iOS security • programming. Tweets represent the views of my dumb mutation-based fuzzer, and might be \"interesting\", but are probably wrong.",
+				"url": "https://t.co/8BF3U8bNT5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8BF3U8bNT5",
+								"expanded_url": "http://github.com/axi0mX",
+								"display_url": "github.com/axi0mX",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6411,
+				"friends_count": 1066,
+				"listed_count": 59,
+				"created_at": "Wed Oct 14 06:20:07 +0000 2015",
+				"favourites_count": 2406,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3799,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/791896578751537152/W2oaF09q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/791896578751537152/W2oaF09q_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1430,
+			"favorite_count": 2888,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Woah…this is huge.\n\nThread: https://t.co/k5l42WDiLd"
+	},
+	{
 		"created_at": "Thu Sep 26 17:14:15 +0000 2019",
 		"id": 1177270170190061600,
 		"id_str": "1177270170190061574",
