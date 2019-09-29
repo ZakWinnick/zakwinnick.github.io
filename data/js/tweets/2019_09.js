@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 17:10:17 +0000 2019",
+		"id": 1178356336037433300,
+		"id_str": "1178356336037433350",
+		"full_text": "The fact that it used to be one of the greatest rides ever built…\n\nBut what do I know? https://t.co/nBIE0D8Yep",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nBIE0D8Yep",
+					"expanded_url": "https://twitter.com/UniStudios/status/1178063083547353093",
+					"display_url": "twitter.com/UniStudios/sta…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 195,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178063083547353000,
+		"quoted_status_id_str": "1178063083547353093",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nBIE0D8Yep",
+			"expanded": "https://twitter.com/UniStudios/status/1178063083547353093",
+			"display": "twitter.com/UniStudios/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 28 21:45:01 +0000 2019",
+			"id": 1178063083547353000,
+			"id_str": "1178063083547353093",
+			"full_text": "What’s your favorite part of The Simpsons Ride? https://t.co/tBmIqqw2sS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1178063081852805000,
+						"id_str": "1178063081852805125",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/EFlSIZzWoAUgxQy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFlSIZzWoAUgxQy.jpg",
+						"url": "https://t.co/tBmIqqw2sS",
+						"display_url": "pic.twitter.com/tBmIqqw2sS",
+						"expanded_url": "https://twitter.com/UniStudios/status/1178063083547353093/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1178063081852805000,
+						"id_str": "1178063081852805125",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/EFlSIZzWoAUgxQy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFlSIZzWoAUgxQy.jpg",
+						"url": "https://t.co/tBmIqqw2sS",
+						"display_url": "pic.twitter.com/tBmIqqw2sS",
+						"expanded_url": "https://twitter.com/UniStudios/status/1178063083547353093/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33578424,
+				"id_str": "33578424",
+				"name": "Universal Studios Hollywood",
+				"screen_name": "UniStudios",
+				"location": "Universal City, CA",
+				"description": "We're the one in California.",
+				"url": "https://t.co/G3TmgrJ7Uk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G3TmgrJ7Uk",
+								"expanded_url": "http://bit.ly/2SxKTwY",
+								"display_url": "bit.ly/2SxKTwY",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 350610,
+				"friends_count": 71761,
+				"listed_count": 1698,
+				"created_at": "Mon Apr 20 16:52:59 +0000 2009",
+				"favourites_count": 6558,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18118,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/745262837736431617/dJUBKHDA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/745262837736431617/dJUBKHDA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33578424/1555528056",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 121,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The fact that it used to be one of the greatest rides ever built…\n\nBut what do I know? https://t.co/nBIE0D8Yep"
+	},
+	{
 		"created_at": "Fri Sep 27 19:26:06 +0000 2019",
 		"id": 1177665736589873200,
 		"id_str": "1177665736589873156",
