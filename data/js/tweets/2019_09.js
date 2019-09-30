@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 30 00:16:31 +0000 2019",
+		"id": 1178463597292376000,
+		"id_str": "1178463597292376068",
+		"full_text": "This. x1000. https://t.co/azbFesJHUi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/azbFesJHUi",
+					"expanded_url": "https://twitter.com/dobyblue/status/1178406928004927489",
+					"display_url": "twitter.com/dobyblue/statu…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 195,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178406928004927500,
+		"quoted_status_id_str": "1178406928004927489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/azbFesJHUi",
+			"expanded": "https://twitter.com/dobyblue/status/1178406928004927489",
+			"display": "twitter.com/dobyblue/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 29 20:31:20 +0000 2019",
+			"id": 1178406928004927500,
+			"id_str": "1178406928004927489",
+			"full_text": "I’ve always had Love as the best surround mix of @thebeatles, but this new @Dolby Atmos mix of #AbbeyRoad from @mashupmartin and @samjokell not only blows all other #Beatles surround mixes away but takes its place as a reference title among the very best surround titles to date.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AbbeyRoad",
+						"indices": [
+							95,
+							105
+						]
+					},
+					{
+						"text": "Beatles",
+						"indices": [
+							165,
+							173
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thebeatles",
+						"name": "The Beatles",
+						"id": 27760317,
+						"id_str": "27760317",
+						"indices": [
+							49,
+							60
+						]
+					},
+					{
+						"screen_name": "Dolby",
+						"name": "Dolby Laboratories",
+						"id": 15851618,
+						"id_str": "15851618",
+						"indices": [
+							75,
+							81
+						]
+					},
+					{
+						"screen_name": "mashupmartin",
+						"name": "Giles Martin",
+						"id": 292904456,
+						"id_str": "292904456",
+						"indices": [
+							111,
+							124
+						]
+					},
+					{
+						"screen_name": "samjokell",
+						"name": "Sam Okell",
+						"id": 342391537,
+						"id_str": "342391537",
+						"indices": [
+							129,
+							139
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16874223,
+				"id_str": "16874223",
+				"name": "Burkey",
+				"screen_name": "dobyblue",
+				"location": "Gilead",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 75,
+				"friends_count": 111,
+				"listed_count": 0,
+				"created_at": "Mon Oct 20 20:25:18 +0000 2008",
+				"favourites_count": 1935,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2523,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3595394431/781ec583930b2a1547e836d8939680b2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3595394431/781ec583930b2a1547e836d8939680b2_normal.jpeg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This. x1000. https://t.co/azbFesJHUi"
+	},
+	{
 		"created_at": "Sun Sep 29 17:10:17 +0000 2019",
 		"id": 1178356336037433300,
 		"id_str": "1178356336037433350",
