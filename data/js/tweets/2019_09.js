@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 30 13:00:09 +0000 2019",
+		"id": 1178575137102336000,
+		"id_str": "1178655775348199425",
+		"full_text": "CIVIL WAR? “If we are to have another contest in the near future of our national existence, I predict that the dividing line will not be Mason’s &amp; Dixon’s, but between patriotism and intelligence on one side, &amp; superstition, ambition, &amp; ignorance on the other.” Pres US Grant 1876",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			292
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2573480784,
+			"id_str": "2573480784",
+			"name": "Malcolm Nance",
+			"screen_name": "MalcolmNance",
+			"location": "Manhattan, NY",
+			"description": "US Intelligence +36 yrs. Expert Terrorist Strategy,Tactics,Ideology. Torture, Russian Cyber! | NYT Bestselling Author, Navy Senior Chief/Jedi Master, NBC/MSNBC.",
+			"url": "https://t.co/ODCy806fFU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ODCy806fFU",
+							"expanded_url": "http://www.thetacticsofterror.org",
+							"display_url": "thetacticsofterror.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 660567,
+			"friends_count": 1907,
+			"listed_count": 4920,
+			"created_at": "Tue Jun 17 20:09:43 +0000 2014",
+			"favourites_count": 57975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 134624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923550053289136128/PLTG_LAf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923550053289136128/PLTG_LAf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2573480784/1478903604",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5429,
+		"favorite_count": 16729,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "CIVIL WAR? “If we are to have another contest in the near future of our national existence, I predict that the dividing line will not be Mason’s &amp; Dixon’s, but between patriotism and intelligence on one side, &amp; superstition, ambition, &amp; ignorance on the other.” Pres US Grant 1876"
+	},
+	{
 		"created_at": "Mon Sep 30 00:16:31 +0000 2019",
 		"id": 1178463597292376000,
 		"id_str": "1178463597292376068",
