@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 30 23:57:17 +0000 2019",
+		"id": 1178777083981508600,
+		"id_str": "1178821147892355072",
+		"full_text": "Prep is the film you think you’re making. Production is the film you hope you’re making. Post is the film you made. https://t.co/dPVEb0dohJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dPVEb0dohJ",
+					"expanded_url": "https://twitter.com/johnrsmithjnr/status/1178776361357455361",
+					"display_url": "twitter.com/johnrsmithjnr/…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 283161406,
+			"id_str": "283161406",
+			"name": "Christopher McQuarrie",
+			"screen_name": "chrismcquarrie",
+			"location": "",
+			"description": "Filmmaker.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82416,
+			"friends_count": 443,
+			"listed_count": 766,
+			"created_at": "Sat Apr 16 18:16:27 +0000 2011",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 65,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764211506414284800/YSD6Smwq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764211506414284800/YSD6Smwq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/283161406/1538420402",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178776361357455400,
+		"quoted_status_id_str": "1178776361357455361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dPVEb0dohJ",
+			"expanded": "https://twitter.com/johnrsmithjnr/status/1178776361357455361",
+			"display": "twitter.com/johnrsmithjnr/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 30 20:59:19 +0000 2019",
+			"id": 1178776361357455400,
+			"id_str": "1178776361357455361",
+			"full_text": "@chrismcquarrie Interesting. Is that because it’s the final assembly of the puzzle to make it look/flow/feel how you envisioned on paper or through a lens or something else?",
+			"truncated": false,
+			"display_text_range": [
+				16,
+				173
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "chrismcquarrie",
+						"name": "Christopher McQuarrie",
+						"id": 283161406,
+						"id_str": "283161406",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1178775408671678500,
+			"in_reply_to_status_id_str": "1178775408671678465",
+			"in_reply_to_user_id": 283161406,
+			"in_reply_to_user_id_str": "283161406",
+			"in_reply_to_screen_name": "chrismcquarrie",
+			"user": {
+				"id": 1493131711,
+				"id_str": "1493131711",
+				"name": "John R Smith Jnr",
+				"screen_name": "johnrsmithjnr",
+				"location": "Connecticut, USA",
+				"description": "Actor/Producer https://t.co/vODCUnJqdd\nCo-Founder&Co-AD @VagabondTCo\nMooner in @kissycousins\nAccidental Businessman \nSubject to explosive rants of profanity",
+				"url": "https://t.co/56QKfSi1l9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/56QKfSi1l9",
+								"expanded_url": "http://VagabondBPT.org",
+								"display_url": "VagabondBPT.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vODCUnJqdd",
+								"expanded_url": "http://bit.ly/JRSACT",
+								"display_url": "bit.ly/JRSACT",
+								"indices": [
+									15,
+									38
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1111,
+				"friends_count": 850,
+				"listed_count": 16,
+				"created_at": "Sat Jun 08 14:50:45 +0000 2013",
+				"favourites_count": 66615,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39888,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1037349304204251136/52SbPHMe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037349304204251136/52SbPHMe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1493131711/1545401233",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 166,
+		"favorite_count": 764,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Prep is the film you think you’re making. Production is the film you hope you’re making. Post is the film you made. https://t.co/dPVEb0dohJ"
+	},
+	{
 		"created_at": "Mon Sep 30 22:46:17 +0000 2019",
 		"id": 1178803278823481300,
 		"id_str": "1178803278823481344",
