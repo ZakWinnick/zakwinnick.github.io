@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 23:06:21 +0000 2019",
+		"id": 1179533105020973000,
+		"id_str": "1179533105020973057",
+		"full_text": "@HvilleParks I mean, would you drink this, @HvilleParks? I live down the street from your offices, and would be more than happy to bring some bottles over…\n\nLet me know! https://t.co/MDRQ0gYFLl",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HvilleParks",
+					"name": "Hendersonville Parks",
+					"id": 334755515,
+					"id_str": "334755515",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "HvilleParks",
+					"name": "Hendersonville Parks",
+					"id": 334755515,
+					"id_str": "334755515",
+					"indices": [
+						43,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179533095508365300,
+					"id_str": "1179533095508365312",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EF6LGdaX0AA7o8G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF6LGdaX0AA7o8G.jpg",
+					"url": "https://t.co/MDRQ0gYFLl",
+					"display_url": "pic.twitter.com/MDRQ0gYFLl",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1179533105020973057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179533095508365300,
+					"id_str": "1179533095508365312",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EF6LGdaX0AA7o8G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF6LGdaX0AA7o8G.jpg",
+					"url": "https://t.co/MDRQ0gYFLl",
+					"display_url": "pic.twitter.com/MDRQ0gYFLl",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1179533105020973057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1179530530255200300,
+		"in_reply_to_status_id_str": "1179530530255200256",
+		"in_reply_to_user_id": 9586552,
+		"in_reply_to_user_id_str": "9586552",
+		"in_reply_to_screen_name": "ZakWinnick",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 194,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@HvilleParks I mean, would you drink this, @HvilleParks? I live down the street from your offices, and would be more than happy to bring some bottles over…\n\nLet me know! https://t.co/MDRQ0gYFLl"
+	},
+	{
 		"created_at": "Tue Oct 01 01:22:32 +0000 2019",
 		"id": 1178842598942871600,
 		"id_str": "1178842598942871553",
