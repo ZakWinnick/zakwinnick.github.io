@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 05 20:28:06 +0000 2019",
+		"id": 1180431240404430800,
+		"id_str": "1180580441696260097",
+		"full_text": "“The most precious resource we all have is time.” - SJ. Remembering you always. https://t.co/nsUUiFzZnz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1180431218967380000,
+					"id_str": "1180431218967379968",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EGG78IBVAAADrcp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGG78IBVAAADrcp.jpg",
+					"url": "https://t.co/nsUUiFzZnz",
+					"display_url": "pic.twitter.com/nsUUiFzZnz",
+					"expanded_url": "https://twitter.com/tim_cook/status/1180431240404430849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1490,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 873,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180431218967380000,
+					"id_str": "1180431218967379968",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EGG78IBVAAADrcp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGG78IBVAAADrcp.jpg",
+					"url": "https://t.co/nsUUiFzZnz",
+					"display_url": "pic.twitter.com/nsUUiFzZnz",
+					"expanded_url": "https://twitter.com/tim_cook/status/1180431240404430849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1490,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 873,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1636590253,
+			"id_str": "1636590253",
+			"name": "Tim Cook",
+			"screen_name": "tim_cook",
+			"location": "Cupertino",
+			"description": "Apple CEO  Auburn 🏀 🏈 Duke 🏀 National Parks 🏞️ “Life's most persistent and urgent question is, 'What are you doing for others?'” - MLK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11537586,
+			"friends_count": 66,
+			"listed_count": 21031,
+			"created_at": "Wed Jul 31 22:41:25 +0000 2013",
+			"favourites_count": 1786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035649273721847809/B0f8n_oe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035649273721847809/B0f8n_oe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1636590253/1535753003",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8155,
+		"favorite_count": 34941,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“The most precious resource we all have is time.” - SJ. Remembering you always. https://t.co/nsUUiFzZnz"
+	},
+	{
 		"created_at": "Wed Oct 02 23:16:11 +0000 2019",
 		"id": 1179535581237383200,
 		"id_str": "1179535581237383174",
