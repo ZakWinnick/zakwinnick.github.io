@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 06 02:53:30 +0000 2019",
+		"id": 1180656429935595500,
+		"id_str": "1180677432807960576",
+		"full_text": "Today I learned that the man who played Mr Hooper on Sesame Street was blacklisted from the film and television industry during the McCarthy era for being an alleged communist https://t.co/dFftNcIy0s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1180656417310695400,
+					"id_str": "1180656417310695425",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EGKIwZOW4AEAp9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGKIwZOW4AEAp9T.jpg",
+					"url": "https://t.co/dFftNcIy0s",
+					"display_url": "pic.twitter.com/dFftNcIy0s",
+					"expanded_url": "https://twitter.com/anne_theriault/status/1180656429935595521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 698,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 698,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180656417310695400,
+					"id_str": "1180656417310695425",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EGKIwZOW4AEAp9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGKIwZOW4AEAp9T.jpg",
+					"url": "https://t.co/dFftNcIy0s",
+					"display_url": "pic.twitter.com/dFftNcIy0s",
+					"expanded_url": "https://twitter.com/anne_theriault/status/1180656429935595521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 698,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 698,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 432134884,
+			"id_str": "432134884",
+			"name": "Anne Thériault",
+			"screen_name": "anne_theriault",
+			"location": "Toronto, Ontario",
+			"description": "Dilettante hagiographer",
+			"url": "https://t.co/KURKzWkocb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KURKzWkocb",
+							"expanded_url": "http://patreon.com/anne_theriault",
+							"display_url": "patreon.com/anne_theriault",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77335,
+			"friends_count": 3638,
+			"listed_count": 848,
+			"created_at": "Fri Dec 09 02:36:24 +0000 2011",
+			"favourites_count": 152828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 98367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011409104441630720/ksmEpPII_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011409104441630720/ksmEpPII_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/432134884/1363717572",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 203,
+		"favorite_count": 1098,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today I learned that the man who played Mr Hooper on Sesame Street was blacklisted from the film and television industry during the McCarthy era for being an alleged communist https://t.co/dFftNcIy0s"
+	},
+	{
 		"created_at": "Sat Oct 05 23:34:48 +0000 2019",
 		"id": 1180586359745986600,
 		"id_str": "1180627428370243585",
