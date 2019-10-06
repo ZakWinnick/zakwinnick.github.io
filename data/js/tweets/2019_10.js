@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 05 23:34:48 +0000 2019",
+		"id": 1180586359745986600,
+		"id_str": "1180627428370243585",
+		"full_text": "Prediction: There will soon be a scandal in which Trump tries to interfere with the Secret Service protection of Democratic candidates who are receiving threats. Republican leaders will say nothing.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16248895,
+			"id_str": "16248895",
+			"name": "Steve Friess",
+			"screen_name": "SteveFriess",
+			"location": "Ann Arbor, MI",
+			"description": "Writer. WaPo, NYT, Playboy, AJAM, CJR, Time, TNR, Bizweek, etc. Ex-POLITICO (who isn't?). '12 Knight-Wallace fellow & Vegas expatriate sfriess @ umich . edu",
+			"url": "https://t.co/CZpMpkRoSG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CZpMpkRoSG",
+							"expanded_url": "http://bit.ly/1k9YlG6",
+							"display_url": "bit.ly/1k9YlG6",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7123,
+			"friends_count": 5849,
+			"listed_count": 387,
+			"created_at": "Thu Sep 11 22:31:54 +0000 2008",
+			"favourites_count": 2028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1DD9E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991694853758226434/4sFTmuQr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991694853758226434/4sFTmuQr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16248895/1525274287",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Prediction: There will soon be a scandal in which Trump tries to interfere with the Secret Service protection of Democratic candidates who are receiving threats. Republican leaders will say nothing."
+	},
+	{
 		"created_at": "Sat Oct 05 20:28:06 +0000 2019",
 		"id": 1180431240404430800,
 		"id_str": "1180580441696260097",
