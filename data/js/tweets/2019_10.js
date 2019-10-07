@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 13:58:45 +0000 2019",
+		"id": 1181010332971499500,
+		"id_str": "1181207237789913088",
+		"full_text": "RIP Rip https://t.co/365E1mK2lj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1181010329775399000,
+					"id_str": "1181010329775398913",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/EGPKoz5UYAEpa7y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGPKoz5UYAEpa7y.jpg",
+					"url": "https://t.co/365E1mK2lj",
+					"display_url": "pic.twitter.com/365E1mK2lj",
+					"expanded_url": "https://twitter.com/alyankovic/status/1181010332971499520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181010329775399000,
+					"id_str": "1181010329775398913",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/EGPKoz5UYAEpa7y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGPKoz5UYAEpa7y.jpg",
+					"url": "https://t.co/365E1mK2lj",
+					"display_url": "pic.twitter.com/365E1mK2lj",
+					"expanded_url": "https://twitter.com/alyankovic/status/1181010332971499520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22461427,
+			"id_str": "22461427",
+			"name": "Al Yankovic",
+			"screen_name": "alyankovic",
+			"location": "Los Angeles",
+			"description": "You know... the weird one.",
+			"url": "https://t.co/AQRv276mUy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AQRv276mUy",
+							"expanded_url": "http://weirdal.com",
+							"display_url": "weirdal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5153733,
+			"friends_count": 601,
+			"listed_count": 30490,
+			"created_at": "Mon Mar 02 07:00:29 +0000 2009",
+			"favourites_count": 4174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22461427/1398828117",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 530,
+		"favorite_count": 5739,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RIP Rip https://t.co/365E1mK2lj"
+	},
+	{
 		"created_at": "Sun Oct 06 20:43:20 +0000 2019",
 		"id": 1180946663357272000,
 		"id_str": "1180946663357272068",
