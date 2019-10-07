@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 18:41:49 +0000 2019",
+		"id": 1181278470027899000,
+		"id_str": "1181278470027898884",
+		"full_text": "Panda Express is China’s way to slowly destroy the US. \n\nNot that they’re not doing that already… https://t.co/KAAQTVqTny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KAAQTVqTny",
+					"expanded_url": "https://twitter.com/cleverdevil/status/1181276061134401539",
+					"display_url": "twitter.com/cleverdevil/st…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 195,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181276061134401500,
+		"quoted_status_id_str": "1181276061134401539",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KAAQTVqTny",
+			"expanded": "https://twitter.com/cleverdevil/status/1181276061134401539",
+			"display": "twitter.com/cleverdevil/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 07 18:32:14 +0000 2019",
+			"id": 1181276061134401500,
+			"id_str": "1181276061134401539",
+			"full_text": "Bringing Panda Express onto an airplane is an act of terrorism.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://cleverdevil.io\" rel=\"nofollow\">cleverdevil.io</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 639523,
+				"id_str": "639523",
+				"name": "Jonathan LaCour",
+				"screen_name": "cleverdevil",
+				"location": "Los Angeles, CA",
+				"description": "CTO at @MissionCloud. Formerly, @DreamHost, @ShootQ, elsewhere. Bourbon enthusiast. Foodie. PGP: C756 2813 F881 06E2 6F1F 547B 003F 530D 3859 B702",
+				"url": "https://t.co/fDHDSqzXNQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fDHDSqzXNQ",
+								"expanded_url": "https://cleverdevil.io",
+								"display_url": "cleverdevil.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1261,
+				"friends_count": 292,
+				"listed_count": 110,
+				"created_at": "Mon Jan 15 21:49:20 +0000 2007",
+				"favourites_count": 10627,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26473,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744804831064317952/W-gMo7AO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744804831064317952/W-gMo7AO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/639523/1443413081",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Panda Express is China’s way to slowly destroy the US. \n\nNot that they’re not doing that already… https://t.co/KAAQTVqTny"
+	},
+	{
 		"created_at": "Mon Oct 07 13:58:45 +0000 2019",
 		"id": 1181010332971499500,
 		"id_str": "1181207237789913088",
