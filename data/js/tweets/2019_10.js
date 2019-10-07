@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 19:59:29 +0000 2019",
+		"id": 1181298018588545000,
+		"id_str": "1181298018588545025",
+		"full_text": "Is that…is that Comic Sans? https://t.co/PoYKhGQYhK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PoYKhGQYhK",
+					"expanded_url": "https://twitter.com/KFaulders/status/1181297420510081025",
+					"display_url": "twitter.com/KFaulders/stat…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Founder @SurfChaosMedia",
+			"url": "https://t.co/vGZZOYs8dO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYs8dO",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 195,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181297420510081000,
+		"quoted_status_id_str": "1181297420510081025",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PoYKhGQYhK",
+			"expanded": "https://twitter.com/KFaulders/status/1181297420510081025",
+			"display": "twitter.com/KFaulders/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 07 19:57:07 +0000 2019",
+			"id": 1181297420510081000,
+			"id_str": "1181297420510081025",
+			"full_text": "Here’s the letter John Dowd sent to House Intelligence Committee claiming they are harassing his clients with their “overly broad and unduly burdensome” request for Ukraine docs. Dowd reps Giuliani associates Igor Fruman and Lev Parnas. https://t.co/WDj0q2jKfp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1181297413429944300,
+						"id_str": "1181297413429944320",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/EGTPvR2UYAAQhK7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGTPvR2UYAAQhK7.jpg",
+						"url": "https://t.co/WDj0q2jKfp",
+						"display_url": "pic.twitter.com/WDj0q2jKfp",
+						"expanded_url": "https://twitter.com/KFaulders/status/1181297420510081025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 632,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1336,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1116,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1181297413429944300,
+						"id_str": "1181297413429944320",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/EGTPvR2UYAAQhK7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGTPvR2UYAAQhK7.jpg",
+						"url": "https://t.co/WDj0q2jKfp",
+						"display_url": "pic.twitter.com/WDj0q2jKfp",
+						"expanded_url": "https://twitter.com/KFaulders/status/1181297420510081025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 632,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1336,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1116,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1181297413429985300,
+						"id_str": "1181297413429985280",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/EGTPvR2VAAACemY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGTPvR2VAAACemY.jpg",
+						"url": "https://t.co/WDj0q2jKfp",
+						"display_url": "pic.twitter.com/WDj0q2jKfp",
+						"expanded_url": "https://twitter.com/KFaulders/status/1181297420510081025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 903,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1650,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1181297413434134500,
+						"id_str": "1181297413434134528",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/EGTPvR3UUAA8xvh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGTPvR3UUAA8xvh.jpg",
+						"url": "https://t.co/WDj0q2jKfp",
+						"display_url": "pic.twitter.com/WDj0q2jKfp",
+						"expanded_url": "https://twitter.com/KFaulders/status/1181297420510081025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1004,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 569,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1485,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 177028305,
+				"id_str": "177028305",
+				"name": "Katherine Faulders",
+				"screen_name": "KFaulders",
+				"location": "Washington, D.C.",
+				"description": "White House & Capitol Hill reporter for @ABC News. @UVA. Grams: kfaulders. DM for signal & kfaulders@protonmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18867,
+				"friends_count": 3263,
+				"listed_count": 662,
+				"created_at": "Wed Aug 11 02:08:54 +0000 2010",
+				"favourites_count": 3990,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13616,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080325082050936832/PgT4pgPi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080325082050936832/PgT4pgPi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/177028305/1537325796",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is that…is that Comic Sans? https://t.co/PoYKhGQYhK"
+	},
+	{
 		"created_at": "Mon Oct 07 18:41:49 +0000 2019",
 		"id": 1181278470027899000,
 		"id_str": "1181278470027898884",
