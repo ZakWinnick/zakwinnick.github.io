@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 12 22:32:00 +0000 2019",
+		"id": 1183148339707158500,
+		"id_str": "1183148339707158529",
+		"full_text": "Can we just elect her as President already…? https://t.co/5UJjMt6yj1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5UJjMt6yj1",
+					"expanded_url": "https://twitter.com/ewarren/status/1183019880867680256",
+					"display_url": "twitter.com/ewarren/status…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Drone Pilot",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 196,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183019880867680300,
+		"quoted_status_id_str": "1183019880867680256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5UJjMt6yj1",
+			"expanded": "https://twitter.com/ewarren/status/1183019880867680256",
+			"display": "twitter.com/ewarren/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 12 14:01:33 +0000 2019",
+			"id": 1183019880867680300,
+			"id_str": "1183019880867680256",
+			"full_text": "Facebook changed their ads policy to allow politicians to run ads with known lies—explicitly turning the platform into a disinformation-for-profit machine. This week, we decided to see just how far it goes.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 357606935,
+				"id_str": "357606935",
+				"name": "Elizabeth Warren",
+				"screen_name": "ewarren",
+				"location": "Massachusetts",
+				"description": "U.S. Senator, former teacher, and candidate for president. Wife, mom (Amelia, Alex, Bailey, @CFPB), grandmother, and Okie. She/her. Official campaign account.",
+				"url": "https://t.co/5jpXuSnwli",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5jpXuSnwli",
+								"expanded_url": "http://ewar.ren/chip-in",
+								"display_url": "ewar.ren/chip-in",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3336801,
+				"friends_count": 508,
+				"listed_count": 14353,
+				"created_at": "Thu Aug 18 16:43:48 +0000 2011",
+				"favourites_count": 61,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6331,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1160721744505769990/tWZQYbBr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160721744505769990/tWZQYbBr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/357606935/1549675771",
+				"profile_link_color": "232444",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "7DA6D9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12463,
+			"favorite_count": 57497,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can we just elect her as President already…? https://t.co/5UJjMt6yj1"
+	},
+	{
 		"created_at": "Fri Oct 11 16:55:28 +0000 2019",
 		"id": 1182701260350333000,
 		"id_str": "1182701260350332929",
