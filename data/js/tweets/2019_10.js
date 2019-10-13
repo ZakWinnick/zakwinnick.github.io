@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 13 01:40:47 +0000 2019",
+		"id": 1183195849330966500,
+		"id_str": "1183195849330966529",
+		"full_text": "I remember my friend’s stepdad swearing to us it was real (he obviously knew it wasn’t because he worked in finance for Universal Studios [the film side]). \n\nWe both believed him. \n\nI was in 12th grade… https://t.co/ViG1E5iyIl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ViG1E5iyIl",
+					"expanded_url": "https://twitter.com/capgaznews/status/1183185584790966273",
+					"display_url": "twitter.com/capgaznews/sta…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Drone Pilot",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 196,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183185584790966300,
+		"quoted_status_id_str": "1183185584790966273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ViG1E5iyIl",
+			"expanded": "https://twitter.com/capgaznews/status/1183185584790966273",
+			"display": "twitter.com/capgaznews/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 13 01:00:00 +0000 2019",
+			"id": 1183185584790966300,
+			"id_str": "1183185584790966273",
+			"full_text": "Presenting \"Blair Witch\" purely as found footage was actually a last-minute decision. 20 years later, here's a look back at the surprise hit that briefly turned Maryland into a horror fan mecca. https://t.co/lgsl3lww1D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lgsl3lww1D",
+						"expanded_url": "http://bit.ly/35rfMuH",
+						"display_url": "bit.ly/35rfMuH",
+						"indices": [
+							195,
+							218
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22952419,
+				"id_str": "22952419",
+				"name": "Capital Gazette",
+				"screen_name": "capgaznews",
+				"location": "Annapolis, MD",
+				"description": "#PressOn. Have a tip? Email tips@capgaznews.com",
+				"url": "https://t.co/RCySnNZ4v3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RCySnNZ4v3",
+								"expanded_url": "http://www.capitalgazette.com/subscribe/cgnews-subscriber-services-center-ngux-htmlstory.html",
+								"display_url": "capitalgazette.com/subscribe/cgne…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63616,
+				"friends_count": 1448,
+				"listed_count": 752,
+				"created_at": "Thu Mar 05 18:04:11 +0000 2009",
+				"favourites_count": 469,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48625,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/743111422272475136/sfoChz5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/743111422272475136/sfoChz5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22952419/1517945873",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "23408F",
+				"profile_sidebar_fill_color": "E6E6E6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I remember my friend’s stepdad swearing to us it was real (he obviously knew it wasn’t because he worked in finance for Universal Studios [the film side]). \n\nWe both believed him. \n\nI was in 12th grade… https://t.co/ViG1E5iyIl"
+	},
+	{
 		"created_at": "Sat Oct 12 22:32:00 +0000 2019",
 		"id": 1183148339707158500,
 		"id_str": "1183148339707158529",
