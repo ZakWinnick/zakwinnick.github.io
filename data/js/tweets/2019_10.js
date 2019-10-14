@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 17:24:05 +0000 2019",
+		"id": 1183795624426258400,
+		"id_str": "1183795624426258433",
+		"full_text": "Kung Fu Panda is still a thing? https://t.co/YDrKMAdBzQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YDrKMAdBzQ",
+					"expanded_url": "https://twitter.com/insideuniversal/status/1183791737745092611",
+					"display_url": "twitter.com/insideuniversa…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Drone Pilot",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 194,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183791737745092600,
+		"quoted_status_id_str": "1183791737745092611",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YDrKMAdBzQ",
+			"expanded": "https://twitter.com/insideuniversal/status/1183791737745092611",
+			"display": "twitter.com/insideuniversa…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 14 17:08:38 +0000 2019",
+			"id": 1183791737745092600,
+			"id_str": "1183791737745092611",
+			"full_text": "Universal Beijing Resort has announced details for its upcoming theme park, Universal Studios Beijing, revealing the seven highly-themed that will be featured - including Jurassic World, Kung Fu Panda and the Wizarding World of Harry Potter\nhttps://t.co/qAXJQyrTfo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qAXJQyrTfo",
+						"expanded_url": "http://www.insideuniversal.net/2019/10/universal-studios-beijing-reveals-7-themed-lands-set-to-open-2021/",
+						"display_url": "insideuniversal.net/2019/10/univer…",
+						"indices": [
+							241,
+							264
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49541799,
+				"id_str": "49541799",
+				"name": "Inside Universal",
+				"screen_name": "insideuniversal",
+				"location": "Orlando, FL - Hollywood, CA",
+				"description": "News & Info on Universal Studios Hollywood, Universal Orlando, & More! Join our forums! https://t.co/QCJg6AYteV",
+				"url": "https://t.co/D19vrJLiGH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D19vrJLiGH",
+								"expanded_url": "http://www.insideuniversal.net",
+								"display_url": "insideuniversal.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/QCJg6AYteV",
+								"expanded_url": "http://forums.insideuniversal.net",
+								"display_url": "forums.insideuniversal.net",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 25303,
+				"friends_count": 514,
+				"listed_count": 302,
+				"created_at": "Mon Jun 22 04:58:11 +0000 2009",
+				"favourites_count": 7331,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22975,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "081F2B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/862151194273337344/j47pZmPT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/862151194273337344/j47pZmPT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49541799/1546849496",
+				"profile_link_color": "175DA9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D6D6D6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kung Fu Panda is still a thing? https://t.co/YDrKMAdBzQ"
+	},
+	{
 		"created_at": "Mon Oct 14 14:25:14 +0000 2019",
 		"id": 1183750614712500200,
 		"id_str": "1183750614712500225",
