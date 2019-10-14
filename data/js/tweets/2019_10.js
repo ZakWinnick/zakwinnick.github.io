@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 12:54:31 +0000 2019",
+		"id": 1183727787502461000,
+		"id_str": "1183727787502460928",
+		"full_text": "Masterpiece is not the word I would use to describe this…\n\nGenius is more like it. https://t.co/9AWAfJCKUl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9AWAfJCKUl",
+					"expanded_url": "https://twitter.com/keithboykin/status/1183240097568886785",
+					"display_url": "twitter.com/keithboykin/st…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Drone Pilot",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 195,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183240097568886800,
+		"quoted_status_id_str": "1183240097568886785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9AWAfJCKUl",
+			"expanded": "https://twitter.com/keithboykin/status/1183240097568886785",
+			"display": "twitter.com/keithboykin/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 13 04:36:37 +0000 2019",
+			"id": 1183240097568886800,
+			"id_str": "1183240097568886785",
+			"full_text": "This #SNL Joker parody (“Grouch”) is a masterpiece.\n\nhttps://t.co/e7GAdP3H5E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SNL",
+						"indices": [
+							5,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1183236239455117300,
+						"id_str": "1183236239455117314",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/EGuzaVVWwAA9SJ7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGuzaVVWwAA9SJ7.jpg",
+						"url": "https://t.co/e7GAdP3H5E",
+						"display_url": "pic.twitter.com/e7GAdP3H5E",
+						"expanded_url": "https://twitter.com/nbcsnl/status/1183237058963398658/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1183237058963398700,
+						"source_status_id_str": "1183237058963398658",
+						"source_user_id": 28221296,
+						"source_user_id_str": "28221296"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1183236239455117300,
+						"id_str": "1183236239455117314",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/EGuzaVVWwAA9SJ7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGuzaVVWwAA9SJ7.jpg",
+						"url": "https://t.co/e7GAdP3H5E",
+						"display_url": "pic.twitter.com/e7GAdP3H5E",
+						"expanded_url": "https://twitter.com/nbcsnl/status/1183237058963398658/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1183237058963398700,
+						"source_status_id_str": "1183237058963398658",
+						"source_user_id": 28221296,
+						"source_user_id_str": "28221296",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 170404,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1183236239455117314/vid/640x360/djQENSKTVR6OsZ0s.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1183236239455117314/vid/480x270/UdlZFoIlz2EAslL-.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1183236239455117314/pl/SaUOuWCoIDe3HaLx.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1183236239455117314/vid/1280x720/Vz9GbSZnHJnFE4gg.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"call_to_actions": {
+								"watch_now": {
+									"url": "https://www.youtube.com/snl"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 28221296,
+								"id_str": "28221296",
+								"name": "Saturday Night Live - SNL",
+								"screen_name": "nbcsnl",
+								"location": "30 Rock",
+								"description": "The official Twitter for Saturday Night Live.\nSaturdays at 11:30 ET/8:30 PT on @NBC.",
+								"url": "https://t.co/GuHv1SnCkO",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/GuHv1SnCkO",
+												"expanded_url": "http://nbc.com/snl/",
+												"display_url": "nbc.com/snl/",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2605899,
+								"friends_count": 642,
+								"listed_count": 9016,
+								"created_at": "Wed Apr 01 23:06:46 +0000 2009",
+								"favourites_count": 9180,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 19852,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1159903342182699009/VOkYedxH_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159903342182699009/VOkYedxH_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/28221296/1564606955",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDFFCC",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21728303,
+				"id_str": "21728303",
+				"name": "Keith Boykin",
+				"screen_name": "keithboykin",
+				"location": "New York",
+				"description": "@CNN commentator. New York Times bestselling author. Dartmouth. Harvard Law. Columbia IRAAS. Former White House aide. https://t.co/w4gKAjVx3n",
+				"url": "https://t.co/MwGbzwI9cd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MwGbzwI9cd",
+								"expanded_url": "https://www.instagram.com/keithboykin1/",
+								"display_url": "instagram.com/keithboykin1/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/w4gKAjVx3n",
+								"expanded_url": "http://keithboykin.com",
+								"display_url": "keithboykin.com",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 188374,
+				"friends_count": 979,
+				"listed_count": 3393,
+				"created_at": "Tue Feb 24 04:14:21 +0000 2009",
+				"favourites_count": 3656,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 43926,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929053500532772865/NsKp4a4s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929053500532772865/NsKp4a4s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21728303/1561988085",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4315,
+			"favorite_count": 13380,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Masterpiece is not the word I would use to describe this…\n\nGenius is more like it. https://t.co/9AWAfJCKUl"
+	},
+	{
 		"created_at": "Sun Oct 13 18:12:01 +0000 2019",
 		"id": 1183445301799075800,
 		"id_str": "1183445301799075840",
