@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 15:41:58 +0000 2019",
+		"id": 1184126455610916900,
+		"id_str": "1184132313506045957",
+		"full_text": "As an #antivaxxer does @marwilliamson use anti-virus software on her computer? Or does she just count on us doing that so she stays safe? https://t.co/LywuhkJk58",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "antivaxxer",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marwilliamson",
+					"name": "Marianne Williamson",
+					"id": 21522338,
+					"id_str": "21522338",
+					"indices": [
+						23,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LywuhkJk58",
+					"expanded_url": "https://twitter.com/jbillinson/status/1184120814360256512",
+					"display_url": "twitter.com/jbillinson/sta…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2370283937,
+			"id_str": "2370283937",
+			"name": "Naveed Jamali",
+			"screen_name": "NaveedAJamali",
+			"location": "Seattle, WA",
+			"description": "Former Double Agent (author of “How to Catch a Russian Spy”) | @newsweek columnist | Navy Intel Veteran | @MSNBC/@militarytimes/@fpri alum | Views my own",
+			"url": "https://t.co/DWveT5SPoX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DWveT5SPoX",
+							"expanded_url": "https://www.naveedj.com",
+							"display_url": "naveedj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52444,
+			"friends_count": 2614,
+			"listed_count": 765,
+			"created_at": "Fri Feb 28 03:10:28 +0000 2014",
+			"favourites_count": 33589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160728721650638848/yz_QXhFs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160728721650638848/yz_QXhFs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2370283937/1558878808",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "300bcc6e23a88361",
+			"url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json",
+			"place_type": "city",
+			"name": "Seattle",
+			"full_name": "Seattle, WA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.436232,
+							47.4953154
+						],
+						[
+							-122.2249728,
+							47.4953154
+						],
+						[
+							-122.2249728,
+							47.734319
+						],
+						[
+							-122.436232,
+							47.734319
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184120814360256500,
+		"quoted_status_id_str": "1184120814360256512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LywuhkJk58",
+			"expanded": "https://twitter.com/jbillinson/status/1184120814360256512",
+			"display": "twitter.com/jbillinson/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 15 14:56:16 +0000 2019",
+			"id": 1184120814360256500,
+			"id_str": "1184120814360256512",
+			"full_text": "Marianne Williamson didn't qualify for tonight's debate but she did get to hang out in a bell tower so who's the real winner here https://t.co/UPEla5bLFR https://t.co/oNRyWqSwSw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UPEla5bLFR",
+						"expanded_url": "https://www.instagram.com/p/B3n1uq-hFzk/",
+						"display_url": "instagram.com/p/B3n1uq-hFzk/",
+						"indices": [
+							130,
+							153
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1184120038900543500,
+						"id_str": "1184120038900543489",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184120038900543489/pu/img/wsjxrr2IdwdZ1RcN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184120038900543489/pu/img/wsjxrr2IdwdZ1RcN.jpg",
+						"url": "https://t.co/oNRyWqSwSw",
+						"display_url": "pic.twitter.com/oNRyWqSwSw",
+						"expanded_url": "https://twitter.com/jbillinson/status/1184120814360256512/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1184120038900543500,
+						"id_str": "1184120038900543489",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184120038900543489/pu/img/wsjxrr2IdwdZ1RcN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184120038900543489/pu/img/wsjxrr2IdwdZ1RcN.jpg",
+						"url": "https://t.co/oNRyWqSwSw",
+						"display_url": "pic.twitter.com/oNRyWqSwSw",
+						"expanded_url": "https://twitter.com/jbillinson/status/1184120814360256512/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15400,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1184120038900543489/pu/vid/480x480/mupVtBZriPXUODIn.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1184120038900543489/pu/pl/gC6hOXDm7I7zvnHT.m3u8?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1184120038900543489/pu/vid/320x320/323W8t3mLqtzGH4P.mp4?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1184120038900543489/pu/vid/640x640/ec127NHEjouu0Nir.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 437737633,
+				"id_str": "437737633",
+				"name": "Josh Billinson",
+				"screen_name": "jbillinson",
+				"location": "New York, NY",
+				"description": "Currently a New Yorker, forever a miserable DC Sports fan | Social Media Strategist @BuzzFeedNews | josh.billinson@buzzfeed.com",
+				"url": "https://t.co/6BVtjUaHyZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6BVtjUaHyZ",
+								"expanded_url": "http://jbillinson.com",
+								"display_url": "jbillinson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33421,
+				"friends_count": 2637,
+				"listed_count": 648,
+				"created_at": "Thu Dec 15 19:35:35 +0000 2011",
+				"favourites_count": 28543,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12665,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1149318765424914433/-hkDKBqA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149318765424914433/-hkDKBqA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/437737633/1571101776",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 80,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As an #antivaxxer does @marwilliamson use anti-virus software on her computer? Or does she just count on us doing that so she stays safe? https://t.co/LywuhkJk58"
+	},
+	{
 		"created_at": "Tue Oct 15 12:33:02 +0000 2019",
 		"id": 1184084765680504800,
 		"id_str": "1184084765680504832",
