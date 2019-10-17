@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 17 00:17:23 +0000 2019",
+		"id": 1184624410185076700,
+		"id_str": "1184624410185076737",
+		"full_text": "Interview of the year. https://t.co/2v5xmMfbjC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2v5xmMfbjC",
+					"expanded_url": "https://twitter.com/ScottWamplerBMD/status/1184508894162378753",
+					"display_url": "twitter.com/ScottWamplerBM…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Drone Pilot",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 194,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184508894162378800,
+		"quoted_status_id_str": "1184508894162378753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2v5xmMfbjC",
+			"expanded": "https://twitter.com/ScottWamplerBMD/status/1184508894162378753",
+			"display": "twitter.com/ScottWamplerBM…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 16 16:38:22 +0000 2019",
+			"id": 1184508894162378800,
+			"id_str": "1184508894162378753",
+			"full_text": "THR: \"Hello, James Cameron? The Hollywood Reporter here. We'd like to ask you a few fun questions for this list of the 100 most powerful people in Hollywood that we're putting together?\"\n\nJames Cameron: \"Fuck you but okay.\" https://t.co/mlOZt0KGqF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1184508776998736000,
+						"id_str": "1184508776998735873",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/media/EHA4dPZXkAEepub.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHA4dPZXkAEepub.jpg",
+						"url": "https://t.co/mlOZt0KGqF",
+						"display_url": "pic.twitter.com/mlOZt0KGqF",
+						"expanded_url": "https://twitter.com/ScottWamplerBMD/status/1184508894162378753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 582,
+								"h": 318,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 582,
+								"h": 318,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 582,
+								"h": 318,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1184508776998736000,
+						"id_str": "1184508776998735873",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/media/EHA4dPZXkAEepub.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHA4dPZXkAEepub.jpg",
+						"url": "https://t.co/mlOZt0KGqF",
+						"display_url": "pic.twitter.com/mlOZt0KGqF",
+						"expanded_url": "https://twitter.com/ScottWamplerBMD/status/1184508894162378753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 582,
+								"h": 318,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 582,
+								"h": 318,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 582,
+								"h": 318,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 726682363,
+				"id_str": "726682363",
+				"name": "Scott Wampler™ 🎄",
+				"screen_name": "ScottWamplerBMD",
+				"location": "Austin, TX",
+				"description": "News Editor at @bmoviesd / TRYING TIMES Podcast / NIN Enthusiast / Professional Idiot / Does Swears / Churlish / Do Not Listen To",
+				"url": "https://t.co/Zoe51V3uaB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Zoe51V3uaB",
+								"expanded_url": "http://BirthMoviesDeath.com",
+								"display_url": "BirthMoviesDeath.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27548,
+				"friends_count": 791,
+				"listed_count": 354,
+				"created_at": "Mon Jul 30 19:22:00 +0000 2012",
+				"favourites_count": 147014,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 100197,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1167174551299612677/q0rVkIas_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167174551299612677/q0rVkIas_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/726682363/1563932263",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1366,
+			"favorite_count": 7895,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interview of the year. https://t.co/2v5xmMfbjC"
+	},
+	{
 		"created_at": "Tue Oct 15 20:42:22 +0000 2019",
 		"id": 1184207910546628600,
 		"id_str": "1184207910546628608",
