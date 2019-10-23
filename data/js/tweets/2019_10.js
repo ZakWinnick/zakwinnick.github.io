@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 12:35:16 +0000 2019",
+		"id": 1186280980341936000,
+		"id_str": "1186984430826655745",
+		"full_text": "Remembering our princess, our general, and our everlasting rebel. ❤️ https://t.co/4YiipHiZhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1186069200395128800,
+					"id_str": "1186069200395128832",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EHXEpogUEAA3TKM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHXEpogUEAA3TKM.jpg",
+					"url": "https://t.co/4YiipHiZhy",
+					"display_url": "pic.twitter.com/4YiipHiZhy",
+					"expanded_url": "https://twitter.com/starwars/status/1186280980341936130/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1186069200395128800,
+					"id_str": "1186069200395128832",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EHXEpogUEAA3TKM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHXEpogUEAA3TKM.jpg",
+					"url": "https://t.co/4YiipHiZhy",
+					"display_url": "pic.twitter.com/4YiipHiZhy",
+					"expanded_url": "https://twitter.com/starwars/status/1186280980341936130/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10302,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1186069200395128832/pl/w3caioGIKkm9nzlA.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1186069200395128832/vid/1280x720/l7QVJ_WbBe_7xY8E.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1186069200395128832/vid/480x270/gGUnCcvmUjSj66CA.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1186069200395128832/vid/640x360/viFm0J70rx36DUJT.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20106852,
+			"id_str": "20106852",
+			"name": "Star Wars",
+			"screen_name": "starwars",
+			"location": "",
+			"description": "The official home of Star Wars on Twitter.",
+			"url": "https://t.co/VXUbBMMsyZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VXUbBMMsyZ",
+							"expanded_url": "http://www.starwars.com",
+							"display_url": "starwars.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4179472,
+			"friends_count": 419,
+			"listed_count": 15537,
+			"created_at": "Wed Feb 04 23:37:44 +0000 2009",
+			"favourites_count": 29727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000405",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167221863103074305/Ziap6jxO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167221863103074305/Ziap6jxO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20106852/1566823132",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F1F4F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26839,
+		"favorite_count": 89189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remembering our princess, our general, and our everlasting rebel. ❤️ https://t.co/4YiipHiZhy"
+	},
+	{
 		"created_at": "Tue Oct 22 20:53:15 +0000 2019",
 		"id": 1186747365526528000,
 		"id_str": "1186747365526528007",
