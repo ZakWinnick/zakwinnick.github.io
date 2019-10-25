@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 13:56:35 +0000 2019",
+		"id": 1187729672580284400,
+		"id_str": "1187729672580284416",
+		"full_text": "How in God’s name did Facebook think this was a good idea? https://t.co/SJVkOwS027",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SJVkOwS027",
+					"expanded_url": "https://twitter.com/fbnewsroom/status/1187670366958829570",
+					"display_url": "twitter.com/fbnewsroom/sta…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 161,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187670366958829600,
+		"quoted_status_id_str": "1187670366958829570",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SJVkOwS027",
+			"expanded": "https://twitter.com/fbnewsroom/status/1187670366958829570",
+			"display": "twitter.com/fbnewsroom/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 25 10:00:55 +0000 2019",
+			"id": 1187670366958829600,
+			"id_str": "1187670366958829570",
+			"full_text": "Introducing Facebook News https://t.co/7Eb5kuUOg8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				49
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7Eb5kuUOg8",
+						"expanded_url": "https://wp.me/p4eLrC-4pQ",
+						"display_url": "wp.me/p4eLrC-4pQ",
+						"indices": [
+							26,
+							49
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 163723677,
+				"id_str": "163723677",
+				"name": "Facebook Newsroom",
+				"screen_name": "fbnewsroom",
+				"location": "",
+				"description": "News and press statements from Facebook Communications. Send media inquiries to press@fb.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 119908,
+				"friends_count": 304,
+				"listed_count": 1151,
+				"created_at": "Wed Jul 07 03:30:51 +0000 2010",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 451,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1123323704073527297/fIMIBAN__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123323704073527297/fIMIBAN__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/163723677/1480535402",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 73,
+			"favorite_count": 117,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How in God’s name did Facebook think this was a good idea? https://t.co/SJVkOwS027"
+	},
+	{
 		"created_at": "Fri Oct 25 12:40:45 +0000 2019",
 		"id": 1187692571742605300,
 		"id_str": "1187710587381440514",
