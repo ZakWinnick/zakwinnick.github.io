@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 10:31:43 +0000 2019",
+		"id": 1187678114165526500,
+		"id_str": "1187678114165526529",
+		"full_text": "I…I actually agree with this. \n\nGranted, it usually never works out well to date someone on your staff, let alone have them as your unicorn. \n\nI think if she wasn’t a bisexual female, and wasn’t in an open marriage, she’d get nothing more than people yelling at her… https://t.co/weYTjgy731",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/weYTjgy731",
+					"expanded_url": "https://twitter.com/mattgaetz/status/1187338202266460165",
+					"display_url": "twitter.com/mattgaetz/stat…",
+					"indices": [
+						267,
+						290
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 161,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177599412564123649/qbwiYp3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1555366317",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187338202266460200,
+		"quoted_status_id_str": "1187338202266460165",
+		"quoted_status_permalink": {
+			"url": "https://t.co/weYTjgy731",
+			"expanded": "https://twitter.com/mattgaetz/status/1187338202266460165",
+			"display": "twitter.com/mattgaetz/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 24 12:01:01 +0000 2019",
+			"id": 1187338202266460200,
+			"id_str": "1187338202266460165",
+			"full_text": "This is just absurd. The only person who seems to have a gripe is @RepKatieHill’s soon-to-be ex. \n\nWho among us would look perfect if every ex leaked every photo/text? \n\nKatie isn’t being investigated by Ethics or maligned because she hurt anyone - it is because she is different. https://t.co/Czrc2k8z8X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RepKatieHill",
+						"name": "Rep. Katie Hill",
+						"id": 1068273911224094700,
+						"id_str": "1068273911224094721",
+						"indices": [
+							66,
+							79
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Czrc2k8z8X",
+						"expanded_url": "https://twitter.com/jakesherman/status/1187137133594763264",
+						"display_url": "twitter.com/jakesherman/st…",
+						"indices": [
+							281,
+							304
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58579942,
+				"id_str": "58579942",
+				"name": "Matt Gaetz",
+				"screen_name": "mattgaetz",
+				"location": "Fort Walton Beach, FL",
+				"description": "Florida man proudly serving the First District in Congress. “He’s a machine...handsome and going places” says @realDonaldTrump #OpenGaetz",
+				"url": "https://t.co/QiudvzVsVL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QiudvzVsVL",
+								"expanded_url": "http://www.mattgaetz.com",
+								"display_url": "mattgaetz.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 217432,
+				"friends_count": 2373,
+				"listed_count": 1293,
+				"created_at": "Mon Jul 20 20:24:48 +0000 2009",
+				"favourites_count": 9843,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10692,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "294A69",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1136376209216950272/X320aRxc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136376209216950272/X320aRxc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58579942/1539655265",
+				"profile_link_color": "294A69",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E2E5ED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1187137133594763300,
+			"quoted_status_id_str": "1187137133594763264",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Czrc2k8z8X",
+				"expanded": "https://twitter.com/jakesherman/status/1187137133594763264",
+				"display": "twitter.com/jakesherman/st…"
+			},
+			"retweet_count": 752,
+			"favorite_count": 2275,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I…I actually agree with this. \n\nGranted, it usually never works out well to date someone on your staff, let alone have them as your unicorn. \n\nI think if she wasn’t a bisexual female, and wasn’t in an open marriage, she’d get nothing more than people yelling at her… https://t.co/weYTjgy731"
+	},
+	{
 		"created_at": "Thu Oct 24 12:30:03 +0000 2019",
 		"id": 1186603389263761400,
 		"id_str": "1187345507385073664",
