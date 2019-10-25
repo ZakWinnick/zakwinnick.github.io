@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 12:40:45 +0000 2019",
+		"id": 1187692571742605300,
+		"id_str": "1187710587381440514",
+		"full_text": "In 2016, @tedyoder posted a hammered-dulcimer cover of of “Everybody Wants to Rule the World.” When @tearsforfears singer Curt Smith and drummer Jamie Wollam saw the clip, they decided to travel to Ted’s Indiana farm so the three musicians could perform the song together. https://t.co/yxYZaQS43v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tedyoder",
+					"name": "Ted Yoder",
+					"id": 16003535,
+					"id_str": "16003535",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"screen_name": "tearsforfears",
+					"name": "Tears for Fears",
+					"id": 93736851,
+					"id_str": "93736851",
+					"indices": [
+						100,
+						114
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1187692007499718700,
+					"id_str": "1187692007499718656",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1187692007499718656/pu/img/uoPlCfw1JA7-xAmM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1187692007499718656/pu/img/uoPlCfw1JA7-xAmM.jpg",
+					"url": "https://t.co/yxYZaQS43v",
+					"display_url": "pic.twitter.com/yxYZaQS43v",
+					"expanded_url": "https://twitter.com/dusttodigital/status/1187692571742605313/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187692007499718700,
+					"id_str": "1187692007499718656",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1187692007499718656/pu/img/uoPlCfw1JA7-xAmM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1187692007499718656/pu/img/uoPlCfw1JA7-xAmM.jpg",
+					"url": "https://t.co/yxYZaQS43v",
+					"display_url": "pic.twitter.com/yxYZaQS43v",
+					"expanded_url": "https://twitter.com/dusttodigital/status/1187692571742605313/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 124100,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1187692007499718656/pu/vid/480x360/zXo24ztV0e0BID3_.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1187692007499718656/pu/vid/640x480/gEUMtdBpaEGXWS3V.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1187692007499718656/pu/vid/360x270/rCLKJMCjKtXOJKcw.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1187692007499718656/pu/pl/BOv1ETSZ8O1XycIH.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15795750,
+			"id_str": "15795750",
+			"name": "Dust-to-Digital",
+			"screen_name": "dusttodigital",
+			"location": "",
+			"description": "Music research, production and exploration.",
+			"url": "https://t.co/o6ZKr8sCLK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o6ZKr8sCLK",
+							"expanded_url": "http://www.dust-digital.com",
+							"display_url": "dust-digital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91256,
+			"friends_count": 1184,
+			"listed_count": 901,
+			"created_at": "Sun Aug 10 05:44:37 +0000 2008",
+			"favourites_count": 1412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049851327805837312/qRIl6o6b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049851327805837312/qRIl6o6b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15795750/1522820568",
+			"profile_link_color": "4F5069",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "949DFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 244,
+		"favorite_count": 772,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 2016, @tedyoder posted a hammered-dulcimer cover of of “Everybody Wants to Rule the World.” When @tearsforfears singer Curt Smith and drummer Jamie Wollam saw the clip, they decided to travel to Ted’s Indiana farm so the three musicians could perform the song together. https://t.co/yxYZaQS43v"
+	},
+	{
 		"created_at": "Fri Oct 25 10:31:43 +0000 2019",
 		"id": 1187678114165526500,
 		"id_str": "1187678114165526529",
