@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 29 12:54:53 +0000 2019",
+		"id": 1188893548759961600,
+		"id_str": "1189163696083345409",
+		"full_text": "This is one of the few examples of a video game representing hacking accurately.\n\nhttps://t.co/387N8vpzgD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/387N8vpzgD",
+					"expanded_url": "https://twitter.com/DaveMilbo/status/1188753109884948481?s=20",
+					"display_url": "twitter.com/DaveMilbo/stat…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 765305590746722300,
+			"id_str": "765305590746722304",
+			"name": "Tinker",
+			"screen_name": "TinkerSec",
+			"location": "/dev/null",
+			"description": "Tinkerer | Cypherpunk | Hacker - @Dallas_Hackers",
+			"url": "https://t.co/oQdjp002Rl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oQdjp002Rl",
+							"expanded_url": "https://www.tinker.sh",
+							"display_url": "tinker.sh",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35748,
+			"friends_count": 779,
+			"listed_count": 519,
+			"created_at": "Mon Aug 15 21:54:06 +0000 2016",
+			"favourites_count": 34924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/765306742641078272/SLGPwx5v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/765306742641078272/SLGPwx5v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/765305590746722304/1471298455",
+			"profile_link_color": "151515",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188753109884948500,
+		"quoted_status_id_str": "1188753109884948481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/387N8vpzgD",
+			"expanded": "https://twitter.com/DaveMilbo/status/1188753109884948481?s=20",
+			"display": "twitter.com/DaveMilbo/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 28 09:43:22 +0000 2019",
+			"id": 1188753109884948500,
+			"id_str": "1188753109884948481",
+			"full_text": "RPGs are weird, man. Was trying to hack a terminal in The Outer World's but my hacking skill was too low. Notice my armour is giving me -5 for all tech skills. I take off my pants and all of a sudden I'm skilled enough to hack the terminal. Video games.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4328027000,
+				"id_str": "4328027000",
+				"name": "David Milner",
+				"screen_name": "DaveMilbo",
+				"location": "Melbourne, Victoria",
+				"description": "Award-winning journalist. Editor of Game Informer Magazine Australia 2013-2019. Words in @Theage and @smh. Ghost Protocol is still the best one.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6825,
+				"friends_count": 982,
+				"listed_count": 100,
+				"created_at": "Sun Nov 22 23:36:40 +0000 2015",
+				"favourites_count": 117273,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 30730,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1123351655741702144/pewOZ-7j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123351655741702144/pewOZ-7j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4328027000/1563497977",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3972,
+			"favorite_count": 22236,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 73,
+		"favorite_count": 272,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is one of the few examples of a video game representing hacking accurately.\n\nhttps://t.co/387N8vpzgD"
+	},
+	{
 		"created_at": "Tue Oct 29 02:02:29 +0000 2019",
 		"id": 1188998757188173800,
 		"id_str": "1188999515216453632",
