@@ -1,6 +1,605 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 16:33:39 +0000 2019",
+		"id": 1189943527381328000,
+		"id_str": "1189943527381327873",
+		"full_text": "…also iPhone 6. https://t.co/kkxQXDyyet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kkxQXDyyet",
+					"expanded_url": "https://twitter.com/W7VOA/status/1189942489794457600",
+					"display_url": "twitter.com/W7VOA/status/1…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 161,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1189942489794457600,
+		"quoted_status_id_str": "1189942489794457600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kkxQXDyyet",
+			"expanded": "https://twitter.com/W7VOA/status/1189942489794457600",
+			"display": "twitter.com/W7VOA/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 31 16:29:32 +0000 2019",
+			"id": 1189942489794457600,
+			"id_str": "1189942489794457600",
+			"full_text": "After being named @realDonaldTrump adviser on cybersecurity, @RudyGiuliani had to visit an @Apple store after he locked himself out of his iPhone, reports @richshapiro. https://t.co/EsTTrK5od7 https://t.co/4hi7CpRIhB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				192
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							18,
+							34
+						]
+					},
+					{
+						"screen_name": "RudyGiuliani",
+						"name": "Rudy Giuliani",
+						"id": 770781940341289000,
+						"id_str": "770781940341288960",
+						"indices": [
+							61,
+							74
+						]
+					},
+					{
+						"screen_name": "Apple",
+						"name": "Apple",
+						"id": 380749300,
+						"id_str": "380749300",
+						"indices": [
+							91,
+							97
+						]
+					},
+					{
+						"screen_name": "richshapiro",
+						"name": "rich shapiro",
+						"id": 119532633,
+						"id_str": "119532633",
+						"indices": [
+							155,
+							167
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EsTTrK5od7",
+						"expanded_url": "https://www.nbcnews.com/news/us-news/rudy-giuliani-needed-apple-genius-help-unlock-his-iphone-after-n1074241",
+						"display_url": "nbcnews.com/news/us-news/r…",
+						"indices": [
+							169,
+							192
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1189942487286190000,
+						"id_str": "1189942487286190082",
+						"indices": [
+							193,
+							216
+						],
+						"media_url": "http://pbs.twimg.com/media/EIOGYznWkAIMTw_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIOGYznWkAIMTw_.jpg",
+						"url": "https://t.co/4hi7CpRIhB",
+						"display_url": "pic.twitter.com/4hi7CpRIhB",
+						"expanded_url": "https://twitter.com/W7VOA/status/1189942489794457600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 560,
+								"h": 590,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 560,
+								"h": 590,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 560,
+								"h": 590,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1189942487286190000,
+						"id_str": "1189942487286190082",
+						"indices": [
+							193,
+							216
+						],
+						"media_url": "http://pbs.twimg.com/media/EIOGYznWkAIMTw_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIOGYznWkAIMTw_.jpg",
+						"url": "https://t.co/4hi7CpRIhB",
+						"display_url": "pic.twitter.com/4hi7CpRIhB",
+						"expanded_url": "https://twitter.com/W7VOA/status/1189942489794457600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 560,
+								"h": 590,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 560,
+								"h": 590,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 560,
+								"h": 590,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17919393,
+				"id_str": "17919393",
+				"name": "Steve Herman",
+				"screen_name": "W7VOA",
+				"location": "Washington, DC",
+				"description": "@WhiteHouse bureau chief @VOANews. Past president: @fccjapan, @SeoulFCC; Member: @aaja, @opcofamerica, @pressclubdc, @QCWA, @whca, @WhiteHouseHstry",
+				"url": "https://t.co/Gxigiw7BPO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gxigiw7BPO",
+								"expanded_url": "https://www.steveherman.press",
+								"display_url": "steveherman.press",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90278,
+				"friends_count": 1997,
+				"listed_count": 4209,
+				"created_at": "Sat Dec 06 08:56:45 +0000 2008",
+				"favourites_count": 6690,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 113043,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1188250466465042432/iu_-5MX7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188250466465042432/iu_-5MX7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17919393/1540929053",
+				"profile_link_color": "002868",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "191622",
+				"profile_text_color": "993B00",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "…also iPhone 6. https://t.co/kkxQXDyyet"
+	},
+	{
+		"created_at": "Thu Oct 31 16:28:10 +0000 2019",
+		"id": 1189942147858018300,
+		"id_str": "1189942147858018304",
+		"full_text": "Please tell me he made an appointment… https://t.co/AHEhwQLTp4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AHEhwQLTp4",
+					"expanded_url": "https://twitter.com/davidgura/status/1189940351198515201",
+					"display_url": "twitter.com/davidgura/stat…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 161,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1189940351198515200,
+		"quoted_status_id_str": "1189940351198515201",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AHEhwQLTp4",
+			"expanded": "https://twitter.com/davidgura/status/1189940351198515201",
+			"display": "twitter.com/davidgura/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 31 16:21:02 +0000 2019",
+			"id": 1189940351198515200,
+			"id_str": "1189940351198515201",
+			"full_text": "After he was named @realDonaldTrump's cybersecurity adviser, @RudyGiuliani went to an Apple store for help. \n \n\"He was locked out of his iPhone because he had forgotten the passcode and entered the wrong one at least 10 times.\" \n \nhttps://t.co/qC6rNYZcZo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							19,
+							35
+						]
+					},
+					{
+						"screen_name": "RudyGiuliani",
+						"name": "Rudy Giuliani",
+						"id": 770781940341289000,
+						"id_str": "770781940341288960",
+						"indices": [
+							61,
+							74
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qC6rNYZcZo",
+						"expanded_url": "https://nbcnews.to/2Ns8DSS",
+						"display_url": "nbcnews.to/2Ns8DSS",
+						"indices": [
+							231,
+							254
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14888467,
+				"id_str": "14888467",
+				"name": "David Ghoulra",
+				"screen_name": "davidgura",
+				"location": "Brooklyn, NY",
+				"description": "@MSNBC and @NBCNews, by way of @BloombergTV, @Marketplace and @NPR | [Usual disclaimer]",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45679,
+				"friends_count": 3728,
+				"listed_count": 895,
+				"created_at": "Sat May 24 05:07:12 +0000 2008",
+				"favourites_count": 15613,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37709,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974125506156253184/Z7POKTZ6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974125506156253184/Z7POKTZ6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14888467/1526386640",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1063,
+			"favorite_count": 2408,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please tell me he made an appointment… https://t.co/AHEhwQLTp4"
+	},
+	{
 		"created_at": "Thu Oct 31 10:24:04 +0000 2019",
 		"id": 1189673320230326300,
 		"id_str": "1189850519226986497",
