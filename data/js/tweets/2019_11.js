@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 02 01:22:02 +0000 2019",
+		"id": 1190435198397304800,
+		"id_str": "1190438887346360321",
+		"full_text": "Great. Now go take Ted Cruz’s Senate seat… https://t.co/QQhURlM9Zb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QQhURlM9Zb",
+					"expanded_url": "https://twitter.com/BetoORourke/status/1190380118511902720",
+					"display_url": "twitter.com/BetoORourke/st…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1,
+			"friends_count": 457,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189611069200850944/Nz99E6Rk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189611069200850944/Nz99E6Rk_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1190380118511902700,
+		"quoted_status_id_str": "1190380118511902720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QQhURlM9Zb",
+			"expanded": "https://twitter.com/BetoORourke/status/1190380118511902720",
+			"display": "twitter.com/BetoORourke/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 01 21:28:31 +0000 2019",
+			"id": 1190380118511902700,
+			"id_str": "1190380118511902720",
+			"full_text": "Our campaign has always been about seeing clearly, speaking honestly, and acting decisively. \n\nIn that spirit: I am announcing that my service to the country will not be as a candidate or as the nominee. https://t.co/8jrBPGuX4t",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8jrBPGuX4t",
+						"expanded_url": "https://medium.com/@BetoORourke/thank-you-b13458279468",
+						"display_url": "medium.com/@BetoORourke/t…",
+						"indices": [
+							204,
+							227
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 342863309,
+				"id_str": "342863309",
+				"name": "Beto O'Rourke",
+				"screen_name": "BetoORourke",
+				"location": "El Paso, TX",
+				"description": "Building a new kind of politics through a grassroots campaign for America -- for everyone in America. Powered by people, not PACs.",
+				"url": "https://t.co/W2jeGJ9ErW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W2jeGJ9ErW",
+								"expanded_url": "http://BetoORourke.com",
+								"display_url": "BetoORourke.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1660401,
+				"friends_count": 827,
+				"listed_count": 6376,
+				"created_at": "Tue Jul 26 18:05:52 +0000 2011",
+				"favourites_count": 3545,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7771,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1177725147878477825/Znz9ndSl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177725147878477825/Znz9ndSl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/342863309/1548290966",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8157,
+			"favorite_count": 56701,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great. Now go take Ted Cruz’s Senate seat… https://t.co/QQhURlM9Zb"
+	},
+	{
 		"created_at": "Fri Nov 01 17:39:39 +0000 2019",
 		"id": 1190322523650625500,
 		"id_str": "1190322523650625537",
