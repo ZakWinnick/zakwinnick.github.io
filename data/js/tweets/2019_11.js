@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 19:39:41 +0000 2019",
+		"id": 1190992200806609000,
+		"id_str": "1191077508822786049",
+		"full_text": "On this day in 2008: Tesla secures $40 million loan to avoid bankruptcy\n\nToday, its $56 billion market cap makes Tesla the most valuable US automaker https://t.co/OAZCO9mmfb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190992195215642600,
+					"id_str": "1190992195215642624",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EIdBF2YXUAAMC26.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIdBF2YXUAAMC26.jpg",
+					"url": "https://t.co/OAZCO9mmfb",
+					"display_url": "pic.twitter.com/OAZCO9mmfb",
+					"expanded_url": "https://twitter.com/JonErlichman/status/1190992200806608897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 533,
+							"h": 296,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 533,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 533,
+							"h": 296,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "807095",
+									"screen_name": "nytimes",
+									"name": "The New York Times"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190992195215642600,
+					"id_str": "1190992195215642624",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EIdBF2YXUAAMC26.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIdBF2YXUAAMC26.jpg",
+					"url": "https://t.co/OAZCO9mmfb",
+					"display_url": "pic.twitter.com/OAZCO9mmfb",
+					"expanded_url": "https://twitter.com/JonErlichman/status/1190992200806608897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 533,
+							"h": 296,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 533,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 533,
+							"h": 296,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "807095",
+									"screen_name": "nytimes",
+									"name": "The New York Times"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164425558,
+			"id_str": "164425558",
+			"name": "Jon Erlichman",
+			"screen_name": "JonErlichman",
+			"location": "IG: @jonerlichman",
+			"description": "Anchor, “The Open” @BNNBloomberg 8:30am to 11am. @CTVNationalNews correspondent & fill-in anchor. Host, @CTV celebrity entrepreneur show “Sidelines\"",
+			"url": "https://t.co/mMXSmkvudj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMXSmkvudj",
+							"expanded_url": "https://blog.twitter.com/official/en_ca/topics/insights/2018/Jon_Erlichman_talks_Twitter.html",
+							"display_url": "blog.twitter.com/official/en_ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109305,
+			"friends_count": 150,
+			"listed_count": 1898,
+			"created_at": "Thu Jul 08 21:17:18 +0000 2010",
+			"favourites_count": 14673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836626755951726593/n4i54n4l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836626755951726593/n4i54n4l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164425558/1568886702",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 312,
+		"favorite_count": 2195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day in 2008: Tesla secures $40 million loan to avoid bankruptcy\n\nToday, its $56 billion market cap makes Tesla the most valuable US automaker https://t.co/OAZCO9mmfb"
+	},
+	{
 		"created_at": "Sat Nov 02 01:22:02 +0000 2019",
 		"id": 1190435198397304800,
 		"id_str": "1190438887346360321",
