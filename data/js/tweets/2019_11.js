@@ -1,10 +1,561 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 06 01:27:18 +0000 2019",
+		"id": 1191889761381879800,
+		"id_str": "1191889761381879808",
+		"full_text": "Most important thread of the day. https://t.co/s00tOkHaig",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s00tOkHaig",
+					"expanded_url": "https://twitter.com/davecobb/status/1191881759081631744",
+					"display_url": "twitter.com/davecobb/statu…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 169,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191881759081631700,
+		"quoted_status_id_str": "1191881759081631744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/s00tOkHaig",
+			"expanded": "https://twitter.com/davecobb/status/1191881759081631744",
+			"display": "twitter.com/davecobb/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 06 00:55:30 +0000 2019",
+			"id": 1191881759081631700,
+			"id_str": "1191881759081631744",
+			"full_text": "\"Here's a red-letter date in the history of science: November 5, 1955. Yes! Of course! November 5, 1955! That was the day I invented time-travel. I remember it vividly.\" #fluxcapacitorday #timetravel #docbrown #bttf https://t.co/9DxJKX8MiZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				215
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "fluxcapacitorday",
+						"indices": [
+							170,
+							187
+						]
+					},
+					{
+						"text": "timetravel",
+						"indices": [
+							188,
+							199
+						]
+					},
+					{
+						"text": "docbrown",
+						"indices": [
+							200,
+							209
+						]
+					},
+					{
+						"text": "bttf",
+						"indices": [
+							210,
+							215
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1191881753671196700,
+						"id_str": "1191881753671196674",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/EIpqI93XYAIZwOG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIpqI93XYAIZwOG.jpg",
+						"url": "https://t.co/9DxJKX8MiZ",
+						"display_url": "pic.twitter.com/9DxJKX8MiZ",
+						"expanded_url": "https://twitter.com/davecobb/status/1191881759081631744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1191881753671196700,
+						"id_str": "1191881753671196674",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/EIpqI93XYAIZwOG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIpqI93XYAIZwOG.jpg",
+						"url": "https://t.co/9DxJKX8MiZ",
+						"display_url": "pic.twitter.com/9DxJKX8MiZ",
+						"expanded_url": "https://twitter.com/davecobb/status/1191881759081631744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7253402,
+				"id_str": "7253402",
+				"name": "Dave Cobb 🏳️‍🌈",
+				"screen_name": "davecobb",
+				"location": "Los Angeles",
+				"description": "*NOT THE FAMOUS MUSIC PRODUCER* (that's @davecobb7); queer AF + married; experience design; Principal @ThinkwellGroup; saving the world one dark-ride at a time.",
+				"url": "https://t.co/uhENxsJ7WT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uhENxsJ7WT",
+								"expanded_url": "http://about.me/davecobb",
+								"display_url": "about.me/davecobb",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4470,
+				"friends_count": 2691,
+				"listed_count": 96,
+				"created_at": "Wed Jul 04 16:42:52 +0000 2007",
+				"favourites_count": 16360,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13484,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178851408709214208/NbCXniD5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178851408709214208/NbCXniD5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7253402/1563985333",
+				"profile_link_color": "4E00FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "DE91FF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Most important thread of the day. https://t.co/s00tOkHaig"
+	},
+	{
+		"created_at": "Wed Nov 06 01:25:45 +0000 2019",
+		"id": 1191763082894364700,
+		"id_str": "1191889372712513536",
+		"full_text": "Alright, it's true. I have an extra pair of these AirPods Pro to give away. Just RT and you're in. Will pick a winner in 24 hours. Good luck! https://t.co/KesFyYIMRd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191763076141465600,
+					"id_str": "1191763076141465605",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EIn-NBnWwAU9pZh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIn-NBnWwAU9pZh.jpg",
+					"url": "https://t.co/KesFyYIMRd",
+					"display_url": "pic.twitter.com/KesFyYIMRd",
+					"expanded_url": "https://twitter.com/MKBHD/status/1191763082894364673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191763076141465600,
+					"id_str": "1191763076141465605",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EIn-NBnWwAU9pZh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIn-NBnWwAU9pZh.jpg",
+					"url": "https://t.co/KesFyYIMRd",
+					"display_url": "pic.twitter.com/KesFyYIMRd",
+					"expanded_url": "https://twitter.com/MKBHD/status/1191763082894364673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29873662,
+			"id_str": "29873662",
+			"name": "Marques Brownlee",
+			"screen_name": "MKBHD",
+			"location": "NYC",
+			"description": "Web Video Producer | ⋈ | Pro Ultimate Frisbee Player",
+			"url": "https://t.co/zGcF5QxPBI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zGcF5QxPBI",
+							"expanded_url": "http://youtube.com/MKBHD",
+							"display_url": "youtube.com/MKBHD",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3510917,
+			"friends_count": 342,
+			"listed_count": 10093,
+			"created_at": "Thu Apr 09 00:50:00 +0000 2009",
+			"favourites_count": 25498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094044059822448640/BvJ8T3jO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094044059822448640/BvJ8T3jO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29873662/1549676067",
+			"profile_link_color": "6C4585",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221560,
+		"favorite_count": 73858,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alright, it's true. I have an extra pair of these AirPods Pro to give away. Just RT and you're in. Will pick a winner in 24 hours. Good luck! https://t.co/KesFyYIMRd"
+	},
+	{
 		"created_at": "Mon Nov 04 17:45:36 +0000 2019",
 		"id": 1191411186207727600,
 		"id_str": "1191411186207727616",
-		"full_text": "What is this FACEBOOK you mention?\n\nCatch me on FACEBOOK now...\n\nhttps://t.co/Ss2HqQLw5V\n\n🤦🏻‍♂️ https://t.co/K5yrizYHqV",
+		"full_text": "What is this FACEBOOK you mention?\n\nCatch me on FACEBOOK now...\n\nhttps://t.co/Ss2HqQLw5V\n\n🤦🏻♂️ https://t.co/K5yrizYHqV",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -229,7 +780,7 @@ Grailbird.data.tweets_2019_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "What is this FACEBOOK you mention?\n\nCatch me on FACEBOOK now...\n\nhttps://t.co/Ss2HqQLw5V\n\n🤦🏻‍♂️ https://t.co/K5yrizYHqV"
+		"text": "What is this FACEBOOK you mention?\n\nCatch me on FACEBOOK now...\n\nhttps://t.co/Ss2HqQLw5V\n\n🤦🏻♂️ https://t.co/K5yrizYHqV"
 	},
 	{
 		"created_at": "Sun Nov 03 19:39:41 +0000 2019",
