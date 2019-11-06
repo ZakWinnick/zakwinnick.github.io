@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 06 13:21:03 +0000 2019",
+		"id": 1192029702744969200,
+		"id_str": "1192069386225553408",
+		"full_text": "Renzon Sanchez created a \"not-so-secret\" In-N-Out menu in the style of the original menu. https://t.co/bbKanqj6To",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192029696050876400,
+					"id_str": "1192029696050876418",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EIrwsWLUUAI_kcP.png",
+					"media_url_https": "https://pbs.twimg.com/media/EIrwsWLUUAI_kcP.png",
+					"url": "https://t.co/bbKanqj6To",
+					"display_url": "pic.twitter.com/bbKanqj6To",
+					"expanded_url": "https://twitter.com/mmcphate/status/1192029702744969216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1323,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 189,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 380,
+									"y": 334,
+									"h": 215,
+									"w": 215
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 634,
+									"y": 558,
+									"h": 359,
+									"w": 359
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 634,
+									"y": 558,
+									"h": 359,
+									"w": 359
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192029696050876400,
+					"id_str": "1192029696050876418",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EIrwsWLUUAI_kcP.png",
+					"media_url_https": "https://pbs.twimg.com/media/EIrwsWLUUAI_kcP.png",
+					"url": "https://t.co/bbKanqj6To",
+					"display_url": "pic.twitter.com/bbKanqj6To",
+					"expanded_url": "https://twitter.com/mmcphate/status/1192029702744969216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1323,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 189,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 380,
+									"y": 334,
+									"h": 215,
+									"w": 215
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 634,
+									"y": 558,
+									"h": 359,
+									"w": 359
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 634,
+									"y": 558,
+									"h": 359,
+									"w": 359
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11136082,
+			"id_str": "11136082",
+			"name": "California Sun",
+			"screen_name": "mmcphate",
+			"location": "California, USA",
+			"description": "Must-read stories about the Golden State, delivered daily to your inbox. Sign up free: https://t.co/IuNB8rqs7T",
+			"url": "https://t.co/bTRUYfHeCY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bTRUYfHeCY",
+							"expanded_url": "http://www.californiasun.co",
+							"display_url": "californiasun.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IuNB8rqs7T",
+							"expanded_url": "http://californiasun.co",
+							"display_url": "californiasun.co",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14803,
+			"friends_count": 10248,
+			"listed_count": 311,
+			"created_at": "Thu Dec 13 18:08:10 +0000 2007",
+			"favourites_count": 6031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6479E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11136082/1528743412",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Renzon Sanchez created a \"not-so-secret\" In-N-Out menu in the style of the original menu. https://t.co/bbKanqj6To"
+	},
+	{
 		"created_at": "Wed Nov 06 01:27:18 +0000 2019",
 		"id": 1191889761381879800,
 		"id_str": "1191889761381879808",
@@ -267,7 +537,7 @@ Grailbird.data.tweets_2019_11 =
 			"user": {
 				"id": 7253402,
 				"id_str": "7253402",
-				"name": "Dave Cobb 🏳️‍🌈",
+				"name": "Dave Cobb 🏳️🌈",
 				"screen_name": "davecobb",
 				"location": "Los Angeles",
 				"description": "*NOT THE FAMOUS MUSIC PRODUCER* (that's @davecobb7); queer AF + married; experience design; Principal @ThinkwellGroup; saving the world one dark-ride at a time.",
