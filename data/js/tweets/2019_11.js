@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 09 22:08:38 +0000 2019",
+		"id": 1193289320217686000,
+		"id_str": "1193289320217686016",
+		"full_text": "Important thread...\n\nI’d trust Dave’s opinion over most everyone else’s. https://t.co/8qnwIpZ6mq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8qnwIpZ6mq",
+					"expanded_url": "https://twitter.com/davecobb/status/1193271046394257408",
+					"display_url": "twitter.com/davecobb/statu…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 169,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1193271046394257400,
+		"quoted_status_id_str": "1193271046394257408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8qnwIpZ6mq",
+			"expanded": "https://twitter.com/davecobb/status/1193271046394257408",
+			"display": "twitter.com/davecobb/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 09 20:56:02 +0000 2019",
+			"id": 1193271046394257400,
+			"id_str": "1193271046394257408",
+			"full_text": "Just landed at @flyLAXairport, new @Uber/@lyft pickup procedure actually went pretty smoothly. As an professional location-based experience designer, I feel compelled to give notes. #LAXit",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LAXit",
+						"indices": [
+							182,
+							188
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "flyLAXairport",
+						"name": "LAX Airport",
+						"id": 26886095,
+						"id_str": "26886095",
+						"indices": [
+							15,
+							29
+						]
+					},
+					{
+						"screen_name": "Uber",
+						"name": "Uber",
+						"id": 19103481,
+						"id_str": "19103481",
+						"indices": [
+							35,
+							40
+						]
+					},
+					{
+						"screen_name": "lyft",
+						"name": "🚗🚲🛴🚊",
+						"id": 569569550,
+						"id_str": "569569550",
+						"indices": [
+							41,
+							46
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7253402,
+				"id_str": "7253402",
+				"name": "Dave Cobb 🏳️‍🌈",
+				"screen_name": "davecobb",
+				"location": "Los Angeles",
+				"description": "*NOT THE FAMOUS MUSIC PRODUCER* (that's @davecobb7); queer AF + married; experience design; Principal @ThinkwellGroup; saving the world one dark-ride at a time.",
+				"url": "https://t.co/uhENxsJ7WT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uhENxsJ7WT",
+								"expanded_url": "http://about.me/davecobb",
+								"display_url": "about.me/davecobb",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4471,
+				"friends_count": 2698,
+				"listed_count": 96,
+				"created_at": "Wed Jul 04 16:42:52 +0000 2007",
+				"favourites_count": 16399,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13491,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178851408709214208/NbCXniD5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178851408709214208/NbCXniD5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7253402/1563985333",
+				"profile_link_color": "4E00FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "DE91FF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Important thread...\n\nI’d trust Dave’s opinion over most everyone else’s. https://t.co/8qnwIpZ6mq"
+	},
+	{
 		"created_at": "Sat Nov 09 19:40:37 +0000 2019",
 		"id": 959501972255772700,
 		"id_str": "1193252070398320645",
