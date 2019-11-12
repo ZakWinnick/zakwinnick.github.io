@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 12 14:48:54 +0000 2019",
+		"id": 1194265818122637300,
+		"id_str": "1194265818122637314",
+		"full_text": "Why not? None of the 737 MAX aircraft owned by US-based carriers had any issues. \n\nPlus, with all the added public scrutiny, it’ll probably be the safest plane in the sky. https://t.co/2vlm2LRonm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2vlm2LRonm",
+					"expanded_url": "https://twitter.com/jonostrower/status/1194259872939790336",
+					"display_url": "twitter.com/jonostrower/st…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 177,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1194259872939790300,
+		"quoted_status_id_str": "1194259872939790336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2vlm2LRonm",
+			"expanded": "https://twitter.com/jonostrower/status/1194259872939790336",
+			"display": "twitter.com/jonostrower/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 12 14:25:16 +0000 2019",
+			"id": 1194259872939790300,
+			"id_str": "1194259872939790336",
+			"full_text": "Let’s do this again. Simple, but important, question: When the 737 Max returns to service, will you feel comfortable flying on the airplane?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14892330,
+				"id_str": "14892330",
+				"name": "Jon Ostrower",
+				"screen_name": "jonostrower",
+				"location": "Seattle",
+				"description": "Editor-in-chief of The Air Current. Chaser of things that fly, unapologetic geek. CNN, WSJ & Flightglobal alum. Signal: +1-617-271-4167",
+				"url": "https://t.co/HhfS2op0nC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HhfS2op0nC",
+								"expanded_url": "http://www.theaircurrent.com",
+								"display_url": "theaircurrent.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 81037,
+				"friends_count": 5441,
+				"listed_count": 2513,
+				"created_at": "Sat May 24 16:36:26 +0000 2008",
+				"favourites_count": 14079,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56247,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "31266E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1169700409281306626/H0fjBj3y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169700409281306626/H0fjBj3y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14892330/1569104120",
+				"profile_link_color": "1111C3",
+				"profile_sidebar_border_color": "D0D0D0",
+				"profile_sidebar_fill_color": "8D7BBC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why not? None of the 737 MAX aircraft owned by US-based carriers had any issues. \n\nPlus, with all the added public scrutiny, it’ll probably be the safest plane in the sky. https://t.co/2vlm2LRonm"
+	},
+	{
 		"created_at": "Sat Nov 09 22:08:38 +0000 2019",
 		"id": 1193289320217686000,
 		"id_str": "1193289320217686016",
@@ -171,7 +382,7 @@ Grailbird.data.tweets_2019_11 =
 			"user": {
 				"id": 7253402,
 				"id_str": "7253402",
-				"name": "Dave Cobb 🏳️‍🌈",
+				"name": "Dave Cobb 🏳️🌈",
 				"screen_name": "davecobb",
 				"location": "Los Angeles",
 				"description": "*NOT THE FAMOUS MUSIC PRODUCER* (that's @davecobb7); queer AF + married; experience design; Principal @ThinkwellGroup; saving the world one dark-ride at a time.",
