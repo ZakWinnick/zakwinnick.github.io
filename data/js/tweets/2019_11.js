@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 14 19:53:28 +0000 2019",
+		"id": 1195067240493801500,
+		"id_str": "1195067240493801473",
+		"full_text": "Love that two of my hometown radio stations are featured!\n\n@KCRW and @885fmsocal https://t.co/4aYMxrvCq1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kcrw",
+					"name": "KCRW",
+					"id": 9636632,
+					"id_str": "9636632",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"screen_name": "885fmsocal",
+					"name": "88.5 FM",
+					"id": 96729515,
+					"id_str": "96729515",
+					"indices": [
+						69,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4aYMxrvCq1",
+					"expanded_url": "https://twitter.com/viticci/status/1195050821278404608",
+					"display_url": "twitter.com/viticci/status…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 177,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1195050821278404600,
+		"quoted_status_id_str": "1195050821278404608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4aYMxrvCq1",
+			"expanded": "https://twitter.com/viticci/status/1195050821278404608",
+			"display": "twitter.com/viticci/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 14 18:48:13 +0000 2019",
+			"id": 1195050821278404600,
+			"id_str": "1195050821278404608",
+			"full_text": "Really fun new Internet radio app by the @Iconfactory – Triode. AirPlay 2 support, CarPlay, and a very neat Apple Music integration.\n\nOur @johnvoorhees has a review: https://t.co/9Yxfm8g3YB https://t.co/FgzYMUEQB8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Iconfactory",
+						"name": "The Iconfactory",
+						"id": 17885184,
+						"id_str": "17885184",
+						"indices": [
+							41,
+							53
+						]
+					},
+					{
+						"screen_name": "johnvoorhees",
+						"name": "John Voorhees",
+						"id": 10281082,
+						"id_str": "10281082",
+						"indices": [
+							138,
+							151
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9Yxfm8g3YB",
+						"expanded_url": "https://www.macstories.net/news/triode-internet-radio-from-the-iconfactory-with-airplay-2-apple-music-integration-and-carplay/",
+						"display_url": "macstories.net/news/triode-in…",
+						"indices": [
+							166,
+							189
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1195050818455687200,
+						"id_str": "1195050818455687169",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/EJWsY0KXUAEIKBi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJWsY0KXUAEIKBi.jpg",
+						"url": "https://t.co/FgzYMUEQB8",
+						"display_url": "pic.twitter.com/FgzYMUEQB8",
+						"expanded_url": "https://twitter.com/viticci/status/1195050821278404608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 659,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 659,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 356,
+										"y": 6,
+										"h": 106,
+										"w": 106
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 537,
+										"y": 10,
+										"h": 160,
+										"w": 160
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 537,
+										"y": 10,
+										"h": 160,
+										"w": 160
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 537,
+										"y": 10,
+										"h": 160,
+										"w": 160
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1195050818455687200,
+						"id_str": "1195050818455687169",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/EJWsY0KXUAEIKBi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJWsY0KXUAEIKBi.jpg",
+						"url": "https://t.co/FgzYMUEQB8",
+						"display_url": "pic.twitter.com/FgzYMUEQB8",
+						"expanded_url": "https://twitter.com/viticci/status/1195050821278404608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 659,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 659,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 356,
+										"y": 6,
+										"h": 106,
+										"w": 106
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 537,
+										"y": 10,
+										"h": 160,
+										"w": 160
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 537,
+										"y": 10,
+										"h": 160,
+										"w": 160
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 537,
+										"y": 10,
+										"h": 160,
+										"w": 160
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20904050,
+				"id_str": "20904050",
+				"name": "Federico Viticci",
+				"screen_name": "viticci",
+				"location": "In your web browser.",
+				"description": "Founder and Editor-in-Chief of @MacStoriesNet & @ClubMacStories. Co-host of @AppStoriesNet & @DialogPodcast. Italian accent on @_RelayFM. viticci@macstories.net",
+				"url": "https://t.co/8eXD1ETiUi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8eXD1ETiUi",
+								"expanded_url": "https://www.macstories.net/",
+								"display_url": "macstories.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69719,
+				"friends_count": 751,
+				"listed_count": 4014,
+				"created_at": "Sun Feb 15 10:52:33 +0000 2009",
+				"favourites_count": 17449,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 107612,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "062039",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1005494943677235200/NArzJ6fT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005494943677235200/NArzJ6fT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20904050/1492522863",
+				"profile_link_color": "0081C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7F7F7",
+				"profile_text_color": "191A19",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love that two of my hometown radio stations are featured!\n\n@KCRW and @885fmsocal https://t.co/4aYMxrvCq1"
+	},
+	{
 		"created_at": "Thu Nov 14 14:33:53 +0000 2019",
 		"id": 1194986814945333200,
 		"id_str": "1194986814945333249",
