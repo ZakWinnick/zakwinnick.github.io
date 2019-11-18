@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 15:23:32 +0000 2019",
+		"id": 1196447359040970800,
+		"id_str": "1196448863500095489",
+		"full_text": "Impeachment hearings highlight more Trump phone OPSEC failures https://t.co/qIfsuPGHMX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qIfsuPGHMX",
+					"expanded_url": "https://www.techdirt.com/articles/20191114/10274143391/impeachment-hearings-highlight-more-trump-phone-opsec-failures.shtml",
+					"display_url": "techdirt.com/articles/20191…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 826610423025778700,
+			"id_str": "826610423025778688",
+			"name": "Hacker Radio Show",
+			"screen_name": "HackerRadioShow",
+			"location": "",
+			"description": "A radio show and podcast by and for hackers.  iTunes: https://t.co/flN4Vu8cOS",
+			"url": "https://t.co/CrQrkhw659",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrQrkhw659",
+							"expanded_url": "https://www.2600.com/offthehook/",
+							"display_url": "2600.com/offthehook/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/flN4Vu8cOS",
+							"expanded_url": "https://itunes.apple.com/us/podcast/off-the-hook-high-bitrate/id121592949?mt=2",
+							"display_url": "itunes.apple.com/us/podcast/off…",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5604,
+			"friends_count": 6,
+			"listed_count": 81,
+			"created_at": "Wed Feb 01 01:57:37 +0000 2017",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826610765545222144/Ka_cEwY4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826610765545222144/Ka_cEwY4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/826610423025778688/1502580054",
+			"profile_link_color": "2EA4CF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Impeachment hearings highlight more Trump phone OPSEC failures https://t.co/qIfsuPGHMX"
+	},
+	{
 		"created_at": "Mon Nov 18 00:39:16 +0000 2019",
 		"id": 1195959761130250200,
 		"id_str": "1196226331400376321",
