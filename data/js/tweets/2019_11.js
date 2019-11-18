@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 00:39:16 +0000 2019",
+		"id": 1195959761130250200,
+		"id_str": "1196226331400376321",
+		"full_text": "OED Word of the Day: blue box, n. An electronic device which generates the tones necessary to open long-distance telephone lines, enabling a user to make illicit free calls (now historical).\nhttps://t.co/mxqNLg69X9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mxqNLg69X9",
+					"expanded_url": "https://www.oed.com/view/Entry/251201",
+					"display_url": "oed.com/view/Entry/251…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.percolate.com\" rel=\"nofollow\">Percolate</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126002546,
+			"id_str": "126002546",
+			"name": "The OED",
+			"screen_name": "OED",
+			"location": "",
+			"description": "The Oxford English Dictionary is the definitive record of the English language, featuring 600,000 words, 3 million quotations, and over 1,000 years of English.",
+			"url": "http://t.co/mBtplfKdju",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mBtplfKdju",
+							"expanded_url": "http://www.oed.com/",
+							"display_url": "oed.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191306,
+			"friends_count": 413,
+			"listed_count": 3092,
+			"created_at": "Wed Mar 24 14:47:12 +0000 2010",
+			"favourites_count": 1627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000066",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118169229184962561/ESCMBvmZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118169229184962561/ESCMBvmZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126002546/1556100697",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OED Word of the Day: blue box, n. An electronic device which generates the tones necessary to open long-distance telephone lines, enabling a user to make illicit free calls (now historical).\nhttps://t.co/mxqNLg69X9"
+	},
+	{
 		"created_at": "Thu Nov 14 19:53:28 +0000 2019",
 		"id": 1195067240493801500,
 		"id_str": "1195067240493801473",
