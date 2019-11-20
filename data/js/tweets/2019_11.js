@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 20 02:13:33 +0000 2019",
+		"id": 1196974834208645000,
+		"id_str": "1196974834208645121",
+		"full_text": "Accurate. https://t.co/zwp862OXWv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zwp862OXWv",
+					"expanded_url": "https://twitter.com/soonergrunt/status/1196102924679536641",
+					"display_url": "twitter.com/soonergrunt/st…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 178,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189944853498597377/zrgQk72b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196102924679536600,
+		"quoted_status_id_str": "1196102924679536641",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zwp862OXWv",
+			"expanded": "https://twitter.com/soonergrunt/status/1196102924679536641",
+			"display": "twitter.com/soonergrunt/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 17 16:28:54 +0000 2019",
+			"id": 1196102924679536600,
+			"id_str": "1196102924679536641",
+			"full_text": "Literally all I do as an IT tech:\nNo.\nNo.\nDon't do that.\nNo.\nNo.\nI don't make the rules.\nNo.\nNo.\nIt doesn't work like that.\nNo.\nNo.\nWe should do that but we don't.\nNo.\nNo. https://t.co/JTcTatmpgn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JTcTatmpgn",
+						"expanded_url": "https://twitter.com/dandrezner/status/1196059603865395201",
+						"display_url": "twitter.com/dandrezner/sta…",
+						"indices": [
+							172,
+							195
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 127663699,
+				"id_str": "127663699",
+				"name": "soonergrunt 🇺🇸",
+				"screen_name": "soonergrunt",
+				"location": "",
+				"description": "I find your lack of sense disturbing. You don't speak for me, nor I for you.\nReally just 3 otters in a trench coat and floppy hat.\nI don't work for you.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9733,
+				"friends_count": 3229,
+				"listed_count": 160,
+				"created_at": "Mon Mar 29 22:22:34 +0000 2010",
+				"favourites_count": 244977,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12979,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1189544668423307264/DblBq-6D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189544668423307264/DblBq-6D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/127663699/1460132168",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1196059603865395200,
+			"quoted_status_id_str": "1196059603865395201",
+			"quoted_status_permalink": {
+				"url": "https://t.co/JTcTatmpgn",
+				"expanded": "https://twitter.com/dandrezner/status/1196059603865395201",
+				"display": "twitter.com/dandrezner/sta…"
+			},
+			"retweet_count": 90,
+			"favorite_count": 509,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Accurate. https://t.co/zwp862OXWv"
+	},
+	{
 		"created_at": "Mon Nov 18 15:23:32 +0000 2019",
 		"id": 1196447359040970800,
 		"id_str": "1196448863500095489",
