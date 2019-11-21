@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 01:57:24 +0000 2019",
+		"id": 1196977846285144000,
+		"id_str": "1197333155386216454",
+		"full_text": "Burgess Meredith is tied with Jack Klugman for most “Twilight Zone” appearances, but nothing — nothing — compares to “Time Enough at Last”, which aired on @CBS sixty years ago. (11/20/59) 💯\n\nSeason 1, ep 8\n@TheNightGallery @AnneSerling \n(via @colebrax)\nhttps://t.co/oWJ7xYBQFv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CBS",
+					"name": "CBS",
+					"id": 97739866,
+					"id_str": "97739866",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"screen_name": "TheNightGallery",
+					"name": "The Twilight Zone",
+					"id": 190403384,
+					"id_str": "190403384",
+					"indices": [
+						206,
+						222
+					]
+				},
+				{
+					"screen_name": "AnneSerling",
+					"name": "Anne Serling",
+					"id": 458773316,
+					"id_str": "458773316",
+					"indices": [
+						223,
+						235
+					]
+				},
+				{
+					"screen_name": "colebrax",
+					"name": "James Hancock",
+					"id": 87306897,
+					"id_str": "87306897",
+					"indices": [
+						242,
+						251
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 925129383194525700,
+					"id_str": "925129383194525697",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/925129383194525697/pu/img/RO75aNKbviaQZVAN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/925129383194525697/pu/img/RO75aNKbviaQZVAN.jpg",
+					"url": "https://t.co/oWJ7xYBQFv",
+					"display_url": "pic.twitter.com/oWJ7xYBQFv",
+					"expanded_url": "https://twitter.com/colebrax/status/925129920644354049/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 486,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 486,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 925129920644354000,
+					"source_status_id_str": "925129920644354049",
+					"source_user_id": 87306897,
+					"source_user_id_str": "87306897",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 925129383194525700,
+					"id_str": "925129383194525697",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/925129383194525697/pu/img/RO75aNKbviaQZVAN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/925129383194525697/pu/img/RO75aNKbviaQZVAN.jpg",
+					"url": "https://t.co/oWJ7xYBQFv",
+					"display_url": "pic.twitter.com/oWJ7xYBQFv",
+					"expanded_url": "https://twitter.com/colebrax/status/925129920644354049/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 486,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 486,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 925129920644354000,
+					"source_status_id_str": "925129920644354049",
+					"source_user_id": 87306897,
+					"source_user_id_str": "87306897",
+					"video_info": {
+						"aspect_ratio": [
+							27,
+							20
+						],
+						"duration_millis": 137188,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/925129383194525697/pu/pl/TnSAjSg7tijCB_Ex.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/925129383194525697/pu/vid/486x360/lGvrhlOBetgZRjZC.mp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/925129383194525697/pu/vid/242x180/keA2PJDLfNhwEPe8.mp4"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 87306897,
+							"id_str": "87306897",
+							"name": "James Hancock",
+							"screen_name": "colebrax",
+							"location": "New York City",
+							"description": "Known to rant incoherently. Animation Producer, Co-Founder of @WrongReel, Creator of @gknout",
+							"url": "https://t.co/pEJBpT2qLJ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/pEJBpT2qLJ",
+											"expanded_url": "https://www.youtube.com/c/geekinnyc",
+											"display_url": "youtube.com/c/geekinnyc",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 30487,
+							"friends_count": 14723,
+							"listed_count": 893,
+							"created_at": "Tue Nov 03 23:02:41 +0000 2009",
+							"favourites_count": 202449,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 168095,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/2730927419/bdcd5ee782502c435c096c10ed499cdf_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/2730927419/bdcd5ee782502c435c096c10ed499cdf_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/87306897/1398197601",
+							"profile_link_color": "3B94D9",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114782468,
+			"id_str": "114782468",
+			"name": "Carl Quintanilla",
+			"screen_name": "carlquintanilla",
+			"location": "nyc",
+			"description": "Anchor @CNBC @NBCNews / @WSJ alum / @NYCityCenter board member / “We're here to get each other through this thing, whatever it is.” — Vonnegut",
+			"url": "https://t.co/vAgDHCwpnx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vAgDHCwpnx",
+							"expanded_url": "https://www.cnbc.com/carl-quintanilla/",
+							"display_url": "cnbc.com/carl-quintanil…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188028,
+			"friends_count": 4825,
+			"listed_count": 3382,
+			"created_at": "Tue Feb 16 15:59:04 +0000 2010",
+			"favourites_count": 1290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170704649378258944/RWp4YmLS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170704649378258944/RWp4YmLS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114782468/1573951001",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 385,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Burgess Meredith is tied with Jack Klugman for most “Twilight Zone” appearances, but nothing — nothing — compares to “Time Enough at Last”, which aired on @CBS sixty years ago. (11/20/59) 💯\n\nSeason 1, ep 8\n@TheNightGallery @AnneSerling \n(via @colebrax)\nhttps://t.co/oWJ7xYBQFv"
+	},
+	{
 		"created_at": "Wed Nov 20 02:13:33 +0000 2019",
 		"id": 1196974834208645000,
 		"id_str": "1196974834208645121",
