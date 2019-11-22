@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 14:04:17 +0000 2019",
+		"id": 1197740385994297300,
+		"id_str": "1197878472082952193",
+		"full_text": "Don’t worry, the signature body panel misalignment is still there https://t.co/FoD04sPQ1X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197740380881440800,
+					"id_str": "1197740380881440771",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ86h8-UUAM6KVY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJ86h8-UUAM6KVY.png",
+					"url": "https://t.co/FoD04sPQ1X",
+					"display_url": "pic.twitter.com/FoD04sPQ1X",
+					"expanded_url": "https://twitter.com/drance/status/1197740385994297344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 519,
+							"h": 308,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 519,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 519,
+							"h": 308,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197740380881440800,
+					"id_str": "1197740380881440771",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ86h8-UUAM6KVY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJ86h8-UUAM6KVY.png",
+					"url": "https://t.co/FoD04sPQ1X",
+					"display_url": "pic.twitter.com/FoD04sPQ1X",
+					"expanded_url": "https://twitter.com/drance/status/1197740385994297344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 519,
+							"h": 308,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 519,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 519,
+							"h": 308,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7440462,
+			"id_str": "7440462",
+			"name": "Matt Lunkey",
+			"screen_name": "drance",
+			"location": "The Lighthouse",
+			"description": "59/9, 3165. He/him.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10121,
+			"friends_count": 449,
+			"listed_count": 734,
+			"created_at": "Thu Jul 12 22:55:11 +0000 2007",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "434452",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094112320677019649/Kyr7h8iN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094112320677019649/Kyr7h8iN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7440462/1549691681",
+			"profile_link_color": "610617",
+			"profile_sidebar_border_color": "202903",
+			"profile_sidebar_fill_color": "8C725F",
+			"profile_text_color": "141414",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t worry, the signature body panel misalignment is still there https://t.co/FoD04sPQ1X"
+	},
+	{
 		"created_at": "Thu Nov 21 01:57:24 +0000 2019",
 		"id": 1196977846285144000,
 		"id_str": "1197333155386216454",
