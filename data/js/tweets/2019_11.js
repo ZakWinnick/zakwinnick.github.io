@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 24 15:17:28 +0000 2019",
+		"id": 1198602381837111300,
+		"id_str": "1198621663224614912",
+		"full_text": "+45mph, +65ft. 🌊\n\nThe biggest wave of @justinedupont33 life is now in contention of being the biggest wave ever ridden by a woman. 🏆\n\n#GoProSurf #GoPro #Nazare https://t.co/2MM3qg9CrJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoProSurf",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "GoPro",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "Nazare",
+					"indices": [
+						152,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "justinedupont33",
+					"name": "Justine Dupont",
+					"id": 904238796,
+					"id_str": "904238796",
+					"indices": [
+						38,
+						54
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198602199590428700,
+					"id_str": "1198602199590428673",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198602199590428673/pu/img/Uxz25aGubClykTCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198602199590428673/pu/img/Uxz25aGubClykTCJ.jpg",
+					"url": "https://t.co/2MM3qg9CrJ",
+					"display_url": "pic.twitter.com/2MM3qg9CrJ",
+					"expanded_url": "https://twitter.com/GoPro/status/1198602381837111296/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198602199590428700,
+					"id_str": "1198602199590428673",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198602199590428673/pu/img/Uxz25aGubClykTCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198602199590428673/pu/img/Uxz25aGubClykTCJ.jpg",
+					"url": "https://t.co/2MM3qg9CrJ",
+					"display_url": "pic.twitter.com/2MM3qg9CrJ",
+					"expanded_url": "https://twitter.com/GoPro/status/1198602381837111296/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 37680,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198602199590428673/pu/vid/960x720/8H4t4mpSQKfdwwZ7.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198602199590428673/pu/vid/360x270/i9efNXkp4kMz1Hli.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1198602199590428673/pu/pl/y0PTHdI4OksSCM93.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198602199590428673/pu/vid/480x360/JMnsYx8LKD-tyxJH.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.spredfast.com\" rel=\"nofollow\">Spredfast</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32340023,
+			"id_str": "32340023",
+			"name": "GoPro",
+			"screen_name": "GoPro",
+			"location": "",
+			"description": "Official GoPro Twitter. We make the World's Most Versatile Cameras. Share with #GoPro.",
+			"url": "https://t.co/gnu7VPptHF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gnu7VPptHF",
+							"expanded_url": "http://GoPro.com/HERO8",
+							"display_url": "GoPro.com/HERO8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2223058,
+			"friends_count": 425,
+			"listed_count": 7416,
+			"created_at": "Fri Apr 17 07:24:30 +0000 2009",
+			"favourites_count": 8173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "090A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143298078901846016/XyrxXGk8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143298078901846016/XyrxXGk8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32340023/1569964339",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 387,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "+45mph, +65ft. 🌊\n\nThe biggest wave of @justinedupont33 life is now in contention of being the biggest wave ever ridden by a woman. 🏆\n\n#GoProSurf #GoPro #Nazare https://t.co/2MM3qg9CrJ"
+	},
+	{
 		"created_at": "Sat Nov 23 02:08:40 +0000 2019",
 		"id": 1197971565658431500,
 		"id_str": "1198060769096740865",
