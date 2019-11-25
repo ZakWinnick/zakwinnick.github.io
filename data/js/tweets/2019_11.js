@@ -1,6 +1,608 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 25 02:44:57 +0000 2019",
+		"id": 1198722994518012000,
+		"id_str": "1198794674674253824",
+		"full_text": "Who on the iOS team can help make it so anything over 9 on a badge just turns into a scream emoji? https://t.co/nfC4qbDFlg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198722991108083700,
+					"id_str": "1198722991108083714",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EKK4NZUXUAIljd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKK4NZUXUAIljd-.jpg",
+					"url": "https://t.co/nfC4qbDFlg",
+					"display_url": "pic.twitter.com/nfC4qbDFlg",
+					"expanded_url": "https://twitter.com/mattbirchler/status/1198722994518011904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 879,
+							"h": 543,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 879,
+							"h": 543,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 120,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 494,
+									"y": 156,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 494,
+									"y": 156,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 494,
+									"y": 156,
+									"h": 62,
+									"w": 62
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198722991108083700,
+					"id_str": "1198722991108083714",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EKK4NZUXUAIljd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKK4NZUXUAIljd-.jpg",
+					"url": "https://t.co/nfC4qbDFlg",
+					"display_url": "pic.twitter.com/nfC4qbDFlg",
+					"expanded_url": "https://twitter.com/mattbirchler/status/1198722994518011904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 879,
+							"h": 543,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 879,
+							"h": 543,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 120,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 494,
+									"y": 156,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 494,
+									"y": 156,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 494,
+									"y": 156,
+									"h": 62,
+									"w": 62
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27251386,
+			"id_str": "27251386",
+			"name": "Matt Birchler",
+			"screen_name": "mattbirchler",
+			"location": "",
+			"description": "I write at https://t.co/PtMWxijpnH and have a podcast https://t.co/i6ZMgIybkZ",
+			"url": "https://t.co/A73ctOscbt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A73ctOscbt",
+							"expanded_url": "https://birchtree.me",
+							"display_url": "birchtree.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PtMWxijpnH",
+							"expanded_url": "http://birchtree.me",
+							"display_url": "birchtree.me",
+							"indices": [
+								11,
+								34
+							]
+						},
+						{
+							"url": "https://t.co/i6ZMgIybkZ",
+							"expanded_url": "http://birchtree.simplecast.fm",
+							"display_url": "birchtree.simplecast.fm",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1503,
+			"friends_count": 427,
+			"listed_count": 93,
+			"created_at": "Sat Mar 28 15:53:46 +0000 2009",
+			"favourites_count": 11778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1185187493940989953/Hel8VqBH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185187493940989953/Hel8VqBH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27251386/1573931786",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who on the iOS team can help make it so anything over 9 on a badge just turns into a scream emoji? https://t.co/nfC4qbDFlg"
+	},
+	{
+		"created_at": "Mon Nov 25 02:44:29 +0000 2019",
+		"id": 1198703672135258000,
+		"id_str": "1198794558705950721",
+		"full_text": "This video is giving me anxiety https://t.co/MA7PJzr9Me",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MA7PJzr9Me",
+					"expanded_url": "https://twitter.com/brianroemmele/status/1198646780159619072",
+					"display_url": "twitter.com/brianroemmele/…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14246782,
+			"id_str": "14246782",
+			"name": "snipe 🐾 - douchebag lightning rod",
+			"screen_name": "snipeyhead",
+			"location": "NYC expat in San Diego",
+			"description": "Hacker, CTO, founder of Grokability. I made Snipe-IT. Open sourcerer, author, speaker, devops, infosec, atheist, NSFW, shitty runner, worse puns, she/her",
+			"url": "https://t.co/SQUHa6MWRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SQUHa6MWRR",
+							"expanded_url": "https://snipeitapp.com",
+							"display_url": "snipeitapp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33271,
+			"friends_count": 17582,
+			"listed_count": 2178,
+			"created_at": "Fri Mar 28 20:37:35 +0000 2008",
+			"favourites_count": 100702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 182990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "340100",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162918602195865601/4xM2Hi_U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162918602195865601/4xM2Hi_U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14246782/1574082569",
+			"profile_link_color": "6C2125",
+			"profile_sidebar_border_color": "943A39",
+			"profile_sidebar_fill_color": "AEA797",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1198646780159619000,
+		"quoted_status_id_str": "1198646780159619072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MA7PJzr9Me",
+			"expanded": "https://twitter.com/brianroemmele/status/1198646780159619072",
+			"display": "twitter.com/brianroemmele/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 24 16:57:16 +0000 2019",
+			"id": 1198646780159619000,
+			"id_str": "1198646780159619072",
+			"full_text": "Meet the lost Steve Ballmer Microsoft Windows 1.0 infomercial.\n\nIt ran on late night TV stations in the midwest?\n\nOperators are still standing by?\n\nExcept in Nebraska... https://t.co/pVVG7LSoPb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1198646590149296000,
+						"id_str": "1198646590149296128",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198646590149296128/pu/img/25G0zsKtF9t6L0Vh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198646590149296128/pu/img/25G0zsKtF9t6L0Vh.jpg",
+						"url": "https://t.co/pVVG7LSoPb",
+						"display_url": "pic.twitter.com/pVVG7LSoPb",
+						"expanded_url": "https://twitter.com/BrianRoemmele/status/1198646780159619072/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 484,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 888,
+								"h": 632,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 888,
+								"h": 632,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1198646590149296000,
+						"id_str": "1198646590149296128",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198646590149296128/pu/img/25G0zsKtF9t6L0Vh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198646590149296128/pu/img/25G0zsKtF9t6L0Vh.jpg",
+						"url": "https://t.co/pVVG7LSoPb",
+						"display_url": "pic.twitter.com/pVVG7LSoPb",
+						"expanded_url": "https://twitter.com/BrianRoemmele/status/1198646780159619072/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 484,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 888,
+								"h": 632,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 888,
+								"h": 632,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								111,
+								79
+							],
+							"duration_millis": 59523,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1198646590149296128/pu/pl/xN1m0NRtwP0WhdhG.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1198646590149296128/pu/vid/504x360/nlR8J0fohKWQpqHs.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1198646590149296128/pu/vid/378x270/0BFFIUcDnun08WkY.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1198646590149296128/pu/vid/888x632/SYIz-tLHI8DwEtyZ.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101584084,
+				"id_str": "101584084",
+				"name": "Brian Roemmele",
+				"screen_name": "BrianRoemmele",
+				"location": "transcendence",
+				"description": "we can only see what we think is possible...",
+				"url": "https://t.co/i9oM6p7PHi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i9oM6p7PHi",
+								"expanded_url": "http://VoiceFirst.expert",
+								"display_url": "VoiceFirst.expert",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 80012,
+				"friends_count": 17161,
+				"listed_count": 760,
+				"created_at": "Sun Jan 03 22:04:29 +0000 2010",
+				"favourites_count": 122790,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41051,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101584084/1414798559",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 138,
+			"favorite_count": 364,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This video is giving me anxiety https://t.co/MA7PJzr9Me"
+	},
+	{
 		"created_at": "Sun Nov 24 15:17:28 +0000 2019",
 		"id": 1198602381837111300,
 		"id_str": "1198621663224614912",
