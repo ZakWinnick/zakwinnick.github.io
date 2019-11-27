@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 11:42:35 +0000 2019",
+		"id": 1199174192656191500,
+		"id_str": "1199654751773822976",
+		"full_text": "I've waited so long for this https://t.co/mHFnKbuQlV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199174121168523300,
+					"id_str": "1199174121168523266",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1199174121168523266/pu/img/Q45gi1k8T-NSK9Ze.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1199174121168523266/pu/img/Q45gi1k8T-NSK9Ze.jpg",
+					"url": "https://t.co/mHFnKbuQlV",
+					"display_url": "pic.twitter.com/mHFnKbuQlV",
+					"expanded_url": "https://twitter.com/cogentanalysis/status/1199174192656191488/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199174121168523300,
+					"id_str": "1199174121168523266",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1199174121168523266/pu/img/Q45gi1k8T-NSK9Ze.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1199174121168523266/pu/img/Q45gi1k8T-NSK9Ze.jpg",
+					"url": "https://t.co/mHFnKbuQlV",
+					"display_url": "pic.twitter.com/mHFnKbuQlV",
+					"expanded_url": "https://twitter.com/cogentanalysis/status/1199174192656191488/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20054,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1199174121168523266/pu/pl/thVfRj10RhyNq3Kn.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199174121168523266/pu/vid/640x360/Xnl-1xWaKyunbmfw.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199174121168523266/pu/vid/1280x720/QEySGGbWogsY1m1r.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199174121168523266/pu/vid/480x270/Gno3Y4B7SBFMCYFB.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 99207792,
+			"id_str": "99207792",
+			"name": "House of 1000 Fionas",
+			"screen_name": "cogentanalysis",
+			"location": "Brooklyn, NY",
+			"description": "Oh god, it's come to this.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5548,
+			"friends_count": 823,
+			"listed_count": 136,
+			"created_at": "Fri Dec 25 02:56:45 +0000 2009",
+			"favourites_count": 52060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002628813203955712/21GTBEQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002628813203955712/21GTBEQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/99207792/1520659112",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 492,
+		"favorite_count": 1690,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've waited so long for this https://t.co/mHFnKbuQlV"
+	},
+	{
 		"created_at": "Mon Nov 25 02:44:57 +0000 2019",
 		"id": 1198722994518012000,
 		"id_str": "1198794674674253824",
