@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 13:54:46 +0000 2019",
+		"id": 1202587116464754700,
+		"id_str": "1202587116464754688",
+		"full_text": "I thought they smelled bad on the outside. \n\nGood night. https://t.co/7DLNxh97gI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7DLNxh97gI",
+					"expanded_url": "https://twitter.com/AdamLanceGarcia/status/1202026496912703488",
+					"display_url": "twitter.com/AdamLanceGarci…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 175,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1202026496912703500,
+		"quoted_status_id_str": "1202026496912703488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7DLNxh97gI",
+			"expanded": "https://twitter.com/AdamLanceGarcia/status/1202026496912703488",
+			"display": "twitter.com/AdamLanceGarci…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 04 00:47:04 +0000 2019",
+			"id": 1202026496912703500,
+			"id_str": "1202026496912703488",
+			"full_text": "Name something you can say during STAR WARS and sex https://t.co/IiwO7fkkcm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1202026491753701400,
+						"id_str": "1202026491753701378",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/EK50ucOWoAIhC4c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK50ucOWoAIhC4c.jpg",
+						"url": "https://t.co/IiwO7fkkcm",
+						"display_url": "pic.twitter.com/IiwO7fkkcm",
+						"expanded_url": "https://twitter.com/AdamLanceGarcia/status/1202026496912703488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 944,
+								"h": 747,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 944,
+								"h": 747,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 538,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 587,
+										"y": 203,
+										"h": 97,
+										"w": 97
+									},
+									{
+										"x": 68,
+										"y": 156,
+										"h": 202,
+										"w": 202
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 587,
+										"y": 203,
+										"h": 97,
+										"w": 97
+									},
+									{
+										"x": 68,
+										"y": 156,
+										"h": 202,
+										"w": 202
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 587,
+										"y": 203,
+										"h": 97,
+										"w": 97
+									},
+									{
+										"x": 68,
+										"y": 156,
+										"h": 202,
+										"w": 202
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 422,
+										"y": 146,
+										"h": 69,
+										"w": 69
+									},
+									{
+										"x": 48,
+										"y": 112,
+										"h": 145,
+										"w": 145
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1202026491753701400,
+						"id_str": "1202026491753701378",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/EK50ucOWoAIhC4c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK50ucOWoAIhC4c.jpg",
+						"url": "https://t.co/IiwO7fkkcm",
+						"display_url": "pic.twitter.com/IiwO7fkkcm",
+						"expanded_url": "https://twitter.com/AdamLanceGarcia/status/1202026496912703488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 944,
+								"h": 747,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 944,
+								"h": 747,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 538,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 587,
+										"y": 203,
+										"h": 97,
+										"w": 97
+									},
+									{
+										"x": 68,
+										"y": 156,
+										"h": 202,
+										"w": 202
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 587,
+										"y": 203,
+										"h": 97,
+										"w": 97
+									},
+									{
+										"x": 68,
+										"y": 156,
+										"h": 202,
+										"w": 202
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 587,
+										"y": 203,
+										"h": 97,
+										"w": 97
+									},
+									{
+										"x": 68,
+										"y": 156,
+										"h": 202,
+										"w": 202
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 422,
+										"y": 146,
+										"h": 69,
+										"w": 69
+									},
+									{
+										"x": 48,
+										"y": 112,
+										"h": 145,
+										"w": 145
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1202026491753701400,
+						"id_str": "1202026491753701379",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/EK50ucOWoAM0Bv3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK50ucOWoAM0Bv3.jpg",
+						"url": "https://t.co/IiwO7fkkcm",
+						"display_url": "pic.twitter.com/IiwO7fkkcm",
+						"expanded_url": "https://twitter.com/AdamLanceGarcia/status/1202026496912703488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 623,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 829,
+								"h": 759,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 829,
+								"h": 759,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 263970579,
+				"id_str": "263970579",
+				"name": "Adam Lance Garcia",
+				"screen_name": "AdamLanceGarcia",
+				"location": "New York",
+				"description": "@WIRED Staff Producer. Author of #GreenLama & #SonsofFire. Writer/Producer @RealRadioRoom. Writer of novels and such. Opinions mine, RT ≠ endorsement.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4435,
+				"friends_count": 1338,
+				"listed_count": 75,
+				"created_at": "Fri Mar 11 02:41:22 +0000 2011",
+				"favourites_count": 100885,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39377,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1133902598312943617/0iCQF6IP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133902598312943617/0iCQF6IP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/263970579/1559178360",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 807,
+			"favorite_count": 4986,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I thought they smelled bad on the outside. \n\nGood night. https://t.co/7DLNxh97gI"
+	},
+	{
 		"created_at": "Wed Dec 04 16:24:23 +0000 2019",
 		"id": 1202262383604981800,
 		"id_str": "1202262383604981761",
