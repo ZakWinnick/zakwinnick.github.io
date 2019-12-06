@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 01:13:01 +0000 2019",
+		"id": 1202757803963830300,
+		"id_str": "1202757803963830272",
+		"full_text": "Well deserved!\n\nGo listen to their debut album, if you haven’t already… https://t.co/qcvnnmB5er",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qcvnnmB5er",
+					"expanded_url": "https://twitter.com/BlackPumasMusic/status/1202637635950436364",
+					"display_url": "twitter.com/BlackPumasMusi…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 176,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1202637635950436400,
+		"quoted_status_id_str": "1202637635950436364",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qcvnnmB5er",
+			"expanded": "https://twitter.com/BlackPumasMusic/status/1202637635950436364",
+			"display": "twitter.com/BlackPumasMusi…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 05 17:15:30 +0000 2019",
+			"id": 1202637635950436400,
+			"id_str": "1202637635950436364",
+			"full_text": "Thank you, @kcrw for naming us the Best New Artist of the year!\nhttps://t.co/3YZkfAG93a https://t.co/4l6ZHwOcjH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kcrw",
+						"name": "KCRW",
+						"id": 9636632,
+						"id_str": "9636632",
+						"indices": [
+							11,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3YZkfAG93a",
+						"expanded_url": "https://www.kcrw.com/best-of/best-of-2019/best-new-artist",
+						"display_url": "kcrw.com/best-of/best-o…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1202637607756353500,
+						"id_str": "1202637607756353539",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/ELCgiEvX0AMe8V7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELCgiEvX0AMe8V7.jpg",
+						"url": "https://t.co/4l6ZHwOcjH",
+						"display_url": "pic.twitter.com/4l6ZHwOcjH",
+						"expanded_url": "https://twitter.com/BlackPumasMusic/status/1202637635950436364/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1202637607756353500,
+						"id_str": "1202637607756353539",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/ELCgiEvX0AMe8V7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELCgiEvX0AMe8V7.jpg",
+						"url": "https://t.co/4l6ZHwOcjH",
+						"display_url": "pic.twitter.com/4l6ZHwOcjH",
+						"expanded_url": "https://twitter.com/BlackPumasMusic/status/1202637635950436364/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 983445740436541400,
+				"id_str": "983445740436541441",
+				"name": "Black Pumas",
+				"screen_name": "BlackPumasMusic",
+				"location": "Austin, TX",
+				"description": "Grammy nominated “Best New Artist.” Debut album available now on @ATORecords!",
+				"url": "https://t.co/Y1mNFY3uUP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y1mNFY3uUP",
+								"expanded_url": "https://www.theblackpumas.com",
+								"display_url": "theblackpumas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2791,
+				"friends_count": 76,
+				"listed_count": 32,
+				"created_at": "Mon Apr 09 20:45:10 +0000 2018",
+				"favourites_count": 3359,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1804,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118164207638282240/1OQhJ73Z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118164207638282240/1OQhJ73Z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/983445740436541441/1574435643",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well deserved!\n\nGo listen to their debut album, if you haven’t already… https://t.co/qcvnnmB5er"
+	},
+	{
 		"created_at": "Thu Dec 05 13:54:46 +0000 2019",
 		"id": 1202587116464754700,
 		"id_str": "1202587116464754688",
