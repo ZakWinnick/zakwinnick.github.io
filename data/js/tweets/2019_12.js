@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 23:10:29 +0000 2019",
+		"id": 1204538907599278000,
+		"id_str": "1204538907599278080",
+		"full_text": "https://t.co/pB01H8nMyA https://t.co/Nl10izFhc9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pB01H8nMyA",
+					"expanded_url": "https://twitter.com/apollo_50th/status/1204495517973012482",
+					"display_url": "twitter.com/apollo_50th/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204538881305120800,
+					"id_str": "1204538881305120769",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELdhuwpWkAEhpCN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELdhuwpWkAEhpCN.jpg",
+					"url": "https://t.co/Nl10izFhc9",
+					"display_url": "pic.twitter.com/Nl10izFhc9",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1204538907599278080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 250,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 188,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 188,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204538881305120800,
+					"id_str": "1204538881305120769",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELdhuwpWkAEhpCN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELdhuwpWkAEhpCN.jpg",
+					"url": "https://t.co/Nl10izFhc9",
+					"display_url": "pic.twitter.com/Nl10izFhc9",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1204538907599278080/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 250,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 188,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 188,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							94
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELdhuwpWkAEhpCN.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 176,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1204495517973012500,
+		"quoted_status_id_str": "1204495517973012482",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pB01H8nMyA",
+			"expanded": "https://twitter.com/apollo_50th/status/1204495517973012482",
+			"display": "twitter.com/apollo_50th/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 10 20:18:04 +0000 2019",
+			"id": 1204495517973012500,
+			"id_str": "1204495517973012482",
+			"full_text": "Apollo 13 will land in the lunar highlands at Fra Mauro, with a launch scheduled for no earlier than March 12, 1970. Photography of Fra Mauro from Apollo 12 and the pinpoint landing demonstrated by Apollo 12 have contributed to this decision.\n#Apollo13\n#Apollo50",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Apollo13",
+						"indices": [
+							243,
+							252
+						]
+					},
+					{
+						"text": "Apollo50",
+						"indices": [
+							253,
+							262
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://localhost.dev\" rel=\"nofollow\">Apollo_50th</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 950259931990523900,
+				"id_str": "950259931990523904",
+				"name": "Apollo 50th",
+				"screen_name": "apollo_50th",
+				"location": "The moon",
+				"description": "Not affiliated with NASA. We live tweet the Apollo space program as it happened 50 years ago. Support us at https://t.co/M22q2aejET",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/M22q2aejET",
+								"expanded_url": "http://patreon.com/apollo_50th",
+								"display_url": "patreon.com/apollo_50th",
+								"indices": [
+									108,
+									131
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22828,
+				"friends_count": 195,
+				"listed_count": 260,
+				"created_at": "Mon Jan 08 06:56:37 +0000 2018",
+				"favourites_count": 4128,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11883,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/951168581391167488/MdpZmnSn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/951168581391167488/MdpZmnSn_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 73,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/pB01H8nMyA https://t.co/Nl10izFhc9"
+	},
+	{
 		"created_at": "Mon Dec 09 15:13:28 +0000 2019",
 		"id": 1204056474302976000,
 		"id_str": "1204056474302976000",
