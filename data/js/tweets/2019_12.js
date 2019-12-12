@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 14:12:52 +0000 2019",
+		"id": 1205128389339861000,
+		"id_str": "1205128389339860993",
+		"full_text": "Princess Moneypenny. https://t.co/xc6aGjtjPx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xc6aGjtjPx",
+					"expanded_url": "https://twitter.com/ThePlaylist/status/1204848214249234432",
+					"display_url": "twitter.com/ThePlaylist/st…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 176,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1204848214249234400,
+		"quoted_status_id_str": "1204848214249234432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xc6aGjtjPx",
+			"expanded": "https://twitter.com/ThePlaylist/status/1204848214249234432",
+			"display": "twitter.com/ThePlaylist/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 11 19:39:33 +0000 2019",
+			"id": 1204848214249234400,
+			"id_str": "1204848214249234432",
+			"full_text": "Disney CEO Bob Iger Teases That The James Bond Franchise Is Something He Wouldn’t Mind Buying https://t.co/wzrD2uP2CJ https://t.co/Pocmrg8Rmo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wzrD2uP2CJ",
+						"expanded_url": "http://dlvr.it/RL5kRj",
+						"display_url": "dlvr.it/RL5kRj",
+						"indices": [
+							94,
+							117
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1204848211388534800,
+						"id_str": "1204848211388534784",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/ELh7EJAUEAAVTsN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELh7EJAUEAAVTsN.jpg",
+						"url": "https://t.co/Pocmrg8Rmo",
+						"display_url": "pic.twitter.com/Pocmrg8Rmo",
+						"expanded_url": "https://twitter.com/ThePlaylist/status/1204848214249234432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 255,
+										"y": 55,
+										"h": 99,
+										"w": 99
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 451,
+										"y": 98,
+										"h": 176,
+										"w": 176
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 451,
+										"y": 98,
+										"h": 176,
+										"w": 176
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 451,
+										"y": 98,
+										"h": 176,
+										"w": 176
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1204848211388534800,
+						"id_str": "1204848211388534784",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/ELh7EJAUEAAVTsN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELh7EJAUEAAVTsN.jpg",
+						"url": "https://t.co/Pocmrg8Rmo",
+						"display_url": "pic.twitter.com/Pocmrg8Rmo",
+						"expanded_url": "https://twitter.com/ThePlaylist/status/1204848214249234432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 255,
+										"y": 55,
+										"h": 99,
+										"w": 99
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 451,
+										"y": 98,
+										"h": 176,
+										"w": 176
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 451,
+										"y": 98,
+										"h": 176,
+										"w": 176
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 451,
+										"y": 98,
+										"h": 176,
+										"w": 176
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13986352,
+				"id_str": "13986352",
+				"name": "The Playlist 🎬",
+				"screen_name": "ThePlaylist",
+				"location": "Insta: @theplaylistnation",
+				"description": "Obsessed with Cinema, Bingeworthy™ Television & The Evolving Forms Of Visual Media. https://t.co/Q3ejmX1p8L Editorial tweets by @YrOnlyHope",
+				"url": "https://t.co/hSiiJVCe6s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hSiiJVCe6s",
+								"expanded_url": "https://campsite.bio/theplaylist",
+								"display_url": "campsite.bio/theplaylist",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Q3ejmX1p8L",
+								"expanded_url": "http://THEPLAYLIST.NET",
+								"display_url": "THEPLAYLIST.NET",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 111541,
+				"friends_count": 3405,
+				"listed_count": 2709,
+				"created_at": "Tue Feb 26 04:52:46 +0000 2008",
+				"favourites_count": 74448,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 185298,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725785378439987200/R8ynRNK8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725785378439987200/R8ynRNK8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13986352/1497832554",
+				"profile_link_color": "2E2E2E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 232,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Princess Moneypenny. https://t.co/xc6aGjtjPx"
+	},
+	{
 		"created_at": "Wed Dec 11 23:07:03 +0000 2019",
 		"id": 1204900431748616200,
 		"id_str": "1204900431748616193",
