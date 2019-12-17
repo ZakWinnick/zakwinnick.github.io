@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 17 17:51:18 +0000 2019",
+		"id": 1206995297420955600,
+		"id_str": "1206995297420955648",
+		"full_text": "I...I’m not sure about this one. \n\nHowever, it suits the part of town where it’s located... https://t.co/6xPfiF8aZq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6xPfiF8aZq",
+					"expanded_url": "https://twitter.com/VitalVegas/status/1206993065052753921",
+					"display_url": "twitter.com/VitalVegas/sta…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 176,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1206993065052754000,
+		"quoted_status_id_str": "1206993065052753921",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6xPfiF8aZq",
+			"expanded": "https://twitter.com/VitalVegas/status/1206993065052753921",
+			"display": "twitter.com/VitalVegas/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 17 17:42:26 +0000 2019",
+			"id": 1206993065052754000,
+			"id_str": "1206993065052753921",
+			"full_text": "\"Are you ready to indulge in the ultimate sexual experience where you are the main focus?\" Yep, Vegas sex doll brothel has a Web site. (NSFW, obviously.) https://t.co/DWhuRErnQh https://t.co/C9FHbakset",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DWhuRErnQh",
+						"expanded_url": "https://sexdollsexperience.com",
+						"display_url": "sexdollsexperience.com",
+						"indices": [
+							154,
+							177
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1206993059633750000,
+						"id_str": "1206993059633750017",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/EMAZyvXU4AEUQXu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMAZyvXU4AEUQXu.jpg",
+						"url": "https://t.co/C9FHbakset",
+						"display_url": "pic.twitter.com/C9FHbakset",
+						"expanded_url": "https://twitter.com/VitalVegas/status/1206993065052753921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1140,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1140,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 322,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1206993059633750000,
+						"id_str": "1206993059633750017",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/EMAZyvXU4AEUQXu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMAZyvXU4AEUQXu.jpg",
+						"url": "https://t.co/C9FHbakset",
+						"display_url": "pic.twitter.com/C9FHbakset",
+						"expanded_url": "https://twitter.com/VitalVegas/status/1206993065052753921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1140,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1140,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 322,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 514487309,
+				"id_str": "514487309",
+				"name": "Vital Vegas",
+				"screen_name": "VitalVegas",
+				"location": "Las Vegas, NV",
+				"description": "https://t.co/iNB8aPQlsS is your essential source for Las Vegas news, rumors, tips and WTF. #LasVegas",
+				"url": "https://t.co/qBgUfzLqfn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qBgUfzLqfn",
+								"expanded_url": "http://www.vitalvegas.com",
+								"display_url": "vitalvegas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iNB8aPQlsS",
+								"expanded_url": "http://VitalVegas.com",
+								"display_url": "VitalVegas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 46428,
+				"friends_count": 12892,
+				"listed_count": 403,
+				"created_at": "Sun Mar 04 16:04:28 +0000 2012",
+				"favourites_count": 273815,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 59506,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/514487309/1510021234",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "893F0D",
+				"profile_text_color": "050404",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I...I’m not sure about this one. \n\nHowever, it suits the part of town where it’s located... https://t.co/6xPfiF8aZq"
+	},
+	{
 		"created_at": "Tue Dec 17 02:04:48 +0000 2019",
 		"id": 1206635109627125800,
 		"id_str": "1206757102762569729",
