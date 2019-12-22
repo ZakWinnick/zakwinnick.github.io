@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 22 00:38:13 +0000 2019",
+		"id": 1208547255071973400,
+		"id_str": "1208547255071973376",
+		"full_text": "🤯 https://t.co/E6fcfLuBhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E6fcfLuBhy",
+					"expanded_url": "https://twitter.com/MickeytheKid92/status/1207706569363689472",
+					"display_url": "twitter.com/MickeytheKid92…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 175,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1207706569363689500,
+		"quoted_status_id_str": "1207706569363689472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/E6fcfLuBhy",
+			"expanded": "https://twitter.com/MickeytheKid92/status/1207706569363689472",
+			"display": "twitter.com/MickeytheKid92…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 19 16:57:38 +0000 2019",
+			"id": 1207706569363689500,
+			"id_str": "1207706569363689472",
+			"full_text": "Increíble. https://t.co/qRcTQx43eo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				10
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1207706554318958600,
+						"id_str": "1207706554318958592",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/EMKitmMXsAA_kOJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMKitmMXsAA_kOJ.jpg",
+						"url": "https://t.co/qRcTQx43eo",
+						"display_url": "pic.twitter.com/qRcTQx43eo",
+						"expanded_url": "https://twitter.com/MickeytheKid92/status/1207706569363689472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 738,
+								"h": 215,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 738,
+								"h": 215,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 198,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1207706554318958600,
+						"id_str": "1207706554318958592",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/EMKitmMXsAA_kOJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMKitmMXsAA_kOJ.jpg",
+						"url": "https://t.co/qRcTQx43eo",
+						"display_url": "pic.twitter.com/qRcTQx43eo",
+						"expanded_url": "https://twitter.com/MickeytheKid92/status/1207706569363689472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 738,
+								"h": 215,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 738,
+								"h": 215,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 198,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1207706557036847000,
+						"id_str": "1207706557036847104",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/EMKitwUXYAAkWOo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMKitwUXYAAkWOo.jpg",
+						"url": "https://t.co/qRcTQx43eo",
+						"display_url": "pic.twitter.com/qRcTQx43eo",
+						"expanded_url": "https://twitter.com/MickeytheKid92/status/1207706569363689472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 736,
+								"h": 271,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 736,
+								"h": 271,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 250,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1207706560132264000,
+						"id_str": "1207706560132263936",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/EMKit72XsAA5JyE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMKit72XsAA5JyE.jpg",
+						"url": "https://t.co/qRcTQx43eo",
+						"display_url": "pic.twitter.com/qRcTQx43eo",
+						"expanded_url": "https://twitter.com/MickeytheKid92/status/1207706569363689472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 490,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1532,
+								"h": 626,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 278,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 506,
+										"y": 164,
+										"h": 269,
+										"w": 269
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 647,
+										"y": 210,
+										"h": 344,
+										"w": 344
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 287,
+										"y": 93,
+										"h": 152,
+										"w": 152
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 647,
+										"y": 210,
+										"h": 344,
+										"w": 344
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1207706567048646700,
+						"id_str": "1207706567048646659",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/EMKiuVnXUAMgvcq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMKiuVnXUAMgvcq.jpg",
+						"url": "https://t.co/qRcTQx43eo",
+						"display_url": "pic.twitter.com/qRcTQx43eo",
+						"expanded_url": "https://twitter.com/MickeytheKid92/status/1207706569363689472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 310,
+								"h": 156,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 310,
+								"h": 156,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 310,
+								"h": 156,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 121,
+										"y": 4,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 202,
+										"y": 4,
+										"h": 99,
+										"w": 99
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 121,
+										"y": 4,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 202,
+										"y": 4,
+										"h": 99,
+										"w": 99
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 121,
+										"y": 4,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 202,
+										"y": 4,
+										"h": 99,
+										"w": 99
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 121,
+										"y": 4,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 202,
+										"y": 4,
+										"h": 99,
+										"w": 99
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2383273422,
+				"id_str": "2383273422",
+				"name": "Miguel Ángel",
+				"screen_name": "MickeytheKid92",
+				"location": "Panamá",
+				"description": "Ex-blogger, actualmente miembro de Moecast y pedante en mi tiempo libre. Panamá es mejor que tu país. Escribo con la zurda.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 685,
+				"friends_count": 213,
+				"listed_count": 32,
+				"created_at": "Tue Mar 11 06:33:09 +0000 2014",
+				"favourites_count": 75934,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 92617,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190435636274253826/KmQ7vPMK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190435636274253826/KmQ7vPMK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2383273422/1572657024",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4528,
+			"favorite_count": 12613,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤯 https://t.co/E6fcfLuBhy"
+	},
+	{
 		"created_at": "Sat Dec 21 16:17:34 +0000 2019",
 		"id": 1208421262135058400,
 		"id_str": "1208421262135058434",
