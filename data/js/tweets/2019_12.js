@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 24 04:45:31 +0000 2019",
+		"id": 1209322752886366200,
+		"id_str": "1209334263277068288",
+		"full_text": "In the year 2220 humanity has taken to space. On a far flung station, a man turns on his communications array. A voice emerges:\n\n“In the criminal justice system, sexually based offenses are viewed as especially heinous ...”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18967418,
+			"id_str": "18967418",
+			"name": "Hunter Walker",
+			"screen_name": "hunterw",
+			"location": "Washington, DC",
+			"description": "White House Correspondent @YahooNews —- Secure Tip Line: hunterwalker@protonmail.com",
+			"url": "https://t.co/wNmuyoeiiO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wNmuyoeiiO",
+							"expanded_url": "https://www.yahoo.com/author/hunter-walker",
+							"display_url": "yahoo.com/author/hunter-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36852,
+			"friends_count": 3306,
+			"listed_count": 1226,
+			"created_at": "Wed Jan 14 04:50:51 +0000 2009",
+			"favourites_count": 10158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A8BCCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955850219123601408/l-wudrvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955850219123601408/l-wudrvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18967418/1401432810",
+			"profile_link_color": "000E87",
+			"profile_sidebar_border_color": "D91111",
+			"profile_sidebar_fill_color": "94E9FC",
+			"profile_text_color": "262626",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In the year 2220 humanity has taken to space. On a far flung station, a man turns on his communications array. A voice emerges:\n\n“In the criminal justice system, sexually based offenses are viewed as especially heinous ...”"
+	},
+	{
 		"created_at": "Sun Dec 22 00:38:13 +0000 2019",
 		"id": 1208547255071973400,
 		"id_str": "1208547255071973376",
