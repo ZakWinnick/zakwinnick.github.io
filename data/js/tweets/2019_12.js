@@ -1,10 +1,343 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 27 15:41:59 +0000 2019",
+		"id": 1210586631620694000,
+		"id_str": "1210586631620694018",
+		"full_text": "An “aquarium” that might be easier to hack than The Mirage’s… https://t.co/h7BGmyWc00",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h7BGmyWc00",
+					"expanded_url": "https://twitter.com/VitalVegas/status/1210364041786359808",
+					"display_url": "twitter.com/VitalVegas/sta…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 176,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1210364041786359800,
+		"quoted_status_id_str": "1210364041786359808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h7BGmyWc00",
+			"expanded": "https://twitter.com/VitalVegas/status/1210364041786359808",
+			"display": "twitter.com/VitalVegas/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 27 00:57:29 +0000 2019",
+			"id": 1210364041786359800,
+			"id_str": "1210364041786359808",
+			"full_text": "More from the Sahara loyalty club desk. https://t.co/QJWxwECNAG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1210363990884270000,
+						"id_str": "1210363990884270082",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1210363990884270082/pu/img/tSP5cvoPHDvgapQ7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1210363990884270082/pu/img/tSP5cvoPHDvgapQ7.jpg",
+						"url": "https://t.co/QJWxwECNAG",
+						"display_url": "pic.twitter.com/QJWxwECNAG",
+						"expanded_url": "https://twitter.com/VitalVegas/status/1210364041786359808/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1210363990884270000,
+						"id_str": "1210363990884270082",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1210363990884270082/pu/img/tSP5cvoPHDvgapQ7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1210363990884270082/pu/img/tSP5cvoPHDvgapQ7.jpg",
+						"url": "https://t.co/QJWxwECNAG",
+						"display_url": "pic.twitter.com/QJWxwECNAG",
+						"expanded_url": "https://twitter.com/VitalVegas/status/1210364041786359808/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 10542,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1210363990884270082/pu/vid/1280x720/sTRF33J6hGTxpO1y.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1210363990884270082/pu/pl/jQu-pPj7JMKa8FWh.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1210363990884270082/pu/vid/480x270/FyMX7FkoWSa7VRUu.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1210363990884270082/pu/vid/640x360/50v8oAWLaka5Qq6j.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 514487309,
+				"id_str": "514487309",
+				"name": "Vital Vegas",
+				"screen_name": "VitalVegas",
+				"location": "Las Vegas, NV",
+				"description": "https://t.co/iNB8aPQlsS is your essential source for Las Vegas news, rumors, tips and WTF. #LasVegas",
+				"url": "https://t.co/qBgUfzLqfn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qBgUfzLqfn",
+								"expanded_url": "http://www.vitalvegas.com",
+								"display_url": "vitalvegas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iNB8aPQlsS",
+								"expanded_url": "http://VitalVegas.com",
+								"display_url": "VitalVegas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 46891,
+				"friends_count": 12972,
+				"listed_count": 402,
+				"created_at": "Sun Mar 04 16:04:28 +0000 2012",
+				"favourites_count": 277747,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60163,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/514487309/1510021234",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "893F0D",
+				"profile_text_color": "050404",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An “aquarium” that might be easier to hack than The Mirage’s… https://t.co/h7BGmyWc00"
+	},
+	{
 		"created_at": "Wed Dec 25 21:49:44 +0000 2019",
 		"id": 1209954403186282500,
 		"id_str": "1209954403186282496",
-		"full_text": "Me, on 12/23: Sets an Out of Office saying I’ll be back on 1/2/20.\n\nMe, also on 12/23: Sends email to whole company saying I’ll be out of the office until 1/2/20.\n\nF&amp;B Manager on 12/25: “Can you let us know when you’re able to take a look at this?”\n\nMe: 🤦🏻‍♂️",
+		"full_text": "Me, on 12/23: Sets an Out of Office saying I’ll be back on 1/2/20.\n\nMe, also on 12/23: Sends email to whole company saying I’ll be out of the office until 1/2/20.\n\nF&amp;B Manager on 12/25: “Can you let us know when you’re able to take a look at this?”\n\nMe: 🤦🏻♂️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -95,7 +428,7 @@ Grailbird.data.tweets_2019_12 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "Me, on 12/23: Sets an Out of Office saying I’ll be back on 1/2/20.\n\nMe, also on 12/23: Sends email to whole company saying I’ll be out of the office until 1/2/20.\n\nF&amp;B Manager on 12/25: “Can you let us know when you’re able to take a look at this?”\n\nMe: 🤦🏻‍♂️"
+		"text": "Me, on 12/23: Sets an Out of Office saying I’ll be back on 1/2/20.\n\nMe, also on 12/23: Sends email to whole company saying I’ll be out of the office until 1/2/20.\n\nF&amp;B Manager on 12/25: “Can you let us know when you’re able to take a look at this?”\n\nMe: 🤦🏻♂️"
 	},
 	{
 		"created_at": "Wed Dec 25 21:17:54 +0000 2019",
