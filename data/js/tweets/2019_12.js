@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 28 02:21:47 +0000 2019",
+		"id": 1210747643707576300,
+		"id_str": "1210747643707576328",
+		"full_text": "Accurate. https://t.co/7dZYfvCHBW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7dZYfvCHBW",
+					"expanded_url": "https://twitter.com/PhilipMichaels/status/1210701264771641344",
+					"display_url": "twitter.com/PhilipMichaels…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 176,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198692047584145413/ylCgOUxv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1210701264771641300,
+		"quoted_status_id_str": "1210701264771641344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7dZYfvCHBW",
+			"expanded": "https://twitter.com/PhilipMichaels/status/1210701264771641344",
+			"display": "twitter.com/PhilipMichaels…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 27 23:17:29 +0000 2019",
+			"id": 1210701264771641300,
+			"id_str": "1210701264771641344",
+			"full_text": "Movie versions of Andrew Lloyd Weber musicals, ranked.\n1. Jesus Christ Superstar\n2. Silence, blessed silence\n3. A blank screen\n4. Phantom of the Opera, I guess\n5. Rhythmic groin punches to tunes from Aspects of Love\n6. Evita\n7. Banned from all movie theaters forever\n8. Cats",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1210700682220560400,
+			"in_reply_to_status_id_str": "1210700682220560385",
+			"in_reply_to_user_id": 317358163,
+			"in_reply_to_user_id_str": "317358163",
+			"in_reply_to_screen_name": "PhilipMichaels",
+			"user": {
+				"id": 317358163,
+				"id_str": "317358163",
+				"name": "Philip Michaels",
+				"screen_name": "PhilipMichaels",
+				"location": "Northern California",
+				"description": "Senior editor for @tomsguide. Hope you like tweets about sportsball and old movies, because that's what you're getting.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2691,
+				"friends_count": 198,
+				"listed_count": 179,
+				"created_at": "Tue Jun 14 20:26:18 +0000 2011",
+				"favourites_count": 922,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32946,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/489618669723344896/sdjSOVA7_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/489618669723344896/sdjSOVA7_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/317358163/1548831807",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Accurate. https://t.co/7dZYfvCHBW"
+	},
+	{
 		"created_at": "Fri Dec 27 15:41:59 +0000 2019",
 		"id": 1210586631620694000,
 		"id_str": "1210586631620694018",
