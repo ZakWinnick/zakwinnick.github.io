@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 29 01:07:54 +0000 2019",
+		"id": 1211090328813326300,
+		"id_str": "1211091438710218752",
+		"full_text": "It was holiday season 1984 and Apple created a laserdisc based commercial for the new Apple Credit Card.\n\n“If you have a Carte Blanche card...you are instantly approved with a $2500 line of credit”\n\nThe Apple Credit Card was instrumental in selling many Apple products. https://t.co/YnsAb89p9j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1211089687659466800,
+					"id_str": "1211089687659466753",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1211089687659466753/pu/img/8zi1uoSpA0h4woY2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1211089687659466753/pu/img/8zi1uoSpA0h4woY2.jpg",
+					"url": "https://t.co/YnsAb89p9j",
+					"display_url": "pic.twitter.com/YnsAb89p9j",
+					"expanded_url": "https://twitter.com/BrianRoemmele/status/1211090328813326336/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 864,
+							"h": 646,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1211089687659466800,
+					"id_str": "1211089687659466753",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1211089687659466753/pu/img/8zi1uoSpA0h4woY2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1211089687659466753/pu/img/8zi1uoSpA0h4woY2.jpg",
+					"url": "https://t.co/YnsAb89p9j",
+					"display_url": "pic.twitter.com/YnsAb89p9j",
+					"expanded_url": "https://twitter.com/BrianRoemmele/status/1211090328813326336/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 864,
+							"h": 646,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							432,
+							323
+						],
+						"duration_millis": 48422,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1211089687659466753/pu/pl/PK5lzJZ0lexysamB.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1211089687659466753/pu/vid/360x270/DcQKXjqvGHdrEdjJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1211089687659466753/pu/vid/480x360/ec_Jbf2kI26_V0GT.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1211089687659466753/pu/vid/864x646/twfi7__lCxzMnvZ2.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101584084,
+			"id_str": "101584084",
+			"name": "Brian Roemmele",
+			"screen_name": "BrianRoemmele",
+			"location": "transcendence",
+			"description": "we can only see what we think is possible...",
+			"url": "https://t.co/i9oM6p7PHi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/i9oM6p7PHi",
+							"expanded_url": "http://VoiceFirst.expert",
+							"display_url": "VoiceFirst.expert",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80395,
+			"friends_count": 17362,
+			"listed_count": 779,
+			"created_at": "Sun Jan 03 22:04:29 +0000 2010",
+			"favourites_count": 125799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101584084/1414798559",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was holiday season 1984 and Apple created a laserdisc based commercial for the new Apple Credit Card.\n\n“If you have a Carte Blanche card...you are instantly approved with a $2500 line of credit”\n\nThe Apple Credit Card was instrumental in selling many Apple products. https://t.co/YnsAb89p9j"
+	},
+	{
 		"created_at": "Sat Dec 28 02:21:47 +0000 2019",
 		"id": 1210747643707576300,
 		"id_str": "1210747643707576328",
