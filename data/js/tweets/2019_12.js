@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 31 18:13:19 +0000 2019",
+		"id": 1212057216091594800,
+		"id_str": "1212074268093227014",
+		"full_text": "&lt;/2019&gt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 82364810,
+			"id_str": "82364810",
+			"name": "MIT CSAIL",
+			"screen_name": "MIT_CSAIL",
+			"location": "Cambridge, MA",
+			"description": "MIT's largest research lab, the Computer Science & Artificial Intelligence Lab https://t.co/CrZEGp7nEd #ai #ml #bigdata #iot #datascience #nlp #cs",
+			"url": "https://t.co/2YIudij4og",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YIudij4og",
+							"expanded_url": "http://csail.mit.edu",
+							"display_url": "csail.mit.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CrZEGp7nEd",
+							"expanded_url": "http://instagram.com/mit_csail/",
+							"display_url": "instagram.com/mit_csail/",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 116840,
+			"friends_count": 18091,
+			"listed_count": 2156,
+			"created_at": "Wed Oct 14 13:55:58 +0000 2009",
+			"favourites_count": 2639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885505956272115712/U81HpDxb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885505956272115712/U81HpDxb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/82364810/1499357815",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 307,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "&lt;/2019&gt;"
+	},
+	{
 		"created_at": "Tue Dec 31 02:35:21 +0000 2019",
 		"id": 1211790863900258300,
 		"id_str": "1211838222336241664",
