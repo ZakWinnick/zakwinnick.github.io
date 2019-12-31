@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 31 02:35:21 +0000 2019",
+		"id": 1211790863900258300,
+		"id_str": "1211838222336241664",
+		"full_text": "Rest in peace Syd Mead. Your art will endure.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44196397,
+			"id_str": "44196397",
+			"name": "Elon Musk",
+			"screen_name": "elonmusk",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30353129,
+			"friends_count": 81,
+			"listed_count": 52682,
+			"created_at": "Tue Jun 02 20:12:29 +0000 2009",
+			"favourites_count": 4556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205226947346722817/veJLfnPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205226947346722817/veJLfnPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1437,
+		"favorite_count": 22162,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Rest in peace Syd Mead. Your art will endure."
+	},
+	{
+		"created_at": "Tue Dec 31 02:30:28 +0000 2019",
+		"id": 1211667767633567700,
+		"id_str": "1211836993224753152",
+		"full_text": "December 30, 1968: The release of the Apollo 8 \"Earthrise\" photograph prompts CBS News to change their on-screen ID bumper logo—shown between commercial breaks on \"CBS Evening News with Walter Cronkite\"—from a picture of a globe to the real thing. https://t.co/wWqT0bc6kJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1211667761841262600,
+					"id_str": "1211667761841262592",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/ENC1aOJXUAA292W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENC1aOJXUAA292W.jpg",
+					"url": "https://t.co/wWqT0bc6kJ",
+					"display_url": "pic.twitter.com/wWqT0bc6kJ",
+					"expanded_url": "https://twitter.com/ChasingMoonBk/status/1211667767633567744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 569,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 569,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 569,
+							"h": 389,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 311,
+									"y": 114,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 311,
+									"y": 114,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 311,
+									"y": 114,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 311,
+									"y": 114,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1211667761841262600,
+					"id_str": "1211667761841262592",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/ENC1aOJXUAA292W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENC1aOJXUAA292W.jpg",
+					"url": "https://t.co/wWqT0bc6kJ",
+					"display_url": "pic.twitter.com/wWqT0bc6kJ",
+					"expanded_url": "https://twitter.com/ChasingMoonBk/status/1211667767633567744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 569,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 569,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 569,
+							"h": 389,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 311,
+									"y": 114,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 311,
+									"y": 114,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 311,
+									"y": 114,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 311,
+									"y": 114,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1211667761845407700,
+					"id_str": "1211667761845407750",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/ENC1aOKWkAYz1rt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENC1aOKWkAYz1rt.jpg",
+					"url": "https://t.co/wWqT0bc6kJ",
+					"display_url": "pic.twitter.com/wWqT0bc6kJ",
+					"expanded_url": "https://twitter.com/ChasingMoonBk/status/1211667767633567744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1075060338905808900,
+			"id_str": "1075060338905808901",
+			"name": "Chasing The Moon: The Book",
+			"screen_name": "ChasingMoonBk",
+			"location": "Ballantine Random House",
+			"description": "\"The People, the Politics, and the Promise that Launched America into the Space Age\" Companion book to the PBS documentary series. Now available.",
+			"url": "https://t.co/HM91GkkZNM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HM91GkkZNM",
+							"expanded_url": "http://ChasingTheMoonBook.com",
+							"display_url": "ChasingTheMoonBook.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2449,
+			"friends_count": 1476,
+			"listed_count": 42,
+			"created_at": "Tue Dec 18 16:08:53 +0000 2018",
+			"favourites_count": 4008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091516936129822720/f68xQx-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091516936129822720/f68xQx-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1075060338905808901/1549072515",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "December 30, 1968: The release of the Apollo 8 \"Earthrise\" photograph prompts CBS News to change their on-screen ID bumper logo—shown between commercial breaks on \"CBS Evening News with Walter Cronkite\"—from a picture of a globe to the real thing. https://t.co/wWqT0bc6kJ"
+	},
+	{
 		"created_at": "Sun Dec 29 23:04:18 +0000 2019",
 		"id": 1211422721403428900,
 		"id_str": "1211422721403428870",
