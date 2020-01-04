@@ -1,6 +1,136 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 04 12:24:30 +0000 2020",
+		"id": 1213332728248176600,
+		"id_str": "1213436035704725505",
+		"full_text": "This is what’s known as nailing the art direction. #thecrown #comet #boac https://t.co/0Fj878RB5m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thecrown",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"text": "comet",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "boac",
+					"indices": [
+						68,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Fj878RB5m",
+					"expanded_url": "https://www.instagram.com/p/B64ttDuhv92/?igshid=d805cz2bsj9m",
+					"display_url": "instagram.com/p/B64ttDuhv92/…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14892330,
+			"id_str": "14892330",
+			"name": "Jon Ostrower",
+			"screen_name": "jonostrower",
+			"location": "Seattle",
+			"description": "Editor-in-chief of The Air Current. Chaser of things that fly, unapologetic geek. CNN, WSJ & Flightglobal alum. Signal: +1-617-271-4167",
+			"url": "https://t.co/HhfS2op0nC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HhfS2op0nC",
+							"expanded_url": "http://www.theaircurrent.com",
+							"display_url": "theaircurrent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81301,
+			"friends_count": 5511,
+			"listed_count": 2506,
+			"created_at": "Sat May 24 16:36:26 +0000 2008",
+			"favourites_count": 14807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 57349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "31266E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169700409281306626/H0fjBj3y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169700409281306626/H0fjBj3y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14892330/1569104120",
+			"profile_link_color": "1111C3",
+			"profile_sidebar_border_color": "D0D0D0",
+			"profile_sidebar_fill_color": "8D7BBC",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what’s known as nailing the art direction. #thecrown #comet #boac https://t.co/0Fj878RB5m"
+	},
+	{
 		"created_at": "Fri Jan 03 17:42:50 +0000 2020",
 		"id": 1213153760270258200,
 		"id_str": "1213153760270258176",
