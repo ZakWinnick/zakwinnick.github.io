@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 05 19:06:16 +0000 2020",
+		"id": 1213810286077055000,
+		"id_str": "1213899533769424907",
+		"full_text": "1/ Today marks the twentieth anniversary of the introduction of Microsoft's Internet Explorer 5 for Mac. This was both the most important release of Internet Explorer for the Mac, and the last release. Here are some anecdotes and thoughts from an insider’s perspective. [thread] https://t.co/TLiloQX0DU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213810280813285400,
+					"id_str": "1213810280813285377",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ENhSBPSX0AEYc3A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENhSBPSX0AEYc3A.jpg",
+					"url": "https://t.co/TLiloQX0DU",
+					"display_url": "pic.twitter.com/TLiloQX0DU",
+					"expanded_url": "https://twitter.com/jimmyg/status/1213810286077054977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 318,
+							"h": 116,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 116,
+							"h": 116,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 318,
+							"h": 116,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 318,
+							"h": 116,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213810280813285400,
+					"id_str": "1213810280813285377",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ENhSBPSX0AEYc3A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENhSBPSX0AEYc3A.jpg",
+					"url": "https://t.co/TLiloQX0DU",
+					"display_url": "pic.twitter.com/TLiloQX0DU",
+					"expanded_url": "https://twitter.com/jimmyg/status/1213810286077054977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 318,
+							"h": 116,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 116,
+							"h": 116,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 318,
+							"h": 116,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 318,
+							"h": 116,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 806170,
+			"id_str": "806170",
+			"name": "Jimmy Grewal",
+			"screen_name": "jimmyg",
+			"location": "Dubai 🇦🇪",
+			"description": "Director @Elcome_Intl; previously Program Manager for Mac Internet Explorer at @Microsoft, @DukeU grad, collector of vintage  computers, husband & dad.",
+			"url": "https://t.co/VPzX0E4IfO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VPzX0E4IfO",
+							"expanded_url": "http://jimmy.grew.al",
+							"display_url": "jimmy.grew.al",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1977,
+			"friends_count": 915,
+			"listed_count": 80,
+			"created_at": "Fri Mar 02 14:32:35 +0000 2007",
+			"favourites_count": 3070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666666",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205130251514400769/87RmlDJ4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205130251514400769/87RmlDJ4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/806170/1569831078",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "001907e868d06e24",
+			"url": "https://api.twitter.com/1.1/geo/id/001907e868d06e24.json",
+			"place_type": "admin",
+			"name": "Dubai",
+			"full_name": "Dubai, United Arab Emirates",
+			"country_code": "AE",
+			"country": "United Arab Emirates",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							54.8939725,
+							24.6182526
+						],
+						[
+							56.2083722,
+							24.6182526
+						],
+						[
+							56.2083722,
+							25.3686719
+						],
+						[
+							54.8939725,
+							25.3686719
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/ Today marks the twentieth anniversary of the introduction of Microsoft's Internet Explorer 5 for Mac. This was both the most important release of Internet Explorer for the Mac, and the last release. Here are some anecdotes and thoughts from an insider’s perspective. [thread] https://t.co/TLiloQX0DU"
+	},
+	{
 		"created_at": "Sat Jan 04 12:24:30 +0000 2020",
 		"id": 1213332728248176600,
 		"id_str": "1213436035704725505",
