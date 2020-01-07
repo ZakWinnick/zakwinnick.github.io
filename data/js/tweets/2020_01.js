@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 03:09:41 +0000 2020",
+		"id": 1214362117475897300,
+		"id_str": "1214383576168517633",
+		"full_text": "Breaking: Sony announces an electric concept car called the Vision S https://t.co/tjenJgXKgv https://t.co/DT9NfyaS6G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tjenJgXKgv",
+					"expanded_url": "https://www.theverge.com/2020/1/6/21054270/sony-vision-s-electric-concept-car-ev-announcement-ces-2020?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "theverge.com/2020/1/6/21054…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214362115181629400,
+					"id_str": "1214362115181629446",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpH6OgX0AY6O4G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENpH6OgX0AY6O4G.jpg",
+					"url": "https://t.co/DT9NfyaS6G",
+					"display_url": "pic.twitter.com/DT9NfyaS6G",
+					"expanded_url": "https://twitter.com/verge/status/1214362117475897344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 433,
+									"y": 1458,
+									"h": 172,
+									"w": 172
+								},
+								{
+									"x": 152,
+									"y": 1356,
+									"h": 190,
+									"w": 190
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 295,
+									"y": 995,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 103,
+									"y": 925,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 173,
+									"y": 583,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 60,
+									"y": 542,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 98,
+									"y": 330,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 34,
+									"y": 307,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214362115181629400,
+					"id_str": "1214362115181629446",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpH6OgX0AY6O4G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENpH6OgX0AY6O4G.jpg",
+					"url": "https://t.co/DT9NfyaS6G",
+					"display_url": "pic.twitter.com/DT9NfyaS6G",
+					"expanded_url": "https://twitter.com/verge/status/1214362117475897344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 433,
+									"y": 1458,
+									"h": 172,
+									"w": 172
+								},
+								{
+									"x": 152,
+									"y": 1356,
+									"h": 190,
+									"w": 190
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 295,
+									"y": 995,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 103,
+									"y": 925,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 173,
+									"y": 583,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 60,
+									"y": 542,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 98,
+									"y": 330,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 34,
+									"y": 307,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 275686563,
+			"id_str": "275686563",
+			"name": "The Verge",
+			"screen_name": "verge",
+			"location": "New York",
+			"description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+			"url": "http://t.co/W2SFxIXkC4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/W2SFxIXkC4",
+							"expanded_url": "http://www.theverge.com",
+							"display_url": "theverge.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W2SFxIXkC4",
+							"expanded_url": "http://www.theverge.com",
+							"display_url": "theverge.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2612836,
+			"friends_count": 165,
+			"listed_count": 37141,
+			"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+			"favourites_count": 1444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 168020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1569273426",
+			"profile_link_color": "EC008C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 510,
+		"favorite_count": 1697,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Breaking: Sony announces an electric concept car called the Vision S https://t.co/tjenJgXKgv https://t.co/DT9NfyaS6G"
+	},
+	{
 		"created_at": "Sun Jan 05 19:06:16 +0000 2020",
 		"id": 1213810286077055000,
 		"id_str": "1213899533769424907",
