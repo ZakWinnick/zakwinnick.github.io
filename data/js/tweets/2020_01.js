@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 12:41:05 +0000 2020",
+		"id": 1215252148881100800,
+		"id_str": "1215252148881100800",
+		"full_text": "Where do I sign up…? https://t.co/UcEelws5Dx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UcEelws5Dx",
+					"expanded_url": "https://twitter.com/CNNBusiness/status/1215151507886215170",
+					"display_url": "twitter.com/CNNBusiness/st…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 181,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215151507886215200,
+		"quoted_status_id_str": "1215151507886215170",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UcEelws5Dx",
+			"expanded": "https://twitter.com/CNNBusiness/status/1215151507886215170",
+			"display": "twitter.com/CNNBusiness/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 09 06:01:10 +0000 2020",
+			"id": 1215151507886215200,
+			"id_str": "1215151507886215170",
+			"full_text": "Toyota has unveiled plans for a 2,000-person \"city of the future,\" where it will test autonomous vehicles, smart technology and robot-assisted living https://t.co/WZq8OD8pL1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WZq8OD8pL1",
+						"expanded_url": "https://cnn.it/2QADM9c",
+						"display_url": "cnn.it/2QADM9c",
+						"indices": [
+							150,
+							173
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16184358,
+				"id_str": "16184358",
+				"name": "CNN Business",
+				"screen_name": "CNNBusiness",
+				"location": "Global",
+				"description": "Your guide to tech, media, finance and the future",
+				"url": "https://t.co/ZLgYiheZkS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZLgYiheZkS",
+								"expanded_url": "http://CNN.com/business",
+								"display_url": "CNN.com/business",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1766061,
+				"friends_count": 965,
+				"listed_count": 20301,
+				"created_at": "Mon Sep 08 13:44:47 +0000 2008",
+				"favourites_count": 305,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 168701,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047664113726382081/1z2vgDwB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047664113726382081/1z2vgDwB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16184358/1538617548",
+				"profile_link_color": "01C59F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Where do I sign up…? https://t.co/UcEelws5Dx"
+	},
+	{
 		"created_at": "Tue Jan 07 03:09:41 +0000 2020",
 		"id": 1214362117475897300,
 		"id_str": "1214383576168517633",
