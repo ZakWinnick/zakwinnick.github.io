@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 18:16:00 +0000 2020",
+		"id": 1215329723355562000,
+		"id_str": "1215336434468605953",
+		"full_text": "is this real?  did Subaru actually make a car called FUCKS Edition? https://t.co/hgUNBfpep3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hgUNBfpep3",
+					"expanded_url": "https://twitter.com/labergee/status/1215309207966076928",
+					"display_url": "twitter.com/labergee/statu…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154221292,
+			"id_str": "154221292",
+			"name": "Casey Neistat",
+			"screen_name": "Casey",
+			"location": "nyc",
+			"description": "family + work",
+			"url": "https://t.co/G29ueAVHlb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G29ueAVHlb",
+							"expanded_url": "http://www.youtube.com/caseyneistat",
+							"display_url": "youtube.com/caseyneistat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2055814,
+			"friends_count": 2165,
+			"listed_count": 5011,
+			"created_at": "Thu Jun 10 17:54:33 +0000 2010",
+			"favourites_count": 42826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "616161",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154221292/1403543694",
+			"profile_link_color": "943D3D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215309207966077000,
+		"quoted_status_id_str": "1215309207966076928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hgUNBfpep3",
+			"expanded": "https://twitter.com/labergee/status/1215309207966076928",
+			"display": "twitter.com/labergee/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 09 16:27:49 +0000 2020",
+			"id": 1215309207966077000,
+			"id_str": "1215309207966076928",
+			"full_text": "The new Subaru Forester F.U.C.K.S edition is... something https://t.co/vLcAijFLQM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1215309194288496600,
+						"id_str": "1215309194288496640",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/EN2lRfHVAAAiyDY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EN2lRfHVAAAiyDY.jpg",
+						"url": "https://t.co/vLcAijFLQM",
+						"display_url": "pic.twitter.com/vLcAijFLQM",
+						"expanded_url": "https://twitter.com/labergee/status/1215309207966076928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 875,
+										"y": 562,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 782,
+										"y": 323,
+										"h": 179,
+										"w": 179
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 495,
+										"y": 318,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 443,
+										"y": 183,
+										"h": 101,
+										"w": 101
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 875,
+										"y": 562,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 782,
+										"y": 323,
+										"h": 179,
+										"w": 179
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 875,
+										"y": 562,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 782,
+										"y": 323,
+										"h": 179,
+										"w": 179
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1215309194288496600,
+						"id_str": "1215309194288496640",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/EN2lRfHVAAAiyDY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EN2lRfHVAAAiyDY.jpg",
+						"url": "https://t.co/vLcAijFLQM",
+						"display_url": "pic.twitter.com/vLcAijFLQM",
+						"expanded_url": "https://twitter.com/labergee/status/1215309207966076928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 875,
+										"y": 562,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 782,
+										"y": 323,
+										"h": 179,
+										"w": 179
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 495,
+										"y": 318,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 443,
+										"y": 183,
+										"h": 101,
+										"w": 101
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 875,
+										"y": 562,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 782,
+										"y": 323,
+										"h": 179,
+										"w": 179
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 875,
+										"y": 562,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 782,
+										"y": 323,
+										"h": 179,
+										"w": 179
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14133444,
+				"id_str": "14133444",
+				"name": "laberge",
+				"screen_name": "labergee",
+				"location": "Vancouver",
+				"description": "Music, unique cars, golf and skateboarding. Bad at making jokes on the internet.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 979,
+				"friends_count": 600,
+				"listed_count": 25,
+				"created_at": "Wed Mar 12 16:52:07 +0000 2008",
+				"favourites_count": 24233,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24177,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844795651107958784/6Zp10aiL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844795651107958784/6Zp10aiL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14133444/1551135069",
+				"profile_link_color": "AA5050",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F0EBB8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 375,
+			"favorite_count": 1304,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 188,
+		"favorite_count": 2189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "is this real?  did Subaru actually make a car called FUCKS Edition? https://t.co/hgUNBfpep3"
+	},
+	{
 		"created_at": "Thu Jan 09 12:41:05 +0000 2020",
 		"id": 1215252148881100800,
 		"id_str": "1215252148881100800",
