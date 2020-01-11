@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 18:38:40 +0000 2020",
+		"id": 1216056748764737500,
+		"id_str": "1216066914918785025",
+		"full_text": "Neil Peart https://t.co/VKFz3gkCJT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VKFz3gkCJT",
+					"expanded_url": "https://twitter.com/ctvnews/status/1215513820711526401",
+					"display_url": "twitter.com/ctvnews/status…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 342452431,
+			"id_str": "342452431",
+			"name": "Tin Royers",
+			"screen_name": "nicadispatch",
+			"location": "",
+			"description": "Granadino desplazado",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17119,
+			"friends_count": 891,
+			"listed_count": 280,
+			"created_at": "Tue Jul 26 01:28:43 +0000 2011",
+			"favourites_count": 11463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075504081635106816/SFVNgMQw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075504081635106816/SFVNgMQw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/342452431/1576281620",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215513820711526400,
+		"quoted_status_id_str": "1215513820711526401",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VKFz3gkCJT",
+			"expanded": "https://twitter.com/ctvnews/status/1215513820711526401",
+			"display": "twitter.com/ctvnews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 10 06:00:52 +0000 2020",
+			"id": 1215513820711526400,
+			"id_str": "1215513820711526401",
+			"full_text": "Who should be on the new $5 bill? Bank of Canada seeking nominations https://t.co/kYuiFW6AcS https://t.co/ubwVjjZuwq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kYuiFW6AcS",
+						"expanded_url": "http://bit.ly/30ep1wg",
+						"display_url": "bit.ly/30ep1wg",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1215513819377819600,
+						"id_str": "1215513819377819649",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/EN5fYO-X4AEDX5k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EN5fYO-X4AEDX5k.jpg",
+						"url": "https://t.co/ubwVjjZuwq",
+						"display_url": "pic.twitter.com/ubwVjjZuwq",
+						"expanded_url": "https://twitter.com/CTVNews/status/1215513820711526401/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 192,
+										"y": 110,
+										"h": 95,
+										"w": 95
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 192,
+										"y": 110,
+										"h": 95,
+										"w": 95
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 192,
+										"y": 110,
+										"h": 95,
+										"w": 95
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 192,
+										"y": 110,
+										"h": 95,
+										"w": 95
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1215513819377819600,
+						"id_str": "1215513819377819649",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/EN5fYO-X4AEDX5k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EN5fYO-X4AEDX5k.jpg",
+						"url": "https://t.co/ubwVjjZuwq",
+						"display_url": "pic.twitter.com/ubwVjjZuwq",
+						"expanded_url": "https://twitter.com/CTVNews/status/1215513820711526401/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 192,
+										"y": 110,
+										"h": 95,
+										"w": 95
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 192,
+										"y": 110,
+										"h": 95,
+										"w": 95
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 192,
+										"y": 110,
+										"h": 95,
+										"w": 95
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 192,
+										"y": 110,
+										"h": 95,
+										"w": 95
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://trueanthem.com/\" rel=\"nofollow\">True Anthem</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 203123011,
+				"id_str": "203123011",
+				"name": "CTV News",
+				"screen_name": "CTVNews",
+				"location": "",
+				"description": "Tweeting breaking news from CTVNews.ca in the CTV National newsroom. RTs do not constitute endorsement of views.",
+				"url": "http://t.co/sIkkpnZFhH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/sIkkpnZFhH",
+								"expanded_url": "http://www.ctvnews.ca",
+								"display_url": "ctvnews.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 821174,
+				"friends_count": 329,
+				"listed_count": 4555,
+				"created_at": "Fri Oct 15 15:48:42 +0000 2010",
+				"favourites_count": 61,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 200574,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113055141761073153/9gjeEtmz_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113055141761073153/9gjeEtmz_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/203123011/1498059584",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 82,
+			"favorite_count": 265,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 28,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Neil Peart https://t.co/VKFz3gkCJT"
+	},
+	{
 		"created_at": "Sat Jan 11 00:54:00 +0000 2020",
 		"id": 1215751793247969300,
 		"id_str": "1215798984293437441",
