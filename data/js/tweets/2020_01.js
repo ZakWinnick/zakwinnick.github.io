@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 00:54:00 +0000 2020",
+		"id": 1215751793247969300,
+		"id_str": "1215798984293437441",
+		"full_text": "Neil Peart   September 12, 1952 - January 7, 2020 https://t.co/NivX2RhiB8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215751781839405000,
+					"id_str": "1215751781839405057",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/EN83zeOWAAEINJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN83zeOWAAEINJq.jpg",
+					"url": "https://t.co/NivX2RhiB8",
+					"display_url": "pic.twitter.com/NivX2RhiB8",
+					"expanded_url": "https://twitter.com/rushtheband/status/1215751793247969281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1292,
+							"h": 1292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 69,
+									"y": 216,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 132,
+									"y": 411,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 381,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 132,
+									"y": 411,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215751781839405000,
+					"id_str": "1215751781839405057",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/EN83zeOWAAEINJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN83zeOWAAEINJq.jpg",
+					"url": "https://t.co/NivX2RhiB8",
+					"display_url": "pic.twitter.com/NivX2RhiB8",
+					"expanded_url": "https://twitter.com/rushtheband/status/1215751793247969281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1292,
+							"h": 1292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 69,
+									"y": 216,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 132,
+									"y": 411,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 381,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 132,
+									"y": 411,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50372842,
+			"id_str": "50372842",
+			"name": "Rush",
+			"screen_name": "rushtheband",
+			"location": "Toronto, Canada",
+			"description": "Prog-rock trio composed of Geddy Lee, Alex Lifeson, and Neil Peart. Otherwise known as the Holy Triumvirate.",
+			"url": "https://t.co/2Q4GY2hIhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Q4GY2hIhf",
+							"expanded_url": "http://www.rush.com",
+							"display_url": "rush.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276289,
+			"friends_count": 71,
+			"listed_count": 2960,
+			"created_at": "Wed Jun 24 17:33:41 +0000 2009",
+			"favourites_count": 1718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139806787429904385/44E99AIb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139806787429904385/44E99AIb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50372842/1542743208",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "BDBDBD",
+			"profile_text_color": "071015",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23133,
+		"favorite_count": 50554,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "Neil Peart   September 12, 1952 - January 7, 2020 https://t.co/NivX2RhiB8"
+	},
+	{
 		"created_at": "Fri Jan 10 17:20:53 +0000 2020",
 		"id": 1215468242703175700,
 		"id_str": "1215684952848830467",
