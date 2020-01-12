@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 12 16:41:28 +0000 2020",
+		"id": 1216399806106603500,
+		"id_str": "1216399806106603520",
+		"full_text": "13th Hour.\n\n…or Dick (I know, not technically a warmup). https://t.co/SHPeEwS4hC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SHPeEwS4hC",
+					"expanded_url": "https://twitter.com/TheBlueDevils/status/1216366814076309505",
+					"display_url": "twitter.com/TheBlueDevils/…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 181,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216366814076309500,
+		"quoted_status_id_str": "1216366814076309505",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SHPeEwS4hC",
+			"expanded": "https://twitter.com/TheBlueDevils/status/1216366814076309505",
+			"display": "twitter.com/TheBlueDevils/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 12 14:30:22 +0000 2020",
+			"id": 1216366814076309500,
+			"id_str": "1216366814076309505",
+			"full_text": "What’s your favorite BD Drumline warm up?\n\nCredit: @gridbooknation\n\n#bdworld #loveindy https://t.co/DdHjytnb0s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bdworld",
+						"indices": [
+							68,
+							76
+						]
+					},
+					{
+						"text": "loveindy",
+						"indices": [
+							77,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gridbooknation",
+						"name": "Grid Book Percussion",
+						"id": 2446817263,
+						"id_str": "2446817263",
+						"indices": [
+							51,
+							66
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1216366732203511800,
+						"id_str": "1216366732203511809",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216366732203511809/pu/img/daxIgsUNqF0i45Xz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216366732203511809/pu/img/daxIgsUNqF0i45Xz.jpg",
+						"url": "https://t.co/DdHjytnb0s",
+						"display_url": "pic.twitter.com/DdHjytnb0s",
+						"expanded_url": "https://twitter.com/TheBlueDevils/status/1216366814076309505/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1216366732203511800,
+						"id_str": "1216366732203511809",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216366732203511809/pu/img/daxIgsUNqF0i45Xz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216366732203511809/pu/img/daxIgsUNqF0i45Xz.jpg",
+						"url": "https://t.co/DdHjytnb0s",
+						"display_url": "pic.twitter.com/DdHjytnb0s",
+						"expanded_url": "https://twitter.com/TheBlueDevils/status/1216366814076309505/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 49007,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1216366732203511809/pu/vid/480x270/A2ETWfzbPYAwzBzF.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1216366732203511809/pu/vid/1280x720/sFutd2awBPHRssg-.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1216366732203511809/pu/pl/4MyiF8Naq3hOHcSG.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1216366732203511809/pu/vid/640x360/eI98SjSSDHO4sNiC.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16789643,
+				"id_str": "16789643",
+				"name": "The Blue Devils",
+				"screen_name": "TheBlueDevils",
+				"location": "Concord, CA",
+				"description": "The Blue Devils offer young men and women between the ages of 7 and 21 quality educational and performance experiences in the areas of music and dance.",
+				"url": "https://t.co/09GzFICVEH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/09GzFICVEH",
+								"expanded_url": "https://bluedevils.org/",
+								"display_url": "bluedevils.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69342,
+				"friends_count": 13316,
+				"listed_count": 442,
+				"created_at": "Wed Oct 15 19:26:19 +0000 2008",
+				"favourites_count": 20558,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23950,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0848A7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908767946998255618/UENq2j49_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908767946998255618/UENq2j49_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16789643/1576624495",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "13th Hour.\n\n…or Dick (I know, not technically a warmup). https://t.co/SHPeEwS4hC"
+	},
+	{
 		"created_at": "Sat Jan 11 18:38:40 +0000 2020",
 		"id": 1216056748764737500,
 		"id_str": "1216066914918785025",
