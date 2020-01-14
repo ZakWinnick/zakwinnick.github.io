@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 16:33:33 +0000 2020",
+		"id": 1217118046038286300,
+		"id_str": "1217122589493157888",
+		"full_text": "EPIC move. https://t.co/dhVCrV2aRZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dhVCrV2aRZ",
+					"expanded_url": "https://twitter.com/007/status/1217114730831237121",
+					"display_url": "twitter.com/007/status/121…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15958130,
+			"id_str": "15958130",
+			"name": "chris douridas",
+			"screen_name": "chrisdouridas",
+			"location": "Los Angeles, CA",
+			"description": "kcrw-fm / eclectic24 / music supervision / @itsaschoolnight LA + Toronto + sometimes NYC",
+			"url": "https://t.co/9je5kgY5hq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9je5kgY5hq",
+							"expanded_url": "http://www.kcrw.com",
+							"display_url": "kcrw.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13894,
+			"friends_count": 3211,
+			"listed_count": 331,
+			"created_at": "Sat Aug 23 15:51:23 +0000 2008",
+			"favourites_count": 5652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1654338294/baby_girl_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1654338294/baby_girl_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15958130/1543631443",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217114730831237000,
+		"quoted_status_id_str": "1217114730831237121",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dhVCrV2aRZ",
+			"expanded": "https://twitter.com/007/status/1217114730831237121",
+			"display": "twitter.com/007/status/121…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 14 16:02:19 +0000 2020",
+			"id": 1217114730831237000,
+			"id_str": "1217114730831237121",
+			"full_text": "The #NoTimeToDie title song will be performed by @billieeilish. Billie has written the song with her brother @finneas and is the youngest artist in history to write and record a James Bond theme song. https://t.co/Qd5cYIRlmg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NoTimeToDie",
+						"indices": [
+							4,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "billieeilish",
+						"name": "billie eilish",
+						"id": 2150327072,
+						"id_str": "2150327072",
+						"indices": [
+							49,
+							62
+						]
+					},
+					{
+						"screen_name": "finneas",
+						"name": "FINNEAS",
+						"id": 1573265498,
+						"id_str": "1573265498",
+						"indices": [
+							109,
+							117
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1217114724040695800,
+						"id_str": "1217114724040695813",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/EOQPZJlX4AUVSZy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOQPZJlX4AUVSZy.jpg",
+						"url": "https://t.co/Qd5cYIRlmg",
+						"display_url": "pic.twitter.com/Qd5cYIRlmg",
+						"expanded_url": "https://twitter.com/007/status/1217114730831237121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 813,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1301,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217114724040695800,
+						"id_str": "1217114724040695813",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/EOQPZJlX4AUVSZy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOQPZJlX4AUVSZy.jpg",
+						"url": "https://t.co/Qd5cYIRlmg",
+						"display_url": "pic.twitter.com/Qd5cYIRlmg",
+						"expanded_url": "https://twitter.com/007/status/1217114730831237121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 813,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1301,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 389229444,
+				"id_str": "389229444",
+				"name": "James Bond",
+				"screen_name": "007",
+				"location": "",
+				"description": "The official James Bond Twitter account. NO TIME TO DIE is released worldwide in April 2020",
+				"url": "https://t.co/foosjWwnjf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/foosjWwnjf",
+								"expanded_url": "http://www.007.com",
+								"display_url": "007.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 544134,
+				"friends_count": 0,
+				"listed_count": 2591,
+				"created_at": "Wed Oct 12 02:17:35 +0000 2011",
+				"favourites_count": 29,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4527,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876771373619843072/loRucdAt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876771373619843072/loRucdAt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/389229444/1566467234",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5024,
+			"favorite_count": 19396,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EPIC move. https://t.co/dhVCrV2aRZ"
+	},
+	{
 		"created_at": "Tue Jan 14 13:55:34 +0000 2020",
 		"id": 1217082834218819600,
 		"id_str": "1217082834218819584",
