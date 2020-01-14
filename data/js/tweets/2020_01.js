@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 19:50:52 +0000 2020",
+		"id": 1217150744463319000,
+		"id_str": "1217172248374792198",
+		"full_text": "This is just beautiful. @Richard_Schiff is a treasure &amp; a joy to work with. TOBY - Movie Trailer https://t.co/vu0OZnEpY4 via @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Richard_Schiff",
+					"name": "Richard Schiff",
+					"id": 106182754,
+					"id_str": "106182754",
+					"indices": [
+						24,
+						39
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						129,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vu0OZnEpY4",
+					"expanded_url": "https://youtu.be/mAek5cZnp8Q",
+					"display_url": "youtu.be/mAek5cZnp8Q",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158426909,
+			"id_str": "158426909",
+			"name": "Lawrence O'Donnell",
+			"screen_name": "Lawrence",
+			"location": "New York, NY",
+			"description": "",
+			"url": "https://t.co/0xB7Nn7jNO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0xB7Nn7jNO",
+							"expanded_url": "http://thelastword.msnbc.com",
+							"display_url": "thelastword.msnbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2619760,
+			"friends_count": 1063,
+			"listed_count": 9542,
+			"created_at": "Tue Jun 22 17:22:48 +0000 2010",
+			"favourites_count": 41470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 29627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083103098040709120/pxrisETN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083103098040709120/pxrisETN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158426909/1542037791",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is just beautiful. @Richard_Schiff is a treasure &amp; a joy to work with. TOBY - Movie Trailer https://t.co/vu0OZnEpY4 via @YouTube"
+	},
+	{
 		"created_at": "Tue Jan 14 16:33:33 +0000 2020",
 		"id": 1217118046038286300,
 		"id_str": "1217122589493157888",
