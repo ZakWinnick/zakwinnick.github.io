@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 13:55:34 +0000 2020",
+		"id": 1217082834218819600,
+		"id_str": "1217082834218819584",
+		"full_text": "Hooray for Windows Server 2012! https://t.co/muFTA92Zlj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/muFTA92Zlj",
+					"expanded_url": "https://twitter.com/dlnt/status/1216844574657843200",
+					"display_url": "twitter.com/dlnt/status/12…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 181,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216844574657843200,
+		"quoted_status_id_str": "1216844574657843200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/muFTA92Zlj",
+			"expanded": "https://twitter.com/dlnt/status/1216844574657843200",
+			"display": "twitter.com/dlnt/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 13 22:08:49 +0000 2020",
+			"id": 1216844574657843200,
+			"id_str": "1216844574657843200",
+			"full_text": "THEY'RE TRYING TO FIX IT LIVE https://t.co/mak6877VNi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1216844333116264400,
+						"id_str": "1216844333116264448",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216844333116264448/pu/img/wYK8S0XdRu_NEz2a.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216844333116264448/pu/img/wYK8S0XdRu_NEz2a.jpg",
+						"url": "https://t.co/mak6877VNi",
+						"display_url": "pic.twitter.com/mak6877VNi",
+						"expanded_url": "https://twitter.com/dlnt/status/1216844574657843200/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1216844333116264400,
+						"id_str": "1216844333116264448",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216844333116264448/pu/img/wYK8S0XdRu_NEz2a.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216844333116264448/pu/img/wYK8S0XdRu_NEz2a.jpg",
+						"url": "https://t.co/mak6877VNi",
+						"display_url": "pic.twitter.com/mak6877VNi",
+						"expanded_url": "https://twitter.com/dlnt/status/1216844574657843200/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 15745,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1216844333116264448/pu/vid/480x270/fHXl6H_VoWy24dwt.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1216844333116264448/pu/vid/640x360/8704Q7kZ2gZkTEbT.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1216844333116264448/pu/vid/1280x720/CNQNLiT1x6LfDHGt.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1216844333116264448/pu/pl/OEq6Zaic6VP6wJq1.m3u8?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1216844075040755700,
+			"in_reply_to_status_id_str": "1216844075040755714",
+			"in_reply_to_user_id": 21055382,
+			"in_reply_to_user_id_str": "21055382",
+			"in_reply_to_screen_name": "dlnt",
+			"user": {
+				"id": 21055382,
+				"id_str": "21055382",
+				"name": "Disneyland News Today",
+				"screen_name": "dlnt",
+				"location": "Anaheim, CA",
+				"description": "Disneyland News Today is devoted to bringing you the latest news from the Disneyland Resort in Anaheim, CA. A division of @WDWNT.",
+				"url": "https://t.co/S4R0nxGDPP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/S4R0nxGDPP",
+								"expanded_url": "http://www.disneylandnewstoday.com",
+								"display_url": "disneylandnewstoday.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15350,
+				"friends_count": 31,
+				"listed_count": 221,
+				"created_at": "Tue Feb 17 02:15:09 +0000 2009",
+				"favourites_count": 106,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6910,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B9DCEA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150491866946854913/hQdBJaPj_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150491866946854913/hQdBJaPj_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21055382/1563139749",
+				"profile_link_color": "2D4071",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 250,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hooray for Windows Server 2012! https://t.co/muFTA92Zlj"
+	},
+	{
 		"created_at": "Sun Jan 12 16:41:28 +0000 2020",
 		"id": 1216399806106603500,
 		"id_str": "1216399806106603520",
