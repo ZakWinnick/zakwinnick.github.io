@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 18:56:06 +0000 2020",
+		"id": 1218245628104519700,
+		"id_str": "1218245628104519683",
+		"full_text": "👀 https://t.co/r5azrQGAiV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r5azrQGAiV",
+					"expanded_url": "https://twitter.com/goldman/status/1218244408329437184",
+					"display_url": "twitter.com/goldman/status…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 182,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218244408329437200,
+		"quoted_status_id_str": "1218244408329437184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/r5azrQGAiV",
+			"expanded": "https://twitter.com/goldman/status/1218244408329437184",
+			"display": "twitter.com/goldman/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 17 18:51:15 +0000 2020",
+			"id": 1218244408329437200,
+			"id_str": "1218244408329437184",
+			"full_text": "The Fox brand is so toxic that Disney is only keeping the part of the \"20th Century Fox\" name that means \"out of date\" https://t.co/mDiBzjIzXu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mDiBzjIzXu",
+						"expanded_url": "https://www.nytimes.com/2020/01/17/business/media/disney-fox-name.html?smid=nytcore-ios-share&fbclid=IwAR2Hvsr5g13tDKfuqoFcNn2zQy1bQt5xr0NgJVvPX31wjnaN9qwkyl8IrZw",
+						"display_url": "nytimes.com/2020/01/17/bus…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 291,
+				"id_str": "291",
+				"name": "Jason Goldman",
+				"screen_name": "goldman",
+				"location": "Various ",
+				"description": "I like the work about the work. Places practiced include: Blogger, Google, Twitter, Obvious, Medium, the Obama White House, San Francisco and New York. (he/him)",
+				"url": "https://t.co/jtJtzBt2lH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jtJtzBt2lH",
+								"expanded_url": "http://goldtoe.net",
+								"display_url": "goldtoe.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 977406,
+				"friends_count": 312,
+				"listed_count": 2480,
+				"created_at": "Sat May 20 19:46:03 +0000 2006",
+				"favourites_count": 24198,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31218,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1170493168027963392/9l2EFFWM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170493168027963392/9l2EFFWM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/291/1515472489",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀 https://t.co/r5azrQGAiV"
+	},
+	{
 		"created_at": "Tue Jan 14 19:50:52 +0000 2020",
 		"id": 1217150744463319000,
 		"id_str": "1217172248374792198",
