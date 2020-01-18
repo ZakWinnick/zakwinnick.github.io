@@ -1,6 +1,709 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 03:50:31 +0000 2020",
+		"id": 1218380120609763300,
+		"id_str": "1218380120609763330",
+		"full_text": "Well, that escalated quickly. https://t.co/ZaHWuuBF7l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZaHWuuBF7l",
+					"expanded_url": "https://twitter.com/tedlieu/status/1218301644007333888",
+					"display_url": "twitter.com/tedlieu/status…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 182,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218301644007334000,
+		"quoted_status_id_str": "1218301644007333888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZaHWuuBF7l",
+			"expanded": "https://twitter.com/tedlieu/status/1218301644007333888",
+			"display": "twitter.com/tedlieu/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 17 22:38:41 +0000 2020",
+			"id": 1218301644007334000,
+			"id_str": "1218301644007333888",
+			"full_text": "Attached is the first page of a five page letter in which the lawyer for @DevinNunes threatens that Rep Nunes will sue me.\n\nAttached is my response. https://t.co/bWAqdRhq97",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DevinNunes",
+						"name": "Devin Nunes",
+						"id": 54412900,
+						"id_str": "54412900",
+						"indices": [
+							73,
+							84
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1218301637686521900,
+						"id_str": "1218301637686521856",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/EOhG4neU8AAX4Jl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOhG4neU8AAX4Jl.jpg",
+						"url": "https://t.co/bWAqdRhq97",
+						"display_url": "pic.twitter.com/bWAqdRhq97",
+						"expanded_url": "https://twitter.com/tedlieu/status/1218301644007333888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 960,
+										"y": 1298,
+										"h": 92,
+										"w": 92
+									},
+									{
+										"x": 636,
+										"y": 1730,
+										"h": 76,
+										"w": 76
+									},
+									{
+										"x": 742,
+										"y": 1592,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 1196,
+										"y": 1572,
+										"h": 116,
+										"w": 116
+									},
+									{
+										"x": 164,
+										"y": 666,
+										"h": 246,
+										"w": 246
+									},
+									{
+										"x": 166,
+										"y": 1094,
+										"h": 424,
+										"w": 424
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 960,
+										"y": 1298,
+										"h": 92,
+										"w": 92
+									},
+									{
+										"x": 636,
+										"y": 1730,
+										"h": 76,
+										"w": 76
+									},
+									{
+										"x": 742,
+										"y": 1592,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 1196,
+										"y": 1572,
+										"h": 116,
+										"w": 116
+									},
+									{
+										"x": 164,
+										"y": 666,
+										"h": 246,
+										"w": 246
+									},
+									{
+										"x": 166,
+										"y": 1094,
+										"h": 424,
+										"w": 424
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 562,
+										"y": 760,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 372,
+										"y": 1013,
+										"h": 44,
+										"w": 44
+									},
+									{
+										"x": 434,
+										"y": 932,
+										"h": 58,
+										"w": 58
+									},
+									{
+										"x": 700,
+										"y": 921,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 96,
+										"y": 390,
+										"h": 144,
+										"w": 144
+									},
+									{
+										"x": 97,
+										"y": 641,
+										"h": 248,
+										"w": 248
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 318,
+										"y": 430,
+										"h": 30,
+										"w": 30
+									},
+									{
+										"x": 211,
+										"y": 574,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 246,
+										"y": 528,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 397,
+										"y": 521,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 54,
+										"y": 221,
+										"h": 81,
+										"w": 81
+									},
+									{
+										"x": 55,
+										"y": 363,
+										"h": 140,
+										"w": 140
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1218301637686521900,
+						"id_str": "1218301637686521856",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/EOhG4neU8AAX4Jl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOhG4neU8AAX4Jl.jpg",
+						"url": "https://t.co/bWAqdRhq97",
+						"display_url": "pic.twitter.com/bWAqdRhq97",
+						"expanded_url": "https://twitter.com/tedlieu/status/1218301644007333888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 960,
+										"y": 1298,
+										"h": 92,
+										"w": 92
+									},
+									{
+										"x": 636,
+										"y": 1730,
+										"h": 76,
+										"w": 76
+									},
+									{
+										"x": 742,
+										"y": 1592,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 1196,
+										"y": 1572,
+										"h": 116,
+										"w": 116
+									},
+									{
+										"x": 164,
+										"y": 666,
+										"h": 246,
+										"w": 246
+									},
+									{
+										"x": 166,
+										"y": 1094,
+										"h": 424,
+										"w": 424
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 960,
+										"y": 1298,
+										"h": 92,
+										"w": 92
+									},
+									{
+										"x": 636,
+										"y": 1730,
+										"h": 76,
+										"w": 76
+									},
+									{
+										"x": 742,
+										"y": 1592,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 1196,
+										"y": 1572,
+										"h": 116,
+										"w": 116
+									},
+									{
+										"x": 164,
+										"y": 666,
+										"h": 246,
+										"w": 246
+									},
+									{
+										"x": 166,
+										"y": 1094,
+										"h": 424,
+										"w": 424
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 562,
+										"y": 760,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 372,
+										"y": 1013,
+										"h": 44,
+										"w": 44
+									},
+									{
+										"x": 434,
+										"y": 932,
+										"h": 58,
+										"w": 58
+									},
+									{
+										"x": 700,
+										"y": 921,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 96,
+										"y": 390,
+										"h": 144,
+										"w": 144
+									},
+									{
+										"x": 97,
+										"y": 641,
+										"h": 248,
+										"w": 248
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 318,
+										"y": 430,
+										"h": 30,
+										"w": 30
+									},
+									{
+										"x": 211,
+										"y": 574,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 246,
+										"y": 528,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 397,
+										"y": 521,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 54,
+										"y": 221,
+										"h": 81,
+										"w": 81
+									},
+									{
+										"x": 55,
+										"y": 363,
+										"h": 140,
+										"w": 140
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1218301637762023400,
+						"id_str": "1218301637762023424",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/EOhG4nwVAAAgy1e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOhG4nwVAAAgy1e.jpg",
+						"url": "https://t.co/bWAqdRhq97",
+						"display_url": "pic.twitter.com/bWAqdRhq97",
+						"expanded_url": "https://twitter.com/tedlieu/status/1218301644007333888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 208,
+										"y": 1302,
+										"h": 128,
+										"w": 128
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 208,
+										"y": 1302,
+										"h": 128,
+										"w": 128
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 121,
+										"y": 762,
+										"h": 75,
+										"w": 75
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 69,
+										"y": 432,
+										"h": 42,
+										"w": 42
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21059255,
+				"id_str": "21059255",
+				"name": "Ted Lieu",
+				"screen_name": "tedlieu",
+				"location": "California",
+				"description": "Husband of Betty, the love of my life. Father of two great kids. USAF veteran. Member of Congress. In that order. Also, I don't take orders from Vladimir Putin.",
+				"url": "https://t.co/YZX138uDSy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YZX138uDSy",
+								"expanded_url": "http://www.TedLieu.com",
+								"display_url": "TedLieu.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1204572,
+				"friends_count": 9779,
+				"listed_count": 6935,
+				"created_at": "Tue Feb 17 03:12:31 +0000 2009",
+				"favourites_count": 49540,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 23765,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/537271043937673217/3O1qePzP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/537271043937673217/3O1qePzP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21059255/1485531357",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26401,
+			"favorite_count": 118022,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, that escalated quickly. https://t.co/ZaHWuuBF7l"
+	},
+	{
 		"created_at": "Fri Jan 17 18:56:06 +0000 2020",
 		"id": 1218245628104519700,
 		"id_str": "1218245628104519683",
