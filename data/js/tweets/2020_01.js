@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 23:57:47 +0000 2020",
+		"id": 1218712287734710300,
+		"id_str": "1219408715020935169",
+		"full_text": "Just a reminder that this exists https://t.co/rCFHpsTR81",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177625050926727200,
+					"id_str": "1177625050926727169",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1177625050926727169/pu/img/V3Eti8S31cccVQtN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1177625050926727169/pu/img/V3Eti8S31cccVQtN.jpg",
+					"url": "https://t.co/rCFHpsTR81",
+					"display_url": "pic.twitter.com/rCFHpsTR81",
+					"expanded_url": "https://twitter.com/JacobOller/status/1177625609511538689/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1177625609511538700,
+					"source_status_id_str": "1177625609511538689",
+					"source_user_id": 253396733,
+					"source_user_id_str": "253396733",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177625050926727200,
+					"id_str": "1177625050926727169",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1177625050926727169/pu/img/V3Eti8S31cccVQtN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1177625050926727169/pu/img/V3Eti8S31cccVQtN.jpg",
+					"url": "https://t.co/rCFHpsTR81",
+					"display_url": "pic.twitter.com/rCFHpsTR81",
+					"expanded_url": "https://twitter.com/JacobOller/status/1177625609511538689/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1177625609511538700,
+					"source_status_id_str": "1177625609511538689",
+					"source_user_id": 253396733,
+					"source_user_id_str": "253396733",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46513,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1177625050926727169/pu/vid/1280x720/H98RuqDeFcmfB2yb.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1177625050926727169/pu/vid/480x270/Dm8mvS9SHs695wDu.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1177625050926727169/pu/vid/640x360/Oy064kqRUxCWRdma.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1177625050926727169/pu/pl/ZhptYMjOPYhZI4Zl.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 253396733,
+							"id_str": "253396733",
+							"name": "Jacob Oller",
+							"screen_name": "JacobOller",
+							"location": "Chicago, IL",
+							"description": "Southerner in Chicago | Entertainment reporter @SyFyWire | TV critic @PasteMagazine | @THR @TheAVClub @them @Guardian @VanityFair @Playboy @OnePerfectShot etc",
+							"url": "https://t.co/heVvhAv1tZ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/heVvhAv1tZ",
+											"expanded_url": "http://jacoboller.com",
+											"display_url": "jacoboller.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3938,
+							"friends_count": 803,
+							"listed_count": 92,
+							"created_at": "Thu Feb 17 04:33:51 +0000 2011",
+							"favourites_count": 13431,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 19409,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "022330",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/846192837549023233/p705GqdJ_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/846192837549023233/p705GqdJ_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/253396733/1401599975",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "A8C7F7",
+							"profile_sidebar_fill_color": "C0DFEC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116858823,
+			"id_str": "116858823",
+			"name": "Hilary Agro 🍄",
+			"screen_name": "hilaryagro",
+			"location": "Vancouver, BC / Musqueam Terr.",
+			"description": "Anthropology PhD student @UBC: drug use, policy, prohibition & culture 💊 | rave mom | decolonize yourself + abolish billionaires 🌹 | @breadandpoppies",
+			"url": "https://t.co/aXMhjddMdp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aXMhjddMdp",
+							"expanded_url": "https://hilaryagro.wordpress.com",
+							"display_url": "hilaryagro.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12989,
+			"friends_count": 2055,
+			"listed_count": 103,
+			"created_at": "Tue Feb 23 20:05:57 +0000 2010",
+			"favourites_count": 129338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191777213827272705/_y90GXeU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191777213827272705/_y90GXeU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116858823/1543857635",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1121,
+		"favorite_count": 4110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just a reminder that this exists https://t.co/rCFHpsTR81"
+	},
+	{
 		"created_at": "Sat Jan 18 14:44:50 +0000 2020",
 		"id": 1218544785121796000,
 		"id_str": "1218544785121796096",
