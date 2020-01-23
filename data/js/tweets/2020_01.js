@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 11:11:52 +0000 2020",
+		"id": 1220303128890876000,
+		"id_str": "1220303128890875904",
+		"full_text": "What the hell just happened…?! https://t.co/NlMQgS8MoI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NlMQgS8MoI",
+					"expanded_url": "https://twitter.com/MiraTechno/status/1217817722148487168",
+					"display_url": "twitter.com/MiraTechno/sta…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 182,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217817722148487200,
+		"quoted_status_id_str": "1217817722148487168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NlMQgS8MoI",
+			"expanded": "https://twitter.com/MiraTechno/status/1217817722148487168",
+			"display": "twitter.com/MiraTechno/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 16 14:35:45 +0000 2020",
+			"id": 1217817722148487200,
+			"id_str": "1217817722148487168",
+			"full_text": "Saw this costumes on IG and nearly died😱🤯.\n\nYoung people, (and their parents), are so talented😊\n\n#programming #cute #tech #transformers #100daysofcode #womenintech #womenwhocode https://t.co/bF104Mp9DE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "programming",
+						"indices": [
+							97,
+							109
+						]
+					},
+					{
+						"text": "cute",
+						"indices": [
+							110,
+							115
+						]
+					},
+					{
+						"text": "tech",
+						"indices": [
+							116,
+							121
+						]
+					},
+					{
+						"text": "transformers",
+						"indices": [
+							122,
+							135
+						]
+					},
+					{
+						"text": "100daysofcode",
+						"indices": [
+							136,
+							150
+						]
+					},
+					{
+						"text": "womenintech",
+						"indices": [
+							151,
+							163
+						]
+					},
+					{
+						"text": "womenwhocode",
+						"indices": [
+							164,
+							177
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1217817115320836000,
+						"id_str": "1217817115320836097",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217817115320836097/pu/img/Egnc7kNZ9IQcw-Tc.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217817115320836097/pu/img/Egnc7kNZ9IQcw-Tc.jpg",
+						"url": "https://t.co/bF104Mp9DE",
+						"display_url": "pic.twitter.com/bF104Mp9DE",
+						"expanded_url": "https://twitter.com/MiraTechno/status/1217817722148487168/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217817115320836000,
+						"id_str": "1217817115320836097",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217817115320836097/pu/img/Egnc7kNZ9IQcw-Tc.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217817115320836097/pu/img/Egnc7kNZ9IQcw-Tc.jpg",
+						"url": "https://t.co/bF104Mp9DE",
+						"display_url": "pic.twitter.com/bF104Mp9DE",
+						"expanded_url": "https://twitter.com/MiraTechno/status/1217817722148487168/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 24467,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1217817115320836097/pu/vid/480x480/Y5Tln1TawnECduek.mp4?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1217817115320836097/pu/vid/640x640/o8DB2mzoO2IaEumH.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1217817115320836097/pu/pl/NFPyAPg1lXdJFoJN.m3u8?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1217817115320836097/pu/vid/320x320/DVVFN2b2hCvOUnV-.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 971416299816607700,
+				"id_str": "971416299816607745",
+				"name": "Mira #WomeninTech",
+				"screen_name": "MiraTechno",
+				"location": "Belgium",
+				"description": "From 🇷🇺 now living in 🇧🇪 Tech lover and Head of #Development at Cybermint Studios Web Agency. ❤️ Ambassador for #WomeninTech #LGBT Ally 🌈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3369,
+				"friends_count": 4947,
+				"listed_count": 18,
+				"created_at": "Wed Mar 07 16:04:28 +0000 2018",
+				"favourites_count": 3202,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 751,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1201926147556200448/Lettoblb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201926147556200448/Lettoblb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/971416299816607745/1574593666",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 159,
+			"favorite_count": 316,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What the hell just happened…?! https://t.co/NlMQgS8MoI"
+	},
+	{
 		"created_at": "Wed Jan 22 16:51:41 +0000 2020",
 		"id": 1220026259692048400,
 		"id_str": "1220026259692048384",
