@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 25 23:05:03 +0000 2020",
+		"id": 1221174705253732400,
+		"id_str": "1221207380182077441",
+		"full_text": "What happened @adamcurry https://t.co/WmAoyeYtgV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adamcurry",
+					"name": "Adam Curry",
+					"id": 2062801,
+					"id_str": "2062801",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221174699289346000,
+					"id_str": "1221174699289346048",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EPJ76z_WAAA9r6E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPJ76z_WAAA9r6E.jpg",
+					"url": "https://t.co/WmAoyeYtgV",
+					"display_url": "pic.twitter.com/WmAoyeYtgV",
+					"expanded_url": "https://twitter.com/DewsNewz/status/1221174705253732385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 891,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 632,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 891,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221174699289346000,
+					"id_str": "1221174699289346048",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EPJ76z_WAAA9r6E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPJ76z_WAAA9r6E.jpg",
+					"url": "https://t.co/WmAoyeYtgV",
+					"display_url": "pic.twitter.com/WmAoyeYtgV",
+					"expanded_url": "https://twitter.com/DewsNewz/status/1221174705253732385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 891,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 632,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 891,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3229908828,
+			"id_str": "3229908828",
+			"name": "Rob Dew",
+			"screen_name": "DewsNewz",
+			"location": "Austin, TX",
+			"description": "I get shit done over at https://t.co/joNFGdDiWk Injecting Sarcasm into your Sarchasm",
+			"url": "https://t.co/f5u3HWnj2t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f5u3HWnj2t",
+							"expanded_url": "http://newswars.com",
+							"display_url": "newswars.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/joNFGdDiWk",
+							"expanded_url": "http://Newswars.com",
+							"display_url": "Newswars.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 69073,
+			"friends_count": 1012,
+			"listed_count": 437,
+			"created_at": "Fri May 29 17:02:50 +0000 2015",
+			"favourites_count": 8559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/911007687311114240/0HlGrvu7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/911007687311114240/0HlGrvu7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3229908828/1434369341",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What happened @adamcurry https://t.co/WmAoyeYtgV"
+	},
+	{
 		"created_at": "Sat Jan 25 02:37:08 +0000 2020",
 		"id": 1220898365019431000,
 		"id_str": "1220898365019430912",
