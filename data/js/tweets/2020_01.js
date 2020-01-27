@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 20:30:04 +0000 2020",
+		"id": 1221840948575068200,
+		"id_str": "1221893154993065989",
+		"full_text": "I lost three close friends in the Apollo 1 fire. I seldom speak about it.\n\nOn the 50th Anniversary, January 27 2017, NASA unveiled a tribute to the crew. You can read more here: https://t.co/hO93PxQOzM\n\n📷: @NASA https://t.co/7hrBT4b4pH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASA",
+					"name": "NASA",
+					"id": 11348282,
+					"id_str": "11348282",
+					"indices": [
+						206,
+						211
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hO93PxQOzM",
+					"expanded_url": "https://n.pr/2QYn5Vm",
+					"display_url": "n.pr/2QYn5Vm",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1221840946901459000,
+					"id_str": "1221840946901458945",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EPTZ3hwWoAEWRIy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPTZ3hwWoAEWRIy.jpg",
+					"url": "https://t.co/7hrBT4b4pH",
+					"display_url": "pic.twitter.com/7hrBT4b4pH",
+					"expanded_url": "https://twitter.com/AstroMCollins/status/1221840948575068164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1041,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1041,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 307,
+									"y": 75,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 470,
+									"y": 79,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 135,
+									"y": 94,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 471,
+									"y": 115,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 721,
+									"y": 121,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 208,
+									"y": 145,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 471,
+									"y": 115,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 721,
+									"y": 121,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 208,
+									"y": 145,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 471,
+									"y": 115,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 721,
+									"y": 121,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 208,
+									"y": 145,
+									"h": 83,
+									"w": 83
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221840946901459000,
+					"id_str": "1221840946901458945",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EPTZ3hwWoAEWRIy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPTZ3hwWoAEWRIy.jpg",
+					"url": "https://t.co/7hrBT4b4pH",
+					"display_url": "pic.twitter.com/7hrBT4b4pH",
+					"expanded_url": "https://twitter.com/AstroMCollins/status/1221840948575068164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1041,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1041,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 307,
+									"y": 75,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 470,
+									"y": 79,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 135,
+									"y": 94,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 471,
+									"y": 115,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 721,
+									"y": 121,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 208,
+									"y": 145,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 471,
+									"y": 115,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 721,
+									"y": 121,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 208,
+									"y": 145,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 471,
+									"y": 115,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 721,
+									"y": 121,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 208,
+									"y": 145,
+									"h": 83,
+									"w": 83
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1122878095663321100,
+			"id_str": "1122878095663321088",
+			"name": "Michael Collins",
+			"screen_name": "AstroMCollins",
+			"location": "",
+			"description": "Astronaut, #Apollo11 & #Gemini10 pilot, Author, Explorer, Artist. Flying to the Moon: An Astronaut's Story out now! #WorldInMyWindow",
+			"url": "https://t.co/M7f7w3Ufky",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M7f7w3Ufky",
+							"expanded_url": "https://amzn.to/2VdFx04",
+							"display_url": "amzn.to/2VdFx04",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66927,
+			"friends_count": 184,
+			"listed_count": 443,
+			"created_at": "Mon Apr 29 14:59:34 +0000 2019",
+			"favourites_count": 3981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124115110593622016/SZ8IhTI-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124115110593622016/SZ8IhTI-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1122878095663321088/1556832989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 935,
+		"favorite_count": 4362,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I lost three close friends in the Apollo 1 fire. I seldom speak about it.\n\nOn the 50th Anniversary, January 27 2017, NASA unveiled a tribute to the crew. You can read more here: https://t.co/hO93PxQOzM\n\n📷: @NASA https://t.co/7hrBT4b4pH"
+	},
+	{
 		"created_at": "Sat Jan 25 23:05:03 +0000 2020",
 		"id": 1221174705253732400,
 		"id_str": "1221207380182077441",
