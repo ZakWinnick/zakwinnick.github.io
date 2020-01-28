@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 00:58:14 +0000 2020",
+		"id": 1221960642057457700,
+		"id_str": "1221960642057457667",
+		"full_text": "What?! Really?!\n\n…said no one.\n\n10 years too late, I say. https://t.co/ivUuO5E0vd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ivUuO5E0vd",
+					"expanded_url": "https://twitter.com/VitalVegas/status/1221898220302823424",
+					"display_url": "twitter.com/VitalVegas/sta…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 182,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221898220302823400,
+		"quoted_status_id_str": "1221898220302823424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ivUuO5E0vd",
+			"expanded": "https://twitter.com/VitalVegas/status/1221898220302823424",
+			"display": "twitter.com/VitalVegas/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 27 20:50:12 +0000 2020",
+			"id": 1221898220302823400,
+			"id_str": "1221898220302823424",
+			"full_text": "OMG, SkyVue site to be sold in bankruptcy auction. Fate of unicorns and popular Schadenfreude Pavilion, unknown. (h/t @jfb2vegas) Related: https://t.co/cAA4hSKRhI https://t.co/DgieqWw2Af",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				162
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jfb2vegas",
+						"name": "Jfb2vegas",
+						"id": 1159901863036121000,
+						"id_str": "1159901863036121088",
+						"indices": [
+							118,
+							128
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cAA4hSKRhI",
+						"expanded_url": "https://vitalvegas.com/skyvue-removes-scaffolding-make-way-worlds-first-unicorn-sanctuary-petting-zoo",
+						"display_url": "vitalvegas.com/skyvue-removes…",
+						"indices": [
+							139,
+							162
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1221898211570249700,
+						"id_str": "1221898211570249729",
+						"indices": [
+							163,
+							186
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUN8xRUcAExbj5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUN8xRUcAExbj5.jpg",
+						"url": "https://t.co/DgieqWw2Af",
+						"display_url": "pic.twitter.com/DgieqWw2Af",
+						"expanded_url": "https://twitter.com/VitalVegas/status/1221898220302823424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 813,
+										"y": 515,
+										"h": 83,
+										"w": 83
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1388,
+										"y": 880,
+										"h": 142,
+										"w": 142
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 460,
+										"y": 292,
+										"h": 47,
+										"w": 47
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1388,
+										"y": 880,
+										"h": 142,
+										"w": 142
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1221898211570249700,
+						"id_str": "1221898211570249729",
+						"indices": [
+							163,
+							186
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUN8xRUcAExbj5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUN8xRUcAExbj5.jpg",
+						"url": "https://t.co/DgieqWw2Af",
+						"display_url": "pic.twitter.com/DgieqWw2Af",
+						"expanded_url": "https://twitter.com/VitalVegas/status/1221898220302823424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 813,
+										"y": 515,
+										"h": 83,
+										"w": 83
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1388,
+										"y": 880,
+										"h": 142,
+										"w": 142
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 460,
+										"y": 292,
+										"h": 47,
+										"w": 47
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1388,
+										"y": 880,
+										"h": 142,
+										"w": 142
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1221898211566030800,
+						"id_str": "1221898211566030848",
+						"indices": [
+							163,
+							186
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUN8xQUEAA57Tu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUN8xQUEAA57Tu.jpg",
+						"url": "https://t.co/DgieqWw2Af",
+						"display_url": "pic.twitter.com/DgieqWw2Af",
+						"expanded_url": "https://twitter.com/VitalVegas/status/1221898220302823424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 197,
+										"y": 606,
+										"h": 75,
+										"w": 75
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 197,
+										"y": 606,
+										"h": 75,
+										"w": 75
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 197,
+										"y": 606,
+										"h": 75,
+										"w": 75
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 130,
+										"y": 402,
+										"h": 49,
+										"w": 49
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 514487309,
+				"id_str": "514487309",
+				"name": "Vital Vegas",
+				"screen_name": "VitalVegas",
+				"location": "Las Vegas, NV",
+				"description": "https://t.co/iNB8aPQlsS is your essential source for Las Vegas news, rumors, tips and WTF. #LasVegas",
+				"url": "https://t.co/qBgUfzLqfn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qBgUfzLqfn",
+								"expanded_url": "http://www.vitalvegas.com",
+								"display_url": "vitalvegas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iNB8aPQlsS",
+								"expanded_url": "http://VitalVegas.com",
+								"display_url": "VitalVegas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 48667,
+				"friends_count": 13235,
+				"listed_count": 422,
+				"created_at": "Sun Mar 04 16:04:28 +0000 2012",
+				"favourites_count": 291750,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62294,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/514487309/1510021234",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "893F0D",
+				"profile_text_color": "050404",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What?! Really?!\n\n…said no one.\n\n10 years too late, I say. https://t.co/ivUuO5E0vd"
+	},
+	{
 		"created_at": "Mon Jan 27 20:30:04 +0000 2020",
 		"id": 1221840948575068200,
 		"id_str": "1221893154993065989",
