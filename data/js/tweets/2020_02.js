@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 22:06:17 +0000 2020",
+		"id": 1225178790567063600,
+		"id_str": "1225178858485358593",
+		"full_text": "Fear of what? If they voted to remove him from office, he wouldn’t be president anymore. What are they afraid of? Him buying their company and bankrupting it? https://t.co/xxS4wf3czP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xxS4wf3czP",
+					"expanded_url": "https://twitter.com/susiemadrak/status/1225174861120770048",
+					"display_url": "twitter.com/susiemadrak/st…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 483,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1225174861120770000,
+		"quoted_status_id_str": "1225174861120770048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xxS4wf3czP",
+			"expanded": "https://twitter.com/susiemadrak/status/1225174861120770048",
+			"display": "twitter.com/susiemadrak/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 05 21:50:24 +0000 2020",
+			"id": 1225174861120770000,
+			"id_str": "1225174861120770048",
+			"full_text": "In Private, Republicans Admit They Acquitted Trump Out of Fear https://t.co/7uZy1weqTw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7uZy1weqTw",
+						"expanded_url": "https://nyti.ms/2RZa66z",
+						"display_url": "nyti.ms/2RZa66z",
+						"indices": [
+							63,
+							86
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14209883,
+				"id_str": "14209883",
+				"name": "Suburban Guerrilla Ω",
+				"screen_name": "SusieMadrak",
+				"location": "Philadelphia",
+				"description": "OG blogger, Crooks & Liars, Suburban Guerrilla. Donations welcome: https://t.co/0HrdRDfxys",
+				"url": "http://t.co/xab4itQSFt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xab4itQSFt",
+								"expanded_url": "http://susiemadrak.com",
+								"display_url": "susiemadrak.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0HrdRDfxys",
+								"expanded_url": "https://susiemadrak.com/contact-me/",
+								"display_url": "susiemadrak.com/contact-me/",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5284,
+				"friends_count": 5574,
+				"listed_count": 217,
+				"created_at": "Mon Mar 24 19:14:02 +0000 2008",
+				"favourites_count": 44904,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 179703,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118675219747692546/cgZyM1Nv_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118675219747692546/cgZyM1Nv_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14209883/1512279786",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fear of what? If they voted to remove him from office, he wouldn’t be president anymore. What are they afraid of? Him buying their company and bankrupting it? https://t.co/xxS4wf3czP"
+	},
+	{
 		"created_at": "Wed Feb 05 02:54:46 +0000 2020",
 		"id": 1224889008494403600,
 		"id_str": "1224889069102161926",
