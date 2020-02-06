@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 06 15:49:43 +0000 2020",
+		"id": 1225048618069037000,
+		"id_str": "1225446482578464769",
+		"full_text": "https://t.co/OWx1WR6dsQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225048611181953000,
+					"id_str": "1225048611181953024",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EQA_OKYWAAAMil4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQA_OKYWAAAMil4.jpg",
+					"url": "https://t.co/OWx1WR6dsQ",
+					"display_url": "pic.twitter.com/OWx1WR6dsQ",
+					"expanded_url": "https://twitter.com/KevinMKruse/status/1225048618069037057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 597,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1098,
+							"h": 1250,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225048611181953000,
+					"id_str": "1225048611181953024",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EQA_OKYWAAAMil4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQA_OKYWAAAMil4.jpg",
+					"url": "https://t.co/OWx1WR6dsQ",
+					"display_url": "pic.twitter.com/OWx1WR6dsQ",
+					"expanded_url": "https://twitter.com/KevinMKruse/status/1225048618069037057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 597,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1098,
+							"h": 1250,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225048611186188300,
+					"id_str": "1225048611186188288",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EQA_OKZWoAAmz6M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQA_OKZWoAAmz6M.jpg",
+					"url": "https://t.co/OWx1WR6dsQ",
+					"display_url": "pic.twitter.com/OWx1WR6dsQ",
+					"expanded_url": "https://twitter.com/KevinMKruse/status/1225048618069037057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 654,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 1058,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060489838,
+			"id_str": "3060489838",
+			"name": "Kevin M. Kruse",
+			"screen_name": "KevinMKruse",
+			"location": "Princeton, NJ",
+			"description": "Historian. Author/editor of White Flight; The New Suburban History; Spaces of the Modern City; Fog of War; One Nation Under God; Fault Lines.",
+			"url": "http://t.co/OJWVBf00D8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/OJWVBf00D8",
+							"expanded_url": "http://kevinmkruse.com",
+							"display_url": "kevinmkruse.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378712,
+			"friends_count": 1881,
+			"listed_count": 3717,
+			"created_at": "Wed Feb 25 01:25:19 +0000 2015",
+			"favourites_count": 146288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189943169292668931/UybAdUum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189943169292668931/UybAdUum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060489838/1540696689",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 527,
+		"favorite_count": 4600,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/OWx1WR6dsQ"
+	},
+	{
 		"created_at": "Thu Feb 06 13:53:54 +0000 2020",
 		"id": 1225173552577552400,
 		"id_str": "1225417336162848772",
