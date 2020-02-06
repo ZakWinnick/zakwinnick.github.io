@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 06 12:17:08 +0000 2020",
+		"id": 1225096786005676000,
+		"id_str": "1225392982611972097",
+		"full_text": "imagine getting so horny that you call an attorney https://t.co/qE8wdL8wE6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qE8wdL8wE6",
+					"expanded_url": "https://twitter.com/RawStory/status/1225069881671942145",
+					"display_url": "twitter.com/RawStory/statu…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18623187,
+			"id_str": "18623187",
+			"name": "post malört",
+			"screen_name": "JoshhTerry",
+			"location": "Chicago, IL | ✶✶✶✶",
+			"description": "i write about music for @VICE. bylines: @VinylMePlease, @Billboard elsewhere. Don't DM me your music, dummy. Email me instead: Joshhowardterry@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11521,
+			"friends_count": 1764,
+			"listed_count": 178,
+			"created_at": "Mon Jan 05 04:15:11 +0000 2009",
+			"favourites_count": 77173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CDCEBE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212098397064314880/Gvu56-BQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212098397064314880/Gvu56-BQ_normal.jpg",
+			"profile_link_color": "6E7B88",
+			"profile_sidebar_border_color": "FC0D1E",
+			"profile_sidebar_fill_color": "0F0402",
+			"profile_text_color": "9EA2A1",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1225069881671942100,
+		"quoted_status_id_str": "1225069881671942145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qE8wdL8wE6",
+			"expanded": "https://twitter.com/RawStory/status/1225069881671942145",
+			"display": "twitter.com/RawStory/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 05 14:53:15 +0000 2020",
+			"id": 1225069881671942100,
+			"id_str": "1225069881671942145",
+			"full_text": "Christian activist plans to sue NFL because Shakira and J-Lo performances endangered his eternal soul https://t.co/tZvzmrvDso",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tZvzmrvDso",
+						"expanded_url": "https://www.rawstory.com/2020/02/christian-activist-plans-to-sue-nfl-because-shakira-and-j-lo-performances-endangered-his-eternal-soul/",
+						"display_url": "rawstory.com/2020/02/christ…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16041234,
+				"id_str": "16041234",
+				"name": "Raw Story",
+				"screen_name": "RawStory",
+				"location": "Washington, DC",
+				"description": "The official Twitter of http://t.co/HJOFeYodXw",
+				"url": "http://t.co/7WT15Zb8IE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7WT15Zb8IE",
+								"expanded_url": "http://www.rawstory.com",
+								"display_url": "rawstory.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/HJOFeYodXw",
+								"expanded_url": "http://RawStory.com",
+								"display_url": "RawStory.com",
+								"indices": [
+									24,
+									46
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 206812,
+				"friends_count": 3940,
+				"listed_count": 5504,
+				"created_at": "Fri Aug 29 12:29:21 +0000 2008",
+				"favourites_count": 11018,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 229129,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879061537423544320/99vcNM5N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879061537423544320/99vcNM5N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16041234/1497231241",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "7D0B0B",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1071,
+			"favorite_count": 4408,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 20235,
+		"favorite_count": 112431,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "imagine getting so horny that you call an attorney https://t.co/qE8wdL8wE6"
+	},
+	{
 		"created_at": "Wed Feb 05 22:06:17 +0000 2020",
 		"id": 1225178790567063600,
 		"id_str": "1225178858485358593",
