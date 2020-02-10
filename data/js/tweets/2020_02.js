@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 14:30:20 +0000 2020",
+		"id": 1226872497041178600,
+		"id_str": "1226876056130465793",
+		"full_text": "@RespectfulMemes https://t.co/D1iG96GGfT",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RespectfulMemes",
+					"name": "Respectful Memes",
+					"id": 727338733423464400,
+					"id_str": "727338733423464448",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226872491911663600,
+					"id_str": "1226872491911663617",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EQa6B_kX0AE4bc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQa6B_kX0AE4bc-.jpg",
+					"url": "https://t.co/D1iG96GGfT",
+					"display_url": "pic.twitter.com/D1iG96GGfT",
+					"expanded_url": "https://twitter.com/DeanCoxj/status/1226872497041178624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226872491911663600,
+					"id_str": "1226872491911663617",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EQa6B_kX0AE4bc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQa6B_kX0AE4bc-.jpg",
+					"url": "https://t.co/D1iG96GGfT",
+					"display_url": "pic.twitter.com/D1iG96GGfT",
+					"expanded_url": "https://twitter.com/DeanCoxj/status/1226872497041178624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1226872407215964200,
+		"in_reply_to_status_id_str": "1226872407215964160",
+		"in_reply_to_user_id": 727338733423464400,
+		"in_reply_to_user_id_str": "727338733423464448",
+		"in_reply_to_screen_name": "RespectfulMemes",
+		"user": {
+			"id": 1099296719572029400,
+			"id_str": "1099296719572029440",
+			"name": "Dean",
+			"screen_name": "DeanCoxj",
+			"location": "United Kingdom",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 324,
+			"friends_count": 268,
+			"listed_count": 0,
+			"created_at": "Sat Feb 23 13:15:36 +0000 2019",
+			"favourites_count": 2650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211080488569462784/9W-4mZtg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211080488569462784/9W-4mZtg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1099296719572029440/1569967549",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@RespectfulMemes https://t.co/D1iG96GGfT"
+	},
+	{
 		"created_at": "Mon Feb 10 01:51:40 +0000 2020",
 		"id": 1226682529379475500,
 		"id_str": "1226685130766520320",
