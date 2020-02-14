@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 16:08:14 +0000 2020",
+		"id": 1228322732959465500,
+		"id_str": "1228350242560643074",
+		"full_text": "I lived in Las Vegas for 10 years, and had been to Nye County hundreds of times (not for the brothels, you pervs), and didn’t even know Manhattan, NV existed. https://t.co/Uw80pBx1ZQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uw80pBx1ZQ",
+					"expanded_url": "https://twitter.com/alextheneum/status/1228161671014674434",
+					"display_url": "twitter.com/alextheneum/st…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 484,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1228161671014674400,
+		"quoted_status_id_str": "1228161671014674434",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Uw80pBx1ZQ",
+			"expanded": "https://twitter.com/alextheneum/status/1228161671014674434",
+			"display": "twitter.com/alextheneum/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 14 03:38:55 +0000 2020",
+			"id": 1228161671014674400,
+			"id_str": "1228161671014674434",
+			"full_text": "Hello Nye County, Nevada! \n\nToday we found a Precinct Captain in Manhattan, NV (pop 124). She told me a campaign had never come to her town in the 40 years she’s lived there. \n\nThis is why #TeamPete is going to win. https://t.co/42GRutXhHA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				215
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TeamPete",
+						"indices": [
+							189,
+							198
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1228161660231139300,
+						"id_str": "1228161660231139328",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/EQtOhdzUwAAtuZk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQtOhdzUwAAtuZk.jpg",
+						"url": "https://t.co/42GRutXhHA",
+						"display_url": "pic.twitter.com/42GRutXhHA",
+						"expanded_url": "https://twitter.com/alextheneum/status/1228161671014674434/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1228161660231139300,
+						"id_str": "1228161660231139328",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/EQtOhdzUwAAtuZk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQtOhdzUwAAtuZk.jpg",
+						"url": "https://t.co/42GRutXhHA",
+						"display_url": "pic.twitter.com/42GRutXhHA",
+						"expanded_url": "https://twitter.com/alextheneum/status/1228161671014674434/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 911593641239597000,
+				"id_str": "911593641239597056",
+				"name": "Alex Neumann",
+				"screen_name": "alextheneum",
+				"location": "Iowa City, IA",
+				"description": "Organizing for @PeteButtigieg. Let’s #wintheera and have some fun doing it. proud member of the Two-Dad Tribe™️",
+				"url": "https://t.co/vTu9iFx2LW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vTu9iFx2LW",
+								"expanded_url": "https://peteforamerica.com",
+								"display_url": "peteforamerica.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 714,
+				"friends_count": 345,
+				"listed_count": 17,
+				"created_at": "Sat Sep 23 14:10:35 +0000 2017",
+				"favourites_count": 3061,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 432,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1176928895162912768/ii4AN9l9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176928895162912768/ii4AN9l9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/911593641239597056/1572921189",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 127,
+			"favorite_count": 634,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I lived in Las Vegas for 10 years, and had been to Nye County hundreds of times (not for the brothels, you pervs), and didn’t even know Manhattan, NV existed. https://t.co/Uw80pBx1ZQ"
+	},
+	{
 		"created_at": "Mon Feb 10 14:30:20 +0000 2020",
 		"id": 1226872497041178600,
 		"id_str": "1226876056130465793",
