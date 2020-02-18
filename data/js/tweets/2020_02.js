@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 18 11:17:30 +0000 2020",
+		"id": 1229612492550217700,
+		"id_str": "1229726628466561024",
+		"full_text": "Well today I learned that a suction cup shower perch for my parrot is way more money than a suction cup dildo. So guess what my bird gonna get. https://t.co/RvIauiN7i3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229612488662114300,
+					"id_str": "1229612488662114304",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ERB2Cy4W4AASL77.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERB2Cy4W4AASL77.png",
+					"url": "https://t.co/RvIauiN7i3",
+					"display_url": "pic.twitter.com/RvIauiN7i3",
+					"expanded_url": "https://twitter.com/jeremyjudkins/status/1229612492550217729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 535,
+							"h": 535,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 535,
+							"h": 535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229612488662114300,
+					"id_str": "1229612488662114304",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ERB2Cy4W4AASL77.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERB2Cy4W4AASL77.png",
+					"url": "https://t.co/RvIauiN7i3",
+					"display_url": "pic.twitter.com/RvIauiN7i3",
+					"expanded_url": "https://twitter.com/jeremyjudkins/status/1229612492550217729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 535,
+							"h": 535,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 535,
+							"h": 535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 84890791,
+			"id_str": "84890791",
+			"name": "Jeremy Judkins",
+			"screen_name": "jeremyjudkins",
+			"location": "Southwest Florida",
+			"description": "Tech Youtuber turned Tesla Youtuber. Florida Man. Tesla Model 3 Owner. Subscribe to my Youtube channel pleaaaassse: https://t.co/axudjXz7tn",
+			"url": "https://t.co/axudjXz7tn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/axudjXz7tn",
+							"expanded_url": "http://youtube.com/jeremyjudkins",
+							"display_url": "youtube.com/jeremyjudkins",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/axudjXz7tn",
+							"expanded_url": "http://youtube.com/jeremyjudkins",
+							"display_url": "youtube.com/jeremyjudkins",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4412,
+			"friends_count": 1967,
+			"listed_count": 33,
+			"created_at": "Sat Oct 24 16:55:02 +0000 2009",
+			"favourites_count": 38190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111762219853930496/m8VW_mqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111762219853930496/m8VW_mqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/84890791/1577187759",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well today I learned that a suction cup shower perch for my parrot is way more money than a suction cup dildo. So guess what my bird gonna get. https://t.co/RvIauiN7i3"
+	},
+	{
 		"created_at": "Tue Feb 18 02:01:56 +0000 2020",
 		"id": 1229586815511859200,
 		"id_str": "1229586815511859201",
