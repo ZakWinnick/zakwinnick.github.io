@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 18 19:56:09 +0000 2020",
+		"id": 1229857153399259100,
+		"id_str": "1229857153399259137",
+		"full_text": "No relation to Gary Winnick…unless he wants to give me money. Then, hello Uncle Gary! https://t.co/WHIwshKnXm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WHIwshKnXm",
+					"expanded_url": "https://twitter.com/deborah_solomon/status/1229853085381644289",
+					"display_url": "twitter.com/deborah_solomo…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 188,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1229853085381644300,
+		"quoted_status_id_str": "1229853085381644289",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WHIwshKnXm",
+			"expanded": "https://twitter.com/deborah_solomon/status/1229853085381644289",
+			"display": "twitter.com/deborah_solomo…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 18 19:39:59 +0000 2020",
+			"id": 1229853085381644300,
+			"id_str": "1229853085381644289",
+			"full_text": "List of who pushed for the Milken pardon includes: Adelsons, Tom Barrack, Maria Bartiromo, Rudy Guiliani, Robert Kraft, Rupert Murdoch, Sean Parker, John Paulson, Nelson Peltz, Gary Winnick, Richard LeFrak https://t.co/HOD2f2V9Ll",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HOD2f2V9Ll",
+						"expanded_url": "https://twitter.com/NYTLiz/status/1229851772728094721",
+						"display_url": "twitter.com/NYTLiz/status/…",
+						"indices": [
+							206,
+							229
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70725642,
+				"id_str": "70725642",
+				"name": "Deborah B. Solomon",
+				"screen_name": "deborah_solomon",
+				"location": "Washington, DC",
+				"description": "Economics Editor @ New York Times. WSJ, USA Today, SF Chron, B'ham Post Herald alum. Mom of two amazing boys. Amateur sailor. Zombie fan. Definitely Slytherin.",
+				"url": "https://t.co/UmqCI5AhUx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UmqCI5AhUx",
+								"expanded_url": "http://www.nytimes.com",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6695,
+				"friends_count": 1363,
+				"listed_count": 368,
+				"created_at": "Tue Sep 01 16:50:35 +0000 2009",
+				"favourites_count": 1070,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9498,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930628838924738561/IuZKyHch_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930628838924738561/IuZKyHch_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70725642/1510774272",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1229851772728094700,
+			"quoted_status_id_str": "1229851772728094721",
+			"quoted_status_permalink": {
+				"url": "https://t.co/HOD2f2V9Ll",
+				"expanded": "https://twitter.com/NYTLiz/status/1229851772728094721",
+				"display": "twitter.com/NYTLiz/status/…"
+			},
+			"retweet_count": 16,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No relation to Gary Winnick…unless he wants to give me money. Then, hello Uncle Gary! https://t.co/WHIwshKnXm"
+	},
+	{
 		"created_at": "Tue Feb 18 11:17:30 +0000 2020",
 		"id": 1229612492550217700,
 		"id_str": "1229726628466561024",
