@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 14:26:44 +0000 2020",
+		"id": 1230136638782759000,
+		"id_str": "1230136638782758912",
+		"full_text": "ET.\n\nI’m serious. I still can’t watch it to this day. https://t.co/9kYPRt1mtP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9kYPRt1mtP",
+					"expanded_url": "https://twitter.com/loudandfearless/status/1229902686876684288",
+					"display_url": "twitter.com/loudandfearles…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | Action Cam Evangelist",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 188,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1229902686876684300,
+		"quoted_status_id_str": "1229902686876684288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9kYPRt1mtP",
+			"expanded": "https://twitter.com/loudandfearless/status/1229902686876684288",
+			"display": "twitter.com/loudandfearles…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 18 22:57:05 +0000 2020",
+			"id": 1229902686876684300,
+			"id_str": "1229902686876684288",
+			"full_text": "Oh this is a good one. \n\nI'll start: Jumanji https://t.co/q9aVSi1Grq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				44
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1229902684683034600,
+						"id_str": "1229902684683034624",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/ERF9-bTU4AAflvO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERF9-bTU4AAflvO.jpg",
+						"url": "https://t.co/q9aVSi1Grq",
+						"display_url": "pic.twitter.com/q9aVSi1Grq",
+						"expanded_url": "https://twitter.com/loudandfearless/status/1229902686876684288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 574,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 633,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 633,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1229902684683034600,
+						"id_str": "1229902684683034624",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/ERF9-bTU4AAflvO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERF9-bTU4AAflvO.jpg",
+						"url": "https://t.co/q9aVSi1Grq",
+						"display_url": "pic.twitter.com/q9aVSi1Grq",
+						"expanded_url": "https://twitter.com/loudandfearless/status/1229902686876684288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 574,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 633,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 633,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 64778614,
+				"id_str": "64778614",
+				"name": "Ashley Bower",
+				"screen_name": "loudandfearless",
+				"location": "Los Angeles, CA",
+				"description": "Writer human. Avid adventurer. A frequent wearer of topknots and glitter. Known by some as the real-life Judy Hopps.",
+				"url": "https://t.co/tlnXOEnHOQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tlnXOEnHOQ",
+								"expanded_url": "http://www.imdb.com/name/nm4782203/",
+								"display_url": "imdb.com/name/nm4782203/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2311,
+				"friends_count": 948,
+				"listed_count": 33,
+				"created_at": "Tue Aug 11 17:46:14 +0000 2009",
+				"favourites_count": 13046,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11925,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1215750012702842880/vtaHhNcy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215750012702842880/vtaHhNcy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/64778614/1581880468",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3610,
+			"favorite_count": 35441,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ET.\n\nI’m serious. I still can’t watch it to this day. https://t.co/9kYPRt1mtP"
+	},
+	{
 		"created_at": "Tue Feb 18 19:56:09 +0000 2020",
 		"id": 1229857153399259100,
 		"id_str": "1229857153399259137",
