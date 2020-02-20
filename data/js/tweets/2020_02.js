@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 13:48:26 +0000 2020",
+		"id": 1230219858316382200,
+		"id_str": "1230489388209098755",
+		"full_text": "The 777X just tookoff from Boeing Field, and we still love watching those wingtips fold into place! #Avgeeks #Boeing777xlovers #boeing777x https://t.co/a5jM0FeO7p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Avgeeks",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "Boeing777xlovers",
+					"indices": [
+						109,
+						126
+					]
+				},
+				{
+					"text": "boeing777x",
+					"indices": [
+						127,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230219763210576000,
+					"id_str": "1230219763210575872",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230219763210575872/pu/img/JkY6D0hkd_1GhpgG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230219763210575872/pu/img/JkY6D0hkd_1GhpgG.jpg",
+					"url": "https://t.co/a5jM0FeO7p",
+					"display_url": "pic.twitter.com/a5jM0FeO7p",
+					"expanded_url": "https://twitter.com/museumofflight/status/1230219858316382208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230219763210576000,
+					"id_str": "1230219763210575872",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230219763210575872/pu/img/JkY6D0hkd_1GhpgG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230219763210575872/pu/img/JkY6D0hkd_1GhpgG.jpg",
+					"url": "https://t.co/a5jM0FeO7p",
+					"display_url": "pic.twitter.com/a5jM0FeO7p",
+					"expanded_url": "https://twitter.com/museumofflight/status/1230219858316382208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38238,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230219763210575872/pu/vid/640x360/mxKPdwGM4S8HWE_C.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230219763210575872/pu/vid/1280x720/jvP6gDJMM3j0XLRw.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230219763210575872/pu/vid/480x270/D6dptlqL4e7T2eAV.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1230219763210575872/pu/pl/mYNHMGGUviRwyMxF.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48150931,
+			"id_str": "48150931",
+			"name": "The Museum of Flight",
+			"screen_name": "museumofflight",
+			"location": "Seattle, Washington",
+			"description": "One of the largest non-profit air and space museums in the world. @SIAffiliates museum and @AAMers accredited.",
+			"url": "http://t.co/fUljkMiev6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fUljkMiev6",
+							"expanded_url": "http://www.museumofflight.org",
+							"display_url": "museumofflight.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20288,
+			"friends_count": 2462,
+			"listed_count": 735,
+			"created_at": "Wed Jun 17 22:54:49 +0000 2009",
+			"favourites_count": 5680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/832632585519984642/OLwrGzlL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/832632585519984642/OLwrGzlL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48150931/1574296770",
+			"profile_link_color": "3FB2E3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 617,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 777X just tookoff from Boeing Field, and we still love watching those wingtips fold into place! #Avgeeks #Boeing777xlovers #boeing777x https://t.co/a5jM0FeO7p"
+	},
+	{
 		"created_at": "Wed Feb 19 14:26:44 +0000 2020",
 		"id": 1230136638782759000,
 		"id_str": "1230136638782758912",
