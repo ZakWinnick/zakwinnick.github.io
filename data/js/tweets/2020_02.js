@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 22:51:36 +0000 2020",
+		"id": 1231337615712030700,
+		"id_str": "1231350855535923201",
+		"full_text": "Then Bolton needs to leak the whole thing… https://t.co/G0d2fngVSk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G0d2fngVSk",
+					"expanded_url": "https://twitter.com/CarolLeonnig/status/1231020992065163265",
+					"display_url": "twitter.com/CarolLeonnig/s…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 486,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1231020992065163300,
+		"quoted_status_id_str": "1231020992065163265",
+		"quoted_status_permalink": {
+			"url": "https://t.co/G0d2fngVSk",
+			"expanded": "https://twitter.com/CarolLeonnig/status/1231020992065163265",
+			"display": "twitter.com/CarolLeonnig/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 22 01:00:50 +0000 2020",
+			"id": 1231020992065163300,
+			"id_str": "1231020992065163265",
+			"full_text": "NEW &gt;&gt;&gt;&gt;  Trump has  pledged to block John Bolton from ever publishing his book, claiming everything he uttered to the departed national security aid is classified.\nMy latest w @jdawsey1 @thamburger\n https://t.co/dTiePa1X04",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jdawsey1",
+						"name": "Josh Dawsey",
+						"id": 38936142,
+						"id_str": "38936142",
+						"indices": [
+							189,
+							198
+						]
+					},
+					{
+						"screen_name": "thamburger",
+						"name": "Tom Hamburger",
+						"id": 17270262,
+						"id_str": "17270262",
+						"indices": [
+							199,
+							210
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dTiePa1X04",
+						"expanded_url": "https://www.washingtonpost.com/politics/trump-wants-to-block-boltons-book-claiming-all-conversations-are-classified/2020/02/21/6a4f4b34-54d1-11ea-9e47-59804be1dcfb_story.html#click=https://t.co/t10OeA7Bf4",
+						"display_url": "washingtonpost.com/politics/trump…",
+						"indices": [
+							212,
+							235
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108710418,
+				"id_str": "108710418",
+				"name": "Carol Leonnig",
+				"screen_name": "CarolLeonnig",
+				"location": "Washington, DC",
+				"description": "Washington Post reporter, MSNBC contributor, finder of fact. If you have a story tip, email me at  carol.leonnig@washpost.com",
+				"url": "http://t.co/UXLxiRwRVJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UXLxiRwRVJ",
+								"expanded_url": "http://www.washingtonpost.com",
+								"display_url": "washingtonpost.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 106589,
+				"friends_count": 1041,
+				"listed_count": 1498,
+				"created_at": "Tue Jan 26 20:37:39 +0000 2010",
+				"favourites_count": 3280,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8294,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/509178745497088000/kSVfPggB_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/509178745497088000/kSVfPggB_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108710418/1578498832",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2142,
+			"favorite_count": 3691,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Then Bolton needs to leak the whole thing… https://t.co/G0d2fngVSk"
+	},
+	{
 		"created_at": "Sat Feb 22 18:56:13 +0000 2020",
 		"id": 1231291623218307000,
 		"id_str": "1231291623218307072",
