@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 20:48:43 +0000 2020",
+		"id": 1234923352810119200,
+		"id_str": "1234943813371777026",
+		"full_text": "Yeah, no, sorry. Not gonna do \"My Corona.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22461427,
+			"id_str": "22461427",
+			"name": "Al Yankovic",
+			"screen_name": "alyankovic",
+			"location": "Los Angeles",
+			"description": "You know... the weird one.",
+			"url": "https://t.co/AQRv276mUy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AQRv276mUy",
+							"expanded_url": "http://weirdal.com",
+							"display_url": "weirdal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5132270,
+			"friends_count": 609,
+			"listed_count": 30233,
+			"created_at": "Mon Mar 02 07:00:29 +0000 2009",
+			"favourites_count": 4275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22461427/1398828117",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4298,
+		"favorite_count": 36634,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Yeah, no, sorry. Not gonna do \"My Corona.\""
+	},
+	{
 		"created_at": "Tue Mar 03 02:08:10 +0000 2020",
 		"id": 1234661818070495200,
 		"id_str": "1234661818070495233",
