@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 12:54:11 +0000 2020",
+		"id": 1236669516823683000,
+		"id_str": "1236998717921800194",
+		"full_text": "The most incredible window views! I was inside @etihad 777 to LAX and we caught up to this @emirates A380 to SFO 1,000 ft above us over the Pole. Both pilot talked on radio and “co-ordinated” this shoot! #emirates #A380 #air2air https://t.co/MXJEhaaAnc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "emirates",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"text": "A380",
+					"indices": [
+						214,
+						219
+					]
+				},
+				{
+					"text": "air2air",
+					"indices": [
+						220,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "etihad",
+					"name": "Etihad",
+					"id": 45621423,
+					"id_str": "45621423",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"screen_name": "emirates",
+					"name": "Emirates Airline",
+					"id": 821045162,
+					"id_str": "821045162",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236669284299882500,
+					"id_str": "1236669284299882496",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236669284299882496/pu/img/YZ28xOKHJUNdWKN-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236669284299882496/pu/img/YZ28xOKHJUNdWKN-.jpg",
+					"url": "https://t.co/MXJEhaaAnc",
+					"display_url": "pic.twitter.com/MXJEhaaAnc",
+					"expanded_url": "https://twitter.com/SamChuiPhotos/status/1236669516823683073/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236669284299882500,
+					"id_str": "1236669284299882496",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236669284299882496/pu/img/YZ28xOKHJUNdWKN-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236669284299882496/pu/img/YZ28xOKHJUNdWKN-.jpg",
+					"url": "https://t.co/MXJEhaaAnc",
+					"display_url": "pic.twitter.com/MXJEhaaAnc",
+					"expanded_url": "https://twitter.com/SamChuiPhotos/status/1236669516823683073/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49636,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236669284299882496/pu/vid/480x270/42SyDfktn-ovFE7S.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1236669284299882496/pu/pl/mrGVZNAoDCv9V8MD.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236669284299882496/pu/vid/1280x720/bC8gLMD2tlEyKBHr.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236669284299882496/pu/vid/640x360/kje7f4-BH3n203dx.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 577422518,
+			"id_str": "577422518",
+			"name": "Sam Chui",
+			"screen_name": "SamChuiPhotos",
+			"location": "Sky",
+			"description": "Aviation Blogger and YouTube content creator.",
+			"url": "https://t.co/mHpRF3ysPb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mHpRF3ysPb",
+							"expanded_url": "http://www.SamChui.com",
+							"display_url": "SamChui.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19621,
+			"friends_count": 185,
+			"listed_count": 115,
+			"created_at": "Fri May 11 20:09:08 +0000 2012",
+			"favourites_count": 322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053704255239081984/mmSSHz_I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053704255239081984/mmSSHz_I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/577422518/1540057467",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 603,
+		"favorite_count": 2811,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The most incredible window views! I was inside @etihad 777 to LAX and we caught up to this @emirates A380 to SFO 1,000 ft above us over the Pole. Both pilot talked on radio and “co-ordinated” this shoot! #emirates #A380 #air2air https://t.co/MXJEhaaAnc"
+	},
+	{
 		"created_at": "Sun Mar 08 23:59:20 +0000 2020",
 		"id": 1236803721587232800,
 		"id_str": "1236803721587232769",
