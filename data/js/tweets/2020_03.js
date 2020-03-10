@@ -1,10 +1,327 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 13:10:09 +0000 2020",
+		"id": 1237365126719733800,
+		"id_str": "1237365126719733760",
+		"full_text": "It’s too early in the AM for shit like this… https://t.co/zWRa1PLzzm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zWRa1PLzzm",
+					"expanded_url": "https://twitter.com/AlexKontorovich/status/1236008125645434885",
+					"display_url": "twitter.com/AlexKontorovic…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 193,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236008125645435000,
+		"quoted_status_id_str": "1236008125645434885",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zWRa1PLzzm",
+			"expanded": "https://twitter.com/AlexKontorovich/status/1236008125645434885",
+			"display": "twitter.com/AlexKontorovic…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 06 19:17:55 +0000 2020",
+			"id": 1236008125645435000,
+			"id_str": "1236008125645434885",
+			"full_text": "With Pi Day just around the corner, let’s remember what Pi is all about.\n\nAfter washing your hands thoroughly, cut the crust off a pizza pie and lay it across four others. You’ll see that the crust spans a little more than 3 pies. That’s Pi ≈ 3.14.\n\nBut that’s not all! (Cont’d) https://t.co/xTVbObrPzH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1236008091126313000,
+						"id_str": "1236008091126312960",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236008091126312960/pu/img/SKErmTHZYAYGzViZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236008091126312960/pu/img/SKErmTHZYAYGzViZ.jpg",
+						"url": "https://t.co/xTVbObrPzH",
+						"display_url": "pic.twitter.com/xTVbObrPzH",
+						"expanded_url": "https://twitter.com/AlexKontorovich/status/1236008125645434885/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1236008091126313000,
+						"id_str": "1236008091126312960",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236008091126312960/pu/img/SKErmTHZYAYGzViZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236008091126312960/pu/img/SKErmTHZYAYGzViZ.jpg",
+						"url": "https://t.co/xTVbObrPzH",
+						"display_url": "pic.twitter.com/xTVbObrPzH",
+						"expanded_url": "https://twitter.com/AlexKontorovich/status/1236008125645434885/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 9308,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1236008091126312960/pu/vid/720x1280/F0Dn_Vl73ODlBOyX.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1236008091126312960/pu/vid/320x568/ePE7U98E3vTjFRvm.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1236008091126312960/pu/vid/360x640/h7RpF8EkJzghYL3A.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1236008091126312960/pu/pl/OtO-nS3ZNpaxqukK.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1062724264799989800,
+				"id_str": "1062724264799989761",
+				"name": "Alex Kontorovich",
+				"screen_name": "AlexKontorovich",
+				"location": "",
+				"description": "#Math professor at @RutgersU. Editor-in-Chief of Experimental Mathematics @tandfSTEM. Dean of Academic Content at @MoMath1. Advisory Board at @QuantaMagazine",
+				"url": "https://t.co/nHJnoPPKt0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nHJnoPPKt0",
+								"expanded_url": "http://math.rutgers.edu/~alexk",
+								"display_url": "math.rutgers.edu/~alexk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4761,
+				"friends_count": 561,
+				"listed_count": 60,
+				"created_at": "Wed Nov 14 15:09:43 +0000 2018",
+				"favourites_count": 2974,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2390,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1064730264255946754/FTMCMpTv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064730264255946754/FTMCMpTv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1062724264799989761/1542688670",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15939,
+			"favorite_count": 39893,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s too early in the AM for shit like this… https://t.co/zWRa1PLzzm"
+	},
+	{
 		"created_at": "Mon Mar 09 23:55:43 +0000 2020",
 		"id": 1237165200689823700,
 		"id_str": "1237165200689823754",
-		"full_text": "🤦🏻‍♂️ https://t.co/Dihy0cogA7",
+		"full_text": "🤦🏻♂️ https://t.co/Dihy0cogA7",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -205,7 +522,7 @@ Grailbird.data.tweets_2020_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "🤦🏻‍♂️ https://t.co/Dihy0cogA7"
+		"text": "🤦🏻♂️ https://t.co/Dihy0cogA7"
 	},
 	{
 		"created_at": "Mon Mar 09 12:54:11 +0000 2020",
