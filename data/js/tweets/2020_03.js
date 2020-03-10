@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 13:17:17 +0000 2020",
+		"id": 1237205489022206000,
+		"id_str": "1237366921164718086",
+		"full_text": "If you’re going to get coronavirus, get it by motorboating a stripper in Vegas.™️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 514487309,
+			"id_str": "514487309",
+			"name": "Vital Vegas",
+			"screen_name": "VitalVegas",
+			"location": "Las Vegas, NV",
+			"description": "https://t.co/iNB8aPQlsS is your essential source for Las Vegas news, rumors, tips and WTF. #LasVegas",
+			"url": "https://t.co/qBgUfzLqfn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qBgUfzLqfn",
+							"expanded_url": "http://www.vitalvegas.com",
+							"display_url": "vitalvegas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iNB8aPQlsS",
+							"expanded_url": "http://VitalVegas.com",
+							"display_url": "VitalVegas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 51678,
+			"friends_count": 13593,
+			"listed_count": 448,
+			"created_at": "Sun Mar 04 16:04:28 +0000 2012",
+			"favourites_count": 316114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/514487309/1510021234",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "893F0D",
+			"profile_text_color": "050404",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 243,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you’re going to get coronavirus, get it by motorboating a stripper in Vegas.™️"
+	},
+	{
 		"created_at": "Tue Mar 10 13:10:09 +0000 2020",
 		"id": 1237365126719733800,
 		"id_str": "1237365126719733760",
