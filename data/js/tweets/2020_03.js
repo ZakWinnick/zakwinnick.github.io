@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 17:00:07 +0000 2020",
+		"id": 1238130858634014700,
+		"id_str": "1238147774866128897",
+		"full_text": "This tweet has @colinmochrie written all over it.  @eni82 https://t.co/g3qEiSVwpQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colinmochrie",
+					"name": "Colin Mochrie",
+					"id": 40306315,
+					"id_str": "40306315",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "eni82",
+					"name": "Christine",
+					"id": 24661179,
+					"id_str": "24661179",
+					"indices": [
+						51,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g3qEiSVwpQ",
+					"expanded_url": "https://twitter.com/GillianHTurner/status/1238116217073946625",
+					"display_url": "twitter.com/GillianHTurner…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20029465,
+			"id_str": "20029465",
+			"name": "Lee",
+			"screen_name": "Rngrfan01",
+			"location": "Las Vegas, NV",
+			"description": "#LasVegas #Attorney who likes to tweet about #Sports #Law #Nevada & sometimes #VideoGames or #Wrestling. I may even post a cat video or two. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 2052,
+			"listed_count": 10,
+			"created_at": "Wed Feb 04 05:26:30 +0000 2009",
+			"favourites_count": 17001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227107217934966784/kPyAWteL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227107217934966784/kPyAWteL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20029465/1565109029",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238116217073946600,
+		"quoted_status_id_str": "1238116217073946625",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g3qEiSVwpQ",
+			"expanded": "https://twitter.com/GillianHTurner/status/1238116217073946625",
+			"display": "twitter.com/GillianHTurner…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 12 14:54:43 +0000 2020",
+			"id": 1238116217073946600,
+			"id_str": "1238116217073946625",
+			"full_text": "BREAKING: The World Health Organization has announced that dogs cannot contract Covid-19. Dogs previously held in quarantine can now be released. To be clear, WHO let the dogs out.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2263438704,
+				"id_str": "2263438704",
+				"name": "Gillian Turner",
+				"screen_name": "GillianHTurner",
+				"location": "Washington, DC",
+				"description": "FoxNews correspondent covering natl security, foreign policy, cyber | National Security Council, Bush & Obama Admins | Opinions are my dog's",
+				"url": "https://t.co/gqNGCc7kne",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gqNGCc7kne",
+								"expanded_url": "http://instagram.com/gillianhturner",
+								"display_url": "instagram.com/gillianhturner",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65921,
+				"friends_count": 1293,
+				"listed_count": 488,
+				"created_at": "Thu Dec 26 23:01:36 +0000 2013",
+				"favourites_count": 33035,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10534,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/969625625131708416/xh_zKilm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/969625625131708416/xh_zKilm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2263438704/1520004669",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13097,
+			"favorite_count": 46830,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This tweet has @colinmochrie written all over it.  @eni82 https://t.co/g3qEiSVwpQ"
+	},
+	{
 		"created_at": "Tue Mar 10 13:17:17 +0000 2020",
 		"id": 1237205489022206000,
 		"id_str": "1237366921164718086",
