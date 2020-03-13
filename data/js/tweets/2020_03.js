@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 16:56:25 +0000 2020",
+		"id": 1238508828351750100,
+		"id_str": "1238509230858145792",
+		"full_text": "He has it. https://t.co/stvg9pj96C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/stvg9pj96C",
+					"expanded_url": "https://twitter.com/twpolk/status/1238507088571256832",
+					"display_url": "twitter.com/twpolk/status/…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 499,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238507088571256800,
+		"quoted_status_id_str": "1238507088571256832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/stvg9pj96C",
+			"expanded": "https://twitter.com/twpolk/status/1238507088571256832",
+			"display": "twitter.com/twpolk/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 13 16:47:54 +0000 2020",
+			"id": 1238507088571256800,
+			"id_str": "1238507088571256832",
+			"full_text": "@ODNIgov @gregpmiller @CDCgov YESTERDAY:\n&gt;Daily WH Coronavirus Briefing CANCELLED\n\nTODAY:\n&gt;Daily WH Coronavirus Briefing CANCELLED\n&gt;Daily CDC Coronavirus Briefing CANCELLED\n&gt;Pence has disappeared.\n\nWhat is going on?",
+			"truncated": false,
+			"display_text_range": [
+				30,
+				227
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ODNIgov",
+						"name": "Office of the DNI",
+						"id": 56838279,
+						"id_str": "56838279",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "gregpmiller",
+						"name": "Greg Miller",
+						"id": 242907470,
+						"id_str": "242907470",
+						"indices": [
+							9,
+							21
+						]
+					},
+					{
+						"screen_name": "CDCgov",
+						"name": "CDC",
+						"id": 146569971,
+						"id_str": "146569971",
+						"indices": [
+							22,
+							29
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1238506414999572500,
+			"in_reply_to_status_id_str": "1238506414999572480",
+			"in_reply_to_user_id": 56838279,
+			"in_reply_to_user_id_str": "56838279",
+			"in_reply_to_screen_name": "ODNIgov",
+			"user": {
+				"id": 1187755319344205800,
+				"id_str": "1187755319344205825",
+				"name": "twpolk",
+				"screen_name": "twpolk",
+				"location": "Chicago",
+				"description": "I left Twitter and now I'm back. Chicago guy who has a pup named Finch.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 105,
+				"friends_count": 506,
+				"listed_count": 2,
+				"created_at": "Fri Oct 25 15:38:38 +0000 2019",
+				"favourites_count": 1813,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7642,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1187755537573842944/ODCymEeY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187755537573842944/ODCymEeY_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "He has it. https://t.co/stvg9pj96C"
+	},
+	{
 		"created_at": "Thu Mar 12 18:03:33 +0000 2020",
 		"id": 1238163735598059500,
 		"id_str": "1238163735598059520",
