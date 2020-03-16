@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 12:48:40 +0000 2020",
+		"id": 1238843794927255600,
+		"id_str": "1239534046440493059",
+		"full_text": "most people are just gonna masturbate https://t.co/aBQFuxXjaZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aBQFuxXjaZ",
+					"expanded_url": "https://twitter.com/rosannecash/status/1238700345548627969",
+					"display_url": "twitter.com/rosannecash/st…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808049235081961500,
+			"id_str": "808049235081961473",
+			"name": "brianna zigler",
+			"screen_name": "briannazigs",
+			"location": "philly suburbs",
+			"description": "a rascal • regular @screenqueenz @rejectnation • also @lwlies @bmoviesd @slashfilm @BDisgusting @BWDR @girlsontopstees etc • 💌 briannaszigler@gmail.com",
+			"url": "https://t.co/suUvtpPc1m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/suUvtpPc1m",
+							"expanded_url": "https://briannazigler.contently.com/",
+							"display_url": "briannazigler.contently.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9907,
+			"friends_count": 895,
+			"listed_count": 76,
+			"created_at": "Sun Dec 11 20:42:05 +0000 2016",
+			"favourites_count": 72577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202064211838455811/OPUzuE_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202064211838455811/OPUzuE_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808049235081961473/1576644116",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238700345548628000,
+		"quoted_status_id_str": "1238700345548627969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aBQFuxXjaZ",
+			"expanded": "https://twitter.com/rosannecash/status/1238700345548627969",
+			"display": "twitter.com/rosannecash/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 14 05:35:50 +0000 2020",
+			"id": 1238700345548628000,
+			"id_str": "1238700345548627969",
+			"full_text": "Just a reminder that when Shakespeare was quarantined because of the plague, he wrote King Lear.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 71028123,
+				"id_str": "71028123",
+				"name": "rosanne cash",
+				"screen_name": "rosannecash",
+				"location": "New York City",
+				"description": "Writer/musician/New Yorker. Rhymer, worrier. Single issue voter: Gun control. #SheRemembersEverything out now: https://t.co/N8gosZa5Hj",
+				"url": "https://t.co/xzt18s0BMh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xzt18s0BMh",
+								"expanded_url": "https://RosanneCash.lnk.to/SheRemembersEverythingTw",
+								"display_url": "RosanneCash.lnk.to/SheRemembersEv…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/N8gosZa5Hj",
+								"expanded_url": "http://rosannecash.com",
+								"display_url": "rosannecash.com",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 124327,
+				"friends_count": 1391,
+				"listed_count": 2816,
+				"created_at": "Wed Sep 02 17:54:26 +0000 2009",
+				"favourites_count": 1660,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 72493,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0A090A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043236001932435456/fO-zP7x8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043236001932435456/fO-zP7x8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71028123/1541174025",
+				"profile_link_color": "09090A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "68DED2",
+				"profile_text_color": "030001",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51326,
+			"favorite_count": 251093,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 28951,
+		"favorite_count": 185785,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "most people are just gonna masturbate https://t.co/aBQFuxXjaZ"
+	},
+	{
+		"created_at": "Mon Mar 16 12:46:21 +0000 2020",
+		"id": 1239533460886257700,
+		"id_str": "1239533460886257664",
+		"full_text": "Can confirm. #truth https://t.co/7fZUMAMzoX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "truth",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7fZUMAMzoX",
+					"expanded_url": "https://twitter.com/VengefulWalnut/status/1239374544156020739",
+					"display_url": "twitter.com/VengefulWalnut…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 193,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239374544156020700,
+		"quoted_status_id_str": "1239374544156020739",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7fZUMAMzoX",
+			"expanded": "https://twitter.com/VengefulWalnut/status/1239374544156020739",
+			"display": "twitter.com/VengefulWalnut…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 16 02:14:52 +0000 2020",
+			"id": 1239374544156020700,
+			"id_str": "1239374544156020739",
+			"full_text": "Downtown Nashville, full of idiots. https://t.co/w0yxegX1Z3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				35
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/w0yxegX1Z3",
+						"expanded_url": "https://twitter.com/sportspundette/status/1239054374791512064",
+						"display_url": "twitter.com/sportspundette…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3009376464,
+				"id_str": "3009376464",
+				"name": "James Olivier",
+				"screen_name": "VengefulWalnut",
+				"location": "C-53",
+				"description": "not terrible writer person. has approximate knowledge of many things. possibly a velociraptor. pygmy ferret herder.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 349,
+				"friends_count": 625,
+				"listed_count": 8,
+				"created_at": "Tue Feb 03 16:03:31 +0000 2015",
+				"favourites_count": 23070,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23444,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134003034093105153/Ys7y10QJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134003034093105153/Ys7y10QJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3009376464/1483719901",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1239054374791512000,
+			"quoted_status_id_str": "1239054374791512064",
+			"quoted_status_permalink": {
+				"url": "https://t.co/w0yxegX1Z3",
+				"expanded": "https://twitter.com/sportspundette/status/1239054374791512064",
+				"display": "twitter.com/sportspundette…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can confirm. #truth https://t.co/7fZUMAMzoX"
+	},
+	{
 		"created_at": "Sat Mar 14 17:39:55 +0000 2020",
 		"id": 1238882563004997600,
 		"id_str": "1238882563004997632",
