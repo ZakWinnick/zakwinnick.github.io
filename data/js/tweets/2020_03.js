@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 23:46:47 +0000 2020",
+		"id": 1240062054909739000,
+		"id_str": "1240062054909739012",
+		"full_text": "Ok Coronavirus. You can stay… https://t.co/JTUgvkb6dE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JTUgvkb6dE",
+					"expanded_url": "https://twitter.com/LAist/status/1240042766111031297",
+					"display_url": "twitter.com/LAist/status/1…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 193,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240042766111031300,
+		"quoted_status_id_str": "1240042766111031297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JTUgvkb6dE",
+			"expanded": "https://twitter.com/LAist/status/1240042766111031297",
+			"display": "twitter.com/LAist/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 17 22:30:08 +0000 2020",
+			"id": 1240042766111031300,
+			"id_str": "1240042766111031297",
+			"full_text": "Lime is pulling its electric scooters off the streets in Los Angeles (and throughout California) in response to the coronavirus outbreak. https://t.co/DdxQcSPoxp https://t.co/LFIjTdB7n5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DdxQcSPoxp",
+						"expanded_url": "https://laist.com/latest/post/20200317/lime-suspends-operation-in-CA",
+						"display_url": "laist.com/latest/post/20…",
+						"indices": [
+							138,
+							161
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1240042764118655000,
+						"id_str": "1240042764118654976",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/ETWEUu2WAAANC0F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETWEUu2WAAANC0F.jpg",
+						"url": "https://t.co/LFIjTdB7n5",
+						"display_url": "pic.twitter.com/LFIjTdB7n5",
+						"expanded_url": "https://twitter.com/LAist/status/1240042766111031297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 730,
+								"h": 499,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 465,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 730,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1240042764118655000,
+						"id_str": "1240042764118654976",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/ETWEUu2WAAANC0F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETWEUu2WAAANC0F.jpg",
+						"url": "https://t.co/LFIjTdB7n5",
+						"display_url": "pic.twitter.com/LFIjTdB7n5",
+						"expanded_url": "https://twitter.com/LAist/status/1240042766111031297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 730,
+								"h": 499,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 465,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 730,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6487292,
+				"id_str": "6487292",
+				"name": "LAist",
+				"screen_name": "LAist",
+				"location": "Los Angeles",
+				"description": "LAist is a website about Los Angeles & everything that happens in it. Powered by @kpcc.",
+				"url": "https://t.co/SPQBNVa2xB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SPQBNVa2xB",
+								"expanded_url": "http://www.LAist.com",
+								"display_url": "LAist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 789650,
+				"friends_count": 3074,
+				"listed_count": 4506,
+				"created_at": "Fri Jun 01 00:58:34 +0000 2007",
+				"favourites_count": 1519,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91368,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C9D8FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1151024990017339393/8Lz9-hVQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151024990017339393/8Lz9-hVQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6487292/1558048160",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ok Coronavirus. You can stay… https://t.co/JTUgvkb6dE"
+	},
+	{
 		"created_at": "Tue Mar 17 19:23:18 +0000 2020",
 		"id": 1239995746763628500,
 		"id_str": "1239995746763628544",
