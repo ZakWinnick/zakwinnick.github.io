@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 12:17:26 +0000 2020",
+		"id": 1240551720976912400,
+		"id_str": "1240613348301037568",
+		"full_text": "If these four words don't make you smile, the bug has already won: Nude hand sanitizer wrestling. https://t.co/tO0V3YuMbZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tO0V3YuMbZ",
+					"expanded_url": "https://www.ktnv.com/news/little-darlings-strip-club-to-offer-drive-thru-strip-shows-nude-hand-sanitizer-wrestling",
+					"display_url": "ktnv.com/news/little-da…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 514487309,
+			"id_str": "514487309",
+			"name": "Vital Vegas",
+			"screen_name": "VitalVegas",
+			"location": "Las Vegas, NV",
+			"description": "https://t.co/iNB8aPQlsS is your essential source for Las Vegas news, rumors, tips and WTF. #LasVegas",
+			"url": "https://t.co/qBgUfzLqfn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qBgUfzLqfn",
+							"expanded_url": "http://www.vitalvegas.com",
+							"display_url": "vitalvegas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iNB8aPQlsS",
+							"expanded_url": "http://VitalVegas.com",
+							"display_url": "VitalVegas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 55200,
+			"friends_count": 13652,
+			"listed_count": 464,
+			"created_at": "Sun Mar 04 16:04:28 +0000 2012",
+			"favourites_count": 322771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/514487309/1510021234",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "893F0D",
+			"profile_text_color": "050404",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If these four words don't make you smile, the bug has already won: Nude hand sanitizer wrestling. https://t.co/tO0V3YuMbZ"
+	},
+	{
 		"created_at": "Wed Mar 18 22:28:14 +0000 2020",
 		"id": 1240404674576072700,
 		"id_str": "1240404674576072707",
