@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 23:54:34 +0000 2020",
+		"id": 1240765180067356700,
+		"id_str": "1240788786830888962",
+		"full_text": "It's pretty bad when you've just become the worst Burr in American political history...and No. 2 is the guy who shot and killed Alexander Hamilton",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17824099,
+			"id_str": "17824099",
+			"name": "Will Bunch 🆘",
+			"screen_name": "Will_Bunch",
+			"location": "Philly",
+			"description": "National opinion columnist for the Philadelphia Inquirer. Author of The Bern Identity https://t.co/KIBdYUZnhD and Tear Down This Myth #impeach",
+			"url": "http://t.co/5gprsKxOE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/5gprsKxOE5",
+							"expanded_url": "http://Attytood.com",
+							"display_url": "Attytood.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KIBdYUZnhD",
+							"expanded_url": "http://amzn.to/1VxGLJk",
+							"display_url": "amzn.to/1VxGLJk",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 56635,
+			"friends_count": 1976,
+			"listed_count": 1354,
+			"created_at": "Wed Dec 03 00:56:21 +0000 2008",
+			"favourites_count": 66139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 89608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122133174849548290/TyNtR5GY_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122133174849548290/TyNtR5GY_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17824099/1446991332",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 593,
+		"favorite_count": 1985,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It's pretty bad when you've just become the worst Burr in American political history...and No. 2 is the guy who shot and killed Alexander Hamilton"
+	},
+	{
 		"created_at": "Thu Mar 19 15:31:16 +0000 2020",
 		"id": 1240662130317095000,
 		"id_str": "1240662130317094913",
