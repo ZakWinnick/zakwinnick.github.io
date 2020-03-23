@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 01:43:34 +0000 2020",
+		"id": 1241903383881138200,
+		"id_str": "1241903383881138176",
+		"full_text": "House, but only after thinking it was Lupus first… https://t.co/xmCJc5nnj9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xmCJc5nnj9",
+					"expanded_url": "https://twitter.com/BruceWilliams__/status/1240058252404101120",
+					"display_url": "twitter.com/BruceWilliams_…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 189,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240058252404101000,
+		"quoted_status_id_str": "1240058252404101120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xmCJc5nnj9",
+			"expanded": "https://twitter.com/BruceWilliams__/status/1240058252404101120",
+			"display": "twitter.com/BruceWilliams_…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 17 23:31:41 +0000 2020",
+			"id": 1240058252404101000,
+			"id_str": "1240058252404101120",
+			"full_text": "Who would cure COVID-19 first?\n\nMeredith Grey or Dr House https://t.co/uVUGN99IJl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1240058247639380000,
+						"id_str": "1240058247639379976",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/ETWSZ_dWsAgSn5T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETWSZ_dWsAgSn5T.jpg",
+						"url": "https://t.co/uVUGN99IJl",
+						"display_url": "pic.twitter.com/uVUGN99IJl",
+						"expanded_url": "https://twitter.com/BruceWilliams__/status/1240058252404101120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 427,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 427,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 427,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1240058247639380000,
+						"id_str": "1240058247639379976",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/ETWSZ_dWsAgSn5T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETWSZ_dWsAgSn5T.jpg",
+						"url": "https://t.co/uVUGN99IJl",
+						"display_url": "pic.twitter.com/uVUGN99IJl",
+						"expanded_url": "https://twitter.com/BruceWilliams__/status/1240058252404101120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 427,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 427,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 427,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1240058247605821400,
+						"id_str": "1240058247605821447",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/ETWSZ_VWoAck29y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETWSZ_VWoAck29y.jpg",
+						"url": "https://t.co/uVUGN99IJl",
+						"display_url": "pic.twitter.com/uVUGN99IJl",
+						"expanded_url": "https://twitter.com/BruceWilliams__/status/1240058252404101120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 233,
+								"h": 312,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 233,
+								"h": 312,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 233,
+								"h": 312,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 109425703,
+				"id_str": "109425703",
+				"name": "Master Bruce",
+				"screen_name": "BruceWilliams__",
+				"location": "Jamaica",
+				"description": "Wasting all of my time on living my fantasies",
+				"url": "https://t.co/V8GLlY9iQy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V8GLlY9iQy",
+								"expanded_url": "http://Instagram.com/brucewilliams__",
+								"display_url": "Instagram.com/brucewilliams__",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2408,
+				"friends_count": 193,
+				"listed_count": 133,
+				"created_at": "Fri Jan 29 00:57:01 +0000 2010",
+				"favourites_count": 28564,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54977,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1238487354161139713/RcERJBsS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238487354161139713/RcERJBsS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/109425703/1582241132",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2184,
+			"favorite_count": 9968,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "House, but only after thinking it was Lupus first… https://t.co/xmCJc5nnj9"
+	},
+	{
 		"created_at": "Mon Mar 23 00:40:48 +0000 2020",
 		"id": 1241753020435697700,
 		"id_str": "1241887584722223105",
