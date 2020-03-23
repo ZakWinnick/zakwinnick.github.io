@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 00:40:48 +0000 2020",
+		"id": 1241753020435697700,
+		"id_str": "1241887584722223105",
+		"full_text": "Quarantine day 11: \n https://t.co/eKsR0tureq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241469046949904400,
+					"id_str": "1241469046949904385",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241469046949904385/pu/img/i4pxgrkOjX5QiVwr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241469046949904385/pu/img/i4pxgrkOjX5QiVwr.jpg",
+					"url": "https://t.co/eKsR0tureq",
+					"display_url": "pic.twitter.com/eKsR0tureq",
+					"expanded_url": "https://twitter.com/mmjblair/status/1241469802834800640/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1241469802834800600,
+					"source_status_id_str": "1241469802834800640",
+					"source_user_id": 457635895,
+					"source_user_id_str": "457635895"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241469046949904400,
+					"id_str": "1241469046949904385",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241469046949904385/pu/img/i4pxgrkOjX5QiVwr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241469046949904385/pu/img/i4pxgrkOjX5QiVwr.jpg",
+					"url": "https://t.co/eKsR0tureq",
+					"display_url": "pic.twitter.com/eKsR0tureq",
+					"expanded_url": "https://twitter.com/mmjblair/status/1241469802834800640/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1241469802834800600,
+					"source_status_id_str": "1241469802834800640",
+					"source_user_id": 457635895,
+					"source_user_id_str": "457635895",
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							53
+						],
+						"duration_millis": 41077,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241469046949904385/pu/vid/480x848/QzsTfTrNcFlPUM1c.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241469046949904385/pu/vid/320x564/VU0SzfpFhO2EY5oD.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241469046949904385/pu/vid/360x636/PxZBv1arc7juRDGX.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1241469046949904385/pu/pl/ryMrER7dpz1Q5xTW.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 457635895,
+							"id_str": "457635895",
+							"name": "Michael Blair",
+							"screen_name": "mmjblair",
+							"location": "Perthshire, Scotland",
+							"description": "Contributor to https://t.co/X5cvZWz6cf  Also at https://t.co/OtpYAqVYni as UK coordinator/writer. https://t.co/Xb5ESFjICh  @Mrnailsin show and much more.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/X5cvZWz6cf",
+											"expanded_url": "http://deardirtyamerica.com",
+											"display_url": "deardirtyamerica.com",
+											"indices": [
+												15,
+												38
+											]
+										},
+										{
+											"url": "https://t.co/OtpYAqVYni",
+											"expanded_url": "http://castle-journal.com",
+											"display_url": "castle-journal.com",
+											"indices": [
+												48,
+												71
+											]
+										},
+										{
+											"url": "https://t.co/Xb5ESFjICh",
+											"expanded_url": "http://theswamp.media",
+											"display_url": "theswamp.media",
+											"indices": [
+												98,
+												121
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 12453,
+							"friends_count": 11629,
+							"listed_count": 343,
+							"created_at": "Sat Jan 07 16:57:06 +0000 2012",
+							"favourites_count": 306312,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 497503,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1236622471132000256/wUJO2iIA_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236622471132000256/wUJO2iIA_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/457635895/1573247837",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 324703658,
+			"id_str": "324703658",
+			"name": "Rex Chapman🏇🏼",
+			"screen_name": "RexChapman",
+			"location": "Lexington/Phoenix ",
+			"description": "I hold the microphone like a grudge",
+			"url": "https://t.co/WW075Yadro",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW075Yadro",
+							"expanded_url": "http://adultswim.com/streams",
+							"display_url": "adultswim.com/streams",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571077,
+			"friends_count": 10929,
+			"listed_count": 1840,
+			"created_at": "Mon Jun 27 02:36:27 +0000 2011",
+			"favourites_count": 130076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E21F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/324703658/1539742514",
+			"profile_link_color": "2C12EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "100D14",
+			"profile_text_color": "EB0E20",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34301,
+		"favorite_count": 168068,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quarantine day 11: \n https://t.co/eKsR0tureq"
+	},
+	{
 		"created_at": "Sun Mar 22 23:59:32 +0000 2020",
 		"id": 1241877124249792500,
 		"id_str": "1241877203425660930",
