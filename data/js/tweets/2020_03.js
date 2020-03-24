@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 21:17:43 +0000 2020",
+		"id": 1242561254650269700,
+		"id_str": "1242561254650269696",
+		"full_text": "Would have been awesome if they re-themed it to the HP universe…🤷🏻‍♂️ https://t.co/kHNbEVNPGW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kHNbEVNPGW",
+					"expanded_url": "https://twitter.com/insideuniversal/status/1242555489059209221",
+					"display_url": "twitter.com/insideuniversa…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 190,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242555489059209200,
+		"quoted_status_id_str": "1242555489059209221",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kHNbEVNPGW",
+			"expanded": "https://twitter.com/insideuniversal/status/1242555489059209221",
+			"display": "twitter.com/insideuniversa…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 24 20:54:48 +0000 2020",
+			"id": 1242555489059209200,
+			"id_str": "1242555489059209221",
+			"full_text": "Just a Dueling Dragons appreciation post @UniversalORL https://t.co/8DH1OzrwBG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UniversalORL",
+						"name": "Universal Woahlando Resort",
+						"id": 125988399,
+						"id_str": "125988399",
+						"indices": [
+							41,
+							54
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1242555482352562200,
+						"id_str": "1242555482352562181",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/ET5xoLtWsAU06Rd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ET5xoLtWsAU06Rd.jpg",
+						"url": "https://t.co/8DH1OzrwBG",
+						"display_url": "pic.twitter.com/8DH1OzrwBG",
+						"expanded_url": "https://twitter.com/insideuniversal/status/1242555489059209221/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1242555482352562200,
+						"id_str": "1242555482352562181",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/ET5xoLtWsAU06Rd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ET5xoLtWsAU06Rd.jpg",
+						"url": "https://t.co/8DH1OzrwBG",
+						"display_url": "pic.twitter.com/8DH1OzrwBG",
+						"expanded_url": "https://twitter.com/insideuniversal/status/1242555489059209221/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49541799,
+				"id_str": "49541799",
+				"name": "Inside Universal",
+				"screen_name": "insideuniversal",
+				"location": "Orlando, FL - Hollywood, CA",
+				"description": "News & Info on Universal Studios Hollywood, Universal Orlando, & More! Join our forums! https://t.co/QCJg6AYteV",
+				"url": "https://t.co/D19vrJLiGH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D19vrJLiGH",
+								"expanded_url": "http://www.insideuniversal.net",
+								"display_url": "insideuniversal.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/QCJg6AYteV",
+								"expanded_url": "http://forums.insideuniversal.net",
+								"display_url": "forums.insideuniversal.net",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 27273,
+				"friends_count": 514,
+				"listed_count": 313,
+				"created_at": "Mon Jun 22 04:58:11 +0000 2009",
+				"favourites_count": 7545,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23664,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "081F2B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/862151194273337344/j47pZmPT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/862151194273337344/j47pZmPT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49541799/1546849496",
+				"profile_link_color": "175DA9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D6D6D6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 118,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Would have been awesome if they re-themed it to the HP universe…🤷🏻‍♂️ https://t.co/kHNbEVNPGW"
+	},
+	{
 		"created_at": "Mon Mar 23 15:39:00 +0000 2020",
 		"id": 1242113625000751000,
 		"id_str": "1242113625000751105",
