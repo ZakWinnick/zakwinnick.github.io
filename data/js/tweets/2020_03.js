@@ -1,10 +1,214 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 25 15:23:57 +0000 2020",
+		"id": 1242834613061460000,
+		"id_str": "1242834613061459968",
+		"full_text": "I mean, you could always change the User Agent in the Developer menu in Safari… https://t.co/fL4QrjpUS7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fL4QrjpUS7",
+					"expanded_url": "https://twitter.com/SpyTalker/status/1242554083820670981",
+					"display_url": "twitter.com/SpyTalker/stat…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 191,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242554083820671000,
+		"quoted_status_id_str": "1242554083820670981",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fL4QrjpUS7",
+			"expanded": "https://twitter.com/SpyTalker/status/1242554083820670981",
+			"display": "twitter.com/SpyTalker/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 24 20:49:13 +0000 2020",
+			"id": 1242554083820671000,
+			"id_str": "1242554083820670981",
+			"full_text": "Yikes: DC Unemployment office says applicants must use Internet Explorer. 'Our system is not compatible w/Firefox, Google Chrome, Safari, or mobile phones.' My Mac barks: 'You can’t open the application “Internet Explorer” because PowerPC applications are no longer supported.'",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28366439,
+				"id_str": "28366439",
+				"name": "Jeff Stein",
+				"screen_name": "SpyTalker",
+				"location": "Washington, DC",
+				"description": "Veteran national security correspondent & SpyTalk writer. Pvsly NWK, WaPo, CQ, UPI, books. More: https://t.co/24eOcPE3dH Signal 2028123034. Not @Jstein_WaPo",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/24eOcPE3dH",
+								"expanded_url": "http://tinyurl.com/rl6cjbe",
+								"display_url": "tinyurl.com/rl6cjbe",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 37832,
+				"friends_count": 5906,
+				"listed_count": 1376,
+				"created_at": "Thu Apr 02 16:18:49 +0000 2009",
+				"favourites_count": 28217,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48430,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2E3235",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1572005387/image_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572005387/image_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28366439/1367285254",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 188,
+			"favorite_count": 449,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mean, you could always change the User Agent in the Developer menu in Safari… https://t.co/fL4QrjpUS7"
+	},
+	{
 		"created_at": "Tue Mar 24 21:17:43 +0000 2020",
 		"id": 1242561254650269700,
 		"id_str": "1242561254650269696",
-		"full_text": "Would have been awesome if they re-themed it to the HP universe…🤷🏻‍♂️ https://t.co/kHNbEVNPGW",
+		"full_text": "Would have been awesome if they re-themed it to the HP universe…🤷🏻♂️ https://t.co/kHNbEVNPGW",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -305,7 +509,7 @@ Grailbird.data.tweets_2020_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Would have been awesome if they re-themed it to the HP universe…🤷🏻‍♂️ https://t.co/kHNbEVNPGW"
+		"text": "Would have been awesome if they re-themed it to the HP universe…🤷🏻♂️ https://t.co/kHNbEVNPGW"
 	},
 	{
 		"created_at": "Mon Mar 23 15:39:00 +0000 2020",
