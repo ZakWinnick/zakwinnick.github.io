@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 28 19:00:20 +0000 2020",
+		"id": 1243976232024375300,
+		"id_str": "1243976232024375297",
+		"full_text": "If he does “re-open” the economy early, I’m sure he’ll still find a way to blame it on Obama… https://t.co/0RJqSSZUw3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0RJqSSZUw3",
+					"expanded_url": "https://twitter.com/costareports/status/1243882968839577600",
+					"display_url": "twitter.com/costareports/s…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 193,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243882968839577600,
+		"quoted_status_id_str": "1243882968839577600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0RJqSSZUw3",
+			"expanded": "https://twitter.com/costareports/status/1243882968839577600",
+			"display": "twitter.com/costareports/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 28 12:49:44 +0000 2020",
+			"id": 1243882968839577600,
+			"id_str": "1243882968839577600",
+			"full_text": "\"When Sen. Graham called Pres. Trump last Sunday, he delivered a blunt msg: If you reopen the nation’s economy too early against the advice of health experts, you will own the deaths from the novel coronavirus that follow.\" \n\nMy latest w/ @PhilipRucker... \nhttps://t.co/ITEY8388cj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PhilipRucker",
+						"name": "Philip Rucker",
+						"id": 59331128,
+						"id_str": "59331128",
+						"indices": [
+							239,
+							252
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ITEY8388cj",
+						"expanded_url": "https://www.washingtonpost.com/politics/inside-trumps-risky-push-to-reopen-the-country-amid-the-coronavirus-crisis/2020/03/28/b87fff62-6ee2-11ea-a3ec-70d7479d83f0_story.html",
+						"display_url": "washingtonpost.com/politics/insid…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 86129724,
+				"id_str": "86129724",
+				"name": "Robert Costa",
+				"screen_name": "costareports",
+				"location": "Washington, D.C.",
+				"description": "National Political Reporter, @WashingtonPost; Moderator & Managing Editor, @PBS @WashingtonWeek; Political Analyst, @NBCNews and @MSNBC",
+				"url": "https://t.co/aWevmK6or2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aWevmK6or2",
+								"expanded_url": "http://Instagram.com/costareports",
+								"display_url": "Instagram.com/costareports",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 549243,
+				"friends_count": 4278,
+				"listed_count": 8628,
+				"created_at": "Thu Oct 29 18:23:23 +0000 2009",
+				"favourites_count": 2900,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40768,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1161371800313454592/gTDWqOIL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161371800313454592/gTDWqOIL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/86129724/1404438366",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1955,
+			"favorite_count": 5029,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If he does “re-open” the economy early, I’m sure he’ll still find a way to blame it on Obama… https://t.co/0RJqSSZUw3"
+	},
+	{
 		"created_at": "Fri Mar 27 19:19:51 +0000 2020",
 		"id": 1243618754447265800,
 		"id_str": "1243618754447265794",
