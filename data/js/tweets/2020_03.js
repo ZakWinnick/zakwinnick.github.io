@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 01:44:33 +0000 2020",
+		"id": 1244788841577189400,
+		"id_str": "1244802734735470594",
+		"full_text": "My favorite @UniStudios logo, so timeless. #QuarentineLife https://t.co/etRGvyR60J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QuarentineLife",
+					"indices": [
+						43,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniStudios",
+					"name": "Universal Studios Hollywood",
+					"id": 33578424,
+					"id_str": "33578424",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244788831762534400,
+					"id_str": "1244788831762534401",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EUZg2OmUUAEwNum.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUZg2OmUUAEwNum.jpg",
+					"url": "https://t.co/etRGvyR60J",
+					"display_url": "pic.twitter.com/etRGvyR60J",
+					"expanded_url": "https://twitter.com/Cartarsauce/status/1244788841577189376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244788831762534400,
+					"id_str": "1244788831762534401",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EUZg2OmUUAEwNum.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUZg2OmUUAEwNum.jpg",
+					"url": "https://t.co/etRGvyR60J",
+					"display_url": "pic.twitter.com/etRGvyR60J",
+					"expanded_url": "https://twitter.com/Cartarsauce/status/1244788841577189376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1244788831762567200,
+					"id_str": "1244788831762567168",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EUZg2OmU0AAUj5z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUZg2OmU0AAUj5z.jpg",
+					"url": "https://t.co/etRGvyR60J",
+					"display_url": "pic.twitter.com/etRGvyR60J",
+					"expanded_url": "https://twitter.com/Cartarsauce/status/1244788841577189376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 876,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 876,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1244788831762526200,
+					"id_str": "1244788831762526208",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EUZg2OmUMAABm-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUZg2OmUMAABm-D.jpg",
+					"url": "https://t.co/etRGvyR60J",
+					"display_url": "pic.twitter.com/etRGvyR60J",
+					"expanded_url": "https://twitter.com/Cartarsauce/status/1244788841577189376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 834,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 554,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54585516,
+			"id_str": "54585516",
+			"name": "Sam Carter",
+			"screen_name": "Cartarsauce",
+			"location": "Orange County, CA",
+			"description": "Experience Designer, former Disney Creative Entertainment, WonderGround Artist & Theme Park Geek",
+			"url": "https://t.co/l83ILyrwKP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l83ILyrwKP",
+							"expanded_url": "http://samcarterart.com/art",
+							"display_url": "samcarterart.com/art",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4839,
+			"friends_count": 1426,
+			"listed_count": 49,
+			"created_at": "Tue Jul 07 15:51:09 +0000 2009",
+			"favourites_count": 51958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241069727763423233/ZFTdLY7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241069727763423233/ZFTdLY7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54585516/1582570980",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My favorite @UniStudios logo, so timeless. #QuarentineLife https://t.co/etRGvyR60J"
+	},
+	{
 		"created_at": "Sat Mar 28 19:00:20 +0000 2020",
 		"id": 1243976232024375300,
 		"id_str": "1243976232024375297",
