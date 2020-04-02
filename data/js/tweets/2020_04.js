@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 00:41:40 +0000 2020",
+		"id": 1245507869618737200,
+		"id_str": "1245511684242001920",
+		"full_text": "There would be no Playtone without Adam Schlesinger, without his That Thing You Do!  He was a One-der. Lost him to Covid-19.  Terribly sad today. Hanx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50374439,
+			"id_str": "50374439",
+			"name": "Tom Hanks",
+			"screen_name": "tomhanks",
+			"location": "Los Angeles",
+			"description": "I'm that actor in some of the movies you liked and some you didn't. Sometimes I'm in pretty good shape, other times I'm not. Hey, you gotta live, you know?",
+			"url": "https://t.co/mt8FScvcYZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mt8FScvcYZ",
+							"expanded_url": "http://www.playtone.com",
+							"display_url": "playtone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16639721,
+			"friends_count": 25,
+			"listed_count": 46154,
+			"created_at": "Wed Jun 24 17:39:05 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EFFFBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193951507026075648/Ot3GmqGK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193951507026075648/Ot3GmqGK_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1471,
+		"favorite_count": 11973,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There would be no Playtone without Adam Schlesinger, without his That Thing You Do!  He was a One-der. Lost him to Covid-19.  Terribly sad today. Hanx"
+	},
+	{
 		"created_at": "Thu Apr 02 00:04:18 +0000 2020",
 		"id": 1245502280960561200,
 		"id_str": "1245502280960561157",
