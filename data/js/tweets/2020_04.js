@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 14:26:30 +0000 2020",
+		"id": 1246073035943182300,
+		"id_str": "1246081647478476801",
+		"full_text": "On this day in 1982, the first Airbus A310 airliner made its maiden flight from Toulouse, France. Pictured here is a Pan Am A310. https://t.co/2b5oT8TCET",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246073032478613500,
+					"id_str": "1246073032478613505",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EUrw0jEU4AEUMYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUrw0jEU4AEUMYR.jpg",
+					"url": "https://t.co/2b5oT8TCET",
+					"display_url": "pic.twitter.com/2b5oT8TCET",
+					"expanded_url": "https://twitter.com/airandspace/status/1246073035943182337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246073032478613500,
+					"id_str": "1246073032478613505",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EUrw0jEU4AEUMYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUrw0jEU4AEUMYR.jpg",
+					"url": "https://t.co/2b5oT8TCET",
+					"display_url": "pic.twitter.com/2b5oT8TCET",
+					"expanded_url": "https://twitter.com/airandspace/status/1246073035943182337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14848513,
+			"id_str": "14848513",
+			"name": "National Air and Space Museum",
+			"screen_name": "airandspace",
+			"location": "Washington, DC",
+			"description": "The Smithsonian's National Air and Space Museum maintains the largest collection of historic air & space objects in the world. Legal: https://t.co/dJOZaQ7IFu",
+			"url": "https://t.co/JXvxYoZ3x4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JXvxYoZ3x4",
+							"expanded_url": "http://airandspace.si.edu",
+							"display_url": "airandspace.si.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dJOZaQ7IFu",
+							"expanded_url": "http://s.si.edu/legal",
+							"display_url": "s.si.edu/legal",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 236525,
+			"friends_count": 578,
+			"listed_count": 4093,
+			"created_at": "Tue May 20 18:48:56 +0000 2008",
+			"favourites_count": 4528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016670443560988672/bLMYqlx9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016670443560988672/bLMYqlx9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14848513/1565638216",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "F5F6D5",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day in 1982, the first Airbus A310 airliner made its maiden flight from Toulouse, France. Pictured here is a Pan Am A310. https://t.co/2b5oT8TCET"
+	},
+	{
 		"created_at": "Thu Apr 02 22:36:15 +0000 2020",
 		"id": 1245738296027697200,
 		"id_str": "1245842511173767174",
