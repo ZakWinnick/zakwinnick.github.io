@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 14:50:37 +0000 2020",
+		"id": 1246161321986527200,
+		"id_str": "1246450105676333056",
+		"full_text": "Teaching my compressible flow course online is giving me the opportunity to answer some long-standing questions, such as:  Just how fast *is* that eagle in the @USPS logo going?  Turns out, about Mach 4.9... https://t.co/bICR7BUItb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "USPS",
+					"name": "U.S. Postal Service",
+					"id": 386507775,
+					"id_str": "386507775",
+					"indices": [
+						160,
+						165
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246160883291734000,
+					"id_str": "1246160883291734016",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EUtAuI2XQAARBbP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUtAuI2XQAARBbP.jpg",
+					"url": "https://t.co/bICR7BUItb",
+					"display_url": "pic.twitter.com/bICR7BUItb",
+					"expanded_url": "https://twitter.com/A_J_Higgins/status/1246161321986527232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 829,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246160883291734000,
+					"id_str": "1246160883291734016",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EUtAuI2XQAARBbP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUtAuI2XQAARBbP.jpg",
+					"url": "https://t.co/bICR7BUItb",
+					"display_url": "pic.twitter.com/bICR7BUItb",
+					"expanded_url": "https://twitter.com/A_J_Higgins/status/1246161321986527232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 829,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3234676147,
+			"id_str": "3234676147",
+			"name": "Andrew Higgins",
+			"screen_name": "A_J_Higgins",
+			"location": "Montreal, Quebec, Canada",
+			"description": "Prof. of Mechanical Eng., @McGillU Interstellar Flight Group 🚀. Ad Astra per Sordida Unguibus. #GoingInterstellar.",
+			"url": "https://t.co/iwML96udsd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iwML96udsd",
+							"expanded_url": "http://linkedin.com/in/andrew-higgins-b0a02317",
+							"display_url": "linkedin.com/in/andrew-higg…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1163,
+			"friends_count": 506,
+			"listed_count": 24,
+			"created_at": "Wed Jun 03 03:18:13 +0000 2015",
+			"favourites_count": 20536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040042180826542082/pxjqhJb7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040042180826542082/pxjqhJb7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3234676147/1491747375",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 915,
+		"favorite_count": 2608,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Teaching my compressible flow course online is giving me the opportunity to answer some long-standing questions, such as:  Just how fast *is* that eagle in the @USPS logo going?  Turns out, about Mach 4.9... https://t.co/bICR7BUItb"
+	},
+	{
 		"created_at": "Fri Apr 03 23:14:18 +0000 2020",
 		"id": 1246214472257212400,
 		"id_str": "1246214472257212420",
