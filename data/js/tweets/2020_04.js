@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 17:13:00 +0000 2020",
+		"id": 1246841068865421300,
+		"id_str": "1246848325057499141",
+		"full_text": "Things to remember during the @SYFY #Sharknado marathon.\n\n[pic stolen from a \"red pill\" Twitter knob to give a better home] https://t.co/egE1ou485p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sharknado",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SYFY",
+					"name": "SYFY",
+					"id": 18957524,
+					"id_str": "18957524",
+					"indices": [
+						30,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246840704875335700,
+					"id_str": "1246840704875335680",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EU2rA9mXkAAdnF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU2rA9mXkAAdnF2.jpg",
+					"url": "https://t.co/egE1ou485p",
+					"display_url": "pic.twitter.com/egE1ou485p",
+					"expanded_url": "https://twitter.com/SeansGengar/status/1246841068865421313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 426,
+							"h": 246,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 246,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246840704875335700,
+					"id_str": "1246840704875335680",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EU2rA9mXkAAdnF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU2rA9mXkAAdnF2.jpg",
+					"url": "https://t.co/egE1ou485p",
+					"display_url": "pic.twitter.com/egE1ou485p",
+					"expanded_url": "https://twitter.com/SeansGengar/status/1246841068865421313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 426,
+							"h": 246,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 246,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2612776994,
+			"id_str": "2612776994",
+			"name": "Stray Adult™",
+			"screen_name": "SeansGengar",
+			"location": "Michigan",
+			"description": "They/Them 🏳️‍🌈 | Rollerblading | Photography 📸 | Be Kind, Rewind ⏪ | Please Recycle ♻️ | #LGRW | Icon by @Vocaphilia",
+			"url": "https://t.co/ucC3W7hkxL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ucC3W7hkxL",
+							"expanded_url": "https://www.flickr.com/people/gorgonseyemedia/",
+							"display_url": "flickr.com/people/gorgons…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135,
+			"friends_count": 75,
+			"listed_count": 3,
+			"created_at": "Wed Jul 09 02:21:21 +0000 2014",
+			"favourites_count": 38693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100977719414870016/If9ev9nq_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100977719414870016/If9ev9nq_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2612776994/1556598268",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Things to remember during the @SYFY #Sharknado marathon.\n\n[pic stolen from a \"red pill\" Twitter knob to give a better home] https://t.co/egE1ou485p"
+	},
+	{
 		"created_at": "Sat Apr 04 14:50:37 +0000 2020",
 		"id": 1246161321986527200,
 		"id_str": "1246450105676333056",
