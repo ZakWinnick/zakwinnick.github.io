@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 01:02:06 +0000 2020",
+		"id": 1246599143482679300,
+		"id_str": "1246966376583041035",
+		"full_text": "Indiana Jones was more interested in a lump of worked gold than he was in the fact that a pre-modern central american civilization could build a trap that knows when you are standing in front of a shaft of sunlight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1142876417962795000,
+			"id_str": "1142876417962795010",
+			"name": "Catdad, la grande peste 🐈",
+			"screen_name": "catdadaeternal",
+			"location": "The City of Brass",
+			"description": "Un jour je serai près de toi 🐈 Marxist-Leninist, public defender, medievalist, fantasy/sci-fi novelist ; he/him ; cohost of @ploughandstars",
+			"url": "https://t.co/LqI05dlXDm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LqI05dlXDm",
+							"expanded_url": "http://ploughandstarspod.com",
+							"display_url": "ploughandstarspod.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2216,
+			"friends_count": 2852,
+			"listed_count": 0,
+			"created_at": "Sun Jun 23 19:25:46 +0000 2019",
+			"favourites_count": 93350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241776611000803330/sVJvLsQM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241776611000803330/sVJvLsQM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1142876417962795010/1583895043",
+			"profile_link_color": "8C2812",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6204,
+		"favorite_count": 48855,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Indiana Jones was more interested in a lump of worked gold than he was in the fact that a pre-modern central american civilization could build a trap that knows when you are standing in front of a shaft of sunlight"
+	},
+	{
 		"created_at": "Mon Apr 06 00:14:38 +0000 2020",
 		"id": 1246954429993148400,
 		"id_str": "1246954429993148416",
