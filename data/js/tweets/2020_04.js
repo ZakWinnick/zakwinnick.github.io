@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 00:14:38 +0000 2020",
+		"id": 1246954429993148400,
+		"id_str": "1246954429993148416",
+		"full_text": "Suddenly, I’m getting Twelve Monkeys vibes… https://t.co/b9VzuIM39G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b9VzuIM39G",
+					"expanded_url": "https://twitter.com/natashaldaly/status/1246900371706036228",
+					"display_url": "twitter.com/natashaldaly/s…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 196,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246900371706036200,
+		"quoted_status_id_str": "1246900371706036228",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b9VzuIM39G",
+			"expanded": "https://twitter.com/natashaldaly/status/1246900371706036228",
+			"display": "twitter.com/natashaldaly/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 05 20:39:49 +0000 2020",
+			"id": 1246900371706036200,
+			"id_str": "1246900371706036228",
+			"full_text": "BREAKING: A tiger at the Bronx Zoo has tested positive for Covid-19. 6 other tigers and lions at the zoo are also showing symptoms. Believed to have been infected by an asymptomatic zoo worker. All doing well. To my knowledge, this is the first animal to test positive in the U.S.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 511013447,
+				"id_str": "511013447",
+				"name": "Natasha Daly",
+				"screen_name": "natashaldaly",
+				"location": "Washington, D.C.",
+				"description": "Staff Writer/Editor at @NatGeo covering animals: their welfare, conservation, and exploitation. Also at: https://t.co/v2R9ow8boJ. DM for Signal.",
+				"url": "https://t.co/OsfkXAwfzx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OsfkXAwfzx",
+								"expanded_url": "https://www.natashaldaly.com/",
+								"display_url": "natashaldaly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/v2R9ow8boJ",
+								"expanded_url": "http://instagram.com/natashaldaly",
+								"display_url": "instagram.com/natashaldaly",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8969,
+				"friends_count": 1077,
+				"listed_count": 103,
+				"created_at": "Thu Mar 01 23:13:23 +0000 2012",
+				"favourites_count": 6382,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4461,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150080742153752576/pr7WblUm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150080742153752576/pr7WblUm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/511013447/1494383534",
+				"profile_link_color": "2DB48C",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16524,
+			"favorite_count": 34351,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Suddenly, I’m getting Twelve Monkeys vibes… https://t.co/b9VzuIM39G"
+	},
+	{
 		"created_at": "Sun Apr 05 17:21:38 +0000 2020",
 		"id": 1246850496360599600,
 		"id_str": "1246850496360599556",
