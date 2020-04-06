@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 12:19:29 +0000 2020",
+		"id": 1244692874970706000,
+		"id_str": "1247136847924473856",
+		"full_text": "Map of Tesla charging stations 1437 AD\n\n#Map #Maps #Terriblemaps #TerribleMap #tesla https://t.co/F8C4b2ECOl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Map",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "Maps",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "Terriblemaps",
+					"indices": [
+						51,
+						64
+					]
+				},
+				{
+					"text": "TerribleMap",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"text": "tesla",
+					"indices": [
+						78,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244692873045512200,
+					"id_str": "1244692873045512197",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EUYJkshWkAUtaZX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUYJkshWkAUtaZX.jpg",
+					"url": "https://t.co/F8C4b2ECOl",
+					"display_url": "pic.twitter.com/F8C4b2ECOl",
+					"expanded_url": "https://twitter.com/TerribleMaps/status/1244692874970705926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 544,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244692873045512200,
+					"id_str": "1244692873045512197",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EUYJkshWkAUtaZX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUYJkshWkAUtaZX.jpg",
+					"url": "https://t.co/F8C4b2ECOl",
+					"display_url": "pic.twitter.com/F8C4b2ECOl",
+					"expanded_url": "https://twitter.com/TerribleMaps/status/1244692874970705926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 544,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1663172653,
+			"id_str": "1663172653",
+			"name": "Terrible Maps",
+			"screen_name": "TerribleMaps",
+			"location": "",
+			"description": "The home of terrible maps with a pinch of humour  https://t.co/XP2FfGZkLt  Business: terriblemaps@gmail.com",
+			"url": "https://t.co/y51V7HkfS8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y51V7HkfS8",
+							"expanded_url": "https://ko-fi.com/TerribleMaps",
+							"display_url": "ko-fi.com/TerribleMaps",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XP2FfGZkLt",
+							"expanded_url": "https://www.instagram.com/terriblemap/",
+							"display_url": "instagram.com/terriblemap/",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 316994,
+			"friends_count": 803,
+			"listed_count": 1623,
+			"created_at": "Sun Aug 11 18:15:23 +0000 2013",
+			"favourites_count": 421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FCF7FC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695741339326160900/CalT3T7Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695741339326160900/CalT3T7Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1663172653/1454712717",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1306,
+		"favorite_count": 7308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Map of Tesla charging stations 1437 AD\n\n#Map #Maps #Terriblemaps #TerribleMap #tesla https://t.co/F8C4b2ECOl"
+	},
+	{
 		"created_at": "Mon Apr 06 01:02:06 +0000 2020",
 		"id": 1246599143482679300,
 		"id_str": "1246966376583041035",
