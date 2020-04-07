@@ -1,10 +1,304 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 00:54:01 +0000 2020",
+		"id": 1247321915452199000,
+		"id_str": "1247326731717009410",
+		"full_text": "Who wants to tell them that’s not a @united plane…? https://t.co/ltVdUnmbER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "united",
+					"name": "United Airlines",
+					"id": 260907612,
+					"id_str": "260907612",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ltVdUnmbER",
+					"expanded_url": "https://twitter.com/Law360/status/1247316930941329408",
+					"display_url": "twitter.com/Law360/status/…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3,
+			"friends_count": 503,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247316930941329400,
+		"quoted_status_id_str": "1247316930941329408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ltVdUnmbER",
+			"expanded": "https://twitter.com/Law360/status/1247316930941329408",
+			"display": "twitter.com/Law360/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 07 00:15:05 +0000 2020",
+			"id": 1247316930941329400,
+			"id_str": "1247316930941329408",
+			"full_text": "Consumers claim United Airlines violated consumer protection laws by refusing to refund passengers for canceled flights. https://t.co/Ke0JzHoAfZ https://t.co/HCs9hTQIiU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ke0JzHoAfZ",
+						"expanded_url": "https://www.law360.com/articles/1260775",
+						"display_url": "law360.com/articles/12607…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1247316929695690800,
+						"id_str": "1247316929695690752",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EU9cI5TXsAAOHd5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU9cI5TXsAAOHd5.jpg",
+						"url": "https://t.co/HCs9hTQIiU",
+						"display_url": "pic.twitter.com/HCs9hTQIiU",
+						"expanded_url": "https://twitter.com/Law360/status/1247316930941329408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 378,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 378,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247316929695690800,
+						"id_str": "1247316929695690752",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EU9cI5TXsAAOHd5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU9cI5TXsAAOHd5.jpg",
+						"url": "https://t.co/HCs9hTQIiU",
+						"display_url": "pic.twitter.com/HCs9hTQIiU",
+						"expanded_url": "https://twitter.com/Law360/status/1247316930941329408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 378,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 378,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23448455,
+				"id_str": "23448455",
+				"name": "Law360",
+				"screen_name": "Law360",
+				"location": "New York",
+				"description": "The newswire for business lawyers, Law360 provides nonstop coverage of high-stakes litigation across 50 practices every single business day.",
+				"url": "http://t.co/2cUhJ8sAjf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2cUhJ8sAjf",
+								"expanded_url": "http://www.law360.com",
+								"display_url": "law360.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37034,
+				"friends_count": 1015,
+				"listed_count": 898,
+				"created_at": "Mon Mar 09 15:34:54 +0000 2009",
+				"favourites_count": 2198,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 84765,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "004A8F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/484418670626471936/iXRlZqPL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/484418670626471936/iXRlZqPL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23448455/1403640407",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who wants to tell them that’s not a @united plane…? https://t.co/ltVdUnmbER"
+	},
+	{
 		"created_at": "Mon Apr 06 23:57:10 +0000 2020",
 		"id": 1247312422945411000,
 		"id_str": "1247312422945411072",
-		"full_text": "Hamburger Highlander…🤷🏻‍♂️ https://t.co/I5lhXfpnXl",
+		"full_text": "Hamburger Highlander…🤷🏻♂️ https://t.co/I5lhXfpnXl",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -292,7 +586,7 @@ Grailbird.data.tweets_2020_04 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "de",
-		"text": "Hamburger Highlander…🤷🏻‍♂️ https://t.co/I5lhXfpnXl"
+		"text": "Hamburger Highlander…🤷🏻♂️ https://t.co/I5lhXfpnXl"
 	},
 	{
 		"created_at": "Mon Apr 06 15:29:28 +0000 2020",
