@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 23:57:10 +0000 2020",
+		"id": 1247312422945411000,
+		"id_str": "1247312422945411072",
+		"full_text": "Hamburger Highlander…🤷🏻‍♂️ https://t.co/I5lhXfpnXl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I5lhXfpnXl",
+					"expanded_url": "https://twitter.com/TheBlueDevils/status/1247207200226861064",
+					"display_url": "twitter.com/TheBlueDevils/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 196,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247207200226861000,
+		"quoted_status_id_str": "1247207200226861064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I5lhXfpnXl",
+			"expanded": "https://twitter.com/TheBlueDevils/status/1247207200226861064",
+			"display": "twitter.com/TheBlueDevils/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 06 16:59:03 +0000 2020",
+			"id": 1247207200226861000,
+			"id_str": "1247207200226861064",
+			"full_text": "Let's hear 'em! 👇👇👇 #bdworld https://t.co/XeBQcw2DWE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				28
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bdworld",
+						"indices": [
+							20,
+							28
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1247207120904179700,
+						"id_str": "1247207120904179712",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/EU74RLrU0AAG86t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU74RLrU0AAG86t.jpg",
+						"url": "https://t.co/XeBQcw2DWE",
+						"display_url": "pic.twitter.com/XeBQcw2DWE",
+						"expanded_url": "https://twitter.com/TheBlueDevils/status/1247207200226861064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 828,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 828,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247207120904179700,
+						"id_str": "1247207120904179712",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/EU74RLrU0AAG86t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU74RLrU0AAG86t.jpg",
+						"url": "https://t.co/XeBQcw2DWE",
+						"display_url": "pic.twitter.com/XeBQcw2DWE",
+						"expanded_url": "https://twitter.com/TheBlueDevils/status/1247207200226861064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 828,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 828,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16789643,
+				"id_str": "16789643",
+				"name": "The Blue Devils",
+				"screen_name": "TheBlueDevils",
+				"location": "Concord, CA",
+				"description": "The Blue Devils offer young men and women between the ages of 7 and 21 quality educational and performance experiences in the areas of music and dance.",
+				"url": "https://t.co/09GzFICVEH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/09GzFICVEH",
+								"expanded_url": "https://bluedevils.org/",
+								"display_url": "bluedevils.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69122,
+				"friends_count": 13049,
+				"listed_count": 441,
+				"created_at": "Wed Oct 15 19:26:19 +0000 2008",
+				"favourites_count": 20800,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24161,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0848A7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908767946998255618/UENq2j49_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908767946998255618/UENq2j49_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16789643/1576624495",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 104,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Hamburger Highlander…🤷🏻‍♂️ https://t.co/I5lhXfpnXl"
+	},
+	{
 		"created_at": "Mon Apr 06 15:29:28 +0000 2020",
 		"id": 1247184655431938000,
 		"id_str": "1247184655431938055",
