@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 23:09:15 +0000 2020",
+		"id": 1248821594933399600,
+		"id_str": "1249112304077045761",
+		"full_text": "A bit of humor. After Apollo 13 returned home, Grumman, who built the LM Aquarius (used as a lifeboat), sent Rockwell, who built the Command Module, a bill for Towing @ $1/mile. 😉 https://t.co/Ruty5ILKPg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248820163371323400,
+					"id_str": "1248820163371323394",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EVSzUnIX0AICPUn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVSzUnIX0AICPUn.jpg",
+					"url": "https://t.co/Ruty5ILKPg",
+					"display_url": "pic.twitter.com/Ruty5ILKPg",
+					"expanded_url": "https://twitter.com/People_Of_Space/status/1248821594933399554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248820163371323400,
+					"id_str": "1248820163371323394",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EVSzUnIX0AICPUn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVSzUnIX0AICPUn.jpg",
+					"url": "https://t.co/Ruty5ILKPg",
+					"display_url": "pic.twitter.com/Ruty5ILKPg",
+					"expanded_url": "https://twitter.com/People_Of_Space/status/1248821594933399554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 919110887373463600,
+			"id_str": "919110887373463552",
+			"name": "_HerbBaker",
+			"screen_name": "People_Of_Space",
+			"location": "Houston, TX",
+			"description": "Week 130: Former Manager, Operations Support Office at NASA/JSC. NASA Alumni League member. NASA Social & UT-Austin alum. https://t.co/joVupBaSPh",
+			"url": "https://t.co/tVkpVt6j2t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tVkpVt6j2t",
+							"expanded_url": "https://taraustralis.com/2017/10/16/people-of-space/",
+							"display_url": "taraustralis.com/2017/10/16/peo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/joVupBaSPh",
+							"expanded_url": "https://twitter.com/_HerbBaker",
+							"display_url": "twitter.com/_HerbBaker",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6248,
+			"friends_count": 1446,
+			"listed_count": 136,
+			"created_at": "Sat Oct 14 08:01:26 +0000 2017",
+			"favourites_count": 17279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246617560100950017/unjQ1Tyx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246617560100950017/unjQ1Tyx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/919110887373463552/1539461392",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 279,
+		"favorite_count": 721,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A bit of humor. After Apollo 13 returned home, Grumman, who built the LM Aquarius (used as a lifeboat), sent Rockwell, who built the Command Module, a bill for Towing @ $1/mile. 😉 https://t.co/Ruty5ILKPg"
+	},
+	{
 		"created_at": "Sat Apr 11 00:11:53 +0000 2020",
 		"id": 1248712389828251600,
 		"id_str": "1248765677097439235",
