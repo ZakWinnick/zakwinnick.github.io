@@ -1,6 +1,185 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 00:11:53 +0000 2020",
+		"id": 1248712389828251600,
+		"id_str": "1248765677097439235",
+		"full_text": "Longtime Las #Vegas, NV headliners, illusionist duo Penn &amp; Teller were introduced to each other by a mutual friend on Apr 10, 1974 in the Asparagus Valley of Massachusetts. https://t.co/6DHFm9rJiX https://t.co/jOVe8pz9LR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Vegas",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6DHFm9rJiX",
+					"expanded_url": "http://cbsn.ws/154K5F4",
+					"display_url": "cbsn.ws/154K5F4",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248712388406321200,
+					"id_str": "1248712388406321154",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EVRRTSGWoAICJYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVRRTSGWoAICJYa.jpg",
+					"url": "https://t.co/jOVe8pz9LR",
+					"display_url": "pic.twitter.com/jOVe8pz9LR",
+					"expanded_url": "https://twitter.com/HistoryNevada/status/1248712389828251649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 399,
+							"h": 458,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 399,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 399,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248712388406321200,
+					"id_str": "1248712388406321154",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EVRRTSGWoAICJYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVRRTSGWoAICJYa.jpg",
+					"url": "https://t.co/jOVe8pz9LR",
+					"display_url": "pic.twitter.com/jOVe8pz9LR",
+					"expanded_url": "https://twitter.com/HistoryNevada/status/1248712389828251649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 399,
+							"h": 458,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 399,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 399,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155069389,
+			"id_str": "155069389",
+			"name": "HISTORY:nevada",
+			"screen_name": "HistoryNevada",
+			"location": "Las Vegas,  NV",
+			"description": "Ongoing history project for the Silver State. Politically neutral. IG & Pinterest: HistoryNevada.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10346,
+			"friends_count": 2173,
+			"listed_count": 195,
+			"created_at": "Sun Jun 13 01:46:17 +0000 2010",
+			"favourites_count": 3827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984990940/216_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984990940/216_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155069389/1519459844",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Longtime Las #Vegas, NV headliners, illusionist duo Penn &amp; Teller were introduced to each other by a mutual friend on Apr 10, 1974 in the Asparagus Valley of Massachusetts. https://t.co/6DHFm9rJiX https://t.co/jOVe8pz9LR"
+	},
+	{
 		"created_at": "Sat Apr 11 00:07:55 +0000 2020",
 		"id": 1248764680094572500,
 		"id_str": "1248764680094572545",
