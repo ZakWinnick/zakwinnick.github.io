@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 17:15:12 +0000 2020",
+		"id": 1250465617678946300,
+		"id_str": "1250472757927776259",
+		"full_text": "Fred Haise is a bit of an astronaut legend for his role in #Apollo13's safe return 50 years ago this week. But he also flew #Shuttle OV-101 Enterprise during the first free flight of the ALT trials from the back of a #B747 in 1977 @NASA https://t.co/l1sI9fppQt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Apollo13",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "Shuttle",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "B747",
+					"indices": [
+						217,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASA",
+					"name": "NASA",
+					"id": 11348282,
+					"id_str": "11348282",
+					"indices": [
+						231,
+						236
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250465358789652500,
+					"id_str": "1250465358789652483",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EVqLnlqWsAMy21m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVqLnlqWsAMy21m.jpg",
+					"url": "https://t.co/l1sI9fppQt",
+					"display_url": "pic.twitter.com/l1sI9fppQt",
+					"expanded_url": "https://twitter.com/MaxK_J/status/1250465617678946304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250465358789652500,
+					"id_str": "1250465358789652483",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EVqLnlqWsAMy21m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVqLnlqWsAMy21m.jpg",
+					"url": "https://t.co/l1sI9fppQt",
+					"display_url": "pic.twitter.com/l1sI9fppQt",
+					"expanded_url": "https://twitter.com/MaxK_J/status/1250465617678946304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 193427912,
+			"id_str": "193427912",
+			"name": "Max Kingsley-Jones",
+			"screen_name": "MaxK_J",
+			"location": "",
+			"description": "Usually dreaming of being somewhere between Vr and Vne",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7643,
+			"friends_count": 538,
+			"listed_count": 249,
+			"created_at": "Tue Sep 21 19:59:26 +0000 2010",
+			"favourites_count": 23707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232397242725752833/8AEFHE2C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232397242725752833/8AEFHE2C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193427912/1586005151",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fred Haise is a bit of an astronaut legend for his role in #Apollo13's safe return 50 years ago this week. But he also flew #Shuttle OV-101 Enterprise during the first free flight of the ALT trials from the back of a #B747 in 1977 @NASA https://t.co/l1sI9fppQt"
+	},
+	{
 		"created_at": "Sat Apr 11 23:13:55 +0000 2020",
 		"id": 1248899387046219800,
 		"id_str": "1249113478465490945",
