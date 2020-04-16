@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 16:33:44 +0000 2020",
+		"id": 1250824709199007700,
+		"id_str": "1250824709199007756",
+		"full_text": "That’s 1.2% dead, compared to about 43% recovered. \n\nI hate to sound like Mayor Carolyn Goodman, but that’s not that bad… https://t.co/ng3Bcp4iJN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ng3Bcp4iJN",
+					"expanded_url": "https://twitter.com/JohnCooper4Nash/status/1250794716427423749",
+					"display_url": "twitter.com/JohnCooper4Nas…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 198,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250794716427423700,
+		"quoted_status_id_str": "1250794716427423749",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ng3Bcp4iJN",
+			"expanded": "https://twitter.com/JohnCooper4Nash/status/1250794716427423749",
+			"display": "twitter.com/JohnCooper4Nas…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 16 14:34:33 +0000 2020",
+			"id": 1250794716427423700,
+			"id_str": "1250794716427423749",
+			"full_text": "We have 1,560 confirmed #COVID19 cases in Davidson County as of today, an increase of 68 in the past 24 hours. Please continue to follow our #SaferAtHome plan and help us keep our community safe. https://t.co/kw7NtNFAjG https://t.co/Rdebgfr5KF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				219
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							24,
+							32
+						]
+					},
+					{
+						"text": "SaferAtHome",
+						"indices": [
+							141,
+							153
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kw7NtNFAjG",
+						"expanded_url": "https://www.asafenashville.org/updates/daily-metro-covid19-press-update-for-04-16-20/",
+						"display_url": "asafenashville.org/updates/daily-…",
+						"indices": [
+							196,
+							219
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1250794715135586300,
+						"id_str": "1250794715135586304",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/EVu3KpqXsAAubKc.png",
+						"media_url_https": "https://pbs.twimg.com/media/EVu3KpqXsAAubKc.png",
+						"url": "https://t.co/Rdebgfr5KF",
+						"display_url": "pic.twitter.com/Rdebgfr5KF",
+						"expanded_url": "https://twitter.com/JohnCooper4Nash/status/1250794716427423749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 411,
+								"h": 365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 411,
+								"h": 365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 411,
+								"h": 365,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1250794715135586300,
+						"id_str": "1250794715135586304",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/EVu3KpqXsAAubKc.png",
+						"media_url_https": "https://pbs.twimg.com/media/EVu3KpqXsAAubKc.png",
+						"url": "https://t.co/Rdebgfr5KF",
+						"display_url": "pic.twitter.com/Rdebgfr5KF",
+						"expanded_url": "https://twitter.com/JohnCooper4Nash/status/1250794716427423749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 411,
+								"h": 365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 411,
+								"h": 365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 411,
+								"h": 365,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1114307317821005800,
+				"id_str": "1114307317821005826",
+				"name": "Mayor John Cooper",
+				"screen_name": "JohnCooper4Nash",
+				"location": "Nashville, TN",
+				"description": "Mayor of Metropolitan Nashville and Davidson County. Terms of Use: https://t.co/E1CJt7moDX",
+				"url": "https://t.co/C5THEdnQDK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C5THEdnQDK",
+								"expanded_url": "http://nashville.gov/Mayors-office.aspx",
+								"display_url": "nashville.gov/Mayors-office.…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/E1CJt7moDX",
+								"expanded_url": "http://bit.ly/nSMtou",
+								"display_url": "bit.ly/nSMtou",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12117,
+				"friends_count": 786,
+				"listed_count": 78,
+				"created_at": "Fri Apr 05 23:22:22 +0000 2019",
+				"favourites_count": 1957,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1484,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1114314267640115201/krI3DlG7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114314267640115201/krI3DlG7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114307317821005826/1557596771",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That’s 1.2% dead, compared to about 43% recovered. \n\nI hate to sound like Mayor Carolyn Goodman, but that’s not that bad… https://t.co/ng3Bcp4iJN"
+	},
+	{
 		"created_at": "Wed Apr 15 17:15:12 +0000 2020",
 		"id": 1250465617678946300,
 		"id_str": "1250472757927776259",
