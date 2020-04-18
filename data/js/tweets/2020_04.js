@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 20:39:29 +0000 2020",
+		"id": 1251611329611403300,
+		"id_str": "1251611329611403264",
+		"full_text": "Did anyone catch “Menuchin”?\n\nOutside of Austin, I hate Texas. https://t.co/02gIbVEcZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/02gIbVEcZ5",
+					"expanded_url": "https://twitter.com/James_Barragan/status/1251564643887218688",
+					"display_url": "twitter.com/James_Barragan…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 199,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1251564643887218700,
+		"quoted_status_id_str": "1251564643887218688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/02gIbVEcZ5",
+			"expanded": "https://twitter.com/James_Barragan/status/1251564643887218688",
+			"display": "twitter.com/James_Barragan…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 18 17:33:58 +0000 2020",
+			"id": 1251564643887218700,
+			"id_str": "1251564643887218688",
+			"full_text": "Lots of protest speakers saying Trump should fire Fauci who they say “made up” the coronavirus. They call him Fascist Fauci https://t.co/HzZBrPuSp7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1251564625650430000,
+						"id_str": "1251564625650429953",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/EV5zZV1WsAE6qEr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EV5zZV1WsAE6qEr.jpg",
+						"url": "https://t.co/HzZBrPuSp7",
+						"display_url": "pic.twitter.com/HzZBrPuSp7",
+						"expanded_url": "https://twitter.com/James_Barragan/status/1251564643887218688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1251564625650430000,
+						"id_str": "1251564625650429953",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/EV5zZV1WsAE6qEr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EV5zZV1WsAE6qEr.jpg",
+						"url": "https://t.co/HzZBrPuSp7",
+						"display_url": "pic.twitter.com/HzZBrPuSp7",
+						"expanded_url": "https://twitter.com/James_Barragan/status/1251564643887218688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 418444977,
+				"id_str": "418444977",
+				"name": "James Barragán",
+				"screen_name": "James_Barragan",
+				"location": "Austin, TX",
+				"description": "Statehouse reporter for Texas' leading newspaper @dallasnews. @NAHJ member. 2017-2018 @reveal investigative fellow. Hablo español. Phone: 512-370-3801",
+				"url": "https://t.co/tPK8aeDFzr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tPK8aeDFzr",
+								"expanded_url": "http://www.dallasnews.com/author/james-barragan",
+								"display_url": "dallasnews.com/author/james-b…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6559,
+				"friends_count": 4173,
+				"listed_count": 298,
+				"created_at": "Tue Nov 22 05:37:20 +0000 2011",
+				"favourites_count": 19800,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43622,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033145903895330816/yFo8xI0l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033145903895330816/yFo8xI0l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/418444977/1566945905",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 104,
+			"favorite_count": 125,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did anyone catch “Menuchin”?\n\nOutside of Austin, I hate Texas. https://t.co/02gIbVEcZ5"
+	},
+	{
 		"created_at": "Fri Apr 17 16:51:10 +0000 2020",
 		"id": 1251191485979963400,
 		"id_str": "1251191485979963392",
