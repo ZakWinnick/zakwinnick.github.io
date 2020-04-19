@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 03:20:08 +0000 2020",
+		"id": 1251712155822555100,
+		"id_str": "1251712155822555137",
+		"full_text": "Go to https://t.co/gtUkDH78bE and buy either the paper or digital copy of the new Spring 2020 issue. \n\nThey’re only $5.\n\n2600 has been around for a LONG time, and let’s not see them disappear due to the stupidity of our country, our government, and @BNBuzz. https://t.co/p5bPJ6tFtS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BNBuzz",
+					"name": "Barnes & Noble",
+					"id": 32166535,
+					"id_str": "32166535",
+					"indices": [
+						249,
+						256
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gtUkDH78bE",
+					"expanded_url": "http://2600.com",
+					"display_url": "2600.com",
+					"indices": [
+						6,
+						29
+					]
+				},
+				{
+					"url": "https://t.co/p5bPJ6tFtS",
+					"expanded_url": "https://twitter.com/2600/status/1250467018140237824",
+					"display_url": "twitter.com/2600/status/12…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 201,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250467018140237800,
+		"quoted_status_id_str": "1250467018140237824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p5bPJ6tFtS",
+			"expanded": "https://twitter.com/2600/status/1250467018140237824",
+			"display": "twitter.com/2600/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 15 16:52:24 +0000 2020",
+			"id": 1250467018140237800,
+			"id_str": "1250467018140237824",
+			"full_text": "Our new issue is out along with some important updates. https://t.co/hoIawMxyH3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hoIawMxyH3",
+						"expanded_url": "https://2600.com/content/spring-issue-2600-released-important-news",
+						"display_url": "2600.com/content/spring…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40283581,
+				"id_str": "40283581",
+				"name": "2600 Magazine",
+				"screen_name": "2600",
+				"location": "We Are Everywhere",
+				"description": "The Hacker Quarterly",
+				"url": "http://t.co/YQS2NQlklJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YQS2NQlklJ",
+								"expanded_url": "http://www.2600.com",
+								"display_url": "2600.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48450,
+				"friends_count": 4,
+				"listed_count": 1714,
+				"created_at": "Fri May 15 17:08:58 +0000 2009",
+				"favourites_count": 299,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3813,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/213376813/masthead_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/213376813/masthead_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40283581/1508972072",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Go to https://t.co/gtUkDH78bE and buy either the paper or digital copy of the new Spring 2020 issue. \n\nThey’re only $5.\n\n2600 has been around for a LONG time, and let’s not see them disappear due to the stupidity of our country, our government, and @BNBuzz. https://t.co/p5bPJ6tFtS"
+	},
+	{
 		"created_at": "Sun Apr 19 03:15:04 +0000 2020",
 		"id": 1251710880938688500,
 		"id_str": "1251710880938688512",
