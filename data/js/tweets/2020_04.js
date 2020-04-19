@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 03:15:04 +0000 2020",
+		"id": 1251710880938688500,
+		"id_str": "1251710880938688512",
+		"full_text": "I give up... https://t.co/K8pVH8m81o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K8pVH8m81o",
+					"expanded_url": "https://twitter.com/Breaking911/status/1251574155289464834",
+					"display_url": "twitter.com/Breaking911/st…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 201,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981468631191554/C5CAddRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1572213500",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1251574155289464800,
+		"quoted_status_id_str": "1251574155289464834",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K8pVH8m81o",
+			"expanded": "https://twitter.com/Breaking911/status/1251574155289464834",
+			"display": "twitter.com/Breaking911/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 18 18:11:46 +0000 2020",
+			"id": 1251574155289464800,
+			"id_str": "1251574155289464834",
+			"full_text": "Los Angeles fills Venice Skate Park with sand amid #CoronavirusOutbreak \n\n https://t.co/DSWyRGpx5k",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CoronavirusOutbreak",
+						"indices": [
+							51,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1251532139130007600,
+						"id_str": "1251532139130007554",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251532139130007554/pu/img/Rh9v3G-zoCsPgSHK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251532139130007554/pu/img/Rh9v3G-zoCsPgSHK.jpg",
+						"url": "https://t.co/DSWyRGpx5k",
+						"display_url": "pic.twitter.com/DSWyRGpx5k",
+						"expanded_url": "https://twitter.com/Hunter_Weiss/status/1251532252917293056/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1251532252917293000,
+						"source_status_id_str": "1251532252917293056",
+						"source_user_id": 289213600,
+						"source_user_id_str": "289213600"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1251532139130007600,
+						"id_str": "1251532139130007554",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251532139130007554/pu/img/Rh9v3G-zoCsPgSHK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251532139130007554/pu/img/Rh9v3G-zoCsPgSHK.jpg",
+						"url": "https://t.co/DSWyRGpx5k",
+						"display_url": "pic.twitter.com/DSWyRGpx5k",
+						"expanded_url": "https://twitter.com/Hunter_Weiss/status/1251532252917293056/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1251532252917293000,
+						"source_status_id_str": "1251532252917293056",
+						"source_user_id": 289213600,
+						"source_user_id_str": "289213600",
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 40007,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1251532139130007554/pu/vid/320x400/asV-pYZ02YkUpBXM.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1251532139130007554/pu/vid/720x900/u6tBoHV1MHiRqKwP.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1251532139130007554/pu/pl/V7hUOzyjXZcirDPw.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1251532139130007554/pu/vid/360x450/MHR3z3ljtRXm1D6l.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 289213600,
+								"id_str": "289213600",
+								"name": "HUNTER WE!SS",
+								"screen_name": "Hunter_Weiss",
+								"location": "Los Angeles, CA",
+								"description": "Producer | Creating Videos That Spark Conversation | Video Marketing | Current Freelancer, Former @NFL Creator | 110% | @uarizona grad",
+								"url": "https://t.co/zf9jxJcFIm",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/zf9jxJcFIm",
+												"expanded_url": "http://hunterweiss.com",
+												"display_url": "hunterweiss.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1148,
+								"friends_count": 454,
+								"listed_count": 7,
+								"created_at": "Thu Apr 28 07:03:34 +0000 2011",
+								"favourites_count": 29840,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 3791,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "FF0022",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1251197567284596736/poFec7QU_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251197567284596736/poFec7QU_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/289213600/1577258402",
+								"profile_link_color": "1B95E0",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 375721095,
+				"id_str": "375721095",
+				"name": "Breaking911",
+				"screen_name": "Breaking911",
+				"location": "Nashville",
+				"description": "Breaking news in real time. Turn on notifications & visit https://t.co/RWBI1f2gDw to stay updated | Follow us on Facebook & Instagram",
+				"url": "https://t.co/RWBI1f2gDw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RWBI1f2gDw",
+								"expanded_url": "http://Breaking911.com",
+								"display_url": "Breaking911.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RWBI1f2gDw",
+								"expanded_url": "http://Breaking911.com",
+								"display_url": "Breaking911.com",
+								"indices": [
+									58,
+									81
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 522300,
+				"friends_count": 0,
+				"listed_count": 5504,
+				"created_at": "Sun Sep 18 16:36:06 +0000 2011",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 232,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/619546088995979264/KuG27bBK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/619546088995979264/KuG27bBK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/375721095/1496844300",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5702,
+			"favorite_count": 8573,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I give up... https://t.co/K8pVH8m81o"
+	},
+	{
 		"created_at": "Sat Apr 18 20:39:29 +0000 2020",
 		"id": 1251611329611403300,
 		"id_str": "1251611329611403264",
