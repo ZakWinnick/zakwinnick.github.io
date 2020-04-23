@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 12:38:23 +0000 2020",
+		"id": 1253289085214605300,
+		"id_str": "1253302197502324738",
+		"full_text": "Happy Birthday+Deathday William Shakespeare\n\nBorn: April 23, 1564\nDied: April 23, 1616\n\nA contemporary of Johannes Kepler, Tycho Brahe, Francis Bacon, &amp; Galileo https://t.co/AdWKc5wkAo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253289028570538000,
+					"id_str": "1253289028570537985",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EWSTuzTXYAEn5Tt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWSTuzTXYAEn5Tt.jpg",
+					"url": "https://t.co/AdWKc5wkAo",
+					"display_url": "pic.twitter.com/AdWKc5wkAo",
+					"expanded_url": "https://twitter.com/neiltyson/status/1253289085214605312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1196,
+							"h": 923,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1196,
+							"h": 923,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253289028570538000,
+					"id_str": "1253289028570537985",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EWSTuzTXYAEn5Tt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWSTuzTXYAEn5Tt.jpg",
+					"url": "https://t.co/AdWKc5wkAo",
+					"display_url": "pic.twitter.com/AdWKc5wkAo",
+					"expanded_url": "https://twitter.com/neiltyson/status/1253289085214605312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1196,
+							"h": 923,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1196,
+							"h": 923,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19725644,
+			"id_str": "19725644",
+			"name": "Neil deGrasse Tyson",
+			"screen_name": "neiltyson",
+			"location": "New York City",
+			"description": "Astrophysicist",
+			"url": "http://t.co/FRT5oYtwbX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FRT5oYtwbX",
+							"expanded_url": "http://www.haydenplanetarium.org/tyson/",
+							"display_url": "haydenplanetarium.org/tyson/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13840749,
+			"friends_count": 39,
+			"listed_count": 47440,
+			"created_at": "Thu Jan 29 18:40:26 +0000 2009",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/74188698/NeilTysonOriginsA-Crop_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/74188698/NeilTysonOriginsA-Crop_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19725644/1493743287",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1161,
+		"favorite_count": 7418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Birthday+Deathday William Shakespeare\n\nBorn: April 23, 1564\nDied: April 23, 1616\n\nA contemporary of Johannes Kepler, Tycho Brahe, Francis Bacon, &amp; Galileo https://t.co/AdWKc5wkAo"
+	},
+	{
 		"created_at": "Thu Apr 23 02:01:00 +0000 2020",
 		"id": 1253141795057303600,
 		"id_str": "1253141795057303553",
