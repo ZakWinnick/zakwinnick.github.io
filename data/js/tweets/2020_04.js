@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 17:27:36 +0000 2020",
+		"id": 1253374979724529700,
+		"id_str": "1253374979724529666",
+		"full_text": "Life (death?) goals... https://t.co/PvQnhuDOGp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PvQnhuDOGp",
+					"expanded_url": "https://twitter.com/neiltyson/status/1253358470339989505",
+					"display_url": "twitter.com/neiltyson/stat…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 202,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252645188444524545/bHj34SzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252645188444524545/bHj34SzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1587488861",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253358470339989500,
+		"quoted_status_id_str": "1253358470339989505",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PvQnhuDOGp",
+			"expanded": "https://twitter.com/neiltyson/status/1253358470339989505",
+			"display": "twitter.com/neiltyson/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 23 16:22:00 +0000 2020",
+			"id": 1253358470339989500,
+			"id_str": "1253358470339989505",
+			"full_text": "Geeky Physics Fact: \n\nIf you die on your Birthday in the same hospital you were born, then your Average Velocity through life on Earth was zero.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19725644,
+				"id_str": "19725644",
+				"name": "Neil deGrasse Tyson",
+				"screen_name": "neiltyson",
+				"location": "New York City",
+				"description": "Astrophysicist",
+				"url": "http://t.co/FRT5oYtwbX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/FRT5oYtwbX",
+								"expanded_url": "http://www.haydenplanetarium.org/tyson/",
+								"display_url": "haydenplanetarium.org/tyson/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13841426,
+				"friends_count": 39,
+				"listed_count": 47444,
+				"created_at": "Thu Jan 29 18:40:26 +0000 2009",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6673,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/74188698/NeilTysonOriginsA-Crop_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/74188698/NeilTysonOriginsA-Crop_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19725644/1493743287",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4301,
+			"favorite_count": 28511,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Life (death?) goals... https://t.co/PvQnhuDOGp"
+	},
+	{
 		"created_at": "Thu Apr 23 12:38:23 +0000 2020",
 		"id": 1253289085214605300,
 		"id_str": "1253302197502324738",
