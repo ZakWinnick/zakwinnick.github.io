@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 22:12:27 +0000 2020",
+		"id": 1253446666730066000,
+		"id_str": "1253446666730065921",
+		"full_text": "Brilliant. https://t.co/X8JwW93vkE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X8JwW93vkE",
+					"expanded_url": "https://twitter.com/BrentTerhune/status/1253432846598823938",
+					"display_url": "twitter.com/BrentTerhune/s…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 202,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252645188444524545/bHj34SzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252645188444524545/bHj34SzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1587488861",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253432846598824000,
+		"quoted_status_id_str": "1253432846598823938",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X8JwW93vkE",
+			"expanded": "https://twitter.com/BrentTerhune/status/1253432846598823938",
+			"display": "twitter.com/BrentTerhune/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 23 21:17:32 +0000 2020",
+			"id": 1253432846598824000,
+			"id_str": "1253432846598823938",
+			"full_text": "Stay at home order is BULLSHIT. OPEN UP VEGAS https://t.co/GtTEWfvTLC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1253432272709017600,
+						"id_str": "1253432272709017601",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253432272709017601/pu/img/KXAt2_eM35oCT7s8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253432272709017601/pu/img/KXAt2_eM35oCT7s8.jpg",
+						"url": "https://t.co/GtTEWfvTLC",
+						"display_url": "pic.twitter.com/GtTEWfvTLC",
+						"expanded_url": "https://twitter.com/BrentTerhune/status/1253432846598823938/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1253432272709017600,
+						"id_str": "1253432272709017601",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253432272709017601/pu/img/KXAt2_eM35oCT7s8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253432272709017601/pu/img/KXAt2_eM35oCT7s8.jpg",
+						"url": "https://t.co/GtTEWfvTLC",
+						"display_url": "pic.twitter.com/GtTEWfvTLC",
+						"expanded_url": "https://twitter.com/BrentTerhune/status/1253432846598823938/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 103507,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253432272709017601/pu/vid/1280x720/LYnOOKDFMvE0KnTp.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253432272709017601/pu/vid/480x270/sdINzqP5W16g3fNG.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1253432272709017601/pu/pl/s6vXc0uJEgpnZDWC.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253432272709017601/pu/vid/640x360/_9dSXaSsyBrgMsBG.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30826525,
+				"id_str": "30826525",
+				"name": "Brent Terhune",
+				"screen_name": "BrentTerhune",
+				"location": "",
+				"description": "2nd Amendment. Disciple of Christ. Don’t trust the media.",
+				"url": "https://t.co/UONNuiLtv5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UONNuiLtv5",
+								"expanded_url": "https://tinyurl.com/rcc9c5h",
+								"display_url": "tinyurl.com/rcc9c5h",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70051,
+				"friends_count": 4217,
+				"listed_count": 239,
+				"created_at": "Mon Apr 13 07:27:17 +0000 2009",
+				"favourites_count": 35179,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18986,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1253432712976691214/j1ZBoMAT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253432712976691214/j1ZBoMAT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30826525/1587676623",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 551,
+			"favorite_count": 2490,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brilliant. https://t.co/X8JwW93vkE"
+	},
+	{
 		"created_at": "Thu Apr 23 17:27:36 +0000 2020",
 		"id": 1253374979724529700,
 		"id_str": "1253374979724529666",
