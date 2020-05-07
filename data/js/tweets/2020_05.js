@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 00:06:57 +0000 2020",
+		"id": 1258186523339632600,
+		"id_str": "1258186523339632640",
+		"full_text": "All the more reason to not use any of these apps… https://t.co/Fu5Bxvjrgy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fu5Bxvjrgy",
+					"expanded_url": "https://twitter.com/AppleTerminal/status/1258183394279784449",
+					"display_url": "twitter.com/AppleTerminal/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 200,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252645188444524545/bHj34SzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252645188444524545/bHj34SzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1587488861",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258183394279784400,
+		"quoted_status_id_str": "1258183394279784449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Fu5Bxvjrgy",
+			"expanded": "https://twitter.com/AppleTerminal/status/1258183394279784449",
+			"display": "twitter.com/AppleTerminal/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 06 23:54:31 +0000 2020",
+			"id": 1258183394279784400,
+			"id_str": "1258183394279784449",
+			"full_text": "Here's an ongoing list of what apps are crashing on #iOS13 due to the #Facebook SDK:\n\n1. #Tiktok\n2. #Spotify\n3. #Tumblr\n4. #Duolingo\n5. #Revoult\n6. #PUGBMobile\n7. #Calm\n8. #Pintrest\n\nThis list will be updated. If you found an app having issues, let us know.\n\n@Apple #Apple #iOS https://t.co/PXXsw3bWNq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "iOS13",
+						"indices": [
+							52,
+							58
+						]
+					},
+					{
+						"text": "Facebook",
+						"indices": [
+							70,
+							79
+						]
+					},
+					{
+						"text": "Tiktok",
+						"indices": [
+							89,
+							96
+						]
+					},
+					{
+						"text": "Spotify",
+						"indices": [
+							100,
+							108
+						]
+					},
+					{
+						"text": "Tumblr",
+						"indices": [
+							112,
+							119
+						]
+					},
+					{
+						"text": "Duolingo",
+						"indices": [
+							123,
+							132
+						]
+					},
+					{
+						"text": "Revoult",
+						"indices": [
+							136,
+							144
+						]
+					},
+					{
+						"text": "PUGBMobile",
+						"indices": [
+							148,
+							159
+						]
+					},
+					{
+						"text": "Calm",
+						"indices": [
+							163,
+							168
+						]
+					},
+					{
+						"text": "Pintrest",
+						"indices": [
+							172,
+							181
+						]
+					},
+					{
+						"text": "Apple",
+						"indices": [
+							266,
+							272
+						]
+					},
+					{
+						"text": "iOS",
+						"indices": [
+							273,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Apple",
+						"name": "Apple",
+						"id": 380749300,
+						"id_str": "380749300",
+						"indices": [
+							259,
+							265
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1258183239727902700,
+						"id_str": "1258183239727902720",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EXX2_YpU8AA2G3H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXX2_YpU8AA2G3H.jpg",
+						"url": "https://t.co/PXXsw3bWNq",
+						"display_url": "pic.twitter.com/PXXsw3bWNq",
+						"expanded_url": "https://twitter.com/AppleTerminal/status/1258183394279784449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1258183239727902700,
+						"id_str": "1258183239727902720",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EXX2_YpU8AA2G3H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXX2_YpU8AA2G3H.jpg",
+						"url": "https://t.co/PXXsw3bWNq",
+						"display_url": "pic.twitter.com/PXXsw3bWNq",
+						"expanded_url": "https://twitter.com/AppleTerminal/status/1258183394279784449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1135468733957386200,
+				"id_str": "1135468733957386240",
+				"name": "Apple Terminal",
+				"screen_name": "AppleTerminal",
+				"location": "",
+				"description": "Your new favorite independent Apple news source. From beta, to jailbreak, to even Apple stock news, we cover it all. Follow us to keep up with the latest.",
+				"url": "https://t.co/5rdVAFBKu4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5rdVAFBKu4",
+								"expanded_url": "http://appleterm.com",
+								"display_url": "appleterm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7605,
+				"friends_count": 5,
+				"listed_count": 73,
+				"created_at": "Mon Jun 03 08:50:16 +0000 2019",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4998,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1176738887659610112/_nSS9d4e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176738887659610112/_nSS9d4e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135468733957386240/1586584179",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All the more reason to not use any of these apps… https://t.co/Fu5Bxvjrgy"
+	},
+	{
 		"created_at": "Wed May 06 12:21:35 +0000 2020",
 		"id": 1258009010915152000,
 		"id_str": "1258009010915151877",
