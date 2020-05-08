@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 02:05:47 +0000 2020",
+		"id": 1258572336762179600,
+		"id_str": "1258578814541664256",
+		"full_text": "You guys are off to a great start! But you’re doing the hashtags wrong. It took me awhile to figure it out too. Try #HashtagDisneyMagicMoments. From one Social Media Security Guard to another. #HashtagTheCowboy Thanks, Tim https://t.co/hn8MvumTNd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HashtagDisneyMagicMoments",
+					"indices": [
+						116,
+						142
+					]
+				},
+				{
+					"text": "HashtagTheCowboy",
+					"indices": [
+						193,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hn8MvumTNd",
+					"expanded_url": "https://twitter.com/disneyparks/status/1258552167394275328",
+					"display_url": "twitter.com/disneyparks/st…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28590877,
+			"id_str": "28590877",
+			"name": "Nat'l Cowboy Museum",
+			"screen_name": "ncwhm",
+			"location": "1700 NE 63rd Street | OKC",
+			"description": "From fine art, pop culture & Halls of Fame to Native American objects, historical cowboy gear, shopping & dining, The Cowboy tells America's Western story.",
+			"url": "https://t.co/bWOhhDRuND",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bWOhhDRuND",
+							"expanded_url": "http://nationalcowboymuseum.org/",
+							"display_url": "nationalcowboymuseum.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308688,
+			"friends_count": 2535,
+			"listed_count": 727,
+			"created_at": "Fri Apr 03 15:56:41 +0000 2009",
+			"favourites_count": 5924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869575573466513413/WtTz0HQU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869575573466513413/WtTz0HQU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28590877/1577975125",
+			"profile_link_color": "0BBDFE",
+			"profile_sidebar_border_color": "A1AA9D",
+			"profile_sidebar_fill_color": "E6F8DD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258552167394275300,
+		"quoted_status_id_str": "1258552167394275328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hn8MvumTNd",
+			"expanded": "https://twitter.com/disneyparks/status/1258552167394275328",
+			"display": "twitter.com/disneyparks/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 08 00:19:54 +0000 2020",
+			"id": 1258552167394275300,
+			"id_str": "1258552167394275328",
+			"full_text": "Last night, members of our Security teams at @WaltDisneyWorld Resort and @Disneyland Resort “took over” our Twitter accounts to give fans a peek inside the parks. Check out their adventure: https://t.co/TNn64KoCnr #DisneyMagicMoments #DisneyCastLife https://t.co/r3ACnVozJo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DisneyMagicMoments",
+						"indices": [
+							214,
+							233
+						]
+					},
+					{
+						"text": "DisneyCastLife",
+						"indices": [
+							234,
+							249
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WaltDisneyWorld",
+						"name": "Walt Disney World",
+						"id": 15220473,
+						"id_str": "15220473",
+						"indices": [
+							45,
+							61
+						]
+					},
+					{
+						"screen_name": "Disneyland",
+						"name": "Disneyland Resort",
+						"id": 12378512,
+						"id_str": "12378512",
+						"indices": [
+							73,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TNn64KoCnr",
+						"expanded_url": "https://bit.ly/2WAenON",
+						"display_url": "bit.ly/2WAenON",
+						"indices": [
+							190,
+							213
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1258552153758675000,
+						"id_str": "1258552153758674944",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/EXdGhAgWsAAe5-2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXdGhAgWsAAe5-2.jpg",
+						"url": "https://t.co/r3ACnVozJo",
+						"display_url": "pic.twitter.com/r3ACnVozJo",
+						"expanded_url": "https://twitter.com/DisneyParks/status/1258552167394275328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1258552153758675000,
+						"id_str": "1258552153758674944",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/EXdGhAgWsAAe5-2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXdGhAgWsAAe5-2.jpg",
+						"url": "https://t.co/r3ACnVozJo",
+						"display_url": "pic.twitter.com/r3ACnVozJo",
+						"expanded_url": "https://twitter.com/DisneyParks/status/1258552167394275328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1258552158703833000,
+						"id_str": "1258552158703833093",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/EXdGhS7X0AUfzjZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXdGhS7X0AUfzjZ.jpg",
+						"url": "https://t.co/r3ACnVozJo",
+						"display_url": "pic.twitter.com/r3ACnVozJo",
+						"expanded_url": "https://twitter.com/DisneyParks/status/1258552167394275328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29484644,
+				"id_str": "29484644",
+				"name": "Disney Parks",
+				"screen_name": "DisneyParks",
+				"location": "Orlando, FL",
+				"description": "The official Twitter feed for Disney Parks & Resorts - covering Disneyland Resort, Walt Disney World, Disney Cruise Line and properties worldwide",
+				"url": "http://t.co/lM5dUoVtPO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/lM5dUoVtPO",
+								"expanded_url": "http://disneyparks.com",
+								"display_url": "disneyparks.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1828396,
+				"friends_count": 28,
+				"listed_count": 8573,
+				"created_at": "Tue Apr 07 16:38:44 +0000 2009",
+				"favourites_count": 484,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 31017,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C0A72",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1106283072423641090/0ra0I7gR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106283072423641090/0ra0I7gR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29484644/1586177154",
+				"profile_link_color": "00008B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DCF3FA",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 72,
+			"favorite_count": 799,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 89,
+		"favorite_count": 1249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You guys are off to a great start! But you’re doing the hashtags wrong. It took me awhile to figure it out too. Try #HashtagDisneyMagicMoments. From one Social Media Security Guard to another. #HashtagTheCowboy Thanks, Tim https://t.co/hn8MvumTNd"
+	},
+	{
 		"created_at": "Thu May 07 00:06:57 +0000 2020",
 		"id": 1258186523339632600,
 		"id_str": "1258186523339632640",
