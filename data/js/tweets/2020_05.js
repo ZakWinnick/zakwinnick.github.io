@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 20:16:52 +0000 2020",
+		"id": 1259154928435675100,
+		"id_str": "1259215784376774658",
+		"full_text": "\"The innovator...the originator...the emancipator...\" The architect of rock n roll, #LittleRichard, passed this morning at the age of 87. We cannot thank him enough for his work, his power, and for standing in his own greatness and encouraging us all to do the same. https://t.co/n0gQA6GVuk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LittleRichard",
+					"indices": [
+						84,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259154924279038000,
+					"id_str": "1259154924279037953",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EXlqu3rWAAEeihH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXlqu3rWAAEeihH.jpg",
+					"url": "https://t.co/n0gQA6GVuk",
+					"display_url": "pic.twitter.com/n0gQA6GVuk",
+					"expanded_url": "https://twitter.com/theNMAAM/status/1259154928435675137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259154924279038000,
+					"id_str": "1259154924279037953",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EXlqu3rWAAEeihH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXlqu3rWAAEeihH.jpg",
+					"url": "https://t.co/n0gQA6GVuk",
+					"display_url": "pic.twitter.com/n0gQA6GVuk",
+					"expanded_url": "https://twitter.com/theNMAAM/status/1259154928435675137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.contentcal.io\" rel=\"nofollow\">ContentCal Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 347971879,
+			"id_str": "347971879",
+			"name": "the NMAAM",
+			"screen_name": "theNMAAM",
+			"location": "Nashville, TN",
+			"description": "The only museum dedicated to the numerous contributions African Americans have made to music around the world. Opening Labor Day weekend 2020.",
+			"url": "https://t.co/qzsKgqEP3F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qzsKgqEP3F",
+							"expanded_url": "http://nmaam.org",
+							"display_url": "nmaam.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2785,
+			"friends_count": 1250,
+			"listed_count": 56,
+			"created_at": "Wed Aug 03 17:27:05 +0000 2011",
+			"favourites_count": 2278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854298997162430464/IwZ3yQUv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854298997162430464/IwZ3yQUv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/347971879/1570554007",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "707070",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "F7840A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The innovator...the originator...the emancipator...\" The architect of rock n roll, #LittleRichard, passed this morning at the age of 87. We cannot thank him enough for his work, his power, and for standing in his own greatness and encouraging us all to do the same. https://t.co/n0gQA6GVuk"
+	},
+	{
 		"created_at": "Sat May 09 02:29:06 +0000 2020",
 		"id": 1258946904051851300,
 		"id_str": "1258947071870210049",
