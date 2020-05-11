@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 00:26:07 +0000 2020",
+		"id": 1259640898192838700,
+		"id_str": "1259640898192838657",
+		"full_text": "One of the few movies I *always* watch whenever it’s on TV… https://t.co/VoVVPo1xnL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VoVVPo1xnL",
+					"expanded_url": "https://twitter.com/TylerJRoney/status/1259501487841034241",
+					"display_url": "twitter.com/TylerJRoney/st…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 201,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252645188444524545/bHj34SzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252645188444524545/bHj34SzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1587488861",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1259501487841034200,
+		"quoted_status_id_str": "1259501487841034241",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VoVVPo1xnL",
+			"expanded": "https://twitter.com/TylerJRoney/status/1259501487841034241",
+			"display": "twitter.com/TylerJRoney/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 10 15:12:09 +0000 2020",
+			"id": 1259501487841034200,
+			"id_str": "1259501487841034241",
+			"full_text": "One of the best movies of all time was released 24 years ago today. https://t.co/srQLXVXznn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1259501477288173600,
+						"id_str": "1259501477288173574",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/EXql66PXYAYFwqm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXql66PXYAYFwqm.jpg",
+						"url": "https://t.co/srQLXVXznn",
+						"display_url": "pic.twitter.com/srQLXVXznn",
+						"expanded_url": "https://twitter.com/TylerJRoney/status/1259501487841034241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1524,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 506,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 893,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1259501477288173600,
+						"id_str": "1259501477288173574",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/EXql66PXYAYFwqm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXql66PXYAYFwqm.jpg",
+						"url": "https://t.co/srQLXVXznn",
+						"display_url": "pic.twitter.com/srQLXVXznn",
+						"expanded_url": "https://twitter.com/TylerJRoney/status/1259501487841034241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1524,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 506,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 893,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24651716,
+				"id_str": "24651716",
+				"name": "Tyler Roney",
+				"screen_name": "TylerJRoney",
+				"location": "Sioux Falls, SD",
+				"description": "First Alert Meteorologist at Dakota News Now in Sioux Falls☀️⛈ Iowa State alum and Broncos fan. 2x Cat Dad 🐱🐱 Soon to be Dad! Opinions are my own.",
+				"url": "https://t.co/r1RB7UMvV1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r1RB7UMvV1",
+								"expanded_url": "https://www.dakotanewsnow.com/content/bios/567353911.html",
+								"display_url": "dakotanewsnow.com/content/bios/5…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6424,
+				"friends_count": 1774,
+				"listed_count": 70,
+				"created_at": "Mon Mar 16 04:46:45 +0000 2009",
+				"favourites_count": 86284,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37377,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1232441566456885248/GcFDyvEb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232441566456885248/GcFDyvEb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24651716/1583534115",
+				"profile_link_color": "CF6F1B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F05132",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 255,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of the few movies I *always* watch whenever it’s on TV… https://t.co/VoVVPo1xnL"
+	},
+	{
 		"created_at": "Sat May 09 20:20:24 +0000 2020",
 		"id": 1259216672235425800,
 		"id_str": "1259216672235425792",
