@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 14:47:02 +0000 2020",
+		"id": 1260211939084550100,
+		"id_str": "1260219940935815168",
+		"full_text": "We’re teaming up w/ @GetWeVPN to give away an iPhone 11 Pro, or iPhone SE (winner’s choice)!\n\nNo contests or downloads required.\n\nWe REALLY believe @GetWeVPN deserves your attention right now — so retweet this &amp; follow them, that’s it!\n\nEnds next week. 🤗\nhttps://t.co/vy3nRsJlX8 https://t.co/VZL8mQgxvs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GetWeVPN",
+					"name": "WeVPN",
+					"id": 1239754221479747600,
+					"id_str": "1239754221479747586",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"screen_name": "GetWeVPN",
+					"name": "WeVPN",
+					"id": 1239754221479747600,
+					"id_str": "1239754221479747586",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vy3nRsJlX8",
+					"expanded_url": "http://wevpn.com/fpt",
+					"display_url": "wevpn.com/fpt",
+					"indices": [
+						259,
+						282
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260211925784330200,
+					"id_str": "1260211925784330242",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0sEdIWAAIrKT-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0sEdIWAAIrKT-.jpg",
+					"url": "https://t.co/VZL8mQgxvs",
+					"display_url": "pic.twitter.com/VZL8mQgxvs",
+					"expanded_url": "https://twitter.com/jon_prosser/status/1260211939084550146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260211925784330200,
+					"id_str": "1260211925784330242",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0sEdIWAAIrKT-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0sEdIWAAIrKT-.jpg",
+					"url": "https://t.co/VZL8mQgxvs",
+					"display_url": "pic.twitter.com/VZL8mQgxvs",
+					"expanded_url": "https://twitter.com/jon_prosser/status/1260211939084550146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 106542971,
+			"id_str": "106542971",
+			"name": "Jon Prosser",
+			"screen_name": "jon_prosser",
+			"location": "Arkansas, USA",
+			"description": "I made @frontpagetech. Tech analyst. Professional asshole. CEO of “I told you so”. Got info for me? DMs are open | Telegram frontpagetech | Signal 404-913-4226",
+			"url": "https://t.co/3finnftp83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3finnftp83",
+							"expanded_url": "http://youtube.com/frontpagetech",
+							"display_url": "youtube.com/frontpagetech",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 146315,
+			"friends_count": 274,
+			"listed_count": 729,
+			"created_at": "Tue Jan 19 22:24:16 +0000 2010",
+			"favourites_count": 12255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E2E2E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208933967422017536/WKG4SM41_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208933967422017536/WKG4SM41_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/106542971/1582960472",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2048,
+		"favorite_count": 1004,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re teaming up w/ @GetWeVPN to give away an iPhone 11 Pro, or iPhone SE (winner’s choice)!\n\nNo contests or downloads required.\n\nWe REALLY believe @GetWeVPN deserves your attention right now — so retweet this &amp; follow them, that’s it!\n\nEnds next week. 🤗\nhttps://t.co/vy3nRsJlX8 https://t.co/VZL8mQgxvs"
+	},
+	{
 		"created_at": "Tue May 12 13:59:58 +0000 2020",
 		"id": 1260208097232126000,
 		"id_str": "1260208097232125953",
