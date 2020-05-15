@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 00:08:46 +0000 2020",
+		"id": 1261086080746623000,
+		"id_str": "1261086080746622978",
+		"full_text": "Somebody please book a same-day, round trip ticket on this flight, and vlog it… https://t.co/Izh9VBehBD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Izh9VBehBD",
+					"expanded_url": "https://twitter.com/e_russell/status/1261047947619446786",
+					"display_url": "twitter.com/e_russell/stat…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 206,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261063003199475714/5LNL-JIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261063003199475714/5LNL-JIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1261047947619446800,
+		"quoted_status_id_str": "1261047947619446786",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Izh9VBehBD",
+			"expanded": "https://twitter.com/e_russell/status/1261047947619446786",
+			"display": "twitter.com/e_russell/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 14 21:37:14 +0000 2020",
+			"id": 1261047947619446800,
+			"id_str": "1261047947619446786",
+			"full_text": "American Airlines can claim the new shortest route in the U.S., it's 29 miles with mountain views (h/t @jasonblevins) https://t.co/sNg1FtLmXZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jasonblevins",
+						"name": "Jason ☀️ Blevins",
+						"id": 515990309,
+						"id_str": "515990309",
+						"indices": [
+							103,
+							116
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sNg1FtLmXZ",
+						"expanded_url": "https://bit.ly/3bvugf2",
+						"display_url": "bit.ly/3bvugf2",
+						"indices": [
+							118,
+							141
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51659154,
+				"id_str": "51659154",
+				"name": "Edward Russell",
+				"screen_name": "e_russell",
+				"location": "DC",
+				"description": "Aviation business at @thepointsguy. Former @FlightGlobal, @FinanceAsia. Runner, cyclist, transit and cities.",
+				"url": "https://t.co/N5dxOYyhX9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N5dxOYyhX9",
+								"expanded_url": "https://muckrack.com/edward-russell",
+								"display_url": "muckrack.com/edward-russell",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9613,
+				"friends_count": 976,
+				"listed_count": 359,
+				"created_at": "Sun Jun 28 05:24:31 +0000 2009",
+				"favourites_count": 39850,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 74163,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933299460997750785/eXrTyv4e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933299460997750785/eXrTyv4e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51659154/1512499109",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Somebody please book a same-day, round trip ticket on this flight, and vlog it… https://t.co/Izh9VBehBD"
+	},
+	{
 		"created_at": "Tue May 12 14:47:02 +0000 2020",
 		"id": 1260211939084550100,
 		"id_str": "1260219940935815168",
