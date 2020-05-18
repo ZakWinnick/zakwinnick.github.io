@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 01:35:50 +0000 2020",
+		"id": 1262108159981871000,
+		"id_str": "1262195156314357760",
+		"full_text": "This is a fucking novel. https://t.co/i9ExQUEXaR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1262108122707001300,
+					"id_str": "1262108122707001344",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EYPoppIWAAAiyXE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYPoppIWAAAiyXE.jpg",
+					"url": "https://t.co/i9ExQUEXaR",
+					"display_url": "pic.twitter.com/i9ExQUEXaR",
+					"expanded_url": "https://twitter.com/RobynElyse/status/1262108159981871105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1202,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262108122707001300,
+					"id_str": "1262108122707001344",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EYPoppIWAAAiyXE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYPoppIWAAAiyXE.jpg",
+					"url": "https://t.co/i9ExQUEXaR",
+					"display_url": "pic.twitter.com/i9ExQUEXaR",
+					"expanded_url": "https://twitter.com/RobynElyse/status/1262108159981871105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1202,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 803061715,
+			"id_str": "803061715",
+			"name": "Robyn Pennacchia",
+			"screen_name": "RobynElyse",
+			"location": "Ukrainian Village, Chicago, IL",
+			"description": "America's sweetheart. She/Her\n\nSupport my bad habits: https://t.co/oaqPRvv7xj",
+			"url": "https://t.co/AHd0xsEEjr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AHd0xsEEjr",
+							"expanded_url": "https://www.wonkette.com/u/robyn_pennacchia",
+							"display_url": "wonkette.com/u/robyn_pennac…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oaqPRvv7xj",
+							"expanded_url": "http://Ko-fi.com/robynelyse",
+							"display_url": "Ko-fi.com/robynelyse",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16843,
+			"friends_count": 3609,
+			"listed_count": 215,
+			"created_at": "Tue Sep 04 19:33:22 +0000 2012",
+			"favourites_count": 40736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135347843814834177/raMXBBKR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135347843814834177/raMXBBKR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/803061715/1558132556",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7590,
+		"favorite_count": 56390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a fucking novel. https://t.co/i9ExQUEXaR"
+	},
+	{
 		"created_at": "Mon May 18 00:13:57 +0000 2020",
 		"id": 1262174549069770800,
 		"id_str": "1262174549069770754",
