@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 00:00:23 +0000 2020",
+		"id": 1262840379499520000,
+		"id_str": "1262895913158180868",
+		"full_text": "Some prankster pasted Steve Carell's fictional 'Space Force' character over the portrait of real life @SpaceForceCSO at the National Museum of the U.S. Air Force at Wright-Patterson AFB\n\nhttps://t.co/ZRIaqxdknQ\n\nh/t @rachelkaras https://t.co/7HeZPsz4or",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpaceForceCSO",
+					"name": "Gen. Jay Raymond",
+					"id": 905158770107568100,
+					"id_str": "905158770107568133",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"screen_name": "rachelkaras",
+					"name": "Rachel S. Cohen",
+					"id": 133072900,
+					"id_str": "133072900",
+					"indices": [
+						216,
+						228
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZRIaqxdknQ",
+					"expanded_url": "https://bit.ly/3bLXBll",
+					"display_url": "bit.ly/3bLXBll",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262840318556278800,
+					"id_str": "1262840318556278786",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EYaClDOWkAIJyIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYaClDOWkAIJyIw.jpg",
+					"url": "https://t.co/7HeZPsz4or",
+					"display_url": "pic.twitter.com/7HeZPsz4or",
+					"expanded_url": "https://twitter.com/jaredbkeller/status/1262840379499520001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262840318556278800,
+					"id_str": "1262840318556278786",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EYaClDOWkAIJyIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYaClDOWkAIJyIw.jpg",
+					"url": "https://t.co/7HeZPsz4or",
+					"display_url": "pic.twitter.com/7HeZPsz4or",
+					"expanded_url": "https://twitter.com/jaredbkeller/status/1262840379499520001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53429839,
+			"id_str": "53429839",
+			"name": "Jared Keller",
+			"screen_name": "jaredbkeller",
+			"location": "Brooklyn, NY",
+			"description": "Deputy editor @TaskandPurpose. Your school has no gymnastics team, this is a last resort. jared@taskandpurpose.com",
+			"url": "https://t.co/KWYTcnbW5y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KWYTcnbW5y",
+							"expanded_url": "http://jaredbkeller.com",
+							"display_url": "jaredbkeller.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28763,
+			"friends_count": 4129,
+			"listed_count": 1213,
+			"created_at": "Fri Jul 03 16:32:47 +0000 2009",
+			"favourites_count": 31493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 94912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188305865436270595/0z-Hw42x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188305865436270595/0z-Hw42x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53429839/1420661809",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some prankster pasted Steve Carell's fictional 'Space Force' character over the portrait of real life @SpaceForceCSO at the National Museum of the U.S. Air Force at Wright-Patterson AFB\n\nhttps://t.co/ZRIaqxdknQ\n\nh/t @rachelkaras https://t.co/7HeZPsz4or"
+	},
+	{
 		"created_at": "Mon May 18 15:09:39 +0000 2020",
 		"id": 1262399959262847000,
 		"id_str": "1262399959262846977",
