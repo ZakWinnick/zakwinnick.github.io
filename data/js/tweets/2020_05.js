@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 00:45:42 +0000 2020",
+		"id": 1262904701902864400,
+		"id_str": "1262907314023141377",
+		"full_text": "Honestly thank god Teslas don't have tail pipes, b/c most of the owners would probably fuck them.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 84890791,
+			"id_str": "84890791",
+			"name": "Jeremy Judkins",
+			"screen_name": "jeremyjudkins",
+			"location": "Southwest Florida",
+			"description": "Tech Youtuber turned Tesla Youtuber. Florida Man. Tesla Model 3 Owner. Subscribe to my Youtube channel pleaaaassse: https://t.co/axudjXz7tn",
+			"url": "https://t.co/axudjXz7tn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/axudjXz7tn",
+							"expanded_url": "http://youtube.com/jeremyjudkins",
+							"display_url": "youtube.com/jeremyjudkins",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/axudjXz7tn",
+							"expanded_url": "http://youtube.com/jeremyjudkins",
+							"display_url": "youtube.com/jeremyjudkins",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4469,
+			"friends_count": 1974,
+			"listed_count": 30,
+			"created_at": "Sat Oct 24 16:55:02 +0000 2009",
+			"favourites_count": 42960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111762219853930496/m8VW_mqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111762219853930496/m8VW_mqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/84890791/1577187759",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Honestly thank god Teslas don't have tail pipes, b/c most of the owners would probably fuck them."
+	},
+	{
 		"created_at": "Wed May 20 00:00:23 +0000 2020",
 		"id": 1262840379499520000,
 		"id_str": "1262895913158180868",
