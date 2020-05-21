@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 14:25:25 +0000 2020",
+		"id": 1263469645467656200,
+		"id_str": "1263475991541960710",
+		"full_text": "One of the greatest emcees of all time, the Notorious B.I.G., was born on this day in 1972. Happy birthday, Biggie. #NMAAM #OneNationUnderAGroove https://t.co/wSIHmx51U4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NMAAM",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "OneNationUnderAGroove",
+					"indices": [
+						123,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263469641134936000,
+					"id_str": "1263469641134936071",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EYi-8chWkAcYVvL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYi-8chWkAcYVvL.jpg",
+					"url": "https://t.co/wSIHmx51U4",
+					"display_url": "pic.twitter.com/wSIHmx51U4",
+					"expanded_url": "https://twitter.com/theNMAAM/status/1263469645467656192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263469641134936000,
+					"id_str": "1263469641134936071",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EYi-8chWkAcYVvL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYi-8chWkAcYVvL.jpg",
+					"url": "https://t.co/wSIHmx51U4",
+					"display_url": "pic.twitter.com/wSIHmx51U4",
+					"expanded_url": "https://twitter.com/theNMAAM/status/1263469645467656192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.contentcal.io\" rel=\"nofollow\">ContentCal Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 347971879,
+			"id_str": "347971879",
+			"name": "the NMAAM",
+			"screen_name": "theNMAAM",
+			"location": "Nashville, TN",
+			"description": "The only museum dedicated to the numerous contributions African Americans have made to music around the world. Opening Labor Day weekend 2020.",
+			"url": "https://t.co/qzsKgqEP3F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qzsKgqEP3F",
+							"expanded_url": "http://nmaam.org",
+							"display_url": "nmaam.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2795,
+			"friends_count": 1252,
+			"listed_count": 55,
+			"created_at": "Wed Aug 03 17:27:05 +0000 2011",
+			"favourites_count": 2298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854298997162430464/IwZ3yQUv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854298997162430464/IwZ3yQUv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/347971879/1570554007",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "707070",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "F7840A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of the greatest emcees of all time, the Notorious B.I.G., was born on this day in 1972. Happy birthday, Biggie. #NMAAM #OneNationUnderAGroove https://t.co/wSIHmx51U4"
+	},
+	{
 		"created_at": "Thu May 21 00:07:25 +0000 2020",
 		"id": 1263260068201599000,
 		"id_str": "1263260068201598989",
