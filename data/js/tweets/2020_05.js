@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 23 18:10:10 +0000 2020",
+		"id": 1264257328737595400,
+		"id_str": "1264257328737595392",
+		"full_text": "Looks like the Revenue Manager must be furloughed...Still, those are really high Rack rates for the Rio. 🙄 https://t.co/3NEgpSoej3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3NEgpSoej3",
+					"expanded_url": "https://twitter.com/7starsinsider/status/1264224104128761858",
+					"display_url": "twitter.com/7starsinsider/…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 203,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261063003199475714/5LNL-JIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261063003199475714/5LNL-JIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264224104128761900,
+		"quoted_status_id_str": "1264224104128761858",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3NEgpSoej3",
+			"expanded": "https://twitter.com/7starsinsider/status/1264224104128761858",
+			"display": "twitter.com/7starsinsider/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 23 15:58:09 +0000 2020",
+			"id": 1264224104128761900,
+			"id_str": "1264224104128761858",
+			"full_text": "Wonder what's going on at the @RioVegas that it can command such rates next week. @CaesarsEnt @Caesars_Rewards https://t.co/rHW1a5S0CJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RioVegas",
+						"name": "Rio Las Vegas",
+						"id": 56514154,
+						"id_str": "56514154",
+						"indices": [
+							30,
+							39
+						]
+					},
+					{
+						"screen_name": "CaesarsEnt",
+						"name": "CaesarsEntertainment",
+						"id": 164528815,
+						"id_str": "164528815",
+						"indices": [
+							82,
+							93
+						]
+					},
+					{
+						"screen_name": "Caesars_Rewards",
+						"name": "Caesars Rewards",
+						"id": 75374394,
+						"id_str": "75374394",
+						"indices": [
+							94,
+							110
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1264224019458535400,
+						"id_str": "1264224019458535433",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/EYttDCxXsAk56I3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYttDCxXsAk56I3.jpg",
+						"url": "https://t.co/rHW1a5S0CJ",
+						"display_url": "pic.twitter.com/rHW1a5S0CJ",
+						"expanded_url": "https://twitter.com/7StarsInsider/status/1264224104128761858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 444,
+								"h": 433,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 444,
+								"h": 433,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 444,
+								"h": 433,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1264224019458535400,
+						"id_str": "1264224019458535433",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/EYttDCxXsAk56I3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYttDCxXsAk56I3.jpg",
+						"url": "https://t.co/rHW1a5S0CJ",
+						"display_url": "pic.twitter.com/rHW1a5S0CJ",
+						"expanded_url": "https://twitter.com/7StarsInsider/status/1264224104128761858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 444,
+								"h": 433,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 444,
+								"h": 433,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 444,
+								"h": 433,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2392877653,
+				"id_str": "2392877653",
+				"name": "Darryl D. McEwen",
+				"screen_name": "7StarsInsider",
+				"location": "Delaware",
+				"description": "Consultant, writer, recreational gambler",
+				"url": "http://t.co/3jqvkSlHUO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3jqvkSlHUO",
+								"expanded_url": "http://www.sevenstarsinsider.com",
+								"display_url": "sevenstarsinsider.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 920,
+				"friends_count": 57,
+				"listed_count": 10,
+				"created_at": "Sun Mar 16 15:18:33 +0000 2014",
+				"favourites_count": 178,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4305,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/445323779263045633/GnsViq4-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/445323779263045633/GnsViq4-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2392877653/1444861925",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looks like the Revenue Manager must be furloughed...Still, those are really high Rack rates for the Rio. 🙄 https://t.co/3NEgpSoej3"
+	},
+	{
+		"created_at": "Sat May 23 18:07:59 +0000 2020",
+		"id": 1263863355762229200,
+		"id_str": "1264256778440790016",
+		"full_text": "Dear White People; Gonna need y'all to sit this one out. Black folks who have been black for long enough can identify the difference between an awkward ally and a virulent racist. We good.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16415036,
+			"id_str": "16415036",
+			"name": "Corey Richardson",
+			"screen_name": "vexedinthecity",
+			"location": "Chicago, IL",
+			"description": "I think stuff. I write stuff. I drink stuff. I cook stuff. Pea and Boogie's dad. Author of \"We Used To Have Money, Now We Have You: A Dad's Bedtime Story.\"",
+			"url": "https://t.co/em3mTF5Fy2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/em3mTF5Fy2",
+							"expanded_url": "https://fatherlynoir.com/",
+							"display_url": "fatherlynoir.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15198,
+			"friends_count": 555,
+			"listed_count": 132,
+			"created_at": "Tue Sep 23 03:52:43 +0000 2008",
+			"favourites_count": 5168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172328796193579009/nefDnS_I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172328796193579009/nefDnS_I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16415036/1518124014",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21243,
+		"favorite_count": 134101,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Dear White People; Gonna need y'all to sit this one out. Black folks who have been black for long enough can identify the difference between an awkward ally and a virulent racist. We good."
+	},
+	{
 		"created_at": "Sat May 23 16:16:53 +0000 2020",
 		"id": 1264228820619612200,
 		"id_str": "1264228820619612166",
