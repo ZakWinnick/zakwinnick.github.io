@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 25 21:46:03 +0000 2020",
+		"id": 1264859138028437500,
+		"id_str": "1265036433112412171",
+		"full_text": "JSON Statham https://t.co/Kx9VDt3J3h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1264859008827097000,
+					"id_str": "1264859008827097088",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EY2ukSgXgAAdzg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY2ukSgXgAAdzg7.jpg",
+					"url": "https://t.co/Kx9VDt3J3h",
+					"display_url": "pic.twitter.com/Kx9VDt3J3h",
+					"expanded_url": "https://twitter.com/gemma_twomey/status/1264859138028437507/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1264859008827097000,
+					"id_str": "1264859008827097088",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EY2ukSgXgAAdzg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY2ukSgXgAAdzg7.jpg",
+					"url": "https://t.co/Kx9VDt3J3h",
+					"display_url": "pic.twitter.com/Kx9VDt3J3h",
+					"expanded_url": "https://twitter.com/gemma_twomey/status/1264859138028437507/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 551040502,
+			"id_str": "551040502",
+			"name": "Gemma Twomey",
+			"screen_name": "gemma_twomey",
+			"location": "Bristol",
+			"description": "Project manager at @TheCookiesHQ Warning: Tweets may contain cat gifs.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346,
+			"friends_count": 664,
+			"listed_count": 20,
+			"created_at": "Wed Apr 11 14:33:36 +0000 2012",
+			"favourites_count": 1107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970759860768866305/u3wP4Myg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970759860768866305/u3wP4Myg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/551040502/1468684449",
+			"profile_link_color": "00B3B3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1185,
+		"favorite_count": 4691,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "cs",
+		"text": "JSON Statham https://t.co/Kx9VDt3J3h"
+	},
+	{
 		"created_at": "Sun May 24 21:19:07 +0000 2020",
 		"id": 1264667268073619500,
 		"id_str": "1264667268073619466",
