@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 29 16:25:44 +0000 2020",
+		"id": 1266405374921511000,
+		"id_str": "1266405374921510915",
+		"full_text": "Beautifully said @MKBHD. You sir, are a true role model. https://t.co/lxsTHdMvEl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MKBHD",
+					"name": "Marques Brownlee",
+					"id": 29873662,
+					"id_str": "29873662",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lxsTHdMvEl",
+					"expanded_url": "https://twitter.com/MKBHD/status/1266395018778103808",
+					"display_url": "twitter.com/MKBHD/status/1…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Hotel Technology Guru | Electric Vehicle Enthusiast | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 204,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261063003199475714/5LNL-JIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261063003199475714/5LNL-JIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1266395018778103800,
+		"quoted_status_id_str": "1266395018778103808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lxsTHdMvEl",
+			"expanded": "https://twitter.com/MKBHD/status/1266395018778103808",
+			"display": "twitter.com/MKBHD/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 29 15:44:35 +0000 2020",
+			"id": 1266395018778103800,
+			"id_str": "1266395018778103808",
+			"full_text": "#BlackLivesMatter https://t.co/bW50HAMoNw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				17
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BlackLivesMatter",
+						"indices": [
+							0,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1266395013082230800,
+						"id_str": "1266395013082230785",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/EZMjjgQXsAEM-QW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZMjjgQXsAEM-QW.jpg",
+						"url": "https://t.co/bW50HAMoNw",
+						"display_url": "pic.twitter.com/bW50HAMoNw",
+						"expanded_url": "https://twitter.com/MKBHD/status/1266395018778103808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 779,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1734,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 441,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1266395013082230800,
+						"id_str": "1266395013082230785",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/EZMjjgQXsAEM-QW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZMjjgQXsAEM-QW.jpg",
+						"url": "https://t.co/bW50HAMoNw",
+						"display_url": "pic.twitter.com/bW50HAMoNw",
+						"expanded_url": "https://twitter.com/MKBHD/status/1266395018778103808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 779,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1734,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 441,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1266395013077966800,
+						"id_str": "1266395013077966848",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/EZMjjgPWoAAQrOc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZMjjgPWoAAQrOc.jpg",
+						"url": "https://t.co/bW50HAMoNw",
+						"display_url": "pic.twitter.com/bW50HAMoNw",
+						"expanded_url": "https://twitter.com/MKBHD/status/1266395018778103808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1703,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 449,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 793,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1266395013073731600,
+						"id_str": "1266395013073731584",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/EZMjjgOWAAA4UFT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZMjjgOWAAA4UFT.jpg",
+						"url": "https://t.co/bW50HAMoNw",
+						"display_url": "pic.twitter.com/bW50HAMoNw",
+						"expanded_url": "https://twitter.com/MKBHD/status/1266395018778103808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 596,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1283,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1052,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29873662,
+				"id_str": "29873662",
+				"name": "Marques Brownlee",
+				"screen_name": "MKBHD",
+				"location": "NYC",
+				"description": "Web Video Producer | ⋈ | Pro Ultimate Frisbee Player | Host of @WVFRM",
+				"url": "https://t.co/zGcF5QxPBI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zGcF5QxPBI",
+								"expanded_url": "http://youtube.com/MKBHD",
+								"display_url": "youtube.com/MKBHD",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3910684,
+				"friends_count": 363,
+				"listed_count": 10019,
+				"created_at": "Thu Apr 09 00:50:00 +0000 2009",
+				"favourites_count": 26204,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48197,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1212149592403382281/cI0-xyss_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212149592403382281/cI0-xyss_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29873662/1582574619",
+				"profile_link_color": "6C4585",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7410,
+			"favorite_count": 47239,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beautifully said @MKBHD. You sir, are a true role model. https://t.co/lxsTHdMvEl"
+	},
+	{
 		"created_at": "Wed May 27 00:50:05 +0000 2020",
 		"id": 1265445134713438200,
 		"id_str": "1265445134713438209",
