@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 31 16:24:17 +0000 2020",
+		"id": 1267129783466549200,
+		"id_str": "1267129783466549248",
+		"full_text": "Hell yes! Anonymous is back! https://t.co/tH5xxlfL4d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tH5xxlfL4d",
+					"expanded_url": "https://twitter.com/LAVENDERTHUG/status/1266900030029549569",
+					"display_url": "twitter.com/LAVENDERTHUG/s…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 205,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266486230310674432/eJsXb-1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266486230310674432/eJsXb-1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1266900030029549600,
+		"quoted_status_id_str": "1266900030029549569",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tH5xxlfL4d",
+			"expanded": "https://twitter.com/LAVENDERTHUG/status/1266900030029549569",
+			"display": "twitter.com/LAVENDERTHUG/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 31 01:11:19 +0000 2020",
+			"id": 1266900030029549600,
+			"id_str": "1266900030029549569",
+			"full_text": "BITCH YALL GOT ANONYMOUS OUT THE SHADOWS  https://t.co/bCBPnNJkmr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1266854386833272800,
+						"id_str": "1266854386833272837",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1266854386833272837/pu/img/B0XduY9e1mpgqOg3.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1266854386833272837/pu/img/B0XduY9e1mpgqOg3.jpg",
+						"url": "https://t.co/bCBPnNJkmr",
+						"display_url": "pic.twitter.com/bCBPnNJkmr",
+						"expanded_url": "https://twitter.com/HennyOnMyLips/status/1266854724348887051/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 734,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 734,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 667,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1266854724348887000,
+						"source_status_id_str": "1266854724348887051",
+						"source_user_id": 3702082361,
+						"source_user_id_str": "3702082361"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1266854386833272800,
+						"id_str": "1266854386833272837",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1266854386833272837/pu/img/B0XduY9e1mpgqOg3.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1266854386833272837/pu/img/B0XduY9e1mpgqOg3.jpg",
+						"url": "https://t.co/bCBPnNJkmr",
+						"display_url": "pic.twitter.com/bCBPnNJkmr",
+						"expanded_url": "https://twitter.com/HennyOnMyLips/status/1266854724348887051/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 734,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 734,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 667,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1266854724348887000,
+						"source_status_id_str": "1266854724348887051",
+						"source_user_id": 3702082361,
+						"source_user_id_str": "3702082361",
+						"video_info": {
+							"aspect_ratio": [
+								367,
+								360
+							],
+							"duration_millis": 77177,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1266854386833272837/pu/vid/734x720/TUydpqJs_xFSpKQP.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1266854386833272837/pu/vid/274x270/iRXJnrxA2bQvszyU.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1266854386833272837/pu/pl/X0TmksSzi6NrOeSN.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1266854386833272837/pu/vid/366x360/nWf2QyEekXmxPe_G.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 3702082361,
+								"id_str": "3702082361",
+								"name": "MARIO//JUSTICE FOR GEORGE FLOYD",
+								"screen_name": "HennyOnMyLips",
+								"location": "Potawatomi, Sioux, Miami land",
+								"description": "#BlackLivesMatter #MMIW Stop Climate Change🌎♻️ La que no es puta no disfruta🤫 CASHAPP- $moremulamario",
+								"url": "https://t.co/HsC0nbgzbG",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/HsC0nbgzbG",
+												"expanded_url": "https://instagram.com/mario_guzman_photography?igshid=1rj6g0dvo2dbj",
+												"display_url": "instagram.com/mario_guzman_p…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 3418,
+								"friends_count": 583,
+								"listed_count": 10,
+								"created_at": "Sat Sep 19 01:17:13 +0000 2015",
+								"favourites_count": 46257,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 3354,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1261771111085326339/t17aajob_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261771111085326339/t17aajob_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/3702082361/1590814782",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 956946329413890000,
+				"id_str": "956946329413890051",
+				"name": "Thug",
+				"screen_name": "LAVENDERTHUG",
+				"location": "El Paso, TX",
+				"description": "🌟drag queen, badass MC, artist, legend? IG: @Lavenderthug",
+				"url": "https://t.co/vtoBQZhqjs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vtoBQZhqjs",
+								"expanded_url": "http://soundcloud.com/lavenderthug",
+								"display_url": "soundcloud.com/lavenderthug",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2304,
+				"friends_count": 924,
+				"listed_count": 5,
+				"created_at": "Fri Jan 26 17:45:58 +0000 2018",
+				"favourites_count": 17802,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4949,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1266921060391411712/8ZNfpZtI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266921060391411712/8ZNfpZtI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/956946329413890051/1587354804",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 357869,
+			"favorite_count": 839376,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hell yes! Anonymous is back! https://t.co/tH5xxlfL4d"
+	},
+	{
 		"created_at": "Sat May 30 21:38:12 +0000 2020",
 		"id": 1266846394851213300,
 		"id_str": "1266846394851213313",
