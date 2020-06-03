@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 02 23:47:41 +0000 2020",
+		"id": 1267936085117722600,
+		"id_str": "1267966144264142855",
+		"full_text": ".... okay where to start.... https://t.co/hbLuPXlDc4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hbLuPXlDc4",
+					"expanded_url": "https://twitter.com/redskins/status/1267918269798850563",
+					"display_url": "twitter.com/redskins/statu…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 99401353,
+			"id_str": "99401353",
+			"name": "Stephanie Carvin",
+			"screen_name": "StephanieCarvin",
+			"location": "Ottawa, Canada",
+			"description": "Assistant Professor, NPSIA, Carleton University. Former national security analyst. Researching war, technology, law & security. Co-host @intrepidpodcast. Typos.",
+			"url": "https://t.co/S1QmNysfaV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S1QmNysfaV",
+							"expanded_url": "https://stephanie-carvin.squarespace.com",
+							"display_url": "stephanie-carvin.squarespace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20347,
+			"friends_count": 2304,
+			"listed_count": 520,
+			"created_at": "Sat Dec 26 02:06:26 +0000 2009",
+			"favourites_count": 49482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 100184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875379075476475910/yLAHwhm1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875379075476475910/yLAHwhm1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/99401353/1586305936",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1267918269798850600,
+		"quoted_status_id_str": "1267918269798850563",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hbLuPXlDc4",
+			"expanded": "https://twitter.com/redskins/status/1267918269798850563",
+			"display": "twitter.com/redskins/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 02 20:37:26 +0000 2020",
+			"id": 1267918269798850600,
+			"id_str": "1267918269798850563",
+			"full_text": "#BlackOutTuesday https://t.co/HANYZN6BXN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				16
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BlackOutTuesday",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1267918266535743500,
+						"id_str": "1267918266535743495",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/EZiM8hkXkAcYja-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZiM8hkXkAcYja-.jpg",
+						"url": "https://t.co/HANYZN6BXN",
+						"display_url": "pic.twitter.com/HANYZN6BXN",
+						"expanded_url": "https://twitter.com/Redskins/status/1267918269798850563/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 828,
+								"h": 808,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 664,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 808,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1267918266535743500,
+						"id_str": "1267918266535743495",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/EZiM8hkXkAcYja-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZiM8hkXkAcYja-.jpg",
+						"url": "https://t.co/HANYZN6BXN",
+						"display_url": "pic.twitter.com/HANYZN6BXN",
+						"expanded_url": "https://twitter.com/Redskins/status/1267918269798850563/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 828,
+								"h": 808,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 664,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 808,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36375662,
+				"id_str": "36375662",
+				"name": "Washington Redskins",
+				"screen_name": "Redskins",
+				"location": "Loudoun County, Va",
+				"description": "new szn. new vibe. new rivERA. 🏆🏆🏆",
+				"url": "https://t.co/x6XdLobaZN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x6XdLobaZN",
+								"expanded_url": "http://www.redskins.com",
+								"display_url": "redskins.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1262853,
+				"friends_count": 2622,
+				"listed_count": 6749,
+				"created_at": "Wed Apr 29 14:53:00 +0000 2009",
+				"favourites_count": 12152,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 61255,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1249738127104782337/HTTviDvE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249738127104782337/HTTviDvE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36375662/1586797018",
+				"profile_link_color": "660000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFCC00",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 842,
+			"favorite_count": 3193,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 24,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".... okay where to start.... https://t.co/hbLuPXlDc4"
+	},
+	{
 		"created_at": "Tue Jun 02 14:47:37 +0000 2020",
 		"id": 1267830161652609000,
 		"id_str": "1267830234457362436",
