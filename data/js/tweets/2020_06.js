@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 23:50:14 +0000 2020",
+		"id": 1268668286218076200,
+		"id_str": "1268691565033242624",
+		"full_text": "#Folklorethursday: Legend has it Robert Johnson sold his soul at the crossroads in exchange for talent &amp; fame. Then, seemingly overnight, Robert struck it big, but his death is a mystery. So how much if the story is true? Hear the facts on https://t.co/4lGgC3tKa0. https://t.co/0ibYpjFkU1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Folklorethursday",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4lGgC3tKa0",
+					"expanded_url": "http://textproserocknroll.com",
+					"display_url": "textproserocknroll.com",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268668117988700200,
+					"id_str": "1268668117988700160",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EZs27n6UcAARNal.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZs27n6UcAARNal.jpg",
+					"url": "https://t.co/0ibYpjFkU1",
+					"display_url": "pic.twitter.com/0ibYpjFkU1",
+					"expanded_url": "https://twitter.com/KrisKosach/status/1268668286218076160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1774,
+							"h": 1648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1115,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268668117988700200,
+					"id_str": "1268668117988700160",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EZs27n6UcAARNal.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZs27n6UcAARNal.jpg",
+					"url": "https://t.co/0ibYpjFkU1",
+					"display_url": "pic.twitter.com/0ibYpjFkU1",
+					"expanded_url": "https://twitter.com/KrisKosach/status/1268668286218076160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1774,
+							"h": 1648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1115,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151732113,
+			"id_str": "151732113",
+			"name": "Kris Kosach",
+			"screen_name": "KrisKosach",
+			"location": "Los Angeles, CA",
+			"description": "#Podcast Host, Radio #DJ, Storyteller, fmr Host @TravelChannel @MTV2 VJ, #AudioFile #TechTV alum, Wife/Mom, sometimes music snob. https://t.co/2b7NO7DuBw",
+			"url": "http://t.co/I2HQflSVa2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/I2HQflSVa2",
+							"expanded_url": "http://www.kriskosach.com",
+							"display_url": "kriskosach.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2b7NO7DuBw",
+							"expanded_url": "http://www.textproserocknroll.com",
+							"display_url": "textproserocknroll.com",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3652,
+			"friends_count": 1104,
+			"listed_count": 50,
+			"created_at": "Fri Jun 04 03:23:51 +0000 2010",
+			"favourites_count": 2499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000066",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191498301511651328/KHAxOv-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191498301511651328/KHAxOv-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151732113/1572910696",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Folklorethursday: Legend has it Robert Johnson sold his soul at the crossroads in exchange for talent &amp; fame. Then, seemingly overnight, Robert struck it big, but his death is a mystery. So how much if the story is true? Hear the facts on https://t.co/4lGgC3tKa0. https://t.co/0ibYpjFkU1"
+	},
+	{
 		"created_at": "Thu Jun 04 08:39:58 +0000 2020",
 		"id": 1268355430184558600,
 		"id_str": "1268462488057712640",
