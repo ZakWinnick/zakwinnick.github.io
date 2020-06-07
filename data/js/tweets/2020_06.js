@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 20:14:34 +0000 2020",
+		"id": 1269691132545564700,
+		"id_str": "1269724453124128769",
+		"full_text": "If I mysteriously disappear, this will be why https://t.co/DAV8GgZfC5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269691109338382300,
+					"id_str": "1269691109338382336",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ7ZVjqWAAAU2Wt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ7ZVjqWAAAU2Wt.jpg",
+					"url": "https://t.co/DAV8GgZfC5",
+					"display_url": "pic.twitter.com/DAV8GgZfC5",
+					"expanded_url": "https://twitter.com/iancanwrite/status/1269691132545564674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 655,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269691109338382300,
+					"id_str": "1269691109338382336",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ7ZVjqWAAAU2Wt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ7ZVjqWAAAU2Wt.jpg",
+					"url": "https://t.co/DAV8GgZfC5",
+					"display_url": "pic.twitter.com/DAV8GgZfC5",
+					"expanded_url": "https://twitter.com/iancanwrite/status/1269691132545564674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 655,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269691115604783000,
+					"id_str": "1269691115604783104",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ7ZV7AXsAADP2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ7ZV7AXsAADP2i.jpg",
+					"url": "https://t.co/DAV8GgZfC5",
+					"display_url": "pic.twitter.com/DAV8GgZfC5",
+					"expanded_url": "https://twitter.com/iancanwrite/status/1269691132545564674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 701,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269691122940608500,
+					"id_str": "1269691122940608513",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ7ZWWVXgAEtMlI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ7ZWWVXgAEtMlI.jpg",
+					"url": "https://t.co/DAV8GgZfC5",
+					"display_url": "pic.twitter.com/DAV8GgZfC5",
+					"expanded_url": "https://twitter.com/iancanwrite/status/1269691132545564674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1067,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1215,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269691128237998000,
+					"id_str": "1269691128237998080",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ7ZWqEXQAAnfDf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ7ZWqEXQAAnfDf.jpg",
+					"url": "https://t.co/DAV8GgZfC5",
+					"display_url": "pic.twitter.com/DAV8GgZfC5",
+					"expanded_url": "https://twitter.com/iancanwrite/status/1269691132545564674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 815,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 698,
+							"h": 815,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1148660512290418700,
+			"id_str": "1148660512290418689",
+			"name": "iancanwrite",
+			"screen_name": "iancanwrite",
+			"location": "",
+			"description": "I like to write. I'm ready to write. Read my writing.",
+			"url": "https://t.co/3EqQ76qJ3N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3EqQ76qJ3N",
+							"expanded_url": "https://www.buymeacoffee.com/7CvYRxkeD",
+							"display_url": "buymeacoffee.com/7CvYRxkeD",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30560,
+			"friends_count": 4,
+			"listed_count": 40,
+			"created_at": "Tue Jul 09 18:29:42 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148660680700174336/nOYjeoZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148660680700174336/nOYjeoZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1148660512290418689/1562998684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2937,
+		"favorite_count": 11047,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If I mysteriously disappear, this will be why https://t.co/DAV8GgZfC5"
+	},
+	{
 		"created_at": "Sun Jun 07 16:55:55 +0000 2020",
 		"id": 1269674459129983000,
 		"id_str": "1269674459129982977",
