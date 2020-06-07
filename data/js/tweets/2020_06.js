@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 15:14:55 +0000 2020",
+		"id": 1269645304388878300,
+		"id_str": "1269649042881024000",
+		"full_text": "The artist eternally known as @prince was born on this day in 1958 in Minneapolis. Throughout his nearly 40-year career, Prince eluded musical boundaries, advocated for artists, and championed social justice, becoming a vocal supporter of Black Lives Matter. #NMAAM #BlackandProud https://t.co/mbC9vScDus",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NMAAM",
+					"indices": [
+						259,
+						265
+					]
+				},
+				{
+					"text": "BlackandProud",
+					"indices": [
+						266,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prince",
+					"name": "Prince",
+					"id": 1088924523548663800,
+					"id_str": "1088924523548663809",
+					"indices": [
+						30,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269645300324536300,
+					"id_str": "1269645300324536322",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ6vrHyWkAIdiOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ6vrHyWkAIdiOc.jpg",
+					"url": "https://t.co/mbC9vScDus",
+					"display_url": "pic.twitter.com/mbC9vScDus",
+					"expanded_url": "https://twitter.com/theNMAAM/status/1269645304388878341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269645300324536300,
+					"id_str": "1269645300324536322",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ6vrHyWkAIdiOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ6vrHyWkAIdiOc.jpg",
+					"url": "https://t.co/mbC9vScDus",
+					"display_url": "pic.twitter.com/mbC9vScDus",
+					"expanded_url": "https://twitter.com/theNMAAM/status/1269645304388878341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.contentcal.io\" rel=\"nofollow\">ContentCal Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 347971879,
+			"id_str": "347971879",
+			"name": "the NMAAM",
+			"screen_name": "theNMAAM",
+			"location": "Nashville, TN",
+			"description": "The only museum dedicated to the numerous contributions African Americans have made to music around the world. Opening Labor Day weekend 2020.",
+			"url": "https://t.co/qzsKgqEP3F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qzsKgqEP3F",
+							"expanded_url": "http://nmaam.org",
+							"display_url": "nmaam.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2877,
+			"friends_count": 1264,
+			"listed_count": 55,
+			"created_at": "Wed Aug 03 17:27:05 +0000 2011",
+			"favourites_count": 2341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854298997162430464/IwZ3yQUv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854298997162430464/IwZ3yQUv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/347971879/1570554007",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "707070",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "F7840A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The artist eternally known as @prince was born on this day in 1958 in Minneapolis. Throughout his nearly 40-year career, Prince eluded musical boundaries, advocated for artists, and championed social justice, becoming a vocal supporter of Black Lives Matter. #NMAAM #BlackandProud https://t.co/mbC9vScDus"
+	},
+	{
 		"created_at": "Sun Jun 07 14:07:28 +0000 2020",
 		"id": 1269632070374117400,
 		"id_str": "1269632070374117381",
