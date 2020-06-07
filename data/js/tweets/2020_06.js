@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 16:55:55 +0000 2020",
+		"id": 1269674459129983000,
+		"id_str": "1269674459129982977",
+		"full_text": "Still one of the best parks in the country…even with all of the original attractions missing.\n\nI remember opening day like it was yesterday… https://t.co/jIx1oJf5s6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jIx1oJf5s6",
+					"expanded_url": "https://twitter.com/insideuniversal/status/1269653786215276544",
+					"display_url": "twitter.com/insideuniversa…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 206,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267166870408396808/bnVY-L5a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267166870408396808/bnVY-L5a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1269653786215276500,
+		"quoted_status_id_str": "1269653786215276544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jIx1oJf5s6",
+			"expanded": "https://twitter.com/insideuniversal/status/1269653786215276544",
+			"display": "twitter.com/insideuniversa…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 07 15:33:46 +0000 2020",
+			"id": 1269653786215276500,
+			"id_str": "1269653786215276544",
+			"full_text": "Happy Birthday, Universal Studios Florida! To celebrate 30 years, let's take a look at the history of the park, from development all the way to today. @UniversalORL \nhttps://t.co/QD2G7oB7dQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UniversalORL",
+						"name": "Universal Orlando Resort",
+						"id": 125988399,
+						"id_str": "125988399",
+						"indices": [
+							151,
+							164
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QD2G7oB7dQ",
+						"expanded_url": "http://www.insideuniversal.net/2020/06/universal-studios-florida-30-years-of-riding-the-movies/",
+						"display_url": "insideuniversal.net/2020/06/univer…",
+						"indices": [
+							166,
+							189
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49541799,
+				"id_str": "49541799",
+				"name": "Inside Universal",
+				"screen_name": "insideuniversal",
+				"location": "Orlando, FL - Hollywood, CA",
+				"description": "News & Info on Universal Studios Hollywood, Universal Orlando, & More! Join our forums! https://t.co/QCJg6AYteV",
+				"url": "https://t.co/D19vrJLiGH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D19vrJLiGH",
+								"expanded_url": "http://www.insideuniversal.net",
+								"display_url": "insideuniversal.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/QCJg6AYteV",
+								"expanded_url": "http://forums.insideuniversal.net",
+								"display_url": "forums.insideuniversal.net",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 28122,
+				"friends_count": 517,
+				"listed_count": 305,
+				"created_at": "Mon Jun 22 04:58:11 +0000 2009",
+				"favourites_count": 7670,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23830,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "081F2B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1266969888154927104/Yu_PxPMa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266969888154927104/Yu_PxPMa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49541799/1590902981",
+				"profile_link_color": "175DA9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D6D6D6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 93,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still one of the best parks in the country…even with all of the original attractions missing.\n\nI remember opening day like it was yesterday… https://t.co/jIx1oJf5s6"
+	},
+	{
 		"created_at": "Sun Jun 07 15:14:55 +0000 2020",
 		"id": 1269645304388878300,
 		"id_str": "1269649042881024000",
