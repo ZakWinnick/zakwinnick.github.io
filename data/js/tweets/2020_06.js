@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 13:13:05 +0000 2020",
+		"id": 1269980772800311300,
+		"id_str": "1269980772800311297",
+		"full_text": "Such a fun day too.\n\nI miss the Slime Geyser. https://t.co/ETgQR2O9aE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ETgQR2O9aE",
+					"expanded_url": "https://twitter.com/realmarcsummers/status/1269777434955509761",
+					"display_url": "twitter.com/realmarcsummer…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 206,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1269777434955509800,
+		"quoted_status_id_str": "1269777434955509761",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ETgQR2O9aE",
+			"expanded": "https://twitter.com/realmarcsummers/status/1269777434955509761",
+			"display": "twitter.com/realmarcsummer…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 07 23:45:06 +0000 2020",
+			"id": 1269777434955509800,
+			"id_str": "1269777434955509761",
+			"full_text": "Thirty years ago today I opened Nick Studios! https://t.co/npATYYicNG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1269777429150625800,
+						"id_str": "1269777429150625792",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/EZ8n2CBU8AAzW9f.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZ8n2CBU8AAzW9f.jpg",
+						"url": "https://t.co/npATYYicNG",
+						"display_url": "pic.twitter.com/npATYYicNG",
+						"expanded_url": "https://twitter.com/realmarcsummers/status/1269777434955509761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 570,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 570,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 570,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1269777429150625800,
+						"id_str": "1269777429150625792",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/EZ8n2CBU8AAzW9f.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZ8n2CBU8AAzW9f.jpg",
+						"url": "https://t.co/npATYYicNG",
+						"display_url": "pic.twitter.com/npATYYicNG",
+						"expanded_url": "https://twitter.com/realmarcsummers/status/1269777434955509761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 570,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 570,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 570,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 299395596,
+				"id_str": "299395596",
+				"name": "Marc Summers",
+				"screen_name": "realmarcsummers",
+				"location": "Could Be Anywhere!",
+				"description": "Host of #DoubleDare on @nickelodeon. Host of @Foodnetwork Unwrapped. Executive Producer Restaurant: Impossible (@rest_imposs) Judge on Guy's Grocery Games",
+				"url": "https://t.co/jpslSyQv4e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jpslSyQv4e",
+								"expanded_url": "http://www.marcsummerstv.com",
+								"display_url": "marcsummerstv.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17972,
+				"friends_count": 214,
+				"listed_count": 158,
+				"created_at": "Mon May 16 01:00:12 +0000 2011",
+				"favourites_count": 107,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8050,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/999769433265487872/-i1KYomq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/999769433265487872/-i1KYomq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/299395596/1527198552",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 318,
+			"favorite_count": 2962,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Such a fun day too.\n\nI miss the Slime Geyser. https://t.co/ETgQR2O9aE"
+	},
+	{
 		"created_at": "Mon Jun 08 13:10:22 +0000 2020",
 		"id": 1269980086494789600,
 		"id_str": "1269980086494789633",
