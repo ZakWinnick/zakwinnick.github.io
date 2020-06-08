@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 01:39:40 +0000 2020",
+		"id": 1269806267553505300,
+		"id_str": "1269806267553505292",
+		"full_text": "That’s really sad. @CalSunday is one of the best magazines I’ve subscribed to. \n\nEspecially since I don’t live in CA anymore. It always kept me connected. https://t.co/yFv1RgFTQ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CalSunday",
+					"name": "California Sunday",
+					"id": 952740715,
+					"id_str": "952740715",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yFv1RgFTQ5",
+					"expanded_url": "https://twitter.com/seywarddarby/status/1269668108907708416",
+					"display_url": "twitter.com/seywarddarby/s…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 205,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1269668108907708400,
+		"quoted_status_id_str": "1269668108907708416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yFv1RgFTQ5",
+			"expanded": "https://twitter.com/seywarddarby/status/1269668108907708416",
+			"display": "twitter.com/seywarddarby/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 07 16:30:41 +0000 2020",
+			"id": 1269668108907708400,
+			"id_str": "1269668108907708416",
+			"full_text": "My heart hurts over this news about @CalSunday. It is—was—a gorgeous magazine. https://t.co/et9AWnuwgN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CalSunday",
+						"name": "California Sunday",
+						"id": 952740715,
+						"id_str": "952740715",
+						"indices": [
+							36,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/et9AWnuwgN",
+						"expanded_url": "https://story.californiasunday.com/backstage-thank-you",
+						"display_url": "story.californiasunday.com/backstage-than…",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 204334306,
+				"id_str": "204334306",
+				"name": "Seyward Darby",
+				"screen_name": "seywarddarby",
+				"location": "Brooklyn, NY",
+				"description": "EIC: @atavist / Writer: SISTERS IN HATE (@littlebrown, July 21, 2020) / May I please pet your dog? / Pitch Me: seyward@atavist.com",
+				"url": "https://t.co/oUzqFq2aVM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oUzqFq2aVM",
+								"expanded_url": "https://seywarddarby.com/sisters-in-hate-book",
+								"display_url": "seywarddarby.com/sisters-in-hat…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7532,
+				"friends_count": 8060,
+				"listed_count": 171,
+				"created_at": "Mon Oct 18 13:33:17 +0000 2010",
+				"favourites_count": 29972,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17737,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1256274211129229315/z8HFe158_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256274211129229315/z8HFe158_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/204334306/1590677013",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That’s really sad. @CalSunday is one of the best magazines I’ve subscribed to. \n\nEspecially since I don’t live in CA anymore. It always kept me connected. https://t.co/yFv1RgFTQ5"
+	},
+	{
 		"created_at": "Sun Jun 07 20:14:34 +0000 2020",
 		"id": 1269691132545564700,
 		"id_str": "1269724453124128769",
