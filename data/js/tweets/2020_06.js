@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 14:32:40 +0000 2020",
+		"id": 1270363184797495300,
+		"id_str": "1270363184797495297",
+		"full_text": "This is the greatest graphic I’ve seen in forever… https://t.co/I2j1bBnJrC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I2j1bBnJrC",
+					"expanded_url": "https://twitter.com/AppleTerminal/status/1270322743444111360",
+					"display_url": "twitter.com/AppleTerminal/…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 204,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270322743444111400,
+		"quoted_status_id_str": "1270322743444111360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I2j1bBnJrC",
+			"expanded": "https://twitter.com/AppleTerminal/status/1270322743444111360",
+			"display": "twitter.com/AppleTerminal/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 09 11:51:58 +0000 2020",
+			"id": 1270322743444111400,
+			"id_str": "1270322743444111360",
+			"full_text": ".@jon_prosser, can you confirm? https://t.co/ftgbH8UsP8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jon_prosser",
+						"name": "Jon Prosser",
+						"id": 106542971,
+						"id_str": "106542971",
+						"indices": [
+							1,
+							13
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1270322066278015000,
+						"id_str": "1270322066278014978",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/EaEXMFbXYAILzEE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaEXMFbXYAILzEE.jpg",
+						"url": "https://t.co/ftgbH8UsP8",
+						"display_url": "pic.twitter.com/ftgbH8UsP8",
+						"expanded_url": "https://twitter.com/AppleTerminal/status/1270322743444111360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 441,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 752,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 250,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1270322066278015000,
+						"id_str": "1270322066278014978",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/EaEXMFbXYAILzEE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaEXMFbXYAILzEE.jpg",
+						"url": "https://t.co/ftgbH8UsP8",
+						"display_url": "pic.twitter.com/ftgbH8UsP8",
+						"expanded_url": "https://twitter.com/AppleTerminal/status/1270322743444111360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 441,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 752,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 250,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1135468733957386200,
+				"id_str": "1135468733957386240",
+				"name": "Apple Terminal",
+				"screen_name": "AppleTerminal",
+				"location": "",
+				"description": "Your new favorite independent Apple news source. From beta, to jailbreak, to even Apple stock news, we cover it all. Follow us to keep up with the latest.",
+				"url": "https://t.co/OFq8A5k8cp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OFq8A5k8cp",
+								"expanded_url": "https://appleterm.com/",
+								"display_url": "appleterm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8395,
+				"friends_count": 4,
+				"listed_count": 77,
+				"created_at": "Mon Jun 03 08:50:16 +0000 2019",
+				"favourites_count": 25,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5454,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265750903409258496/tlpo7SC9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265750903409258496/tlpo7SC9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135468733957386240/1586584179",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 530,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the greatest graphic I’ve seen in forever… https://t.co/I2j1bBnJrC"
+	},
+	{
 		"created_at": "Mon Jun 08 18:44:56 +0000 2020",
 		"id": 1270064281749504000,
 		"id_str": "1270064281749504003",
