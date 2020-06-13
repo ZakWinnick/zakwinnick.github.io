@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 17:32:05 +0000 2020",
+		"id": 1271805071479779300,
+		"id_str": "1271857888852693001",
+		"full_text": "15 years ago today Michael Jackson was vindicated. The King of Pop was found innocent on all 14 counts by a predominantly white California jury. His FBI file released posthumously on December 23, 2009 also confirms his innocence. #MichaelJacksonVindicated https://t.co/R87h1j66jH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MichaelJacksonVindicated",
+					"indices": [
+						230,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271805067952259000,
+					"id_str": "1271805067952259072",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EaZb-JLWAAAdxfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaZb-JLWAAAdxfC.jpg",
+					"url": "https://t.co/R87h1j66jH",
+					"display_url": "pic.twitter.com/R87h1j66jH",
+					"expanded_url": "https://twitter.com/GenevaSThomas/status/1271805071479779328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271805067952259000,
+					"id_str": "1271805067952259072",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EaZb-JLWAAAdxfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaZb-JLWAAAdxfC.jpg",
+					"url": "https://t.co/R87h1j66jH",
+					"display_url": "pic.twitter.com/R87h1j66jH",
+					"expanded_url": "https://twitter.com/GenevaSThomas/status/1271805071479779328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38691440,
+			"id_str": "38691440",
+			"name": "Geneva S. Thomas",
+			"screen_name": "GenevaSThomas",
+			"location": "New York, NY",
+			"description": "",
+			"url": "https://t.co/f7aGnGTGKG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7aGnGTGKG",
+							"expanded_url": "http://GENEVASTHOMAS.COM",
+							"display_url": "GENEVASTHOMAS.COM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13127,
+			"friends_count": 1032,
+			"listed_count": 125,
+			"created_at": "Fri May 08 16:04:04 +0000 2009",
+			"favourites_count": 5170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/806278079400333313/u8l0FWaz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/806278079400333313/u8l0FWaz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38691440/1440294643",
+			"profile_link_color": "2C5ED1",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B7D2CC",
+			"profile_text_color": "E0D9EB",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1237,
+		"favorite_count": 3745,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "15 years ago today Michael Jackson was vindicated. The King of Pop was found innocent on all 14 counts by a predominantly white California jury. His FBI file released posthumously on December 23, 2009 also confirms his innocence. #MichaelJacksonVindicated https://t.co/R87h1j66jH"
+	},
+	{
+		"created_at": "Sat Jun 13 17:31:19 +0000 2020",
+		"id": 1271854794597113900,
+		"id_str": "1271857697688780800",
+		"full_text": "Tell us something we don’t know… https://t.co/DaSBZQfh2L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DaSBZQfh2L",
+					"expanded_url": "https://twitter.com/nypost/status/1271843667200835584",
+					"display_url": "twitter.com/nypost/status/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 504,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271843667200835600,
+		"quoted_status_id_str": "1271843667200835584",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DaSBZQfh2L",
+			"expanded": "https://twitter.com/nypost/status/1271843667200835584",
+			"display": "twitter.com/nypost/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 13 16:35:34 +0000 2020",
+			"id": 1271843667200835600,
+			"id_str": "1271843667200835584",
+			"full_text": "Alternate reading of Mayan calendar suggests end of the world is next week https://t.co/ep0gDICwyC https://t.co/yQPTBiZPwz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ep0gDICwyC",
+						"expanded_url": "https://trib.al/3kSqqjx",
+						"display_url": "trib.al/3kSqqjx",
+						"indices": [
+							75,
+							98
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1271843664977965000,
+						"id_str": "1271843664977965057",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/EaZ_EyTXsAEoG2R.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaZ_EyTXsAEoG2R.jpg",
+						"url": "https://t.co/yQPTBiZPwz",
+						"display_url": "pic.twitter.com/yQPTBiZPwz",
+						"expanded_url": "https://twitter.com/nypost/status/1271843667200835584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1271843664977965000,
+						"id_str": "1271843664977965057",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/EaZ_EyTXsAEoG2R.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaZ_EyTXsAEoG2R.jpg",
+						"url": "https://t.co/yQPTBiZPwz",
+						"display_url": "pic.twitter.com/yQPTBiZPwz",
+						"expanded_url": "https://twitter.com/nypost/status/1271843667200835584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17469289,
+				"id_str": "17469289",
+				"name": "New York Post",
+				"screen_name": "nypost",
+				"location": "New York, NY",
+				"description": "Breaking news & features from The New York Post. Follow your favorite sections: @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion",
+				"url": "https://t.co/MwyanWdKnl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MwyanWdKnl",
+								"expanded_url": "http://www.nypost.com",
+								"display_url": "nypost.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1669060,
+				"friends_count": 11575,
+				"listed_count": 18028,
+				"created_at": "Tue Nov 18 19:46:36 +0000 2008",
+				"favourites_count": 2005,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 321179,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17469289/1444326181",
+				"profile_link_color": "CC3333",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 296,
+			"favorite_count": 747,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tell us something we don’t know… https://t.co/DaSBZQfh2L"
+	},
+	{
 		"created_at": "Sat Jun 13 14:49:29 +0000 2020",
 		"id": 1271639537886859300,
 		"id_str": "1271816969075990530",
