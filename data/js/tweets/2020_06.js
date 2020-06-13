@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 14:49:29 +0000 2020",
+		"id": 1271639537886859300,
+		"id_str": "1271816969075990530",
+		"full_text": "Take Chart A (on the left)\n\nFold in:\nWorld class skill in strategy\nTested experience in famine &amp; epidemic\nIntegrity\nLove for your fellow citizen, and\n\n...you get Chart B (on the right) - what is really happening. https://t.co/Lo76ezQwj5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271638813308326000,
+					"id_str": "1271638813308325888",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EaXEw2XXkAAeR2w.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaXEw2XXkAAeR2w.png",
+					"url": "https://t.co/Lo76ezQwj5",
+					"display_url": "pic.twitter.com/Lo76ezQwj5",
+					"expanded_url": "https://twitter.com/EthicalSkeptic/status/1271639537886859271/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 795,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 795,
+							"h": 538,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271638813308326000,
+					"id_str": "1271638813308325888",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EaXEw2XXkAAeR2w.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaXEw2XXkAAeR2w.png",
+					"url": "https://t.co/Lo76ezQwj5",
+					"display_url": "pic.twitter.com/Lo76ezQwj5",
+					"expanded_url": "https://twitter.com/EthicalSkeptic/status/1271639537886859271/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 795,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 795,
+							"h": 538,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1271638849760960500,
+					"id_str": "1271638849760960512",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EaXEy-KWoAAFiu7.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaXEy-KWoAAFiu7.png",
+					"url": "https://t.co/Lo76ezQwj5",
+					"display_url": "pic.twitter.com/Lo76ezQwj5",
+					"expanded_url": "https://twitter.com/EthicalSkeptic/status/1271639537886859271/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 731,
+							"h": 490,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 731,
+							"h": 490,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2704681687,
+			"id_str": "2704681687",
+			"name": "Ethical Skeptic ☀",
+			"screen_name": "EthicalSkeptic",
+			"location": "USA and Client Nations",
+			"description": "Trade Tech Ops & National Infrastructure Strategist / Postgrad Systems Sci & Eng / US Naval Intelligence / CEO / ENTX / Ethical philosophy of agency & science",
+			"url": "http://t.co/QbpbGzcGIC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/QbpbGzcGIC",
+							"expanded_url": "http://www.theethicalskeptic.com",
+							"display_url": "theethicalskeptic.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22928,
+			"friends_count": 991,
+			"listed_count": 190,
+			"created_at": "Sun Aug 03 18:35:50 +0000 2014",
+			"favourites_count": 17035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222265011915173888/swrb_ll3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222265011915173888/swrb_ll3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2704681687/1586841105",
+			"profile_link_color": "345999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Take Chart A (on the left)\n\nFold in:\nWorld class skill in strategy\nTested experience in famine &amp; epidemic\nIntegrity\nLove for your fellow citizen, and\n\n...you get Chart B (on the right) - what is really happening. https://t.co/Lo76ezQwj5"
+	},
+	{
 		"created_at": "Thu Jun 11 23:55:16 +0000 2020",
 		"id": 1270761549041369000,
 		"id_str": "1271229544679309312",
