@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 22:28:45 +0000 2020",
+		"id": 1273382099035328500,
+		"id_str": "1273382099035328512",
+		"full_text": "This x100. https://t.co/mAerN8dRX2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mAerN8dRX2",
+					"expanded_url": "https://twitter.com/mattbirchler/status/1273380173547741187",
+					"display_url": "twitter.com/mattbirchler/s…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 205,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273380173547741200,
+		"quoted_status_id_str": "1273380173547741187",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mAerN8dRX2",
+			"expanded": "https://twitter.com/mattbirchler/status/1273380173547741187",
+			"display": "twitter.com/mattbirchler/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 17 22:21:06 +0000 2020",
+			"id": 1273380173547741200,
+			"id_str": "1273380173547741187",
+			"full_text": "I know some people thing YouTube Premium is the worst thing ever, but considering how much I use YouTube, not having to ever think about ads is wonderful. https://t.co/LOcWmOiD9k",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LOcWmOiD9k",
+						"expanded_url": "https://twitter.com/BenBajarin/status/1273338211507437568",
+						"display_url": "twitter.com/BenBajarin/sta…",
+						"indices": [
+							155,
+							178
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27251386,
+				"id_str": "27251386",
+				"name": "Matt Birchler",
+				"screen_name": "mattbirchler",
+				"location": "",
+				"description": "Designer at NMI. I also write at https://t.co/PtMWxijpnH and have a podcast https://t.co/i6ZMgIybkZ",
+				"url": "https://t.co/A73ctOscbt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A73ctOscbt",
+								"expanded_url": "https://birchtree.me",
+								"display_url": "birchtree.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PtMWxijpnH",
+								"expanded_url": "http://birchtree.me",
+								"display_url": "birchtree.me",
+								"indices": [
+									33,
+									56
+								]
+							},
+							{
+								"url": "https://t.co/i6ZMgIybkZ",
+								"expanded_url": "http://birchtree.simplecast.fm",
+								"display_url": "birchtree.simplecast.fm",
+								"indices": [
+									76,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1737,
+				"friends_count": 440,
+				"listed_count": 98,
+				"created_at": "Sat Mar 28 15:53:46 +0000 2009",
+				"favourites_count": 13556,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49817,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1266399694776938496/VkInqCv-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266399694776938496/VkInqCv-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27251386/1579448671",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1273338211507437600,
+			"quoted_status_id_str": "1273338211507437568",
+			"quoted_status_permalink": {
+				"url": "https://t.co/LOcWmOiD9k",
+				"expanded": "https://twitter.com/BenBajarin/status/1273338211507437568",
+				"display": "twitter.com/BenBajarin/sta…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This x100. https://t.co/mAerN8dRX2"
+	},
+	{
 		"created_at": "Wed Jun 17 14:24:17 +0000 2020",
 		"id": 1273260177660285000,
 		"id_str": "1273260177660284928",
