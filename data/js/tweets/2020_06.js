@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 14:02:13 +0000 2020",
+		"id": 1273228747202859000,
+		"id_str": "1273254625542574080",
+		"full_text": "Remember when the feds classified juggalos as a gang? It's mostly cuz they do cool stuff like this. Critical support for our comrades. https://t.co/Ul3JJNz4K4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ul3JJNz4K4",
+					"expanded_url": "https://twitter.com/icp/status/1273006980039356419",
+					"display_url": "twitter.com/icp/status/127…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1630709755,
+			"id_str": "1630709755",
+			"name": "Dr Eleanor Janega",
+			"screen_name": "GoingMedieval",
+			"location": "London, England",
+			"description": "medieval historian (sex, cities, society, the apocalypse), lush, George Michael stan. she/her\nhttps://t.co/fkRDAFw75m\nAgent: William @Inkwellmgmt",
+			"url": "https://t.co/QkbLaOPRzw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QkbLaOPRzw",
+							"expanded_url": "http://going-medieval.com/",
+							"display_url": "going-medieval.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fkRDAFw75m",
+							"expanded_url": "https://www.patreon.com/GoingMedieval",
+							"display_url": "patreon.com/GoingMedieval",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36448,
+			"friends_count": 2036,
+			"listed_count": 282,
+			"created_at": "Mon Jul 29 16:04:21 +0000 2013",
+			"favourites_count": 197565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029470411002658817/s-KFUEdp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029470411002658817/s-KFUEdp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1630709755/1502283959",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273006980039356400,
+		"quoted_status_id_str": "1273006980039356419",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ul3JJNz4K4",
+			"expanded": "https://twitter.com/icp/status/1273006980039356419",
+			"display": "twitter.com/icp/status/127…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 16 21:38:10 +0000 2020",
+			"id": 1273006980039356400,
+			"id_str": "1273006980039356419",
+			"full_text": "You kept asking so we brought it back! Now available in all sizes, get yours now at \nhttps://t.co/KdDVU6UxLJ https://t.co/oORxNmyZhn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KdDVU6UxLJ",
+						"expanded_url": "http://psychopathicmerch.com/products/v2/259024/rebel-flag-black",
+						"display_url": "psychopathicmerch.com/products/v2/25…",
+						"indices": [
+							85,
+							108
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1273006973655699500,
+						"id_str": "1273006973655699458",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/EaqhGQ1X0AIC2c7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaqhGQ1X0AIC2c7.jpg",
+						"url": "https://t.co/oORxNmyZhn",
+						"display_url": "pic.twitter.com/oORxNmyZhn",
+						"expanded_url": "https://twitter.com/icp/status/1273006980039356419/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1273006973655699500,
+						"id_str": "1273006973655699458",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/EaqhGQ1X0AIC2c7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaqhGQ1X0AIC2c7.jpg",
+						"url": "https://t.co/oORxNmyZhn",
+						"display_url": "pic.twitter.com/oORxNmyZhn",
+						"expanded_url": "https://twitter.com/icp/status/1273006980039356419/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98677089,
+				"id_str": "98677089",
+				"name": "Insane Clown Posse",
+				"screen_name": "icp",
+				"location": "Detroit Murderous",
+				"description": "Fearless Fred Fury Available Now!",
+				"url": "https://t.co/fZcutm06dZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fZcutm06dZ",
+								"expanded_url": "http://www.insaneclownposse.com/",
+								"display_url": "insaneclownposse.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 186923,
+				"friends_count": 15153,
+				"listed_count": 1130,
+				"created_at": "Tue Dec 22 17:11:10 +0000 2009",
+				"favourites_count": 3588,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5223,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1268056754853732353/_1P2NNzD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268056754853732353/_1P2NNzD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98677089/1591163265",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5821,
+			"favorite_count": 24914,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 23,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remember when the feds classified juggalos as a gang? It's mostly cuz they do cool stuff like this. Critical support for our comrades. https://t.co/Ul3JJNz4K4"
+	},
+	{
 		"created_at": "Mon Jun 15 15:08:18 +0000 2020",
 		"id": 1272546483083120600,
 		"id_str": "1272546483083120640",
