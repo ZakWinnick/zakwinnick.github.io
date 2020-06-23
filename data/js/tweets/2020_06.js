@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 22:20:09 +0000 2020",
+		"id": 1275554260810453000,
+		"id_str": "1275554260810452999",
+		"full_text": "Hey! I did a thing with @KorenYoung. Go check it out, and listen to me ramble on about how to podcast. \n\nAlso, do all the YouTube stuff (like, subscribe, etc.) @Exploringpodcas. https://t.co/JbiYv4kWSP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KorenYoung",
+					"name": "Koren Young",
+					"id": 51539827,
+					"id_str": "51539827",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "Exploringpodcas",
+					"name": "Exploring Podcast",
+					"id": 1262664569245204500,
+					"id_str": "1262664569245204480",
+					"indices": [
+						160,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JbiYv4kWSP",
+					"expanded_url": "https://twitter.com/Exploringpodcas/status/1275520798334152704",
+					"display_url": "twitter.com/Exploringpodca…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 206,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275520798334152700,
+		"quoted_status_id_str": "1275520798334152704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JbiYv4kWSP",
+			"expanded": "https://twitter.com/Exploringpodcas/status/1275520798334152704",
+			"display": "twitter.com/Exploringpodca…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 23 20:07:11 +0000 2020",
+			"id": 1275520798334152700,
+			"id_str": "1275520798334152704",
+			"full_text": "For my first episode, I wanted to explore the world of podcasting and there's nobody better to talk to than my cousin, @ZakWinnick, who has been podcasting for over a decade.  https://t.co/9D1J4zwDqs #podcasting #interview #podernfamily #newepisode",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "podcasting",
+						"indices": [
+							200,
+							211
+						]
+					},
+					{
+						"text": "interview",
+						"indices": [
+							212,
+							222
+						]
+					},
+					{
+						"text": "podernfamily",
+						"indices": [
+							223,
+							236
+						]
+					},
+					{
+						"text": "newepisode",
+						"indices": [
+							237,
+							248
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ZakWinnick",
+						"name": "Zak Winnick",
+						"id": 9586552,
+						"id_str": "9586552",
+						"indices": [
+							119,
+							130
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9D1J4zwDqs",
+						"expanded_url": "https://youtu.be/RETMkxpUMzA",
+						"display_url": "youtu.be/RETMkxpUMzA",
+						"indices": [
+							176,
+							199
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1262664569245204500,
+				"id_str": "1262664569245204480",
+				"name": "Exploring Podcast",
+				"screen_name": "Exploringpodcas",
+				"location": "Santa Clarita, CA",
+				"description": "Brand new podcast where we’ll explore all kinds of fascinating topics each week. Subscribe on YouTube, Apple Podcasts, Google Podcasts, or Spotify.",
+				"url": "https://t.co/8aC6YhLMeh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8aC6YhLMeh",
+								"expanded_url": "http://www.exploringpodcast.com/",
+								"display_url": "exploringpodcast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2,
+				"friends_count": 11,
+				"listed_count": 0,
+				"created_at": "Tue May 19 08:43:06 +0000 2020",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1275518986143199232/6i6yynhi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275518986143199232/6i6yynhi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1262664569245204480/1592942556",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey! I did a thing with @KorenYoung. Go check it out, and listen to me ramble on about how to podcast. \n\nAlso, do all the YouTube stuff (like, subscribe, etc.) @Exploringpodcas. https://t.co/JbiYv4kWSP"
+	},
+	{
 		"created_at": "Mon Jun 22 23:46:52 +0000 2020",
 		"id": 1275213699683438600,
 		"id_str": "1275213699683438592",
