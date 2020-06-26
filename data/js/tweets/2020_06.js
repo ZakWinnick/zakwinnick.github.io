@@ -1,6 +1,95 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 26 00:01:27 +0000 2020",
+		"id": 1276292362155593700,
+		"id_str": "1276304533006823428",
+		"full_text": "People talking about having to quarantine in our homes again like that’s not what we’ve always done in #Vegas for July/August anyway. 😂",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Vegas",
+					"indices": [
+						103,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192444676,
+			"id_str": "192444676",
+			"name": "danielle",
+			"screen_name": "LuckyDaniLV",
+			"location": "Henderson, Nevada",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 123,
+			"listed_count": 0,
+			"created_at": "Sun Sep 19 04:44:06 +0000 2010",
+			"favourites_count": 10849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260411490969903104/tqcZVoMK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260411490969903104/tqcZVoMK_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "People talking about having to quarantine in our homes again like that’s not what we’ve always done in #Vegas for July/August anyway. 😂"
+	},
+	{
 		"created_at": "Thu Jun 25 17:50:37 +0000 2020",
 		"id": 1276211206651629600,
 		"id_str": "1276211206651629568",
