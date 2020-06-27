@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 27 01:33:41 +0000 2020",
+		"id": 1276690090874585000,
+		"id_str": "1276690128774324224",
+		"full_text": "Spoiler: They’re already doing it (just got off a 100% full flight, CLT-BNA). https://t.co/Tj4oBkBnjz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tj4oBkBnjz",
+					"expanded_url": "https://twitter.com/airlinewriter/status/1276522931175251968",
+					"display_url": "twitter.com/airlinewriter/…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 505,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276522931175252000,
+		"quoted_status_id_str": "1276522931175251968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Tj4oBkBnjz",
+			"expanded": "https://twitter.com/airlinewriter/status/1276522931175251968",
+			"display": "twitter.com/airlinewriter/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 26 14:29:18 +0000 2020",
+			"id": 1276522931175252000,
+			"id_str": "1276522931175251968",
+			"full_text": "AA will book flights to 100% starting next Wednesday. That puts @AmericanAir in line with @united. https://t.co/5He4p1SYrf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AmericanAir",
+						"name": "americanair",
+						"id": 22536055,
+						"id_str": "22536055",
+						"indices": [
+							64,
+							76
+						]
+					},
+					{
+						"screen_name": "united",
+						"name": "United Airlines",
+						"id": 260907612,
+						"id_str": "260907612",
+						"indices": [
+							90,
+							97
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1276522517730074600,
+						"id_str": "1276522517730074625",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/Ebced3EWoAEQYmn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ebced3EWoAEQYmn.jpg",
+						"url": "https://t.co/5He4p1SYrf",
+						"display_url": "pic.twitter.com/5He4p1SYrf",
+						"expanded_url": "https://twitter.com/airlinewriter/status/1276522931175251968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 251,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1564,
+								"h": 327,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 142,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1276522517730074600,
+						"id_str": "1276522517730074625",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/Ebced3EWoAEQYmn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ebced3EWoAEQYmn.jpg",
+						"url": "https://t.co/5He4p1SYrf",
+						"display_url": "pic.twitter.com/5He4p1SYrf",
+						"expanded_url": "https://twitter.com/airlinewriter/status/1276522931175251968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 251,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1564,
+								"h": 327,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 142,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60922227,
+				"id_str": "60922227",
+				"name": "David Koenig",
+				"screen_name": "airlinewriter",
+				"location": "Dallas, TX",
+				"description": "Associated Press airline reporter, dkoenig@ap.org. Diversions include travel, ice skating, het Nederlands elftal, the San Francisco Giants.",
+				"url": "https://t.co/EMGkn0dvPx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EMGkn0dvPx",
+								"expanded_url": "https://www.apnews.com/search/David_Koenig",
+								"display_url": "apnews.com/search/David_K…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8580,
+				"friends_count": 523,
+				"listed_count": 452,
+				"created_at": "Tue Jul 28 14:48:32 +0000 2009",
+				"favourites_count": 100,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10767,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1050849636741713920/GwV7miO7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050849636741713920/GwV7miO7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60922227/1408391505",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 129,
+			"favorite_count": 156,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spoiler: They’re already doing it (just got off a 100% full flight, CLT-BNA). https://t.co/Tj4oBkBnjz"
+	},
+	{
 		"created_at": "Fri Jun 26 00:01:27 +0000 2020",
 		"id": 1276292362155593700,
 		"id_str": "1276304533006823428",
