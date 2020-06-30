@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 14:49:08 +0000 2020",
+		"id": 1277977474224160800,
+		"id_str": "1277977474224160770",
+		"full_text": "This, and the following video in the thread are the absolute best.\n\nLooks like it might be in Vegas, but I’m not sure. Wouldn’t surprise me… https://t.co/tlRH7ajlrE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tlRH7ajlrE",
+					"expanded_url": "https://twitter.com/PCBearcat/status/1277677792403107842",
+					"display_url": "twitter.com/PCBearcat/stat…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 206,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1277677792403107800,
+		"quoted_status_id_str": "1277677792403107842",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tlRH7ajlrE",
+			"expanded": "https://twitter.com/PCBearcat/status/1277677792403107842",
+			"display": "twitter.com/PCBearcat/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 29 18:58:18 +0000 2020",
+			"id": 1277677792403107800,
+			"id_str": "1277677792403107842",
+			"full_text": "Me: The perfect internet video doesn’t exist\nThe internet: https://t.co/nSovAu1C2M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1277468921319297000,
+						"id_str": "1277468921319297028",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277468921319297028/pu/img/csnS2LzoizfjZ_C8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277468921319297028/pu/img/csnS2LzoizfjZ_C8.jpg",
+						"url": "https://t.co/nSovAu1C2M",
+						"display_url": "pic.twitter.com/nSovAu1C2M",
+						"expanded_url": "https://twitter.com/Iuissda/status/1277469159073484800/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 808,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 758,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 429,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1277469159073484800,
+						"source_status_id_str": "1277469159073484800",
+						"source_user_id": 1217258211297894400,
+						"source_user_id_str": "1217258211297894400"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1277468921319297000,
+						"id_str": "1277468921319297028",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277468921319297028/pu/img/csnS2LzoizfjZ_C8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277468921319297028/pu/img/csnS2LzoizfjZ_C8.jpg",
+						"url": "https://t.co/nSovAu1C2M",
+						"display_url": "pic.twitter.com/nSovAu1C2M",
+						"expanded_url": "https://twitter.com/Iuissda/status/1277469159073484800/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 808,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 758,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 429,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1277469159073484800,
+						"source_status_id_str": "1277469159073484800",
+						"source_user_id": 1217258211297894400,
+						"source_user_id_str": "1217258211297894400",
+						"video_info": {
+							"aspect_ratio": [
+								101,
+								160
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1277468921319297028/pu/vid/720x1140/tTkaVQotlhf8U4Vl.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1277468921319297028/pu/vid/320x506/azDUmpzmNg8_Jrnu.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1277468921319297028/pu/pl/3N1dNmvPUypo_7hM.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1277468921319297028/pu/vid/360x570/liiv9SRkcqnZ8ksn.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1217258211297894400,
+								"id_str": "1217258211297894400",
+								"name": "Luissda",
+								"screen_name": "Luissdad",
+								"location": "Htx",
+								"description": "rhlm // new account",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 292,
+								"friends_count": 90,
+								"listed_count": 2,
+								"created_at": "Wed Jan 15 01:32:40 +0000 2020",
+								"favourites_count": 1929,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 4092,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1253842018545143808/hW0n4kB5_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253842018545143808/hW0n4kB5_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1217258211297894400/1590028459",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 177653816,
+				"id_str": "177653816",
+				"name": "Ross Martin",
+				"screen_name": "PCBearcat",
+				"location": "",
+				"description": "Reckon I’ll ride out West, hold me up a train, get my ass all shot up, die in a creek somewhere.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3726,
+				"friends_count": 798,
+				"listed_count": 128,
+				"created_at": "Thu Aug 12 18:32:13 +0000 2010",
+				"favourites_count": 3397,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 133002,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/434572176193105920/Q0GpUdoO_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/434572176193105920/Q0GpUdoO_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/177653816/1460004413",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 140140,
+			"favorite_count": 499757,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This, and the following video in the thread are the absolute best.\n\nLooks like it might be in Vegas, but I’m not sure. Wouldn’t surprise me… https://t.co/tlRH7ajlrE"
+	},
+	{
 		"created_at": "Sun Jun 28 21:23:36 +0000 2020",
 		"id": 1277351969942917000,
 		"id_str": "1277351969942917120",
