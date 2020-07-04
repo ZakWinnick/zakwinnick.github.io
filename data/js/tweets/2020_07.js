@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 04 19:00:46 +0000 2020",
+		"id": 1279490351041056800,
+		"id_str": "1279490351041056770",
+		"full_text": "They already have a Jesus-related show…\n\nHowever, Lin-Manuel would be awesome as Jesus in said show. https://t.co/TAeTIC4y01",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TAeTIC4y01",
+					"expanded_url": "https://twitter.com/lucyleid/status/1279072262382145536",
+					"display_url": "twitter.com/lucyleid/statu…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 207,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1279072262382145500,
+		"quoted_status_id_str": "1279072262382145536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TAeTIC4y01",
+			"expanded": "https://twitter.com/lucyleid/status/1279072262382145536",
+			"display": "twitter.com/lucyleid/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 03 15:19:26 +0000 2020",
+			"id": 1279072262382145500,
+			"id_str": "1279072262382145536",
+			"full_text": "So @ganbrood use deep learning networks to produce a real Jesus ‘photo’ and it’s pretty much Lin Manuel Miranda https://t.co/ZReiair79W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ganbrood",
+						"name": "Ganbrood (Bas Uterwijk)",
+						"id": 1213023018026336300,
+						"id_str": "1213023018026336256",
+						"indices": [
+							3,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1279072244090712000,
+						"id_str": "1279072244090712065",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/EcAtbd8WsAEd5QK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcAtbd8WsAEd5QK.jpg",
+						"url": "https://t.co/ZReiair79W",
+						"display_url": "pic.twitter.com/ZReiair79W",
+						"expanded_url": "https://twitter.com/lucyleid/status/1279072262382145536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1279072244090712000,
+						"id_str": "1279072244090712065",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/EcAtbd8WsAEd5QK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcAtbd8WsAEd5QK.jpg",
+						"url": "https://t.co/ZReiair79W",
+						"display_url": "pic.twitter.com/ZReiair79W",
+						"expanded_url": "https://twitter.com/lucyleid/status/1279072262382145536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 137159973,
+				"id_str": "137159973",
+				"name": "Lucy Small",
+				"screen_name": "lucyleid",
+				"location": "",
+				"description": "strategy. making small brands big through digital + tech. Canadian in America. mom of ✌️ girls and ✋ dogs. @nickjsiii is my plus one",
+				"url": "https://t.co/rqhmS91WKy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rqhmS91WKy",
+								"expanded_url": "http://iamlucysmall.com",
+								"display_url": "iamlucysmall.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33332,
+				"friends_count": 8666,
+				"listed_count": 722,
+				"created_at": "Mon Apr 26 00:21:14 +0000 2010",
+				"favourites_count": 2221,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5990,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "474945",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/979196388671094786/b9WTriE4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979196388671094786/b9WTriE4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/137159973/1526875775",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "9AC57E",
+				"profile_text_color": "88AD76",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 143,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They already have a Jesus-related show…\n\nHowever, Lin-Manuel would be awesome as Jesus in said show. https://t.co/TAeTIC4y01"
+	},
+	{
 		"created_at": "Sat Jul 04 13:26:43 +0000 2020",
 		"id": 1279406287734935600,
 		"id_str": "1279406287734935552",
