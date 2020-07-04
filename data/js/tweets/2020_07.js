@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 04 13:26:43 +0000 2020",
+		"id": 1279406287734935600,
+		"id_str": "1279406287734935552",
+		"full_text": "It’s too early in the morning to read dumbassery like this thread… https://t.co/HOqm8GhdHR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HOqm8GhdHR",
+					"expanded_url": "https://twitter.com/DaveKSecure/status/1279194355585085440",
+					"display_url": "twitter.com/DaveKSecure/st…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 207,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1279194355585085400,
+		"quoted_status_id_str": "1279194355585085440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HOqm8GhdHR",
+			"expanded": "https://twitter.com/DaveKSecure/status/1279194355585085440",
+			"display": "twitter.com/DaveKSecure/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 03 23:24:35 +0000 2020",
+			"id": 1279194355585085400,
+			"id_str": "1279194355585085440",
+			"full_text": "I’ve decided to withdraw from speaking at Black Hat USA 2020. I’m deeply grateful for the offer to speak, and for the great work the conference has done over the years to protect users through transparency, education, and community building.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3306018794,
+				"id_str": "3306018794",
+				"name": "David Kleidermacher",
+				"screen_name": "DaveKSecure",
+				"location": "",
+				"description": "@Google Security - @Android,@GooglePlay, team ASAP | Opinions my own | https://t.co/kxIfoqttF9…",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kxIfoqttF9",
+								"expanded_url": "http://linkedin.com/in/davekleider",
+								"display_url": "linkedin.com/in/davekleider",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 608,
+				"friends_count": 264,
+				"listed_count": 11,
+				"created_at": "Tue Aug 04 12:45:49 +0000 2015",
+				"favourites_count": 1016,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 557,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/944622129856749568/ScBoYhYZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/944622129856749568/ScBoYhYZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3306018794/1514057661",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 68,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s too early in the morning to read dumbassery like this thread… https://t.co/HOqm8GhdHR"
+	},
+	{
 		"created_at": "Fri Jul 03 00:05:46 +0000 2020",
 		"id": 1278805900552212500,
 		"id_str": "1278842332150992896",
