@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 12:49:57 +0000 2020",
+		"id": 1280121808835010600,
+		"id_str": "1280121808835010565",
+		"full_text": "🤣🤣 https://t.co/qhRMQkUy0w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qhRMQkUy0w",
+					"expanded_url": "https://twitter.com/LandoNorris/status/1280063250000945154",
+					"display_url": "twitter.com/LandoNorris/st…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 207,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280063250000945200,
+		"quoted_status_id_str": "1280063250000945154",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qhRMQkUy0w",
+			"expanded": "https://twitter.com/LandoNorris/status/1280063250000945154",
+			"display": "twitter.com/LandoNorris/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 06 08:57:15 +0000 2020",
+			"id": 1280063250000945200,
+			"id_str": "1280063250000945154",
+			"full_text": "Can’t believe I went from a Full time @Twitch streamer to 3rd youngest ever F1 podium finisher in a matter of days....",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Twitch",
+						"name": "Twitch",
+						"id": 309366491,
+						"id_str": "309366491",
+						"indices": [
+							38,
+							45
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 516464106,
+				"id_str": "516464106",
+				"name": "Lando Norris",
+				"screen_name": "LandoNorris",
+				"location": "United Kingdom",
+				"description": "McLaren Formula 1 Driver @TeamL4NDO",
+				"url": "https://t.co/fscvKrPRae",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fscvKrPRae",
+								"expanded_url": "https://www.landonorris.com",
+								"display_url": "landonorris.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 498421,
+				"friends_count": 793,
+				"listed_count": 2305,
+				"created_at": "Tue Mar 06 12:02:40 +0000 2012",
+				"favourites_count": 13304,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5573,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FC2918",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267334887574581249/zCbuzPTV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267334887574581249/zCbuzPTV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/516464106/1594026048",
+				"profile_link_color": "FC2918",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D2F6AC",
+				"profile_text_color": "9FD0B0",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6866,
+			"favorite_count": 95874,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤣🤣 https://t.co/qhRMQkUy0w"
+	},
+	{
 		"created_at": "Sun Jul 05 00:24:58 +0000 2020",
 		"id": 1279571939854635000,
 		"id_str": "1279571939854635008",
