@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 22:09:39 +0000 2020",
+		"id": 1280625051029700600,
+		"id_str": "1280625051029700608",
+		"full_text": "Well, 2020 looks to be trending back up slightly… https://t.co/XCMiC9EMU9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XCMiC9EMU9",
+					"expanded_url": "https://twitter.com/DRMovieNews1/status/1280412128676102145",
+					"display_url": "twitter.com/DRMovieNews1/s…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 207,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280412128676102100,
+		"quoted_status_id_str": "1280412128676102145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XCMiC9EMU9",
+			"expanded": "https://twitter.com/DRMovieNews1/status/1280412128676102145",
+			"display": "twitter.com/DRMovieNews1/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 07 08:03:35 +0000 2020",
+			"id": 1280412128676102100,
+			"id_str": "1280412128676102145",
+			"full_text": "BREAKING: Disney confirms that ‘Tron 3’ is officially in development.\n\nJared Leto is reportedly in talks to star. A director search is underway, but the studio is “hopeful” that ‘Tron: Legacy’ director Joseph Kosinski returns...as well as Daft Punk for the score. GREAT news! https://t.co/CDpJUIxmjS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1280412124880273400,
+						"id_str": "1280412124880273408",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EcTwCy2XgAAFl9h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcTwCy2XgAAFl9h.jpg",
+						"url": "https://t.co/CDpJUIxmjS",
+						"display_url": "pic.twitter.com/CDpJUIxmjS",
+						"expanded_url": "https://twitter.com/DRMovieNews1/status/1280412128676102145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1199,
+								"h": 1305,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 625,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1103,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1280412124880273400,
+						"id_str": "1280412124880273408",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EcTwCy2XgAAFl9h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcTwCy2XgAAFl9h.jpg",
+						"url": "https://t.co/CDpJUIxmjS",
+						"display_url": "pic.twitter.com/CDpJUIxmjS",
+						"expanded_url": "https://twitter.com/DRMovieNews1/status/1280412128676102145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1199,
+								"h": 1305,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 625,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1103,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1280412124880216000,
+						"id_str": "1280412124880216065",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EcTwCy2WoAEE0Zy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcTwCy2WoAEE0Zy.jpg",
+						"url": "https://t.co/CDpJUIxmjS",
+						"display_url": "pic.twitter.com/CDpJUIxmjS",
+						"expanded_url": "https://twitter.com/DRMovieNews1/status/1280412128676102145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1280412124884480000,
+						"id_str": "1280412124884480000",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EcTwCy3XsAA1lma.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcTwCy3XsAA1lma.jpg",
+						"url": "https://t.co/CDpJUIxmjS",
+						"display_url": "pic.twitter.com/CDpJUIxmjS",
+						"expanded_url": "https://twitter.com/DRMovieNews1/status/1280412128676102145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 798,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 798,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1280412124876021800,
+						"id_str": "1280412124876021760",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EcTwCy1WoAAViLS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcTwCy1WoAAViLS.jpg",
+						"url": "https://t.co/CDpJUIxmjS",
+						"display_url": "pic.twitter.com/CDpJUIxmjS",
+						"expanded_url": "https://twitter.com/DRMovieNews1/status/1280412128676102145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 523,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 784,
+								"h": 1020,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 784,
+								"h": 1020,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1110371982653227000,
+				"id_str": "1110371982653227008",
+				"name": "DR Movie News 📽",
+				"screen_name": "DRMovieNews1",
+				"location": "United States",
+				"description": "Not Your Average Cinephiles 🎬 Daily News Coverage & Fun Movie Discussions! Ran by @bryanray62 & @AlfredMurphy99. Reviews By Bryan Ray 📽 🎞",
+				"url": "https://t.co/qtl8RXJ5R5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qtl8RXJ5R5",
+								"expanded_url": "http://letterboxd.com/RealDRMovieNews",
+								"display_url": "letterboxd.com/RealDRMovieNews",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10860,
+				"friends_count": 130,
+				"listed_count": 58,
+				"created_at": "Tue Mar 26 02:44:45 +0000 2019",
+				"favourites_count": 35288,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11675,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178820983622381569/hDUtdhkg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178820983622381569/hDUtdhkg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110371982653227008/1569887799",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3633,
+			"favorite_count": 12269,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, 2020 looks to be trending back up slightly… https://t.co/XCMiC9EMU9"
+	},
+	{
 		"created_at": "Tue Jul 07 02:08:47 +0000 2020",
 		"id": 1280322844023496700,
 		"id_str": "1280322844023496711",
