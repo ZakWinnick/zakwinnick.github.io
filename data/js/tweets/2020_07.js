@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 02:08:47 +0000 2020",
+		"id": 1280322844023496700,
+		"id_str": "1280322844023496711",
+		"full_text": "I’ve watched it (twice), and I don’t even have Disney+…\n\nThat’s how easy it is. https://t.co/5SK3qH3gAk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5SK3qH3gAk",
+					"expanded_url": "https://twitter.com/westcoasternet/status/1280291379952996353",
+					"display_url": "twitter.com/westcoasternet…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 207,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280291379952996400,
+		"quoted_status_id_str": "1280291379952996353",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5SK3qH3gAk",
+			"expanded": "https://twitter.com/westcoasternet/status/1280291379952996353",
+			"display": "twitter.com/westcoasternet…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 07 00:03:46 +0000 2020",
+			"id": 1280291379952996400,
+			"id_str": "1280291379952996353",
+			"full_text": "How to watch it… literally all you have to do is open Disney+… and if you don’t have Disney+, sign up for Disney+. That’s it. That’s the tweet. That’s all you need to know. #SavedYouAClick https://t.co/yF5YNXyLHn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SavedYouAClick",
+						"indices": [
+							173,
+							188
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yF5YNXyLHn",
+						"expanded_url": "https://twitter.com/Variety_TV/status/1280290704674050048",
+						"display_url": "twitter.com/Variety_TV/sta…",
+						"indices": [
+							189,
+							212
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14656102,
+				"id_str": "14656102",
+				"name": "Jim Disney",
+				"screen_name": "westcoasternet",
+				"location": "Hollywood, Los Angeles",
+				"description": "Lifestyle site with sarcasm. Art. Theme parks. Movies. Your mom. This is Westcoaster.",
+				"url": "https://t.co/2X8JxJxbKv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2X8JxJxbKv",
+								"expanded_url": "http://www.westcoaster.net",
+								"display_url": "westcoaster.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3922,
+				"friends_count": 1097,
+				"listed_count": 141,
+				"created_at": "Mon May 05 05:17:50 +0000 2008",
+				"favourites_count": 19980,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 80393,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9BAAC7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1277828346609455104/26XPYoWx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277828346609455104/26XPYoWx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14656102/1350855009",
+				"profile_link_color": "308FCF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "242424",
+				"profile_text_color": "616161",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1280290704674050000,
+			"quoted_status_id_str": "1280290704674050048",
+			"quoted_status_permalink": {
+				"url": "https://t.co/yF5YNXyLHn",
+				"expanded": "https://twitter.com/Variety_TV/status/1280290704674050048",
+				"display": "twitter.com/Variety_TV/sta…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’ve watched it (twice), and I don’t even have Disney+…\n\nThat’s how easy it is. https://t.co/5SK3qH3gAk"
+	},
+	{
 		"created_at": "Mon Jul 06 18:25:19 +0000 2020",
 		"id": 1280203313997181000,
 		"id_str": "1280206208197169152",
