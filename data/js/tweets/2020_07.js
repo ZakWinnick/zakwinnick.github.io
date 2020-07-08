@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 00:00:04 +0000 2020",
+		"id": 1279676293148221400,
+		"id_str": "1280652837387730946",
+		"full_text": "&gt;KTLA illegal firework footage is trending\n&gt;multiple comments about how \"congratulations, we've literally become Blade Runner\"\n\nMe, a video editor with the soundtrack: https://t.co/X1nchJGadb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1279675958103081000,
+					"id_str": "1279675958103080962",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279675958103080962/pu/img/99gdZ2Rs55ODsF1R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279675958103080962/pu/img/99gdZ2Rs55ODsF1R.jpg",
+					"url": "https://t.co/X1nchJGadb",
+					"display_url": "pic.twitter.com/X1nchJGadb",
+					"expanded_url": "https://twitter.com/Mach_Dent/status/1279676293148221441/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279675958103081000,
+					"id_str": "1279675958103080962",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279675958103080962/pu/img/99gdZ2Rs55ODsF1R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279675958103080962/pu/img/99gdZ2Rs55ODsF1R.jpg",
+					"url": "https://t.co/X1nchJGadb",
+					"display_url": "pic.twitter.com/X1nchJGadb",
+					"expanded_url": "https://twitter.com/Mach_Dent/status/1279676293148221441/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 104867,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1279675958103080962/pu/pl/N0_EepNTtBaTk_Us.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1279675958103080962/pu/vid/480x270/LDgKxzKlGNcPXq8d.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1279675958103080962/pu/vid/640x360/Q3gbv-aPCjDSymFj.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1279675958103080962/pu/vid/1280x720/HRiTtNfj1DRz7ghu.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101320565,
+			"id_str": "101320565",
+			"name": "Mach Dent",
+			"screen_name": "Mach_Dent",
+			"location": "Milwaukee, WI",
+			"description": "Voice Actor, Writer, Video Editor & Japanese Pop Culture Drifter since 198X. Creator of @VintageHenshin. OPINIONS ARE MY OWN.",
+			"url": "https://t.co/yhCgpe2Tsy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhCgpe2Tsy",
+							"expanded_url": "https://linktr.ee/mach.dent",
+							"display_url": "linktr.ee/mach.dent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2700,
+			"friends_count": 958,
+			"listed_count": 64,
+			"created_at": "Sat Jan 02 21:42:32 +0000 2010",
+			"favourites_count": 44973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030103",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274898996520275968/FpkrNsEs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274898996520275968/FpkrNsEs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101320565/1532466946",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "ADF1FC",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "947974",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6823,
+		"favorite_count": 14912,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "&gt;KTLA illegal firework footage is trending\n&gt;multiple comments about how \"congratulations, we've literally become Blade Runner\"\n\nMe, a video editor with the soundtrack: https://t.co/X1nchJGadb"
+	},
+	{
 		"created_at": "Tue Jul 07 22:09:39 +0000 2020",
 		"id": 1280625051029700600,
 		"id_str": "1280625051029700608",
