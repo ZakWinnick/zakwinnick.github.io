@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 18:21:25 +0000 2020",
+		"id": 1281654778208989200,
+		"id_str": "1281654778208989187",
+		"full_text": "Boston Dynamics just needs to change its name to Cyberdyne already… https://t.co/QgYIekG7Xd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QgYIekG7Xd",
+					"expanded_url": "https://twitter.com/ValaAfshar/status/1281635507110379520",
+					"display_url": "twitter.com/ValaAfshar/sta…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 208,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1281635507110379500,
+		"quoted_status_id_str": "1281635507110379520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QgYIekG7Xd",
+			"expanded": "https://twitter.com/ValaAfshar/status/1281635507110379520",
+			"display": "twitter.com/ValaAfshar/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 10 17:04:51 +0000 2020",
+			"id": 1281635507110379500,
+			"id_str": "1281635507110379520",
+			"full_text": "Imagine what machines will be able to do in the next 5-10 years.\n\nBoston Dynamics' machine shows its flawless gymnastic routine. @AndrewYang https://t.co/ZgxrfbhYWe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AndrewYang",
+						"name": "Andrew Yang🧢🇺🇸",
+						"id": 2228878592,
+						"id_str": "2228878592",
+						"indices": [
+							129,
+							140
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1222896326477660200,
+						"id_str": "1222896326477660167",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1222896326477660167/pu/img/sAxpkmu51nFaB2nb.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1222896326477660167/pu/img/sAxpkmu51nFaB2nb.jpg",
+						"url": "https://t.co/ZgxrfbhYWe",
+						"display_url": "pic.twitter.com/ZgxrfbhYWe",
+						"expanded_url": "https://twitter.com/UniverCurious/status/1222896426834780160/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1222896426834780200,
+						"source_status_id_str": "1222896426834780160",
+						"source_user_id": 892826509622353900,
+						"source_user_id_str": "892826509622353920"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1222896326477660200,
+						"id_str": "1222896326477660167",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1222896326477660167/pu/img/sAxpkmu51nFaB2nb.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1222896326477660167/pu/img/sAxpkmu51nFaB2nb.jpg",
+						"url": "https://t.co/ZgxrfbhYWe",
+						"display_url": "pic.twitter.com/ZgxrfbhYWe",
+						"expanded_url": "https://twitter.com/UniverCurious/status/1222896426834780160/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1222896426834780200,
+						"source_status_id_str": "1222896426834780160",
+						"source_user_id": 892826509622353900,
+						"source_user_id_str": "892826509622353920",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 23600,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1222896326477660167/pu/pl/rc-nwY7_rLUI9w3w.m3u8?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1222896326477660167/pu/vid/720x720/zW1LDbCdWK0KlJNL.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1222896326477660167/pu/vid/320x320/JcLYRcdgUuRJ-4lQ.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1222896326477660167/pu/vid/480x480/cUMUIk1-Xmv17r5Z.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 892826509622353900,
+								"id_str": "892826509622353920",
+								"name": "Universal Curiosity",
+								"screen_name": "UniverCurious",
+								"location": "",
+								"description": "Science | Space Exploration | Engineering\n\nPartnerships info@proandromeda.com",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 280927,
+								"friends_count": 29,
+								"listed_count": 1160,
+								"created_at": "Wed Aug 02 19:16:42 +0000 2017",
+								"favourites_count": 1748,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 1827,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1200517928686407680/5FXDclvD_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200517928686407680/5FXDclvD_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/892826509622353920/1575990724",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 259725229,
+				"id_str": "259725229",
+				"name": "Vala Afshar",
+				"screen_name": "ValaAfshar",
+				"location": "Boston",
+				"description": "Chief Digital Evangelist @Salesforce | Columnist: @ZDNet | Show: @DisrupTVShow | Book: https://t.co/oSpLljigAi",
+				"url": "https://t.co/hrhaCHhyjx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hrhaCHhyjx",
+								"expanded_url": "https://www.zdnet.com/meet-the-team/us/vafshar/",
+								"display_url": "zdnet.com/meet-the-team/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oSpLljigAi",
+								"expanded_url": "http://bit.ly/tposbe",
+								"display_url": "bit.ly/tposbe",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 472599,
+				"friends_count": 295,
+				"listed_count": 10576,
+				"created_at": "Wed Mar 02 13:31:29 +0000 2011",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 409426,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1259558245/vala_300dpi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259558245/vala_300dpi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/259725229/1439209336",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 928,
+			"favorite_count": 3845,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Boston Dynamics just needs to change its name to Cyberdyne already… https://t.co/QgYIekG7Xd"
+	},
+	{
 		"created_at": "Fri Jul 10 15:41:12 +0000 2020",
 		"id": 1281614458977169400,
 		"id_str": "1281614458977169410",
