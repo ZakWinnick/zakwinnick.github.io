@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 15:41:12 +0000 2020",
+		"id": 1281614458977169400,
+		"id_str": "1281614458977169410",
+		"full_text": "The Newton. 😏\n\n(cc: @newtontalk) https://t.co/E3OEYMjVki",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "newtontalk",
+					"name": "NewtonTalk",
+					"id": 14668722,
+					"id_str": "14668722",
+					"indices": [
+						20,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E3OEYMjVki",
+					"expanded_url": "https://twitter.com/AppleTerminal/status/1281599618858586112",
+					"display_url": "twitter.com/AppleTerminal/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 207,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269804858196004865/GIEearax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1281599618858586000,
+		"quoted_status_id_str": "1281599618858586112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/E3OEYMjVki",
+			"expanded": "https://twitter.com/AppleTerminal/status/1281599618858586112",
+			"display": "twitter.com/AppleTerminal/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 10 14:42:14 +0000 2020",
+			"id": 1281599618858586000,
+			"id_str": "1281599618858586112",
+			"full_text": "Name an underrated Apple product, feature, or service.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1135468733957386200,
+				"id_str": "1135468733957386240",
+				"name": "Apple Terminal",
+				"screen_name": "AppleTerminal",
+				"location": "",
+				"description": "We cover everything from jailbreak to Apple leaks. Be sure to follow to keep up with the latest. Have an #Apple tip? Send it to us at tips@appleterm.com",
+				"url": "https://t.co/5rdVAFBKu4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5rdVAFBKu4",
+								"expanded_url": "http://appleterm.com",
+								"display_url": "appleterm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9466,
+				"friends_count": 4,
+				"listed_count": 86,
+				"created_at": "Mon Jun 03 08:50:16 +0000 2019",
+				"favourites_count": 40,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6232,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265750903409258496/tlpo7SC9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265750903409258496/tlpo7SC9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135468733957386240/1593303581",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Newton. 😏\n\n(cc: @newtontalk) https://t.co/E3OEYMjVki"
+	},
+	{
 		"created_at": "Wed Jul 08 00:00:04 +0000 2020",
 		"id": 1279676293148221400,
 		"id_str": "1280652837387730946",
