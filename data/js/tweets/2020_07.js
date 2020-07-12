@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 12 00:08:36 +0000 2020",
+		"id": 1282049738183831600,
+		"id_str": "1282104535603912707",
+		"full_text": "Thanks to my old pal “Beefalo Bill” Burk for digging up this archival photo from the night I debuted “Another One Rides the Bus” live on the Dr. Demento Radio Show (KMET).  This September 14 will mark the event’s 40th anniversary (!!!!!) https://t.co/bW3VWi2lwg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282049729736536000,
+					"id_str": "1282049729736536064",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EcrBb8VU8AAQuzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcrBb8VU8AAQuzb.jpg",
+					"url": "https://t.co/bW3VWi2lwg",
+					"display_url": "pic.twitter.com/bW3VWi2lwg",
+					"expanded_url": "https://twitter.com/alyankovic/status/1282049738183831553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282049729736536000,
+					"id_str": "1282049729736536064",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EcrBb8VU8AAQuzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcrBb8VU8AAQuzb.jpg",
+					"url": "https://t.co/bW3VWi2lwg",
+					"display_url": "pic.twitter.com/bW3VWi2lwg",
+					"expanded_url": "https://twitter.com/alyankovic/status/1282049738183831553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22461427,
+			"id_str": "22461427",
+			"name": "Al Yankovic",
+			"screen_name": "alyankovic",
+			"location": "Los Angeles",
+			"description": "You know... the weird one.",
+			"url": "https://t.co/AQRv276mUy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AQRv276mUy",
+							"expanded_url": "http://weirdal.com",
+							"display_url": "weirdal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5106086,
+			"friends_count": 615,
+			"listed_count": 29182,
+			"created_at": "Mon Mar 02 07:00:29 +0000 2009",
+			"favourites_count": 4340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/246073324/IL2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22461427/1398828117",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 416,
+		"favorite_count": 4237,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to my old pal “Beefalo Bill” Burk for digging up this archival photo from the night I debuted “Another One Rides the Bus” live on the Dr. Demento Radio Show (KMET).  This September 14 will mark the event’s 40th anniversary (!!!!!) https://t.co/bW3VWi2lwg"
+	},
+	{
 		"created_at": "Fri Jul 10 22:33:10 +0000 2020",
 		"id": 1281718132785270800,
 		"id_str": "1281718132785270788",
