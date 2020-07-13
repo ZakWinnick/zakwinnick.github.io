@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 22:35:40 +0000 2020",
+		"id": 1282805925246652400,
+		"id_str": "1282805925246652416",
+		"full_text": "Hey @AmericanAir ! You can take a lesson from @JetBlue and @Delta… https://t.co/IhmPMGDHnJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmericanAir",
+					"name": "americanair",
+					"id": 22536055,
+					"id_str": "22536055",
+					"indices": [
+						4,
+						16
+					]
+				},
+				{
+					"screen_name": "JetBlue",
+					"name": "JetBlue",
+					"id": 6449282,
+					"id_str": "6449282",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"screen_name": "Delta",
+					"name": "Delta",
+					"id": 5920532,
+					"id_str": "5920532",
+					"indices": [
+						59,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IhmPMGDHnJ",
+					"expanded_url": "https://twitter.com/JetBlue/status/1282758506932842498",
+					"display_url": "twitter.com/JetBlue/status…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 207,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281718344744304645/CdixU-yX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281718344744304645/CdixU-yX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282758506932842500,
+		"quoted_status_id_str": "1282758506932842498",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IhmPMGDHnJ",
+			"expanded": "https://twitter.com/JetBlue/status/1282758506932842498",
+			"display": "twitter.com/JetBlue/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 13 19:27:15 +0000 2020",
+			"id": 1282758506932842500,
+			"id_str": "1282758506932842498",
+			"full_text": "To promote physical distancing, we’re blocking middle seats thru 9/8 on our larger planes (and most aisle seats on our smaller planes), except for those traveling together. Learn more: https://t.co/b85FfIGkRw https://t.co/EakuiZB45t",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/b85FfIGkRw",
+						"expanded_url": "http://jetblue.com/safety",
+						"display_url": "jetblue.com/safety",
+						"indices": [
+							185,
+							208
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1282758500926488600,
+						"id_str": "1282758500926488578",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec1GD2xWAAIh9ls.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec1GD2xWAAIh9ls.jpg",
+						"url": "https://t.co/EakuiZB45t",
+						"display_url": "pic.twitter.com/EakuiZB45t",
+						"expanded_url": "https://twitter.com/JetBlue/status/1282758506932842498/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1282758500926488600,
+						"id_str": "1282758500926488578",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec1GD2xWAAIh9ls.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec1GD2xWAAIh9ls.jpg",
+						"url": "https://t.co/EakuiZB45t",
+						"display_url": "pic.twitter.com/EakuiZB45t",
+						"expanded_url": "https://twitter.com/JetBlue/status/1282758506932842498/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6449282,
+				"id_str": "6449282",
+				"name": "JetBlue",
+				"screen_name": "JetBlue",
+				"location": "1-800-JETBLUE",
+				"description": "Hi, nice to tweet you! For concerns that require a response, visit https://t.co/LdiXjJAPOP. Learn how we are keeping you safe and well: https://t.co/g6nGwAFXkX",
+				"url": "https://t.co/51Ra6SGKWf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/51Ra6SGKWf",
+								"expanded_url": "http://www.jetblue.com",
+								"display_url": "jetblue.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LdiXjJAPOP",
+								"expanded_url": "http://jetblue.com",
+								"display_url": "jetblue.com",
+								"indices": [
+									67,
+									90
+								]
+							},
+							{
+								"url": "https://t.co/g6nGwAFXkX",
+								"expanded_url": "http://www.jetblue.com/safety",
+								"display_url": "jetblue.com/safety",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1951513,
+				"friends_count": 105497,
+				"listed_count": 12028,
+				"created_at": "Wed May 30 17:51:54 +0000 2007",
+				"favourites_count": 65894,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 603866,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F4B8F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1182778336868818952/e50MnvSk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182778336868818952/e50MnvSk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6449282/1570831305",
+				"profile_link_color": "3399CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "999999",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 194,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey @AmericanAir ! You can take a lesson from @JetBlue and @Delta… https://t.co/IhmPMGDHnJ"
+	},
+	{
+		"created_at": "Mon Jul 13 22:33:54 +0000 2020",
+		"id": 1282805479245254700,
+		"id_str": "1282805479245254657",
+		"full_text": "Curious to see who picked it up, and for how much… https://t.co/CjciuTHkcQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CjciuTHkcQ",
+					"expanded_url": "https://twitter.com/VitalVegas/status/1282766312167493633",
+					"display_url": "twitter.com/VitalVegas/sta…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 207,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281718344744304645/CdixU-yX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281718344744304645/CdixU-yX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282766312167493600,
+		"quoted_status_id_str": "1282766312167493633",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CjciuTHkcQ",
+			"expanded": "https://twitter.com/VitalVegas/status/1282766312167493633",
+			"display": "twitter.com/VitalVegas/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 13 19:58:16 +0000 2020",
+			"id": 1282766312167493600,
+			"id_str": "1282766312167493633",
+			"full_text": "In brighter news, appears Skyvue site is off the market following a bankruptcy auction. New owners bring new hope of shiny new things. Take down the pillars of shame! (h/t @jfb2vegas) https://t.co/amkjdfA6WN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jfb2vegas",
+						"name": "Jfb2vegas",
+						"id": 1159901863036121000,
+						"id_str": "1159901863036121088",
+						"indices": [
+							172,
+							182
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1282765759882518500,
+						"id_str": "1282765759882518528",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec1MqYfU4AAwrpj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec1MqYfU4AAwrpj.jpg",
+						"url": "https://t.co/amkjdfA6WN",
+						"display_url": "pic.twitter.com/amkjdfA6WN",
+						"expanded_url": "https://twitter.com/VitalVegas/status/1282766312167493633/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 634,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1119,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1488,
+								"h": 1387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1282765759882518500,
+						"id_str": "1282765759882518528",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec1MqYfU4AAwrpj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec1MqYfU4AAwrpj.jpg",
+						"url": "https://t.co/amkjdfA6WN",
+						"display_url": "pic.twitter.com/amkjdfA6WN",
+						"expanded_url": "https://twitter.com/VitalVegas/status/1282766312167493633/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 634,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1119,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1488,
+								"h": 1387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 514487309,
+				"id_str": "514487309",
+				"name": "Vital Vegas",
+				"screen_name": "VitalVegas",
+				"location": "Las Vegas, NV",
+				"description": "https://t.co/iNB8aPQlsS is your essential source for Las Vegas news, rumors, tips and WTF. #LasVegas",
+				"url": "https://t.co/qBgUfzLqfn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qBgUfzLqfn",
+								"expanded_url": "http://www.vitalvegas.com",
+								"display_url": "vitalvegas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iNB8aPQlsS",
+								"expanded_url": "http://VitalVegas.com",
+								"display_url": "VitalVegas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 71081,
+				"friends_count": 14148,
+				"listed_count": 491,
+				"created_at": "Sun Mar 04 16:04:28 +0000 2012",
+				"favourites_count": 375170,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 80500,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/514487309/1510021234",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "893F0D",
+				"profile_text_color": "050404",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Curious to see who picked it up, and for how much… https://t.co/CjciuTHkcQ"
+	},
+	{
 		"created_at": "Sun Jul 12 10:19:16 +0000 2020",
 		"id": 1282258216924086300,
 		"id_str": "1282258216924086273",
