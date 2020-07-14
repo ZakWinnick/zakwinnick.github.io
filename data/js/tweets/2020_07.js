@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 10:24:46 +0000 2020",
+		"id": 1282984373760012300,
+		"id_str": "1282984373760012289",
+		"full_text": "Such a great, underrated movie…if you haven’t seen it, go watch it now. \n\nI’ll wait… https://t.co/HUbzyipi60",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HUbzyipi60",
+					"expanded_url": "https://twitter.com/anne_litt/status/1282872338904563712",
+					"display_url": "twitter.com/anne_litt/stat…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 207,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281718344744304645/CdixU-yX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281718344744304645/CdixU-yX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282872338904563700,
+		"quoted_status_id_str": "1282872338904563712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HUbzyipi60",
+			"expanded": "https://twitter.com/anne_litt/status/1282872338904563712",
+			"display": "twitter.com/anne_litt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 14 02:59:34 +0000 2020",
+			"id": 1282872338904563700,
+			"id_str": "1282872338904563712",
+			"full_text": "The love of my life wrote this film &amp; directed it w/ Bill Murray.Sharing an interview w/him about it from 2015. If you've never seen #Quickchange take my word for it.Yep, I'm biased,but if you don't love it,hit me up.We'll take it outside.https://t.co/t7eEEpI4W1 @howardwfranklin",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Quickchange",
+						"indices": [
+							137,
+							149
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "howardwfranklin",
+						"name": "howard franklin",
+						"id": 1220409895,
+						"id_str": "1220409895",
+						"indices": [
+							267,
+							283
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/t7eEEpI4W1",
+						"expanded_url": "https://ew.com/article/2015/07/13/quick-change-25-bill-murray-howard-franklin/",
+						"display_url": "ew.com/article/2015/0…",
+						"indices": [
+							243,
+							266
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25357255,
+				"id_str": "25357255",
+				"name": "anne litt",
+				"screen_name": "anne_litt",
+				"location": "Los Angeles",
+				"description": "program director of music @kcrw",
+				"url": "http://t.co/VIPrjeYSlv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VIPrjeYSlv",
+								"expanded_url": "http://kcrw.com",
+								"display_url": "kcrw.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16665,
+				"friends_count": 452,
+				"listed_count": 462,
+				"created_at": "Thu Mar 19 18:38:56 +0000 2009",
+				"favourites_count": 11148,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8298,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1220410163330371585/c4M5T_WN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220410163330371585/c4M5T_WN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25357255/1399237333",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Such a great, underrated movie…if you haven’t seen it, go watch it now. \n\nI’ll wait… https://t.co/HUbzyipi60"
+	},
+	{
 		"created_at": "Tue Jul 14 10:17:22 +0000 2020",
 		"id": 1282982512462094300,
 		"id_str": "1282982512462094337",
