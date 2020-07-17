@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 17 10:20:04 +0000 2020",
+		"id": 1283947245164011500,
+		"id_str": "1284070357809405952",
+		"full_text": "Thank you Houston for publishing an ethical level of information. Thank you Kate G for putting this together. https://t.co/NeAJjZs3BS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NeAJjZs3BS",
+					"expanded_url": "https://twitter.com/KatrayesG/status/1283821950977093632",
+					"display_url": "twitter.com/KatrayesG/stat…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2704681687,
+			"id_str": "2704681687",
+			"name": "Ethical Skeptic ☀",
+			"screen_name": "EthicalSkeptic",
+			"location": "USA and Client Nations",
+			"description": "Trade Tech Ops & National Infrastructure Strategist / Postgrad Systems Sci & Eng / US Naval Intelligence / CEO / ENTX / Ethical philosophy of agency & science",
+			"url": "http://t.co/QbpbGzcGIC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/QbpbGzcGIC",
+							"expanded_url": "http://www.theethicalskeptic.com",
+							"display_url": "theethicalskeptic.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45235,
+			"friends_count": 990,
+			"listed_count": 398,
+			"created_at": "Sun Aug 03 18:35:50 +0000 2014",
+			"favourites_count": 18659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222265011915173888/swrb_ll3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222265011915173888/swrb_ll3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2704681687/1586841105",
+			"profile_link_color": "345999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283821950977093600,
+		"quoted_status_id_str": "1283821950977093632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NeAJjZs3BS",
+			"expanded": "https://twitter.com/KatrayesG/status/1283821950977093632",
+			"display": "twitter.com/KatrayesG/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 16 17:53:00 +0000 2020",
+			"id": 1283821950977093600,
+			"id_str": "1283821950977093632",
+			"full_text": "The City of Houston has reported 71 COVID-19 deaths so far in July. Of these, only 7 actually occurred in July. Some of these recorded deaths even happened in April and May. https://t.co/HolLgWMXKk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1283821943754567700,
+						"id_str": "1283821943754567681",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/EdENQYBXsAEb0qO.png",
+						"media_url_https": "https://pbs.twimg.com/media/EdENQYBXsAEb0qO.png",
+						"url": "https://t.co/HolLgWMXKk",
+						"display_url": "pic.twitter.com/HolLgWMXKk",
+						"expanded_url": "https://twitter.com/KatrayesG/status/1283821950977093632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1401,
+								"h": 774,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 663,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1283821943754567700,
+						"id_str": "1283821943754567681",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/EdENQYBXsAEb0qO.png",
+						"media_url_https": "https://pbs.twimg.com/media/EdENQYBXsAEb0qO.png",
+						"url": "https://t.co/HolLgWMXKk",
+						"display_url": "pic.twitter.com/HolLgWMXKk",
+						"expanded_url": "https://twitter.com/KatrayesG/status/1283821950977093632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1401,
+								"h": 774,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 663,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 434108263,
+				"id_str": "434108263",
+				"name": "Kate G",
+				"screen_name": "KatrayesG",
+				"location": "Texas",
+				"description": "Fighting for the truth.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 214,
+				"friends_count": 146,
+				"listed_count": 1,
+				"created_at": "Sun Dec 11 12:36:47 +0000 2011",
+				"favourites_count": 1953,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 540,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1268287767966072834/HdqRqVJR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268287767966072834/HdqRqVJR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/434108263/1591218343",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 407,
+			"favorite_count": 801,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 271,
+		"favorite_count": 741,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you Houston for publishing an ethical level of information. Thank you Kate G for putting this together. https://t.co/NeAJjZs3BS"
+	},
+	{
 		"created_at": "Tue Jul 14 10:24:46 +0000 2020",
 		"id": 1282984373760012300,
 		"id_str": "1282984373760012289",
