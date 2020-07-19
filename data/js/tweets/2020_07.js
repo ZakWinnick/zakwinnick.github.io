@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 19 21:52:37 +0000 2020",
+		"id": 1284894113847017500,
+		"id_str": "1284969419635150849",
+		"full_text": "Please point out 5 ways Trump owned this interview. https://t.co/Du8BiCiJ3B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Du8BiCiJ3B",
+					"expanded_url": "https://twitter.com/gregkellyusa/status/1284859936904798208",
+					"display_url": "twitter.com/gregkellyusa/s…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 512,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1284859936904798200,
+		"quoted_status_id_str": "1284859936904798208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Du8BiCiJ3B",
+			"expanded": "https://twitter.com/gregkellyusa/status/1284859936904798208",
+			"display": "twitter.com/gregkellyusa/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 19 14:37:35 +0000 2020",
+			"id": 1284859936904798200,
+			"id_str": "1284859936904798208",
+			"full_text": "Forget the fake news headlines. ⁦@realDonaldTrump⁩ is OWNING this interview https://t.co/G4D6sLTOq4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				75
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							33,
+							49
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1284859926859395000,
+						"id_str": "1284859926859395073",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/EdS9S8aWsAEsZcu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdS9S8aWsAEsZcu.jpg",
+						"url": "https://t.co/G4D6sLTOq4",
+						"display_url": "pic.twitter.com/G4D6sLTOq4",
+						"expanded_url": "https://twitter.com/gregkellyusa/status/1284859936904798208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1284859926859395000,
+						"id_str": "1284859926859395073",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/EdS9S8aWsAEsZcu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdS9S8aWsAEsZcu.jpg",
+						"url": "https://t.co/G4D6sLTOq4",
+						"display_url": "pic.twitter.com/G4D6sLTOq4",
+						"expanded_url": "https://twitter.com/gregkellyusa/status/1284859936904798208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44385628,
+				"id_str": "44385628",
+				"name": "Greg Kelly",
+				"screen_name": "gregkellyusa",
+				"location": "",
+				"description": "USMC Veteran. Host of “Greg Kelly Reports” on Newsmax at 7pm EDT M-F. Bring onion rings to McDonald’s.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28324,
+				"friends_count": 1261,
+				"listed_count": 197,
+				"created_at": "Wed Jun 03 15:49:35 +0000 2009",
+				"favourites_count": 86,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 431,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213962057948811267/xHFp4lWL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213962057948811267/xHFp4lWL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44385628/1578189589",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 369,
+			"favorite_count": 1348,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please point out 5 ways Trump owned this interview. https://t.co/Du8BiCiJ3B"
+	},
+	{
 		"created_at": "Sat Jul 18 16:09:10 +0000 2020",
 		"id": 1284520598174158800,
 		"id_str": "1284520598174158849",
