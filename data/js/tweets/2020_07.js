@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 20 22:01:21 +0000 2020",
+		"id": 1285248182755250200,
+		"id_str": "1285334004208730113",
+		"full_text": "Today 100% of Apollo's proceeds will be donated to the Nova Scotia SPCA Animal Shelter who are really in need of the help and is strained on resources. Check out an awesome Reddit app today!\n\nI'll also donate $1 for every retweet this gets! \n\nhttps://t.co/oMlPqOAPOt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oMlPqOAPOt",
+					"expanded_url": "https://itunes.apple.com/app/id979274575",
+					"display_url": "itunes.apple.com/app/id979274575",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3005972417,
+			"id_str": "3005972417",
+			"name": "Apollo App",
+			"screen_name": "apolloreddit",
+			"location": "",
+			"description": "Hi! I'm a brand new, beautiful, blazing fast and super powerful Reddit app for iOS! Check me out!",
+			"url": "http://t.co/OwnW7yNROp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/OwnW7yNROp",
+							"expanded_url": "http://apolloapp.io",
+							"display_url": "apolloapp.io",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5291,
+			"friends_count": 1,
+			"listed_count": 118,
+			"created_at": "Fri Jan 30 16:50:20 +0000 2015",
+			"favourites_count": 262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148951417576669185/4yyffR4-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148951417576669185/4yyffR4-_normal.png",
+			"profile_link_color": "007AFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 447,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today 100% of Apollo's proceeds will be donated to the Nova Scotia SPCA Animal Shelter who are really in need of the help and is strained on resources. Check out an awesome Reddit app today!\n\nI'll also donate $1 for every retweet this gets! \n\nhttps://t.co/oMlPqOAPOt"
+	},
+	{
 		"created_at": "Sun Jul 19 21:52:37 +0000 2020",
 		"id": 1284894113847017500,
 		"id_str": "1284969419635150849",
