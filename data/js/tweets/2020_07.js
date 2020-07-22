@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 21 23:55:25 +0000 2020",
+		"id": 1285725097597251600,
+		"id_str": "1285725097597251591",
+		"full_text": "I will always retweet whenever @davecobb tweets about this project. \n\n(CC: @macstoriesnet, @jsnell, and @ismh) https://t.co/6kFpafb2tN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davecobb",
+					"name": "Dave Cobb 🏳️‍🌈",
+					"id": 7253402,
+					"id_str": "7253402",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"screen_name": "macstoriesnet",
+					"name": "MacStories",
+					"id": 87077721,
+					"id_str": "87077721",
+					"indices": [
+						75,
+						89
+					]
+				},
+				{
+					"screen_name": "jsnell",
+					"name": "Jason Snell",
+					"id": 784912,
+					"id_str": "784912",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"screen_name": "ismh",
+					"name": "Stephen Hackett",
+					"id": 1566661,
+					"id_str": "1566661",
+					"indices": [
+						104,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6kFpafb2tN",
+					"expanded_url": "https://twitter.com/davecobb/status/1285637944829775874",
+					"display_url": "twitter.com/davecobb/statu…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 210,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1285637944829776000,
+		"quoted_status_id_str": "1285637944829775874",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6kFpafb2tN",
+			"expanded": "https://twitter.com/davecobb/status/1285637944829775874",
+			"display": "twitter.com/davecobb/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 21 18:09:06 +0000 2020",
+			"id": 1285637944829776000,
+			"id_str": "1285637944829775874",
+			"full_text": "I was the creative director for this project! I talk about it on @retromaccast back in 2012: https://t.co/f3RATmF9ad https://t.co/fEkoxownUB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RetroMacCast",
+						"name": "James",
+						"id": 18098093,
+						"id_str": "18098093",
+						"indices": [
+							65,
+							78
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/f3RATmF9ad",
+						"expanded_url": "https://retromaccast.libsyn.com/episode-247-apple-cafe",
+						"display_url": "retromaccast.libsyn.com/episode-247-ap…",
+						"indices": [
+							93,
+							116
+						]
+					},
+					{
+						"url": "https://t.co/fEkoxownUB",
+						"expanded_url": "https://twitter.com/WeirdlandTales/status/1285622180378804225",
+						"display_url": "twitter.com/WeirdlandTales…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7253402,
+				"id_str": "7253402",
+				"name": "Dave Cobb 🏳️‍🌈",
+				"screen_name": "davecobb",
+				"location": "Los Angeles",
+				"description": "Experience Design; formerly @ThinkwellGroup, Universal Parks (MIB) & Paramount Parks; queer + married, he/him; saving the world one dark-ride at a time.",
+				"url": "https://t.co/uhENxsJ7WT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uhENxsJ7WT",
+								"expanded_url": "http://about.me/davecobb",
+								"display_url": "about.me/davecobb",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5031,
+				"friends_count": 2937,
+				"listed_count": 106,
+				"created_at": "Wed Jul 04 16:42:52 +0000 2007",
+				"favourites_count": 22286,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14783,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267863202185883649/Ppq57kmx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267863202185883649/Ppq57kmx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7253402/1591117118",
+				"profile_link_color": "4E00FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "DE91FF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1285622180378804200,
+			"quoted_status_id_str": "1285622180378804225",
+			"quoted_status_permalink": {
+				"url": "https://t.co/fEkoxownUB",
+				"expanded": "https://twitter.com/WeirdlandTales/status/1285622180378804225",
+				"display": "twitter.com/WeirdlandTales…"
+			},
+			"retweet_count": 9,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I will always retweet whenever @davecobb tweets about this project. \n\n(CC: @macstoriesnet, @jsnell, and @ismh) https://t.co/6kFpafb2tN"
+	},
+	{
 		"created_at": "Mon Jul 20 22:36:43 +0000 2020",
 		"id": 1285342902042923000,
 		"id_str": "1285342902042923008",
@@ -418,7 +704,7 @@ Grailbird.data.tweets_2020_07 =
 			"created_at": "Sun Jul 19 14:37:35 +0000 2020",
 			"id": 1284859936904798200,
 			"id_str": "1284859936904798208",
-			"full_text": "Forget the fake news headlines. ⁦@realDonaldTrump⁩ is OWNING this interview https://t.co/G4D6sLTOq4",
+			"full_text": "Forget the fake news headlines. @realDonaldTrump is OWNING this interview https://t.co/G4D6sLTOq4",
 			"truncated": false,
 			"display_text_range": [
 				0,
