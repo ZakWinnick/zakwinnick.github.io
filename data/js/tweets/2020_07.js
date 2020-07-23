@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 23 20:48:25 +0000 2020",
+		"id": 1286284935989325800,
+		"id_str": "1286402812700766209",
+		"full_text": "It’s time to save the world, dudes! Keanu Reeves and Alex @Winter return in the all-new trailer for Bill &amp; Ted Face the Music, available On Demand and in theaters September 1! 🎸⚡️ #BillAndTed3 #FaceTheMusic https://t.co/ZBN9YHsvh8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillAndTed3",
+					"indices": [
+						184,
+						196
+					]
+				},
+				{
+					"text": "FaceTheMusic",
+					"indices": [
+						197,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Winter",
+					"name": "Alex Winter 😷",
+					"id": 112243614,
+					"id_str": "112243614",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1286076608806174700,
+					"id_str": "1286076608806174721",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EdkRrsjUYAAHBBe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdkRrsjUYAAHBBe.jpg",
+					"url": "https://t.co/ZBN9YHsvh8",
+					"display_url": "pic.twitter.com/ZBN9YHsvh8",
+					"expanded_url": "https://twitter.com/BillandTed3/status/1286284935989325825/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286076608806174700,
+					"id_str": "1286076608806174721",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EdkRrsjUYAAHBBe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdkRrsjUYAAHBBe.jpg",
+					"url": "https://t.co/ZBN9YHsvh8",
+					"display_url": "pic.twitter.com/ZBN9YHsvh8",
+					"expanded_url": "https://twitter.com/BillandTed3/status/1286284935989325825/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 144019,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1286076608806174721/vid/640x360/4ZOcQxhBpvx4oiRX.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1286076608806174721/pl/gRoxeKxvKoLCPDRS.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1286076608806174721/vid/480x270/YEzw_GADpANZbFGW.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1286076608806174721/vid/1280x720/B48BE87c5kh7giIF.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 284929130,
+			"id_str": "284929130",
+			"name": "Bill & Ted 3",
+			"screen_name": "BillandTed3",
+			"location": "San Dimas, California",
+			"description": "Yes way, dude! Excellence returns this summer. 🎸⚡️",
+			"url": "https://t.co/PQ2dTPb3QE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PQ2dTPb3QE",
+							"expanded_url": "http://BillAndTed3.com",
+							"display_url": "BillAndTed3.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127844,
+			"friends_count": 38,
+			"listed_count": 236,
+			"created_at": "Wed Apr 20 06:42:55 +0000 2011",
+			"favourites_count": 1724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270249400778936325/UPkxqBFA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270249400778936325/UPkxqBFA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/284929130/1595509222",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2874,
+		"favorite_count": 9113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s time to save the world, dudes! Keanu Reeves and Alex @Winter return in the all-new trailer for Bill &amp; Ted Face the Music, available On Demand and in theaters September 1! 🎸⚡️ #BillAndTed3 #FaceTheMusic https://t.co/ZBN9YHsvh8"
+	},
+	{
 		"created_at": "Tue Jul 21 23:55:25 +0000 2020",
 		"id": 1285725097597251600,
 		"id_str": "1285725097597251591",
@@ -16,7 +250,7 @@ Grailbird.data.tweets_2020_07 =
 			"user_mentions": [
 				{
 					"screen_name": "davecobb",
-					"name": "Dave Cobb 🏳️‍🌈",
+					"name": "Dave Cobb 🏳️🌈",
 					"id": 7253402,
 					"id_str": "7253402",
 					"indices": [
@@ -201,7 +435,7 @@ Grailbird.data.tweets_2020_07 =
 			"user": {
 				"id": 7253402,
 				"id_str": "7253402",
-				"name": "Dave Cobb 🏳️‍🌈",
+				"name": "Dave Cobb 🏳️🌈",
 				"screen_name": "davecobb",
 				"location": "Los Angeles",
 				"description": "Experience Design; formerly @ThinkwellGroup, Universal Parks (MIB) & Paramount Parks; queer + married, he/him; saving the world one dark-ride at a time.",
