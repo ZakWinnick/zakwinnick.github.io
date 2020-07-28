@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 28 02:11:51 +0000 2020",
+		"id": 1287925591648481300,
+		"id_str": "1287933759531229188",
+		"full_text": "Happy 727 Day! https://t.co/vwT6yOYWq9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1287925585084285000,
+					"id_str": "1287925585084284930",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed-hfvQWAAI0mMQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed-hfvQWAAI0mMQ.jpg",
+					"url": "https://t.co/vwT6yOYWq9",
+					"display_url": "pic.twitter.com/vwT6yOYWq9",
+					"expanded_url": "https://twitter.com/dlflightmuseum/status/1287925591648481282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287925585084285000,
+					"id_str": "1287925585084284930",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed-hfvQWAAI0mMQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed-hfvQWAAI0mMQ.jpg",
+					"url": "https://t.co/vwT6yOYWq9",
+					"display_url": "pic.twitter.com/vwT6yOYWq9",
+					"expanded_url": "https://twitter.com/dlflightmuseum/status/1287925591648481282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1287925585088479200,
+					"id_str": "1287925585088479232",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed-hfvRWAAAgOyu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed-hfvRWAAAgOyu.jpg",
+					"url": "https://t.co/vwT6yOYWq9",
+					"display_url": "pic.twitter.com/vwT6yOYWq9",
+					"expanded_url": "https://twitter.com/dlflightmuseum/status/1287925591648481282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1287925585080180700,
+					"id_str": "1287925585080180743",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed-hfvPXYAcDLDC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed-hfvPXYAcDLDC.jpg",
+					"url": "https://t.co/vwT6yOYWq9",
+					"display_url": "pic.twitter.com/vwT6yOYWq9",
+					"expanded_url": "https://twitter.com/dlflightmuseum/status/1287925591648481282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1121,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1121,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 727523008387096600,
+			"id_str": "727523008387096576",
+			"name": "Delta Flight Museum",
+			"screen_name": "dlflightmuseum",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ob6k5PyL6j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ob6k5PyL6j",
+							"expanded_url": "http://www.deltamuseum.org/",
+							"display_url": "deltamuseum.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1688,
+			"friends_count": 17,
+			"listed_count": 36,
+			"created_at": "Tue May 03 15:39:36 +0000 2016",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727523719518769152/ohTrDN2W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727523719518769152/ohTrDN2W_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy 727 Day! https://t.co/vwT6yOYWq9"
+	},
+	{
 		"created_at": "Thu Jul 23 20:48:25 +0000 2020",
 		"id": 1286284935989325800,
 		"id_str": "1286402812700766209",
