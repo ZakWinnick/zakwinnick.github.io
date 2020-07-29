@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 29 10:12:42 +0000 2020",
+		"id": 1288417157592866800,
+		"id_str": "1288417157592866818",
+		"full_text": "Yeah, good luck with that... https://t.co/tviCKUofIx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tviCKUofIx",
+					"expanded_url": "https://twitter.com/voiceofoc/status/1288328909700964352",
+					"display_url": "twitter.com/voiceofoc/stat…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 210,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288328909700964400,
+		"quoted_status_id_str": "1288328909700964352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tviCKUofIx",
+			"expanded": "https://twitter.com/voiceofoc/status/1288328909700964352",
+			"display": "twitter.com/voiceofoc/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 29 04:22:02 +0000 2020",
+			"id": 1288328909700964400,
+			"id_str": "1288328909700964352",
+			"full_text": "BREAKING: Orange County Board of Education Decides To Sue Gov. Gavin Newsom Over School Closures - https://t.co/BUuo9Y2wOO https://t.co/C8fITjBPT9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BUuo9Y2wOO",
+						"expanded_url": "https://bit.ly/30THr6d",
+						"display_url": "bit.ly/30THr6d",
+						"indices": [
+							99,
+							122
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1288328905246609400,
+						"id_str": "1288328905246609409",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/EeEQUD8XkAELNCu.png",
+						"media_url_https": "https://pbs.twimg.com/media/EeEQUD8XkAELNCu.png",
+						"url": "https://t.co/C8fITjBPT9",
+						"display_url": "pic.twitter.com/C8fITjBPT9",
+						"expanded_url": "https://twitter.com/VoiceofOC/status/1288328909700964352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 844,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1288328905246609400,
+						"id_str": "1288328905246609409",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/EeEQUD8XkAELNCu.png",
+						"media_url_https": "https://pbs.twimg.com/media/EeEQUD8XkAELNCu.png",
+						"url": "https://t.co/C8fITjBPT9",
+						"display_url": "pic.twitter.com/C8fITjBPT9",
+						"expanded_url": "https://twitter.com/VoiceofOC/status/1288328909700964352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 844,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93423589,
+				"id_str": "93423589",
+				"name": "Voice of OC",
+				"screen_name": "VoiceofOC",
+				"location": "Orange County, CA",
+				"description": "Orange County news. Our nonprofit and nonpartisan news agency focuses on quality of life, arts and culture.",
+				"url": "https://t.co/gUW9u7B96B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gUW9u7B96B",
+								"expanded_url": "http://voiceofoc.org",
+								"display_url": "voiceofoc.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11168,
+				"friends_count": 131,
+				"listed_count": 246,
+				"created_at": "Sun Nov 29 15:48:34 +0000 2009",
+				"favourites_count": 108,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9028,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846342683098415105/g7VfT7Ku_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846342683098415105/g7VfT7Ku_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93423589/1563306786",
+				"profile_link_color": "F68121",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yeah, good luck with that... https://t.co/tviCKUofIx"
+	},
+	{
 		"created_at": "Wed Jul 29 10:09:07 +0000 2020",
 		"id": 1288416253355466800,
 		"id_str": "1288416253355466753",
