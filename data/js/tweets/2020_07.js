@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 29 10:25:35 +0000 2020",
+		"id": 1288420400238604300,
+		"id_str": "1288420400238604288",
+		"full_text": "Please explain to my 45-60m, 20 mile morning drive how Nashville is on that list... https://t.co/j8Y7g3IFqg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j8Y7g3IFqg",
+					"expanded_url": "https://twitter.com/lasvegaslocally/status/1288313148378722307",
+					"display_url": "twitter.com/lasvegaslocall…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 210,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288313148378722300,
+		"quoted_status_id_str": "1288313148378722307",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j8Y7g3IFqg",
+			"expanded": "https://twitter.com/lasvegaslocally/status/1288313148378722307",
+			"display": "twitter.com/lasvegaslocall…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 29 03:19:24 +0000 2020",
+			"id": 1288313148378722300,
+			"id_str": "1288313148378722307",
+			"full_text": "Las Vegas is the 2nd best commuter city in America, according to @TeletracNavman. Amazing. https://t.co/8u121UuA2Z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TeletracNavman",
+						"name": "Teletrac Navman",
+						"id": 59324739,
+						"id_str": "59324739",
+						"indices": [
+							65,
+							80
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1288312934129524700,
+						"id_str": "1288312934129524736",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EeEBya5U4AAF98D.png",
+						"media_url_https": "https://pbs.twimg.com/media/EeEBya5U4AAF98D.png",
+						"url": "https://t.co/8u121UuA2Z",
+						"display_url": "pic.twitter.com/8u121UuA2Z",
+						"expanded_url": "https://twitter.com/LasVegasLocally/status/1288313148378722307/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 511,
+								"h": 288,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 511,
+								"h": 288,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 511,
+								"h": 288,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1288312934129524700,
+						"id_str": "1288312934129524736",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EeEBya5U4AAF98D.png",
+						"media_url_https": "https://pbs.twimg.com/media/EeEBya5U4AAF98D.png",
+						"url": "https://t.co/8u121UuA2Z",
+						"display_url": "pic.twitter.com/8u121UuA2Z",
+						"expanded_url": "https://twitter.com/LasVegasLocally/status/1288313148378722307/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 511,
+								"h": 288,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 511,
+								"h": 288,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 511,
+								"h": 288,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1587143948,
+				"id_str": "1587143948",
+				"name": "Las Vegas Locally 🌴",
+				"screen_name": "LasVegasLocally",
+				"location": "Las Vegas, NV",
+				"description": "Interesting / Strange / Useful stuff from the #Vegas Valley: DTLV to Henderson to The Strip. LasVegasLocally@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 102930,
+				"friends_count": 7866,
+				"listed_count": 0,
+				"created_at": "Fri Jul 12 00:20:43 +0000 2013",
+				"favourites_count": 327856,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 97354,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880356840101470208/MHRfk3VL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880356840101470208/MHRfk3VL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1587143948/1464750324",
+				"profile_link_color": "B36B00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 92,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please explain to my 45-60m, 20 mile morning drive how Nashville is on that list... https://t.co/j8Y7g3IFqg"
+	},
+	{
 		"created_at": "Wed Jul 29 10:12:42 +0000 2020",
 		"id": 1288417157592866800,
 		"id_str": "1288417157592866818",
