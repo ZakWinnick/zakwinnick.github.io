@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 30 21:57:44 +0000 2020",
+		"id": 1288956971740270600,
+		"id_str": "1288956971740270592",
+		"full_text": "When you’ve lost the head of The Federalist Society... https://t.co/DM1mPriOey",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DM1mPriOey",
+					"expanded_url": "https://twitter.com/westwingreport/status/1288954464339218435",
+					"display_url": "twitter.com/westwingreport…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 210,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288954464339218400,
+		"quoted_status_id_str": "1288954464339218435",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DM1mPriOey",
+			"expanded": "https://twitter.com/westwingreport/status/1288954464339218435",
+			"display": "twitter.com/westwingreport…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 30 21:47:46 +0000 2020",
+			"id": 1288954464339218400,
+			"id_str": "1288954464339218435",
+			"full_text": "This is worth a second look - it's mind-blowing. One of the most pro-Trump guys in the country now calls the president a \"fascist\" and says he should be removed from office  \nhttps://t.co/yhSfztRblf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yhSfztRblf",
+						"expanded_url": "https://nytimes.com/2020/07/30/opinion/trump-delay-election-coronavirus.html",
+						"display_url": "nytimes.com/2020/07/30/opi…",
+						"indices": [
+							175,
+							198
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20182089,
+				"id_str": "20182089",
+				"name": "West Wing Reports",
+				"screen_name": "WestWingReport",
+				"location": "White House since 2008",
+				"description": "Paul Brandus: Author 4 books, speaker 7 presidential libraries. Columnist: USA Today, Dow Jones/MarketWatch. Ex: Moscow, NBC, CNBC. pbrandus@gmail",
+				"url": "https://t.co/YxSBfJEimP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YxSBfJEimP",
+								"expanded_url": "https://www.amazon.com/s?k=Paul+Brandus&ref=nb_sb_noss_2",
+								"display_url": "amazon.com/s?k=Paul+Brand…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 377493,
+				"friends_count": 1097,
+				"listed_count": 6641,
+				"created_at": "Thu Feb 05 20:12:05 +0000 2009",
+				"favourites_count": 6213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 118336,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/692726797197119488/UEg5exR4_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/692726797197119488/UEg5exR4_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20182089/1594586413",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you’ve lost the head of The Federalist Society... https://t.co/DM1mPriOey"
+	},
+	{
 		"created_at": "Wed Jul 29 10:25:35 +0000 2020",
 		"id": 1288420400238604300,
 		"id_str": "1288420400238604288",
