@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 23:49:28 +0000 2020",
+		"id": 1294394547389083600,
+		"id_str": "1294420908149481473",
+		"full_text": "Deee-light’s “Groove is in the heart” turns 30 today!?!  SING IT, BABY. https://t.co/85laJs3pju",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294394541617774600,
+					"id_str": "1294394541617774592",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Efac-kRVAAASFRx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Efac-kRVAAASFRx.jpg",
+					"url": "https://t.co/85laJs3pju",
+					"display_url": "pic.twitter.com/85laJs3pju",
+					"expanded_url": "https://twitter.com/Cartarsauce/status/1294394547389083648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 370,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294394541617774600,
+					"id_str": "1294394541617774592",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Efac-kRVAAASFRx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Efac-kRVAAASFRx.jpg",
+					"url": "https://t.co/85laJs3pju",
+					"display_url": "pic.twitter.com/85laJs3pju",
+					"expanded_url": "https://twitter.com/Cartarsauce/status/1294394547389083648/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 370,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 370,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							185
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Efac-kRVAAASFRx.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54585516,
+			"id_str": "54585516",
+			"name": "Sam Carter",
+			"screen_name": "Cartarsauce",
+			"location": "Orange County, CA",
+			"description": "Experience Designer, former Disney Creative Entertainment, WonderGround Artist & Theme Park Geek",
+			"url": "https://t.co/epSiBtmPak",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/epSiBtmPak",
+							"expanded_url": "http://samcarterart.com",
+							"display_url": "samcarterart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5586,
+			"friends_count": 1491,
+			"listed_count": 55,
+			"created_at": "Tue Jul 07 15:51:09 +0000 2009",
+			"favourites_count": 62595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241069727763423233/ZFTdLY7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241069727763423233/ZFTdLY7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54585516/1582570980",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Deee-light’s “Groove is in the heart” turns 30 today!?!  SING IT, BABY. https://t.co/85laJs3pju"
+	},
+	{
 		"created_at": "Wed Aug 12 15:05:51 +0000 2020",
 		"id": 1293228721390985200,
 		"id_str": "1293564361773060097",
