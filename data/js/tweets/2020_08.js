@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 26 11:28:47 +0000 2020",
+		"id": 1298519100684042200,
+		"id_str": "1298583162818191360",
+		"full_text": "The RNC’s central argument is that trump’s presidency has made the country so shitty and horrible and dangerous for Republicans.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15296009,
+			"id_str": "15296009",
+			"name": "Brett Erlich",
+			"screen_name": "bretterlich",
+			"location": "Los Angeles, CA",
+			"description": "Supervising Producer, The Young Turks. Happy Half Hour. Viral Video Film School. World’s tallest human.",
+			"url": "https://t.co/O2PxbZEeU1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O2PxbZEeU1",
+							"expanded_url": "http://bretterlich.com",
+							"display_url": "bretterlich.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37933,
+			"friends_count": 1635,
+			"listed_count": 840,
+			"created_at": "Wed Jul 02 07:16:19 +0000 2008",
+			"favourites_count": 19243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200233729219653632/7e89UVro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200233729219653632/7e89UVro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15296009/1564357602",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The RNC’s central argument is that trump’s presidency has made the country so shitty and horrible and dangerous for Republicans."
+	},
+	{
 		"created_at": "Wed Aug 26 01:02:22 +0000 2020",
 		"id": 1298425522678947800,
 		"id_str": "1298425522678947841",
