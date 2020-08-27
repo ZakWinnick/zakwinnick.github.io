@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 27 11:24:12 +0000 2020",
+		"id": 1298944399288815600,
+		"id_str": "1298944399288815616",
+		"full_text": "Looks like I was right…where’s my Pulitzer?\n\nhttps://t.co/s5vU3y9ovF https://t.co/FS4xFtC5tO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s5vU3y9ovF",
+					"expanded_url": "https://electrek.co/2020/08/27/tesla-fbi-prevent-ransomware-hack-gigafactory-nevada/",
+					"display_url": "electrek.co/2020/08/27/tes…",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/FS4xFtC5tO",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1298425522678947841",
+					"display_url": "twitter.com/ZakWinnick/sta…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 206,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1298425522678947800,
+		"quoted_status_id_str": "1298425522678947841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FS4xFtC5tO",
+			"expanded": "https://twitter.com/ZakWinnick/status/1298425522678947841",
+			"display": "twitter.com/ZakWinnick/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 26 01:02:22 +0000 2020",
+			"id": 1298425522678947800,
+			"id_str": "1298425522678947841",
+			"full_text": "@Tesla Actually, reading the document, I’m thoroughly convinced it is actually Tesla.",
+			"truncated": false,
+			"display_text_range": [
+				7,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Tesla",
+						"name": "Tesla",
+						"id": 13298072,
+						"id_str": "13298072",
+						"indices": [
+							0,
+							6
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": 1298424992778993700,
+			"in_reply_to_status_id_str": "1298424992778993665",
+			"in_reply_to_user_id": 9586552,
+			"in_reply_to_user_id_str": "9586552",
+			"in_reply_to_screen_name": "ZakWinnick",
+			"user": {
+				"id": 9586552,
+				"id_str": "9586552",
+				"name": "Zak Winnick",
+				"screen_name": "ZakWinnick",
+				"location": "Nashville, TN",
+				"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+				"url": "https://t.co/vGZZOYJJCo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vGZZOYJJCo",
+								"expanded_url": "https://ZakWinnick.com",
+								"display_url": "ZakWinnick.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59,
+				"friends_count": 206,
+				"listed_count": 18,
+				"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+				"favourites_count": 175,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9545,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "3F5B66",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+				"profile_link_color": "483D8B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "858080",
+				"profile_text_color": "086660",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looks like I was right…where’s my Pulitzer?\n\nhttps://t.co/s5vU3y9ovF https://t.co/FS4xFtC5tO"
+	},
+	{
 		"created_at": "Wed Aug 26 11:28:47 +0000 2020",
 		"id": 1298519100684042200,
 		"id_str": "1298583162818191360",
