@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 30 03:32:54 +0000 2020",
+		"id": 1299912954046013400,
+		"id_str": "1299912954046013442",
+		"full_text": "🤯🤯🤯 https://t.co/WhtJzSFunu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WhtJzSFunu",
+					"expanded_url": "https://twitter.com/casey/status/1299910687456555009",
+					"display_url": "twitter.com/casey/status/1…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 206,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1299910687456555000,
+		"quoted_status_id_str": "1299910687456555009",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WhtJzSFunu",
+			"expanded": "https://twitter.com/casey/status/1299910687456555009",
+			"display": "twitter.com/casey/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 30 03:23:53 +0000 2020",
+			"id": 1299910687456555000,
+			"id_str": "1299910687456555009",
+			"full_text": "im 39, why didn’t anyone explain this to me sooner ? https://t.co/hzNE4PD89S",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hzNE4PD89S",
+						"expanded_url": "https://twitter.com/moodvintage/status/1299893363592892418",
+						"display_url": "twitter.com/moodvintage/st…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 154221292,
+				"id_str": "154221292",
+				"name": "Casey Neistat",
+				"screen_name": "Casey",
+				"location": "nyc",
+				"description": "family + work",
+				"url": "https://t.co/G29ueAVHlb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G29ueAVHlb",
+								"expanded_url": "http://www.youtube.com/caseyneistat",
+								"display_url": "youtube.com/caseyneistat",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2081724,
+				"friends_count": 2466,
+				"listed_count": 4464,
+				"created_at": "Thu Jun 10 17:54:33 +0000 2010",
+				"favourites_count": 49495,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 26645,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "616161",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/154221292/1403543694",
+				"profile_link_color": "943D3D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1299893363592892400,
+			"quoted_status_id_str": "1299893363592892418",
+			"quoted_status_permalink": {
+				"url": "https://t.co/hzNE4PD89S",
+				"expanded": "https://twitter.com/moodvintage/status/1299893363592892418",
+				"display": "twitter.com/moodvintage/st…"
+			},
+			"retweet_count": 222,
+			"favorite_count": 3012,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤯🤯🤯 https://t.co/WhtJzSFunu"
+	},
+	{
 		"created_at": "Sun Aug 30 02:44:07 +0000 2020",
 		"id": 1299807289126330400,
 		"id_str": "1299900678601613312",
