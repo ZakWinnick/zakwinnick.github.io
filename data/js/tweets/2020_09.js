@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 02 18:50:25 +0000 2020",
+		"id": 1301231019652264000,
+		"id_str": "1301231019652263938",
+		"full_text": "This is literally the greatest thing I’ve seen all year. https://t.co/ge03YCu5ur",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ge03YCu5ur",
+					"expanded_url": "https://twitter.com/TheVinScully/status/1301218334365511680",
+					"display_url": "twitter.com/TheVinScully/s…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 208,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1301218334365511700,
+		"quoted_status_id_str": "1301218334365511680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ge03YCu5ur",
+			"expanded": "https://twitter.com/TheVinScully/status/1301218334365511680",
+			"display": "twitter.com/TheVinScully/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 02 18:00:01 +0000 2020",
+			"id": 1301218334365511700,
+			"id_str": "1301218334365511680",
+			"full_text": "Hello everyone! This is Vin Scully here. Delighted to join you on twitter. Have a great day! #VinScully https://t.co/RKbSzCiWwq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VinScully",
+						"indices": [
+							93,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1301202287855976400,
+						"id_str": "1301202287855976448",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301202287855976448/pu/img/xbwb6XToQOcKTldV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301202287855976448/pu/img/xbwb6XToQOcKTldV.jpg",
+						"url": "https://t.co/RKbSzCiWwq",
+						"display_url": "pic.twitter.com/RKbSzCiWwq",
+						"expanded_url": "https://twitter.com/TheVinScully/status/1301218334365511680/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1301202287855976400,
+						"id_str": "1301202287855976448",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301202287855976448/pu/img/xbwb6XToQOcKTldV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301202287855976448/pu/img/xbwb6XToQOcKTldV.jpg",
+						"url": "https://t.co/RKbSzCiWwq",
+						"display_url": "pic.twitter.com/RKbSzCiWwq",
+						"expanded_url": "https://twitter.com/TheVinScully/status/1301218334365511680/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 42042,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1301202287855976448/pu/vid/720x720/ljZcFMLfS6gtUcR_.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1301202287855976448/pu/pl/XMGz7vsyIJK9Vszz.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1301202287855976448/pu/vid/480x480/qC1d7tgfwYi8KB1D.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1301202287855976448/pu/vid/320x320/Tm6B259Hcb8pxArP.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1298057675851223000,
+				"id_str": "1298057675851223041",
+				"name": "Vin Scully",
+				"screen_name": "TheVinScully",
+				"location": "Los Angeles",
+				"description": "A voice of Dodgers baseball broadcasts (Brooklyn and LA) for 67 years. Now, a rookie on a new adventure in social media.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44034,
+				"friends_count": 22,
+				"listed_count": 343,
+				"created_at": "Tue Aug 25 00:40:52 +0000 2020",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1299516158236786688/GDf_Fs2j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299516158236786688/GDf_Fs2j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1298057675851223041/1598980904",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3435,
+			"favorite_count": 18408,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is literally the greatest thing I’ve seen all year. https://t.co/ge03YCu5ur"
+	},
+	{
 		"created_at": "Wed Sep 02 15:55:01 +0000 2020",
 		"id": 1301186880436940800,
 		"id_str": "1301186880436940802",
