@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 03 01:27:44 +0000 2020",
+		"id": 1301331008474812400,
+		"id_str": "1301331008474812416",
+		"full_text": "The name of this article is titled:\n\n“How Not to Get a Free Haircut Ever Again” by Nancy Pelosi. https://t.co/DvDukK5pEw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DvDukK5pEw",
+					"expanded_url": "https://twitter.com/TalKopan/status/1301244429399924737",
+					"display_url": "twitter.com/TalKopan/statu…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 209,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1301244429399924700,
+		"quoted_status_id_str": "1301244429399924737",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DvDukK5pEw",
+			"expanded": "https://twitter.com/TalKopan/status/1301244429399924737",
+			"display": "twitter.com/TalKopan/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 02 19:43:42 +0000 2020",
+			"id": 1301244429399924700,
+			"id_str": "1301244429399924737",
+			"full_text": "Pelosi addresses Monday's salon incident:\n“I take responsibility for trusting the word of the neighborhood salon that I’ve been to...many times…It was a set up, and I take responsibility for falling for a setup.” \n“I think that this salon owes me an apology, for setting me up”",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 159655293,
+				"id_str": "159655293",
+				"name": "Tal Kopan",
+				"screen_name": "TalKopan",
+				"location": "DC-area",
+				"description": "Washington Correspondent, @SFChronicle /  \nFormer CNN, Politico /\ntal.kopan@sfchronicle.com / DMs open -- DM me for Signal /\nTal rhymes with fall, not pal.",
+				"url": "https://t.co/XDr2wNYUYo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XDr2wNYUYo",
+								"expanded_url": "http://www.sfchronicle.com",
+								"display_url": "sfchronicle.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24272,
+				"friends_count": 1424,
+				"listed_count": 758,
+				"created_at": "Sat Jun 26 00:20:40 +0000 2010",
+				"favourites_count": 10195,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 39219,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839507440362262528/nYeTBoYJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839507440362262528/nYeTBoYJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/159655293/1548173442",
+				"profile_link_color": "0404BD",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5197,
+			"favorite_count": 13777,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The name of this article is titled:\n\n“How Not to Get a Free Haircut Ever Again” by Nancy Pelosi. https://t.co/DvDukK5pEw"
+	},
+	{
 		"created_at": "Wed Sep 02 18:50:25 +0000 2020",
 		"id": 1301231019652264000,
 		"id_str": "1301231019652263938",
