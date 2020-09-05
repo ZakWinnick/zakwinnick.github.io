@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 05 17:41:24 +0000 2020",
+		"id": 1301965150728212500,
+		"id_str": "1302300816347410434",
+		"full_text": "How TRON Legacy should have started: https://t.co/yApAr4MJpI https://t.co/Rh5pJ0JAQi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yApAr4MJpI",
+					"expanded_url": "https://twitter.com/MrEPCOT/status/1301927280462172163",
+					"display_url": "twitter.com/MrEPCOT/status…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301965148060606500,
+					"id_str": "1301965148060606464",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EhGCZ3AXYAAysfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhGCZ3AXYAAysfC.jpg",
+					"url": "https://t.co/Rh5pJ0JAQi",
+					"display_url": "pic.twitter.com/Rh5pJ0JAQi",
+					"expanded_url": "https://twitter.com/EpcotLegacy/status/1301965150728212480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301965148060606500,
+					"id_str": "1301965148060606464",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EhGCZ3AXYAAysfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhGCZ3AXYAAysfC.jpg",
+					"url": "https://t.co/Rh5pJ0JAQi",
+					"display_url": "pic.twitter.com/Rh5pJ0JAQi",
+					"expanded_url": "https://twitter.com/EpcotLegacy/status/1301965150728212480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324446890,
+			"id_str": "2324446890",
+			"name": "E82 — The Epcot Legacy",
+			"screen_name": "EpcotLegacy",
+			"location": "",
+			"description": "The world's most unique Epcot Centered endeavor dedicated to its original vision to Entertain, Inform & Inspire!",
+			"url": "https://t.co/nOG3xeAGeK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nOG3xeAGeK",
+							"expanded_url": "http://www.epcotlegacy.com",
+							"display_url": "epcotlegacy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5546,
+			"friends_count": 270,
+			"listed_count": 88,
+			"created_at": "Sun Feb 02 22:38:54 +0000 2014",
+			"favourites_count": 3166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/590589584058277890/_PaKERfh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/590589584058277890/_PaKERfh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324446890/1429642539",
+			"profile_link_color": "594599",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1301927280462172200,
+		"quoted_status_id_str": "1301927280462172163",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yApAr4MJpI",
+			"expanded": "https://twitter.com/MrEPCOT/status/1301927280462172163",
+			"display": "twitter.com/MrEPCOT/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 04 16:57:06 +0000 2020",
+			"id": 1301927280462172200,
+			"id_str": "1301927280462172163",
+			"full_text": "Now they have no excuse not to use Spaceship Earth at the beginning of Tron 3 https://t.co/vTIHq3XQwU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				77
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vTIHq3XQwU",
+						"expanded_url": "https://twitter.com/MarioGraciotti/status/1301922088547049472",
+						"display_url": "twitter.com/MarioGraciotti…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21149277,
+				"id_str": "21149277",
+				"name": "𝕄𝕣. 𝕎𝕖𝕤𝕥ℂ𝕆𝕋",
+				"screen_name": "MrEPCOT",
+				"location": "Spacestation Earth",
+				"description": "In search of a great big beautiful tomorrow.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4771,
+				"friends_count": 583,
+				"listed_count": 119,
+				"created_at": "Wed Feb 18 00:04:40 +0000 2009",
+				"favourites_count": 32036,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 71444,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "969696",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1302261997904572418/lG8Qs3yz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1302261997904572418/lG8Qs3yz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21149277/1593360722",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1301922088547049500,
+			"quoted_status_id_str": "1301922088547049472",
+			"quoted_status_permalink": {
+				"url": "https://t.co/vTIHq3XQwU",
+				"expanded": "https://twitter.com/MarioGraciotti/status/1301922088547049472",
+				"display": "twitter.com/MarioGraciotti…"
+			},
+			"retweet_count": 36,
+			"favorite_count": 510,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 26,
+		"favorite_count": 257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How TRON Legacy should have started: https://t.co/yApAr4MJpI https://t.co/Rh5pJ0JAQi"
+	},
+	{
 		"created_at": "Fri Sep 04 10:16:49 +0000 2020",
 		"id": 1301826544881500200,
 		"id_str": "1301826544881500162",
