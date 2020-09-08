@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 08 11:28:32 +0000 2020",
+		"id": 1303294143574282200,
+		"id_str": "1303294143574282241",
+		"full_text": "I mean...the dude didn’t make billions investing in the losing team... https://t.co/VGWSmX44O0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VGWSmX44O0",
+					"expanded_url": "https://twitter.com/pesachlattin/status/1303107393966936065",
+					"display_url": "twitter.com/pesachlattin/s…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 209,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1303107393966936000,
+		"quoted_status_id_str": "1303107393966936065",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VGWSmX44O0",
+			"expanded": "https://twitter.com/pesachlattin/status/1303107393966936065",
+			"display": "twitter.com/pesachlattin/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 07 23:06:27 +0000 2020",
+			"id": 1303107393966936000,
+			"id_str": "1303107393966936065",
+			"full_text": "Sheldon Adelson has cut off Trump and is privately telling people in Vegas he blames Trump for him losing billions.  \n\nThis is amazing.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 350882124,
+				"id_str": "350882124",
+				"name": "Pesach Lattin פסח לטין",
+				"screen_name": "pesachlattin",
+				"location": "The World.",
+				"description": "Pace Lattin exposes Scammers. \n\nI'm Mexican and Jewish Orthodoxish.\n\nASD Dad Raising Son Alone. Long Resume. Curiously verbose humorist, ironic Rebbe  ✡",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25072,
+				"friends_count": 7168,
+				"listed_count": 157,
+				"created_at": "Mon Aug 08 13:15:55 +0000 2011",
+				"favourites_count": 5495,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43668,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1297758148904722433/ICJW0u5L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297758148904722433/ICJW0u5L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350882124/1579485604",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5685,
+			"favorite_count": 22470,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mean...the dude didn’t make billions investing in the losing team... https://t.co/VGWSmX44O0"
+	},
+	{
 		"created_at": "Mon Sep 07 17:28:23 +0000 2020",
 		"id": 1303022314909556700,
 		"id_str": "1303022314909556737",
