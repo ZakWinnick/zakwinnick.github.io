@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 12 01:21:14 +0000 2020",
+		"id": 1304462885008093200,
+		"id_str": "1304590863650172929",
+		"full_text": "9/11 nearly two decades later. People continue to send thanks. \n\nThis was not an act of heroism. This was basic humanity.\n\nHelp others because you can. \n\nOpen your doors to those in need. \n\nOpen minds. Open hearts. Open arms. \n\n#WeRemember the fallen. We thank the true heroes. https://t.co/IVvRJojPGM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WeRemember",
+					"indices": [
+						228,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1304460768495186000,
+					"id_str": "1304460768495185920",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EhpgKFmWsAAnU6R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhpgKFmWsAAnU6R.jpg",
+					"url": "https://t.co/IVvRJojPGM",
+					"display_url": "pic.twitter.com/IVvRJojPGM",
+					"expanded_url": "https://twitter.com/GanderAirport/status/1304462885008093185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 738,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1617,
+							"h": 995,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304460768495186000,
+					"id_str": "1304460768495185920",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EhpgKFmWsAAnU6R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhpgKFmWsAAnU6R.jpg",
+					"url": "https://t.co/IVvRJojPGM",
+					"display_url": "pic.twitter.com/IVvRJojPGM",
+					"expanded_url": "https://twitter.com/GanderAirport/status/1304462885008093185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 738,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1617,
+							"h": 995,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142764551,
+			"id_str": "142764551",
+			"name": "Gander Airport",
+			"screen_name": "GanderAirport",
+			"location": "Gander, Newfoundland, CANADA",
+			"description": "Historic Gander International Airport is located in Newfoundland and Labrador, Canada's most easterly province.",
+			"url": "https://t.co/4tU2kNYL8C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4tU2kNYL8C",
+							"expanded_url": "http://www.ganderairport.com",
+							"display_url": "ganderairport.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2913,
+			"friends_count": 150,
+			"listed_count": 75,
+			"created_at": "Tue May 11 18:08:02 +0000 2010",
+			"favourites_count": 344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275124552851492866/i8BzuvZg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275124552851492866/i8BzuvZg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142764551/1504744342",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 715,
+		"favorite_count": 2300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "9/11 nearly two decades later. People continue to send thanks. \n\nThis was not an act of heroism. This was basic humanity.\n\nHelp others because you can. \n\nOpen your doors to those in need. \n\nOpen minds. Open hearts. Open arms. \n\n#WeRemember the fallen. We thank the true heroes. https://t.co/IVvRJojPGM"
+	},
+	{
 		"created_at": "Fri Sep 11 11:37:25 +0000 2020",
 		"id": 1304383542084984800,
 		"id_str": "1304383542084984833",
