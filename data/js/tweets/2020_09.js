@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 12 17:16:07 +0000 2020",
+		"id": 1304831167137542100,
+		"id_str": "1304831167137542145",
+		"full_text": "Following Dave just to follow this project. I love me some Delores conversions. \n\nBetter call Goldie Wilson, III! https://t.co/ee803IoIox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ee803IoIox",
+					"expanded_url": "https://twitter.com/HackingDave/status/1304572870325043203",
+					"display_url": "twitter.com/HackingDave/st…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 210,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1304572870325043200,
+		"quoted_status_id_str": "1304572870325043203",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ee803IoIox",
+			"expanded": "https://twitter.com/HackingDave/status/1304572870325043203",
+			"display": "twitter.com/HackingDave/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 12 00:09:44 +0000 2020",
+			"id": 1304572870325043200,
+			"id_str": "1304572870325043203",
+			"full_text": "It's official. \n\nI'm the proud owner of a 1982 manual transmission DMC DeLorean with 5600 miles. \n\nI will be converting it to an exact replica of the Back to the Future 2015 Fusion version from the BTTF II movie. \n\nSo excited.\n\nThis is going to be an awesome project. https://t.co/dtR90GYxyr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1304572576614813700,
+						"id_str": "1304572576614813699",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EhrF2LTXkAMsLga.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhrF2LTXkAMsLga.jpg",
+						"url": "https://t.co/dtR90GYxyr",
+						"display_url": "pic.twitter.com/dtR90GYxyr",
+						"expanded_url": "https://twitter.com/HackingDave/status/1304572870325043203/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1135,
+								"h": 819,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1135,
+								"h": 819,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 491,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1304572576614813700,
+						"id_str": "1304572576614813699",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EhrF2LTXkAMsLga.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhrF2LTXkAMsLga.jpg",
+						"url": "https://t.co/dtR90GYxyr",
+						"display_url": "pic.twitter.com/dtR90GYxyr",
+						"expanded_url": "https://twitter.com/HackingDave/status/1304572870325043203/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1135,
+								"h": 819,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1135,
+								"h": 819,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 491,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1304572587264147500,
+						"id_str": "1304572587264147457",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EhrF2y-XgAENEyW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhrF2y-XgAENEyW.jpg",
+						"url": "https://t.co/dtR90GYxyr",
+						"display_url": "pic.twitter.com/dtR90GYxyr",
+						"expanded_url": "https://twitter.com/HackingDave/status/1304572870325043203/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 853,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1246,
+								"h": 886,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 484,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1304572595270975500,
+						"id_str": "1304572595270975488",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EhrF3QzWAAAErhz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhrF3QzWAAAErhz.jpg",
+						"url": "https://t.co/dtR90GYxyr",
+						"display_url": "pic.twitter.com/dtR90GYxyr",
+						"expanded_url": "https://twitter.com/HackingDave/status/1304572870325043203/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 521,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1352,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57629490,
+				"id_str": "57629490",
+				"name": "Dave Kennedy",
+				"screen_name": "HackingDave",
+				"location": "Strongsville, Ohio",
+				"description": "Founder of @TrustedSec @Binary_Defense. Family, Hacker, Security, CSO, Fitness, Media/TV, USMC. My drive is to help others and to make the world a better place.",
+				"url": "https://t.co/hxN6rpfbDf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hxN6rpfbDf",
+								"expanded_url": "https://trustedsec.com",
+								"display_url": "trustedsec.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 109552,
+				"friends_count": 5259,
+				"listed_count": 2103,
+				"created_at": "Fri Jul 17 12:27:34 +0000 2009",
+				"favourites_count": 71364,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11912,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1287876651116789760/UgxO49aP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287876651116789760/UgxO49aP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57629490/1568861604",
+				"profile_link_color": "1C1010",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 170,
+			"favorite_count": 3030,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Following Dave just to follow this project. I love me some Delores conversions. \n\nBetter call Goldie Wilson, III! https://t.co/ee803IoIox"
+	},
+	{
 		"created_at": "Sat Sep 12 01:21:14 +0000 2020",
 		"id": 1304462885008093200,
 		"id_str": "1304590863650172929",
