@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 13 22:24:06 +0000 2020",
+		"id": 1305254729480429600,
+		"id_str": "1305271061085327361",
+		"full_text": "Thanks to everybody for this wonderful 20th Anniversary for Almost Famous!! I'll always remember this moment, just after the last shot in Central Park. With love and huge appreciation for the cast and crew and all our friends... https://t.co/w1ocuvjBB7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305254478585581600,
+					"id_str": "1305254478585581569",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh0yCGGU0AE6Iwc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh0yCGGU0AE6Iwc.jpg",
+					"url": "https://t.co/w1ocuvjBB7",
+					"display_url": "pic.twitter.com/w1ocuvjBB7",
+					"expanded_url": "https://twitter.com/CameronCrowe/status/1305254729480429568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 443,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305254478585581600,
+					"id_str": "1305254478585581569",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh0yCGGU0AE6Iwc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh0yCGGU0AE6Iwc.jpg",
+					"url": "https://t.co/w1ocuvjBB7",
+					"display_url": "pic.twitter.com/w1ocuvjBB7",
+					"expanded_url": "https://twitter.com/CameronCrowe/status/1305254729480429568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 443,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 275197798,
+			"id_str": "275197798",
+			"name": "Cameron Crowe",
+			"screen_name": "CameronCrowe",
+			"location": "",
+			"description": "Writer-director.",
+			"url": "https://t.co/c0RknEmBA3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c0RknEmBA3",
+							"expanded_url": "http://www.theuncool.com",
+							"display_url": "theuncool.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 146413,
+			"friends_count": 1146,
+			"listed_count": 1799,
+			"created_at": "Thu Mar 31 20:31:06 +0000 2011",
+			"favourites_count": 2938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "21C4B6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/642532549198090241/veRDzO6U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/642532549198090241/veRDzO6U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/275197798/1444631856",
+			"profile_link_color": "5C9191",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 1336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to everybody for this wonderful 20th Anniversary for Almost Famous!! I'll always remember this moment, just after the last shot in Central Park. With love and huge appreciation for the cast and crew and all our friends... https://t.co/w1ocuvjBB7"
+	},
+	{
 		"created_at": "Sun Sep 13 00:09:17 +0000 2020",
 		"id": 1304934769336225800,
 		"id_str": "1304935145485537280",
