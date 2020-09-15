@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 15 22:13:45 +0000 2020",
+		"id": 1305960420814053400,
+		"id_str": "1305993233722470400",
+		"full_text": "https://t.co/2ilTx7NEa6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305960337850671000,
+					"id_str": "1305960337850671105",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh-0AgxWoAE6B8K.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eh-0AgxWoAE6B8K.png",
+					"url": "https://t.co/2ilTx7NEa6",
+					"display_url": "pic.twitter.com/2ilTx7NEa6",
+					"expanded_url": "https://twitter.com/curi0usJack/status/1305960420814053377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 522,
+							"h": 298,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 298,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 522,
+							"h": 298,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305960337850671000,
+					"id_str": "1305960337850671105",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh-0AgxWoAE6B8K.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eh-0AgxWoAE6B8K.png",
+					"url": "https://t.co/2ilTx7NEa6",
+					"display_url": "pic.twitter.com/2ilTx7NEa6",
+					"expanded_url": "https://twitter.com/curi0usJack/status/1305960420814053377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 522,
+							"h": 298,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 298,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 522,
+							"h": 298,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1912936586,
+			"id_str": "1912936586",
+			"name": "Jason Lang",
+			"screen_name": "curi0usJack",
+			"location": "",
+			"description": "@TrustedSec Red Team | Offensive C#/AD/Infrastructure/Ansible Lover | Hi-Fidelity Trolling | Country Life | Luckystrike: https://t.co/u2zZtLz7NW | Avatar: https://t.co/pBdZ3DffQB",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u2zZtLz7NW",
+							"expanded_url": "http://git.io/v7Ujx",
+							"display_url": "git.io/v7Ujx",
+							"indices": [
+								121,
+								144
+							]
+						},
+						{
+							"url": "https://t.co/pBdZ3DffQB",
+							"expanded_url": "http://justinmaller.com",
+							"display_url": "justinmaller.com",
+							"indices": [
+								155,
+								178
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10573,
+			"friends_count": 202,
+			"listed_count": 170,
+			"created_at": "Sat Sep 28 03:02:47 +0000 2013",
+			"favourites_count": 8692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/745093183416107008/RuSVm1Ps_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/745093183416107008/RuSVm1Ps_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1912936586/1476243709",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 223,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/2ilTx7NEa6"
+	},
+	{
 		"created_at": "Tue Sep 15 16:53:21 +0000 2020",
 		"id": 1305404238869061600,
 		"id_str": "1305912602678226944",
