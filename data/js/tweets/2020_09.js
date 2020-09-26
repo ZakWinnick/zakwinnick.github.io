@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 25 23:52:00 +0000 2020",
+		"id": 1309641837104201700,
+		"id_str": "1309641837104201729",
+		"full_text": "Username checks out… https://t.co/yJQgF8wR2J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yJQgF8wR2J",
+					"expanded_url": "https://twitter.com/NatSecGeek/status/1309641249872400385",
+					"display_url": "twitter.com/NatSecGeek/sta…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 213,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1309641249872400400,
+		"quoted_status_id_str": "1309641249872400385",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yJQgF8wR2J",
+			"expanded": "https://twitter.com/NatSecGeek/status/1309641249872400385",
+			"display": "twitter.com/NatSecGeek/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 25 23:49:40 +0000 2020",
+			"id": 1309641249872400400,
+			"id_str": "1309641249872400385",
+			"full_text": "Me: &lt;Does not feel at all well&gt;\n\n@brazenqueer, out of nowhere: \"Would you like to masturbate?\"\n\nMe: https://t.co/ciZh9EEO9u",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brazenqueer",
+						"name": "Ⓐ #GrumpyCuntSec Ⓐ",
+						"id": 630722427,
+						"id_str": "630722427",
+						"indices": [
+							39,
+							51
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1309641240670019600,
+						"id_str": "1309641240670019586",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EizHxQVWoAIzHlJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EizHxQVWoAIzHlJ.jpg",
+						"url": "https://t.co/ciZh9EEO9u",
+						"display_url": "pic.twitter.com/ciZh9EEO9u",
+						"expanded_url": "https://twitter.com/NatSecGeek/status/1309641249872400385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 292,
+								"h": 322,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 292,
+								"h": 322,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 292,
+								"h": 322,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1309641240670019600,
+						"id_str": "1309641240670019586",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EizHxQVWoAIzHlJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EizHxQVWoAIzHlJ.jpg",
+						"url": "https://t.co/ciZh9EEO9u",
+						"display_url": "pic.twitter.com/ciZh9EEO9u",
+						"expanded_url": "https://twitter.com/NatSecGeek/status/1309641249872400385/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 292,
+								"h": 322,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 292,
+								"h": 322,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 292,
+								"h": 322,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								146,
+								161
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EizHxQVWoAIzHlJ.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1268508296,
+				"id_str": "1268508296",
+				"name": "Emma Best 🏳️‍🌈🏴 Mx. Yzptlk",
+				"screen_name": "NatSecGeek",
+				"location": "they/them",
+				"description": "Journalist • Activist • Be Gay, Do Leaktivism • @DDoSecrets @MuckRock @UR_Ninja • No gods, no masters, no secrets • Бáба-Ягá of the IC • 💜 @brazenqueer & FOIA",
+				"url": "https://t.co/ZLFWJIrxi0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZLFWJIrxi0",
+								"expanded_url": "https://emma.best",
+								"display_url": "emma.best",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27714,
+				"friends_count": 30,
+				"listed_count": 521,
+				"created_at": "Fri Mar 15 01:49:16 +0000 2013",
+				"favourites_count": 28314,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1477,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1261303805162946561/IrtK2bru_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261303805162946561/IrtK2bru_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1268508296/1494075398",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Username checks out… https://t.co/yJQgF8wR2J"
+	},
+	{
 		"created_at": "Tue Sep 15 22:13:45 +0000 2020",
 		"id": 1305960420814053400,
 		"id_str": "1305993233722470400",
