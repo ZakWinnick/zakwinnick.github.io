@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 27 14:02:28 +0000 2020",
+		"id": 1310125893746974700,
+		"id_str": "1310218251893383168",
+		"full_text": "September 27, 1994 - Dave Matthews Band's first studio album, \"Under The Table And Dreaming,\" was released 26yrs ago today. https://t.co/bfjYFGMgfZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310125021260439600,
+					"id_str": "1310125021260439552",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei5_w_eUYAAjuF1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei5_w_eUYAAjuF1.jpg",
+					"url": "https://t.co/bfjYFGMgfZ",
+					"display_url": "pic.twitter.com/bfjYFGMgfZ",
+					"expanded_url": "https://twitter.com/copperpot5/status/1310125893746974725/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310125021260439600,
+					"id_str": "1310125021260439552",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei5_w_eUYAAjuF1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei5_w_eUYAAjuF1.jpg",
+					"url": "https://t.co/bfjYFGMgfZ",
+					"display_url": "pic.twitter.com/bfjYFGMgfZ",
+					"expanded_url": "https://twitter.com/copperpot5/status/1310125893746974725/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158838945,
+			"id_str": "158838945",
+			"name": "Chester Copperpot5",
+			"screen_name": "copperpot5",
+			"location": "California, USA",
+			"description": "Custom concert videos - Videos are my own renders. '90s/'00s Tape Trader. Tweets here are mostly DMB / Dave Matthews Band media. Youtuber. Nothing is monetized.",
+			"url": "https://t.co/vC5W8SQbdJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vC5W8SQbdJ",
+							"expanded_url": "https://www.youtube.com/user/ChesterCopperPot5/videos",
+							"display_url": "youtube.com/user/ChesterCo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18396,
+			"friends_count": 153,
+			"listed_count": 191,
+			"created_at": "Wed Jun 23 20:00:12 +0000 2010",
+			"favourites_count": 23180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156033236784410624/xbvbiYmB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156033236784410624/xbvbiYmB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158838945/1558311971",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "September 27, 1994 - Dave Matthews Band's first studio album, \"Under The Table And Dreaming,\" was released 26yrs ago today. https://t.co/bfjYFGMgfZ"
+	},
+	{
 		"created_at": "Fri Sep 25 23:52:00 +0000 2020",
 		"id": 1309641837104201700,
 		"id_str": "1309641837104201729",
@@ -232,7 +406,7 @@ Grailbird.data.tweets_2020_09 =
 			"user": {
 				"id": 1268508296,
 				"id_str": "1268508296",
-				"name": "Emma Best 🏳️‍🌈🏴 Mx. Yzptlk",
+				"name": "Emma Best 🏳️🌈🏴 Mx. Yzptlk",
 				"screen_name": "NatSecGeek",
 				"location": "they/them",
 				"description": "Journalist • Activist • Be Gay, Do Leaktivism • @DDoSecrets @MuckRock @UR_Ninja • No gods, no masters, no secrets • Бáба-Ягá of the IC • 💜 @brazenqueer & FOIA",
