@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 29 13:40:51 +0000 2020",
+		"id": 1310937511330484200,
+		"id_str": "1310937586047815680",
+		"full_text": "This is a great talking point that was put out by…*checks notes*…Russia. \n\nTotally believable, especially coming from Giuliani on Fox &amp; Friends. https://t.co/BweAvyJeaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BweAvyJeaw",
+					"expanded_url": "https://twitter.com/revrrlewis/status/1310904556574986240",
+					"display_url": "twitter.com/revrrlewis/sta…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3,
+			"friends_count": 531,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1310904556574986200,
+		"quoted_status_id_str": "1310904556574986240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BweAvyJeaw",
+			"expanded": "https://twitter.com/revrrlewis/status/1310904556574986240",
+			"display": "twitter.com/revrrlewis/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 29 11:29:36 +0000 2020",
+			"id": 1310904556574986200,
+			"id_str": "1310904556574986240",
+			"full_text": "On Fox &amp; Friends, Rudy Giuliani says Joe Biden \"has dementia. There's no doubt about it. I've talked to doctors. ... The president's quite right to say maybe he's taken adderall.\" The hosts get visibly uncomfortable. https://t.co/2Ma7DKNBpS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1310904514233458700,
+						"id_str": "1310904514233458690",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1310904514233458690/pu/img/CQpOAOfDv5b7MGXl.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1310904514233458690/pu/img/CQpOAOfDv5b7MGXl.jpg",
+						"url": "https://t.co/2Ma7DKNBpS",
+						"display_url": "pic.twitter.com/2Ma7DKNBpS",
+						"expanded_url": "https://twitter.com/revrrlewis/status/1310904556574986240/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1310904514233458700,
+						"id_str": "1310904514233458690",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1310904514233458690/pu/img/CQpOAOfDv5b7MGXl.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1310904514233458690/pu/img/CQpOAOfDv5b7MGXl.jpg",
+						"url": "https://t.co/2Ma7DKNBpS",
+						"display_url": "pic.twitter.com/2Ma7DKNBpS",
+						"expanded_url": "https://twitter.com/revrrlewis/status/1310904556574986240/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 88088,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1310904514233458690/pu/vid/480x270/X7FWq8hYPx9gpRF1.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1310904514233458690/pu/pl/Uc3sJ99rt5CFee1Y.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1310904514233458690/pu/vid/960x540/DK056NQwKSHDd1S4.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1310904514233458690/pu/vid/640x360/Z-mo4RH5bISsoYkH.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2537753422,
+				"id_str": "2537753422",
+				"name": "Bobby Lewis",
+				"screen_name": "revrrlewis",
+				"location": "Washington, DC",
+				"description": "The guy who live-tweets 'Fox & Friends' but is not the President of the United States. Rapid Response @mmfa; this is a personal account. He/him",
+				"url": "https://t.co/73nVSNAIAf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/73nVSNAIAf",
+								"expanded_url": "https://www.mediamatters.org/author/bobby-lewis",
+								"display_url": "mediamatters.org/author/bobby-l…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55066,
+				"friends_count": 1148,
+				"listed_count": 486,
+				"created_at": "Fri May 09 20:47:56 +0000 2014",
+				"favourites_count": 104583,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 63768,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1120087378230751232/luCp0qjX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120087378230751232/luCp0qjX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2537753422/1544482350",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 488,
+			"favorite_count": 1740,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a great talking point that was put out by…*checks notes*…Russia. \n\nTotally believable, especially coming from Giuliani on Fox &amp; Friends. https://t.co/BweAvyJeaw"
+	},
+	{
 		"created_at": "Mon Sep 28 10:16:43 +0000 2020",
 		"id": 1310523828045598700,
 		"id_str": "1310523828045598722",
