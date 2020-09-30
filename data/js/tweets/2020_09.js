@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 30 20:39:00 +0000 2020",
+		"id": 1311405205028823000,
+		"id_str": "1311405205028823040",
+		"full_text": "Republican nominee to replace Lamar Alexander in TN, y’all. \n\nAdd this to my list of reasons I hate living here… https://t.co/c5pDBohg5p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c5pDBohg5p",
+					"expanded_url": "https://twitter.com/BillHagertyTN/status/1311150539653214208",
+					"display_url": "twitter.com/BillHagertyTN/…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 215,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1311150539653214200,
+		"quoted_status_id_str": "1311150539653214208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c5pDBohg5p",
+			"expanded": "https://twitter.com/BillHagertyTN/status/1311150539653214208",
+			"display": "twitter.com/BillHagertyTN/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 30 03:47:03 +0000 2020",
+			"id": 1311150539653214200,
+			"id_str": "1311150539653214208",
+			"full_text": "After tonight’s debate, it’s clear President @realDonaldTrump is the only candidate fit to run our country. #Debates2020\nhttps://t.co/EPRWxRIAQV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Debates2020",
+						"indices": [
+							108,
+							120
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							45,
+							61
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EPRWxRIAQV",
+						"expanded_url": "https://secure.winred.com/teamhagerty/debate-social",
+						"display_url": "secure.winred.com/teamhagerty/de…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1152598802873880600,
+				"id_str": "1152598802873880576",
+				"name": "Bill Hagerty",
+				"screen_name": "BillHagertyTN",
+				"location": "",
+				"description": "Father. Husband. Proud Tennessean. Conservative for US Senate. Former US Amb. to Japan, @realDonaldTrump Transition Leader + TN Victory Chair",
+				"url": "https://t.co/mUkwYs2QzR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mUkwYs2QzR",
+								"expanded_url": "http://teamhagerty.com",
+								"display_url": "teamhagerty.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16286,
+				"friends_count": 262,
+				"listed_count": 99,
+				"created_at": "Sat Jul 20 15:19:03 +0000 2019",
+				"favourites_count": 590,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5434,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1161813938343993345/5m3QGeAp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161813938343993345/5m3QGeAp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1152598802873880576/1596855302",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 112,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Republican nominee to replace Lamar Alexander in TN, y’all. \n\nAdd this to my list of reasons I hate living here… https://t.co/c5pDBohg5p"
+	},
+	{
 		"created_at": "Wed Sep 30 15:36:53 +0000 2020",
 		"id": 1311198722001236000,
 		"id_str": "1311329173865201665",
