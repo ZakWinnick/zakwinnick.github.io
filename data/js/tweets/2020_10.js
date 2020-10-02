@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 12:33:53 +0000 2020",
+		"id": 1311910738269790200,
+		"id_str": "1312007899477094401",
+		"full_text": "This is a remarkable way to get a scoop, about a half-hour before the announcement. https://t.co/YKcYSltLVS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YKcYSltLVS",
+					"expanded_url": "https://twitter.com/TimInHonolulu/status/1311883569086623744",
+					"display_url": "twitter.com/TimInHonolulu/…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102594136,
+			"id_str": "102594136",
+			"name": "Ben Collins",
+			"screen_name": "oneunderscore__",
+			"location": "New York, NY",
+			"description": "Reporter, dystopia beat, @NBCNews.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128049,
+			"friends_count": 6523,
+			"listed_count": 1761,
+			"created_at": "Thu Jan 07 06:09:14 +0000 2010",
+			"favourites_count": 93273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100064833360355328/KggFqa8t_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100064833360355328/KggFqa8t_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102594136/1571964056",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1311883569086623700,
+		"quoted_status_id_str": "1311883569086623744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YKcYSltLVS",
+			"expanded": "https://twitter.com/TimInHonolulu/status/1311883569086623744",
+			"display": "twitter.com/TimInHonolulu/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 02 04:19:51 +0000 2020",
+			"id": 1311883569086623700,
+			"id_str": "1311883569086623744",
+			"full_text": "RT There's an E-6B Mercury off the east coast near DC.  I looked because I would expect them to pop up if he tests positive.  It's a message to the small group of adversaries  with SLBMs and ICBMs. https://t.co/3ta9PmPxZD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1311883182401175600,
+						"id_str": "1311883182401175554",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/EjS-zcHUwAIwPD6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjS-zcHUwAIwPD6.jpg",
+						"url": "https://t.co/3ta9PmPxZD",
+						"display_url": "pic.twitter.com/3ta9PmPxZD",
+						"expanded_url": "https://twitter.com/TimInHonolulu/status/1311883569086623744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1639,
+								"h": 742,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 543,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1311883182401175600,
+						"id_str": "1311883182401175554",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/EjS-zcHUwAIwPD6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjS-zcHUwAIwPD6.jpg",
+						"url": "https://t.co/3ta9PmPxZD",
+						"display_url": "pic.twitter.com/3ta9PmPxZD",
+						"expanded_url": "https://twitter.com/TimInHonolulu/status/1311883569086623744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1639,
+								"h": 742,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 543,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19080151,
+				"id_str": "19080151",
+				"name": "Tim Hogan",
+				"screen_name": "TimInHonolulu",
+				"location": "Hawaii, USA",
+				"description": "BA UMass Amherst class of 75, 76, 88 and graduated 86.  Political Science, Int'l Rel & 中文 Minors. JD Univ. Hawaii. Liberal. Still got Kennedy/Johnson button.",
+				"url": "https://t.co/pEpBbTdtW4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEpBbTdtW4",
+								"expanded_url": "http://TimInHonolulu.com",
+								"display_url": "TimInHonolulu.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48919,
+				"friends_count": 6010,
+				"listed_count": 172,
+				"created_at": "Fri Jan 16 19:01:35 +0000 2009",
+				"favourites_count": 33916,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 202403,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2819323406/f3fe7964e045fef182ae0a378d8132b5_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2819323406/f3fe7964e045fef182ae0a378d8132b5_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19080151/1353954991",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7580,
+			"favorite_count": 19623,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3374,
+		"favorite_count": 12506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a remarkable way to get a scoop, about a half-hour before the announcement. https://t.co/YKcYSltLVS"
+	},
+	{
+		"created_at": "Fri Oct 02 12:32:38 +0000 2020",
+		"id": 1311903104951083000,
+		"id_str": "1312007585004957697",
+		"full_text": "I’m probably going to hell, but this is the best tweet I’ve ever read https://t.co/vPnX8SOrHb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vPnX8SOrHb",
+					"expanded_url": "https://twitter.com/johnmlester/status/1311902226005274624",
+					"display_url": "twitter.com/johnmlester/st…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 848148994102612000,
+			"id_str": "848148994102611969",
+			"name": "Angry Staffer",
+			"screen_name": "AngrierWHStaff",
+			"location": "",
+			"description": "Not a current WH Staffer | Politics, NatSec, and Snark — Mileage may vary | Views mine |",
+			"url": "https://t.co/yNzmlQPP5P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yNzmlQPP5P",
+							"expanded_url": "http://angrystaffer.com",
+							"display_url": "angrystaffer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312253,
+			"friends_count": 397,
+			"listed_count": 1671,
+			"created_at": "Sat Apr 01 12:24:12 +0000 2017",
+			"favourites_count": 7391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1056018749604663297/3KdM71fN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056018749604663297/3KdM71fN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/848148994102611969/1591021897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1311902226005274600,
+		"quoted_status_id_str": "1311902226005274624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vPnX8SOrHb",
+			"expanded": "https://twitter.com/johnmlester/status/1311902226005274624",
+			"display": "twitter.com/johnmlester/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 02 05:33:59 +0000 2020",
+			"id": 1311902226005274600,
+			"id_str": "1311902226005274624",
+			"full_text": "@AngrierWHStaff Looks like RBG successfully argued her first hearing with the lord",
+			"truncated": false,
+			"display_text_range": [
+				16,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AngrierWHStaff",
+						"name": "Angry Staffer",
+						"id": 848148994102612000,
+						"id_str": "848148994102611969",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1311901925533716500,
+			"in_reply_to_status_id_str": "1311901925533716480",
+			"in_reply_to_user_id": 848148994102612000,
+			"in_reply_to_user_id_str": "848148994102611969",
+			"in_reply_to_screen_name": "AngrierWHStaff",
+			"user": {
+				"id": 1253114203474481200,
+				"id_str": "1253114203474481155",
+				"name": "John lester",
+				"screen_name": "johnmlester",
+				"location": "New Jersey, USA",
+				"description": "metal music aficionado, love a good pizza.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 626,
+				"friends_count": 166,
+				"listed_count": 0,
+				"created_at": "Thu Apr 23 00:11:30 +0000 2020",
+				"favourites_count": 10024,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5437,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1306214064993992706/xwB6qHr__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306214064993992706/xwB6qHr__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1253114203474481155/1600260677",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5556,
+			"favorite_count": 19698,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2479,
+		"favorite_count": 12736,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m probably going to hell, but this is the best tweet I’ve ever read https://t.co/vPnX8SOrHb"
+	},
+	{
 		"created_at": "Fri Oct 02 01:17:04 +0000 2020",
 		"id": 1311836712071565300,
 		"id_str": "1311837571765370881",
