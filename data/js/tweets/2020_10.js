@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 04 14:48:03 +0000 2020",
+		"id": 1312766438185238500,
+		"id_str": "1312766438185238533",
+		"full_text": "This is beautiful. \n\nI feel the same way about YT filmmaking, and when I ever decide to start a YT channel, this is exactly how I was planning on creating content. https://t.co/nj1P9NUBRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nj1P9NUBRs",
+					"expanded_url": "https://twitter.com/Casey/status/1312479342094544897",
+					"display_url": "twitter.com/Casey/status/1…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57,
+			"friends_count": 215,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1312479342094545000,
+		"quoted_status_id_str": "1312479342094544897",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nj1P9NUBRs",
+			"expanded": "https://twitter.com/Casey/status/1312479342094544897",
+			"display": "twitter.com/Casey/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 03 19:47:14 +0000 2020",
+			"id": 1312479342094545000,
+			"id_str": "1312479342094544897",
+			"full_text": "younger filmmaker wants to help me with videos and i sent him this note with thoughts on how i approach youtube filmmaking https://t.co/vGaViOfcd3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1312479314739249200,
+						"id_str": "1312479314739249152",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/Ejbc-6IUwAAOIhc.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ejbc-6IUwAAOIhc.png",
+						"url": "https://t.co/vGaViOfcd3",
+						"display_url": "pic.twitter.com/vGaViOfcd3",
+						"expanded_url": "https://twitter.com/Casey/status/1312479342094544897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 660,
+								"h": 798,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 562,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 660,
+								"h": 798,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1312479314739249200,
+						"id_str": "1312479314739249152",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/Ejbc-6IUwAAOIhc.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ejbc-6IUwAAOIhc.png",
+						"url": "https://t.co/vGaViOfcd3",
+						"display_url": "pic.twitter.com/vGaViOfcd3",
+						"expanded_url": "https://twitter.com/Casey/status/1312479342094544897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 660,
+								"h": 798,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 562,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 660,
+								"h": 798,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 154221292,
+				"id_str": "154221292",
+				"name": "Casey Neistat",
+				"screen_name": "Casey",
+				"location": "nyc",
+				"description": "family + work",
+				"url": "https://t.co/G29ueAVHlb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G29ueAVHlb",
+								"expanded_url": "http://www.youtube.com/caseyneistat",
+								"display_url": "youtube.com/caseyneistat",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2087906,
+				"friends_count": 2493,
+				"listed_count": 4501,
+				"created_at": "Thu Jun 10 17:54:33 +0000 2010",
+				"favourites_count": 50206,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27036,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "616161",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/154221292/1403543694",
+				"profile_link_color": "943D3D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3630,
+			"favorite_count": 36832,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is beautiful. \n\nI feel the same way about YT filmmaking, and when I ever decide to start a YT channel, this is exactly how I was planning on creating content. https://t.co/nj1P9NUBRs"
+	},
+	{
 		"created_at": "Sat Oct 03 18:09:01 +0000 2020",
 		"id": 1312454624306057200,
 		"id_str": "1312454624306057216",
