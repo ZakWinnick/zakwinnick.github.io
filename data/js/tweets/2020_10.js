@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 13:48:02 +0000 2020",
+		"id": 1313215029655801900,
+		"id_str": "1313476109468655616",
+		"full_text": "Feeling really good! Don’t be afraid of Bees. Don’t let them dominate your life. https://t.co/yRWPIDNjIo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313215025478328300,
+					"id_str": "1313215025478328322",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejl6G6NXYAI5EFl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejl6G6NXYAI5EFl.jpg",
+					"url": "https://t.co/yRWPIDNjIo",
+					"display_url": "pic.twitter.com/yRWPIDNjIo",
+					"expanded_url": "https://twitter.com/RandiLawson/status/1313215029655801856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 685,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 685,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313215025478328300,
+					"id_str": "1313215025478328322",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejl6G6NXYAI5EFl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejl6G6NXYAI5EFl.jpg",
+					"url": "https://t.co/yRWPIDNjIo",
+					"display_url": "pic.twitter.com/yRWPIDNjIo",
+					"expanded_url": "https://twitter.com/RandiLawson/status/1313215029655801856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 685,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 685,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63188858,
+			"id_str": "63188858",
+			"name": "Randi Lawson",
+			"screen_name": "RandiLawson",
+			"location": "",
+			"description": "My motto would be YOU CAN NEVER BE TOO TAN OR TOO THIN if it wasn't already YOU CAN NEVER WATCH TOO MUCH TV",
+			"url": "https://t.co/uC2yQNJVbc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC2yQNJVbc",
+							"expanded_url": "http://randilawsondesign.com",
+							"display_url": "randilawsondesign.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27366,
+			"friends_count": 646,
+			"listed_count": 613,
+			"created_at": "Wed Aug 05 17:03:33 +0000 2009",
+			"favourites_count": 191967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199318545944993794/W7FfmrdV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199318545944993794/W7FfmrdV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63188858/1398309451",
+			"profile_link_color": "51A39F",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10038,
+		"favorite_count": 71151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Feeling really good! Don’t be afraid of Bees. Don’t let them dominate your life. https://t.co/yRWPIDNjIo"
+	},
+	{
 		"created_at": "Tue Oct 06 10:25:32 +0000 2020",
 		"id": 1313425150658969600,
 		"id_str": "1313425150658969601",
