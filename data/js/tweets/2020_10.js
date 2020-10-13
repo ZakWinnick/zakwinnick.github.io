@@ -1,6 +1,175 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 17:16:27 +0000 2020",
+		"id": 1316062659327000600,
+		"id_str": "1316065275201159175",
+		"full_text": "What is this, a HomePod for ants?!\n#AppleEvent https://t.co/jb522IVmQk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AppleEvent",
+					"indices": [
+						35,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316062656365760500,
+					"id_str": "1316062656365760513",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EkOYA17WkAEBIuj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkOYA17WkAEBIuj.jpg",
+					"url": "https://t.co/jb522IVmQk",
+					"display_url": "pic.twitter.com/jb522IVmQk",
+					"expanded_url": "https://twitter.com/Creative_Rants/status/1316062659327000576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316062656365760500,
+					"id_str": "1316062656365760513",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EkOYA17WkAEBIuj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkOYA17WkAEBIuj.jpg",
+					"url": "https://t.co/jb522IVmQk",
+					"display_url": "pic.twitter.com/jb522IVmQk",
+					"expanded_url": "https://twitter.com/Creative_Rants/status/1316062659327000576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824661439,
+			"id_str": "824661439",
+			"name": "Creative Rants",
+			"screen_name": "Creative_Rants",
+			"location": "Today at Apple sessions",
+			"description": "The personal rants of an Apple Store Creative",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8657,
+			"friends_count": 100,
+			"listed_count": 95,
+			"created_at": "Sat Sep 15 06:08:00 +0000 2012",
+			"favourites_count": 3728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2611871813/48h23l4h3wkw4v0sx5vw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2611871813/48h23l4h3wkw4v0sx5vw_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/824661439/1458601433",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What is this, a HomePod for ants?!\n#AppleEvent https://t.co/jb522IVmQk"
+	},
+	{
 		"created_at": "Tue Oct 13 15:12:36 +0000 2020",
 		"id": 1316034106900320300,
 		"id_str": "1316034106900320259",
