@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 20:20:59 +0000 2020",
+		"id": 1316836207482089500,
+		"id_str": "1316836492019412998",
+		"full_text": "It was @SteveScully. https://t.co/Ryp3aqyjpH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteveScully",
+					"name": "Steve Scully",
+					"id": 24926288,
+					"id_str": "24926288",
+					"indices": [
+						7,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ryp3aqyjpH",
+					"expanded_url": "https://twitter.com/greg_price11/status/1316835460266758145",
+					"display_url": "twitter.com/greg_price11/s…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3,
+			"friends_count": 539,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1316835460266758100,
+		"quoted_status_id_str": "1316835460266758145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ryp3aqyjpH",
+			"expanded": "https://twitter.com/greg_price11/status/1316835460266758145",
+			"display": "twitter.com/greg_price11/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 15 20:16:54 +0000 2020",
+			"id": 1316835460266758100,
+			"id_str": "1316835460266758145",
+			"full_text": "Joy Reid's hackers remain at large",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 896466491587080200,
+				"id_str": "896466491587080194",
+				"name": "Greg Price",
+				"screen_name": "greg_price11",
+				"location": "Washington, DC",
+				"description": "Views are my own | insta: gprice1234",
+				"url": "https://t.co/yFRnHcGgv8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yFRnHcGgv8",
+								"expanded_url": "https://dailycaller.com/",
+								"display_url": "dailycaller.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41941,
+				"friends_count": 1639,
+				"listed_count": 261,
+				"created_at": "Sat Aug 12 20:20:41 +0000 2017",
+				"favourites_count": 32341,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 26714,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278084217138790402/lmqfYqHf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278084217138790402/lmqfYqHf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/896466491587080194/1599363515",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 133,
+			"favorite_count": 590,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was @SteveScully. https://t.co/Ryp3aqyjpH"
+	},
+	{
 		"created_at": "Thu Oct 15 20:16:17 +0000 2020",
 		"id": 1316835309108236300,
 		"id_str": "1316835309108236288",
