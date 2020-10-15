@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 20:16:17 +0000 2020",
+		"id": 1316835309108236300,
+		"id_str": "1316835309108236288",
+		"full_text": "They’re going to @BWilliams him, and demote him to CSPAN-2. https://t.co/4XKBCOjGMb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BWilliams",
+					"name": "Brian Williams",
+					"id": 173999134,
+					"id_str": "173999134",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4XKBCOjGMb",
+					"expanded_url": "https://twitter.com/W7VOA/status/1316824040225542146",
+					"display_url": "twitter.com/W7VOA/status/1…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 218,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1316824040225542100,
+		"quoted_status_id_str": "1316824040225542146",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4XKBCOjGMb",
+			"expanded": "https://twitter.com/W7VOA/status/1316824040225542146",
+			"display": "twitter.com/W7VOA/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 15 19:31:31 +0000 2020",
+			"id": 1316824040225542100,
+			"id_str": "1316824040225542146",
+			"full_text": "The political editor of @cspan, @SteveScully, suspended indefinitely after he admits he lied about his #Twitter feed being hacked, @AP reports.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Twitter",
+						"indices": [
+							103,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cspan",
+						"name": "CSPAN",
+						"id": 15675138,
+						"id_str": "15675138",
+						"indices": [
+							24,
+							30
+						]
+					},
+					{
+						"screen_name": "SteveScully",
+						"name": "Steve Scully",
+						"id": 24926288,
+						"id_str": "24926288",
+						"indices": [
+							32,
+							44
+						]
+					},
+					{
+						"screen_name": "AP",
+						"name": "The Associated Press",
+						"id": 51241574,
+						"id_str": "51241574",
+						"indices": [
+							131,
+							134
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17919393,
+				"id_str": "17919393",
+				"name": "Steve Herman",
+				"screen_name": "W7VOA",
+				"location": "Washington, DC ",
+				"description": "@VOANews White House bureau chief. Member: @aaja, @afsatweets, @opcofamerica, @pressclubdc, @sajahq, @spj_tweets, @whca. Past president: @fccjapan, @SeoulFCC.",
+				"url": "https://t.co/Gxigiw7BPO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gxigiw7BPO",
+								"expanded_url": "https://www.steveherman.press",
+								"display_url": "steveherman.press",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 105343,
+				"friends_count": 1998,
+				"listed_count": 4082,
+				"created_at": "Sat Dec 06 08:56:45 +0000 2008",
+				"favourites_count": 7655,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 136635,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1263472293172346880/9XwQZFW0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263472293172346880/9XwQZFW0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17919393/1594484774",
+				"profile_link_color": "002868",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "191622",
+				"profile_text_color": "993B00",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They’re going to @BWilliams him, and demote him to CSPAN-2. https://t.co/4XKBCOjGMb"
+	},
+	{
 		"created_at": "Thu Oct 15 14:58:07 +0000 2020",
 		"id": 1316743907225596000,
 		"id_str": "1316755238670544897",
