@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 16 13:25:57 +0000 2020",
+		"id": 1316984499146772500,
+		"id_str": "1317094433154793474",
+		"full_text": "Howard Hughes https://t.co/d4vb8qUy88",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d4vb8qUy88",
+					"expanded_url": "https://twitter.com/AllegiantStadm/status/1316782983638970368",
+					"display_url": "twitter.com/AllegiantStadm…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1587143948,
+			"id_str": "1587143948",
+			"name": "Las Vegas Locally 🌴",
+			"screen_name": "LasVegasLocally",
+			"location": "Las Vegas, NV",
+			"description": "Interesting / Strange / Useful stuff from the Vegas Valley: DTLV to Henderson to The Strip. LasVegasLocally@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109788,
+			"friends_count": 7962,
+			"listed_count": 782,
+			"created_at": "Fri Jul 12 00:20:43 +0000 2013",
+			"favourites_count": 339399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 100364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880356840101470208/MHRfk3VL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880356840101470208/MHRfk3VL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1587143948/1464750324",
+			"profile_link_color": "B36B00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1316782983638970400,
+		"quoted_status_id_str": "1316782983638970368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d4vb8qUy88",
+			"expanded": "https://twitter.com/AllegiantStadm/status/1316782983638970368",
+			"display": "twitter.com/AllegiantStadm…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 15 16:48:22 +0000 2020",
+			"id": 1316782983638970400,
+			"id_str": "1316782983638970368",
+			"full_text": "Who had the best Las Vegas residency of all time?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				49
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 984874472606810100,
+				"id_str": "984874472606810112",
+				"name": "Allegiant Stadium",
+				"screen_name": "AllegiantStadm",
+				"location": "Las Vegas, NV",
+				"description": "The newest state-of-the-art venue in Las Vegas. Home of the @Raiders and @UNLV.",
+				"url": "https://t.co/YCCDrIu4JB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YCCDrIu4JB",
+								"expanded_url": "http://linktr.ee/AllegiantStadium",
+								"display_url": "linktr.ee/AllegiantStadi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36787,
+				"friends_count": 83,
+				"listed_count": 173,
+				"created_at": "Fri Apr 13 19:22:27 +0000 2018",
+				"favourites_count": 1505,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 906,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1296508728506609664/qFOxhpCm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296508728506609664/qFOxhpCm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/984874472606810112/1601489273",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 251,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Howard Hughes https://t.co/d4vb8qUy88"
+	},
+	{
 		"created_at": "Thu Oct 15 20:20:59 +0000 2020",
 		"id": 1316836207482089500,
 		"id_str": "1316836492019412998",
