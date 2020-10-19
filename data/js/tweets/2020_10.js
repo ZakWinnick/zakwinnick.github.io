@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 19 17:26:49 +0000 2020",
+		"id": 1318242208882065400,
+		"id_str": "1318242208882065408",
+		"full_text": "Alternative headline…\n\nEddy Cue convinces Apple to restart the original MTV. https://t.co/RDz7QjQKyv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RDz7QjQKyv",
+					"expanded_url": "https://twitter.com/AppleTerminal/status/1318179821373980677",
+					"display_url": "twitter.com/AppleTerminal/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 220,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1318179821373980700,
+		"quoted_status_id_str": "1318179821373980677",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RDz7QjQKyv",
+			"expanded": "https://twitter.com/AppleTerminal/status/1318179821373980677",
+			"display": "twitter.com/AppleTerminal/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 19 13:18:54 +0000 2020",
+			"id": 1318179821373980700,
+			"id_str": "1318179821373980677",
+			"full_text": "JUST IN:\n\n@Apple has launched \"Apple Music TV\" offering 24 hours live stream of popular music videos and exclusive content.\n\nhttps://t.co/uW4cFb5K8f\n\n#Apple AppleNews #AppleMusic https://t.co/J5338msDIK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Apple",
+						"indices": [
+							150,
+							156
+						]
+					},
+					{
+						"text": "AppleMusic",
+						"indices": [
+							167,
+							178
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Apple",
+						"name": "Apple",
+						"id": 380749300,
+						"id_str": "380749300",
+						"indices": [
+							10,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uW4cFb5K8f",
+						"expanded_url": "https://appleterm.com/?p=18360",
+						"display_url": "appleterm.com/?p=18360",
+						"indices": [
+							125,
+							148
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1318179819062841300,
+						"id_str": "1318179819062841348",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/Eksdj7lUUAQWwZR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eksdj7lUUAQWwZR.jpg",
+						"url": "https://t.co/J5338msDIK",
+						"display_url": "pic.twitter.com/J5338msDIK",
+						"expanded_url": "https://twitter.com/AppleTerminal/status/1318179821373980677/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1318179819062841300,
+						"id_str": "1318179819062841348",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/Eksdj7lUUAQWwZR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eksdj7lUUAQWwZR.jpg",
+						"url": "https://t.co/J5338msDIK",
+						"display_url": "pic.twitter.com/J5338msDIK",
+						"expanded_url": "https://twitter.com/AppleTerminal/status/1318179821373980677/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://appleterm.com/\" rel=\"nofollow\">Apple Terminal</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1135468733957386200,
+				"id_str": "1135468733957386240",
+				"name": "Apple Terminal",
+				"screen_name": "AppleTerminal",
+				"location": "",
+				"description": "The most interactive and simplistic Apple news source covering the latest Apple news, leaks, analysis, and more. Have an #Apple tip? https://t.co/NUBFjqJ5mN",
+				"url": "https://t.co/anyPbMdIie",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/anyPbMdIie",
+								"expanded_url": "https://appleterm.com",
+								"display_url": "appleterm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NUBFjqJ5mN",
+								"expanded_url": "https://appleterm.com/tips/",
+								"display_url": "appleterm.com/tips/",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 21404,
+				"friends_count": 10,
+				"listed_count": 199,
+				"created_at": "Mon Jun 03 08:50:16 +0000 2019",
+				"favourites_count": 209,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8515,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1314702425081683976/yNzA4FW9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314702425081683976/yNzA4FW9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135468733957386240/1602190806",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alternative headline…\n\nEddy Cue convinces Apple to restart the original MTV. https://t.co/RDz7QjQKyv"
+	},
+	{
 		"created_at": "Mon Oct 19 17:08:33 +0000 2020",
 		"id": 1318237613199925200,
 		"id_str": "1318237613199925249",
