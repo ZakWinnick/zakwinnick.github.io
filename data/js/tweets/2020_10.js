@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 26 01:55:19 +0000 2020",
+		"id": 1320544504982679600,
+		"id_str": "1320544504982679553",
+		"full_text": "This new sequel to E.T. looks amazing… https://t.co/oezzuEfS4A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oezzuEfS4A",
+					"expanded_url": "https://twitter.com/ferrisjabr/status/1320140155387142144",
+					"display_url": "twitter.com/ferrisjabr/sta…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 220,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1320140155387142100,
+		"quoted_status_id_str": "1320140155387142144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oezzuEfS4A",
+			"expanded": "https://twitter.com/ferrisjabr/status/1320140155387142144",
+			"display": "twitter.com/ferrisjabr/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 24 23:08:34 +0000 2020",
+			"id": 1320140155387142100,
+			"id_str": "1320140155387142144",
+			"full_text": "These look like photos from the set of a sci-fi film but they actually show Washington State Dept of Agriculture workers in protective suits vacuuming hundreds of 2-inch-long invasive Asian giant hornets from the first nest found in the U.S. https://t.co/jcn2a9AkEh https://t.co/klM3mqcrW4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jcn2a9AkEh",
+						"expanded_url": "https://apnews.com/article/insects-washington-asia-agriculture-united-states-c235c7f6725460b463af968bb1355445",
+						"display_url": "apnews.com/article/insect…",
+						"indices": [
+							242,
+							265
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1320137931873349600,
+						"id_str": "1320137931873349632",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/ElISdGPUcAA81A_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElISdGPUcAA81A_.jpg",
+						"url": "https://t.co/klM3mqcrW4",
+						"display_url": "pic.twitter.com/klM3mqcrW4",
+						"expanded_url": "https://twitter.com/ferrisjabr/status/1320140155387142144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 854,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 801,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1320137931873349600,
+						"id_str": "1320137931873349632",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/ElISdGPUcAA81A_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElISdGPUcAA81A_.jpg",
+						"url": "https://t.co/klM3mqcrW4",
+						"display_url": "pic.twitter.com/klM3mqcrW4",
+						"expanded_url": "https://twitter.com/ferrisjabr/status/1320140155387142144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 854,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 801,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1320137976878305300,
+						"id_str": "1320137976878305280",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/ElISft5VkAAfYqo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElISft5VkAAfYqo.jpg",
+						"url": "https://t.co/klM3mqcrW4",
+						"display_url": "pic.twitter.com/klM3mqcrW4",
+						"expanded_url": "https://twitter.com/ferrisjabr/status/1320140155387142144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 962,
+								"h": 641,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 962,
+								"h": 641,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1320138061397672000,
+						"id_str": "1320138061397671938",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/ElISkowUwAIyzRT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElISkowUwAIyzRT.jpg",
+						"url": "https://t.co/klM3mqcrW4",
+						"display_url": "pic.twitter.com/klM3mqcrW4",
+						"expanded_url": "https://twitter.com/ferrisjabr/status/1320140155387142144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 801,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 854,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1320138203177775000,
+						"id_str": "1320138203177775104",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/ElISs47VcAAsdHK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElISs47VcAAsdHK.jpg",
+						"url": "https://t.co/klM3mqcrW4",
+						"display_url": "pic.twitter.com/klM3mqcrW4",
+						"expanded_url": "https://twitter.com/ferrisjabr/status/1320140155387142144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 801,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 854,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45516390,
+				"id_str": "45516390",
+				"name": "Ferris Jabr",
+				"screen_name": "ferrisjabr",
+				"location": "Portland, OR",
+				"description": "science writer ✵ contributing writer @NYTmag and @sciam ✵ writing a book about the coevolution of Earth and life for @RandomHouse ✵ surname rhymes with neighbor",
+				"url": "http://t.co/THzXgB3HvW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/THzXgB3HvW",
+								"expanded_url": "http://ferrisjabr.com/",
+								"display_url": "ferrisjabr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29652,
+				"friends_count": 597,
+				"listed_count": 1095,
+				"created_at": "Mon Jun 08 06:50:16 +0000 2009",
+				"favourites_count": 129,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6000,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFCFC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1229877729815715840/IiKYsc9G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229877729815715840/IiKYsc9G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45516390/1581480333",
+				"profile_link_color": "086080",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6595,
+			"favorite_count": 20843,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This new sequel to E.T. looks amazing… https://t.co/oezzuEfS4A"
+	},
+	{
 		"created_at": "Fri Oct 23 11:47:20 +0000 2020",
 		"id": 1319570549392216000,
 		"id_str": "1319606330542391297",
