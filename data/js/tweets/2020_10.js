@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 27 01:21:39 +0000 2020",
+		"id": 1320898423046942700,
+		"id_str": "1320898423046942721",
+		"full_text": "I was waiting for this statistic to pop up. \n\nI’m also impressed that TN is actually ahead of a majority of the states. https://t.co/BNypYSowZi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BNypYSowZi",
+					"expanded_url": "https://twitter.com/charles_gaba/status/1320868400814587905",
+					"display_url": "twitter.com/charles_gaba/s…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 220,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1320868400814588000,
+		"quoted_status_id_str": "1320868400814587905",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BNypYSowZi",
+			"expanded": "https://twitter.com/charles_gaba/status/1320868400814587905",
+			"display": "twitter.com/charles_gaba/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 26 23:22:21 +0000 2020",
+			"id": 1320868400814588000,
+			"id_str": "1320868400814587905",
+			"full_text": "More people have now voted in the 2020 election than the total who voted for Donald Trump in 2016.\n\nStill remaining:\n--Hillary in 2016 (65.85 million)\n--Obama in 2012 (65.92 million)\n--Obama in 2008 (69.50 million) https://t.co/jLO5NNeRUi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jLO5NNeRUi",
+						"expanded_url": "https://twitter.com/ElectProject/status/1320866564661534726",
+						"display_url": "twitter.com/ElectProject/s…",
+						"indices": [
+							215,
+							238
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25911963,
+				"id_str": "25911963",
+				"name": "Charles Ghoul-ba",
+				"screen_name": "charles_gaba",
+				"location": "Bloomfield Township, MI",
+				"description": "Healthcare analyst at https://t.co/E2uQBKy14b. If you find my work of value, please support it at https://t.co/BB0uxt0qHl",
+				"url": "https://t.co/jheWZfCvek",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jheWZfCvek",
+								"expanded_url": "http://www.acasignups.net",
+								"display_url": "acasignups.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/E2uQBKy14b",
+								"expanded_url": "http://ACASignups.net",
+								"display_url": "ACASignups.net",
+								"indices": [
+									22,
+									45
+								]
+							},
+							{
+								"url": "https://t.co/BB0uxt0qHl",
+								"expanded_url": "https://Patreon.com/CharlesGaba",
+								"display_url": "Patreon.com/CharlesGaba",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 41929,
+				"friends_count": 3202,
+				"listed_count": 704,
+				"created_at": "Mon Mar 23 00:05:23 +0000 2009",
+				"favourites_count": 603501,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 341231,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265411404997238786/BpmHGCKN_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265411404997238786/BpmHGCKN_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25911963/1518119937",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1320866564661534700,
+			"quoted_status_id_str": "1320866564661534726",
+			"quoted_status_permalink": {
+				"url": "https://t.co/jLO5NNeRUi",
+				"expanded": "https://twitter.com/ElectProject/status/1320866564661534726",
+				"display": "twitter.com/ElectProject/s…"
+			},
+			"retweet_count": 19,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was waiting for this statistic to pop up. \n\nI’m also impressed that TN is actually ahead of a majority of the states. https://t.co/BNypYSowZi"
+	},
+	{
 		"created_at": "Mon Oct 26 11:30:27 +0000 2020",
 		"id": 1320689244499808300,
 		"id_str": "1320689244499808263",
