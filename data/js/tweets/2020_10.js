@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 02:10:24 +0000 2020",
+		"id": 1321790882484551700,
+		"id_str": "1321997854051848192",
+		"full_text": "October 29, 1998: At age 77, John Glenn returns to space on STS-95. Prior to liftoff, Glenn sees veteran photojournalist Ralph Morse taking images for Time.\n\n\"Hi, Ralph, you still shooting?\"\n\n“Hi, John,” the 81-year-old Morse replied. “You still flying?” https://t.co/KBwcaF6tjq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321790873374498800,
+					"id_str": "1321790873374498817",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/Elfxy9LXIAE5nWY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elfxy9LXIAE5nWY.jpg",
+					"url": "https://t.co/KBwcaF6tjq",
+					"display_url": "pic.twitter.com/KBwcaF6tjq",
+					"expanded_url": "https://twitter.com/ChasingMoonBk/status/1321790882484551680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1560,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 518,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 914,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321790873374498800,
+					"id_str": "1321790873374498817",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/Elfxy9LXIAE5nWY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elfxy9LXIAE5nWY.jpg",
+					"url": "https://t.co/KBwcaF6tjq",
+					"display_url": "pic.twitter.com/KBwcaF6tjq",
+					"expanded_url": "https://twitter.com/ChasingMoonBk/status/1321790882484551680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1560,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 518,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 914,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1321790873366077400,
+					"id_str": "1321790873366077443",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/Elfxy9JWoAM0ybs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elfxy9JWoAM0ybs.jpg",
+					"url": "https://t.co/KBwcaF6tjq",
+					"display_url": "pic.twitter.com/KBwcaF6tjq",
+					"expanded_url": "https://twitter.com/ChasingMoonBk/status/1321790882484551680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 601,
+							"h": 775,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 775,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1075060338905808900,
+			"id_str": "1075060338905808901",
+			"name": "Chasing The Moon: The Book",
+			"screen_name": "ChasingMoonBk",
+			"location": "Ballantine Random House",
+			"description": "\"The People, the Politics, and the Promise that Launched America into the Space Age\" Companion book to the Emmy-nominated PBS documentary series.",
+			"url": "https://t.co/HM91GkkZNM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HM91GkkZNM",
+							"expanded_url": "http://ChasingTheMoonBook.com",
+							"display_url": "ChasingTheMoonBook.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3781,
+			"friends_count": 1588,
+			"listed_count": 63,
+			"created_at": "Tue Dec 18 16:08:53 +0000 2018",
+			"favourites_count": 7582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091516936129822720/f68xQx-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091516936129822720/f68xQx-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1075060338905808901/1549072515",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "October 29, 1998: At age 77, John Glenn returns to space on STS-95. Prior to liftoff, Glenn sees veteran photojournalist Ralph Morse taking images for Time.\n\n\"Hi, Ralph, you still shooting?\"\n\n“Hi, John,” the 81-year-old Morse replied. “You still flying?” https://t.co/KBwcaF6tjq"
+	},
+	{
 		"created_at": "Tue Oct 27 01:21:39 +0000 2020",
 		"id": 1320898423046942700,
 		"id_str": "1320898423046942721",
