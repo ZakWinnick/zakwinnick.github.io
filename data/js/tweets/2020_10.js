@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 31 13:04:35 +0000 2020",
+		"id": 1322522971408314400,
+		"id_str": "1322524872505991178",
+		"full_text": "My favourite James Bond by far, my favourite Scottish accented immortal Egyptian, my favourite nappy wearing leading man, my favourite Scottish accented Irish cop and my second favourite Henry Jones. Sean Connery was a true movie star. \n\nToday is a very sad day. #RIPSeanConnery https://t.co/YchlJj6koY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RIPSeanConnery",
+					"indices": [
+						263,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1322522966345830400,
+					"id_str": "1322522966345830400",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ElqLoYBW0AA-80l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElqLoYBW0AA-80l.jpg",
+					"url": "https://t.co/YchlJj6koY",
+					"display_url": "pic.twitter.com/YchlJj6koY",
+					"expanded_url": "https://twitter.com/PhilipBloom/status/1322522971408314371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322522966345830400,
+					"id_str": "1322522966345830400",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ElqLoYBW0AA-80l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElqLoYBW0AA-80l.jpg",
+					"url": "https://t.co/YchlJj6koY",
+					"display_url": "pic.twitter.com/YchlJj6koY",
+					"expanded_url": "https://twitter.com/PhilipBloom/status/1322522971408314371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18614747,
+			"id_str": "18614747",
+			"name": "Philip Bloom",
+			"screen_name": "PhilipBloom",
+			"location": "London ",
+			"description": "Filmmaker/ camera hoarder/ cat lover. Trying to shoot, share & help people as much as I can whilst trying to find my place in the world. Often silly/ grumpy!",
+			"url": "https://t.co/FY0qDwV7bk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FY0qDwV7bk",
+							"expanded_url": "http://www.philipbloom.net",
+							"display_url": "philipbloom.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138456,
+			"friends_count": 2361,
+			"listed_count": 3593,
+			"created_at": "Sun Jan 04 22:38:56 +0000 2009",
+			"favourites_count": 1216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 79822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1299133446556655617/TJ5HHRWh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299133446556655617/TJ5HHRWh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18614747/1513899921",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My favourite James Bond by far, my favourite Scottish accented immortal Egyptian, my favourite nappy wearing leading man, my favourite Scottish accented Irish cop and my second favourite Henry Jones. Sean Connery was a true movie star. \n\nToday is a very sad day. #RIPSeanConnery https://t.co/YchlJj6koY"
+	},
+	{
 		"created_at": "Fri Oct 30 02:10:24 +0000 2020",
 		"id": 1321790882484551700,
 		"id_str": "1321997854051848192",
