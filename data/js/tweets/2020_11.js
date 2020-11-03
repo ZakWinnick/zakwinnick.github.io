@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 14:14:10 +0000 2020",
+		"id": 1323628451681751000,
+		"id_str": "1323629546172829697",
+		"full_text": "Accurate. https://t.co/s3tL5yOFgO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323628448917631000,
+					"id_str": "1323628448917630978",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/El55D7hWMAIoS0D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El55D7hWMAIoS0D.jpg",
+					"url": "https://t.co/s3tL5yOFgO",
+					"display_url": "pic.twitter.com/s3tL5yOFgO",
+					"expanded_url": "https://twitter.com/AngrierWHStaff/status/1323628451681751041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 723,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 723,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323628448917631000,
+					"id_str": "1323628448917630978",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/El55D7hWMAIoS0D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El55D7hWMAIoS0D.jpg",
+					"url": "https://t.co/s3tL5yOFgO",
+					"display_url": "pic.twitter.com/s3tL5yOFgO",
+					"expanded_url": "https://twitter.com/AngrierWHStaff/status/1323628451681751041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 723,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 723,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 848148994102612000,
+			"id_str": "848148994102611969",
+			"name": "Angry Staffer",
+			"screen_name": "AngrierWHStaff",
+			"location": "",
+			"description": "Not a current WH Staffer | Politics, NatSec, and Snark — Mileage may vary | Views mine |",
+			"url": "https://t.co/yNzmlQPP5P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yNzmlQPP5P",
+							"expanded_url": "http://angrystaffer.com",
+							"display_url": "angrystaffer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336149,
+			"friends_count": 410,
+			"listed_count": 1802,
+			"created_at": "Sat Apr 01 12:24:12 +0000 2017",
+			"favourites_count": 7590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1056018749604663297/3KdM71fN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056018749604663297/3KdM71fN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/848148994102611969/1591021897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 994,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Accurate. https://t.co/s3tL5yOFgO"
+	},
+	{
 		"created_at": "Tue Nov 03 12:37:09 +0000 2020",
 		"id": 1323472995034300400,
 		"id_str": "1323605129921236995",
