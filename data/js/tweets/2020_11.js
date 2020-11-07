@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 17:35:53 +0000 2020",
+		"id": 1325113960731988000,
+		"id_str": "1325129861636083715",
+		"full_text": "‘Parks and Recreation’ star Joe Biden has been cast as President of the United States.\n\nHe will replace ‘Home Alone 2: Lost In New York’ star Donald Trump.\n\n(Source: @cnnbrk) https://t.co/bmCNiK2eTx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cnnbrk",
+					"name": "CNN Breaking News",
+					"id": 428333,
+					"id_str": "428333",
+					"indices": [
+						166,
+						173
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325113956848070700,
+					"id_str": "1325113956848070658",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EmPAH3zXcAIFY1p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmPAH3zXcAIFY1p.jpg",
+					"url": "https://t.co/bmCNiK2eTx",
+					"display_url": "pic.twitter.com/bmCNiK2eTx",
+					"expanded_url": "https://twitter.com/DiscussingFilm/status/1325113960731987970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325113956848070700,
+					"id_str": "1325113956848070658",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EmPAH3zXcAIFY1p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmPAH3zXcAIFY1p.jpg",
+					"url": "https://t.co/bmCNiK2eTx",
+					"display_url": "pic.twitter.com/bmCNiK2eTx",
+					"expanded_url": "https://twitter.com/DiscussingFilm/status/1325113960731987970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 780460754910732300,
+			"id_str": "780460754910732288",
+			"name": "DiscussingFilm",
+			"screen_name": "DiscussingFilm",
+			"location": "",
+			"description": "Your leading source in quick reliable news and one of a kind content. Home for healthy and liberating discussion on all things pop culture.",
+			"url": "https://t.co/ojGSqhkrfP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojGSqhkrfP",
+							"expanded_url": "http://discussingfilm.net/",
+							"display_url": "discussingfilm.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121814,
+			"friends_count": 463,
+			"listed_count": 591,
+			"created_at": "Mon Sep 26 17:35:19 +0000 2016",
+			"favourites_count": 2813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191180251159810049/w5JjDw1j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191180251159810049/w5JjDw1j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/780460754910732288/1591724134",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9596,
+		"favorite_count": 25319,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Parks and Recreation’ star Joe Biden has been cast as President of the United States.\n\nHe will replace ‘Home Alone 2: Lost In New York’ star Donald Trump.\n\n(Source: @cnnbrk) https://t.co/bmCNiK2eTx"
+	},
+	{
 		"created_at": "Fri Nov 06 15:52:42 +0000 2020",
 		"id": 1324734458386292700,
 		"id_str": "1324741509074268160",
