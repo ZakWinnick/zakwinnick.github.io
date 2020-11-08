@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 20:49:30 +0000 2020",
+		"id": 1325540973246636000,
+		"id_str": "1325540973246636038",
+		"full_text": "For $20? You bet your ass I bought one of these…\n\nYou should too, and help the GA Senate run-offs. https://t.co/BGdMtFitdn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BGdMtFitdn",
+					"expanded_url": "https://twitter.com/sawdustbear/status/1325200682467561472",
+					"display_url": "twitter.com/sawdustbear/st…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 224,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1325200682467561500,
+		"quoted_status_id_str": "1325200682467561472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BGdMtFitdn",
+			"expanded": "https://twitter.com/sawdustbear/status/1325200682467561472",
+			"display": "twitter.com/sawdustbear/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 07 22:17:18 +0000 2020",
+			"id": 1325200682467561500,
+			"id_str": "1325200682467561472",
+			"full_text": "I am several celebratory mimosas in and made myself the Four Seasons Total Landscaping shirt I desperately wanted in my life. If you want it too, I'm tossing all profits to the Georgia runoffs. https://t.co/hK7mvcLr1I https://t.co/NyjaNj39Ko",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hK7mvcLr1I",
+						"expanded_url": "https://shopclass.threadless.com/designs/four-seasons-total-landscaping/womens/t-shirt/ringer-unisex",
+						"display_url": "shopclass.threadless.com/designs/four-s…",
+						"indices": [
+							194,
+							217
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1325200431849463800,
+						"id_str": "1325200431849463808",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/EmQOxYSU4AAfEIW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmQOxYSU4AAfEIW.jpg",
+						"url": "https://t.co/NyjaNj39Ko",
+						"display_url": "pic.twitter.com/NyjaNj39Ko",
+						"expanded_url": "https://twitter.com/sawdustbear/status/1325200682467561472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 644,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1360,
+								"h": 1288,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1325200431849463800,
+						"id_str": "1325200431849463808",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/EmQOxYSU4AAfEIW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmQOxYSU4AAfEIW.jpg",
+						"url": "https://t.co/NyjaNj39Ko",
+						"display_url": "pic.twitter.com/NyjaNj39Ko",
+						"expanded_url": "https://twitter.com/sawdustbear/status/1325200682467561472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 644,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1360,
+								"h": 1288,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1325200431849435100,
+						"id_str": "1325200431849435137",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/EmQOxYSUcAEtinF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmQOxYSUcAEtinF.jpg",
+						"url": "https://t.co/NyjaNj39Ko",
+						"display_url": "pic.twitter.com/NyjaNj39Ko",
+						"expanded_url": "https://twitter.com/sawdustbear/status/1325200682467561472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1354,
+								"h": 1354,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12294382,
+				"id_str": "12294382",
+				"name": "shing yin khor",
+				"screen_name": "sawdustbear",
+				"location": "Los Angeles, CA",
+				"description": "installation art gnome, ignatz winning cartoonist. Paul Bunyan, strange beasts, road trips, invented rituals, feelings. they/them. rep: @dongwon 🇲🇾🇺🇸🌈",
+				"url": "https://t.co/CMPYcF6Yv3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CMPYcF6Yv3",
+								"expanded_url": "http://shingkhor.com",
+								"display_url": "shingkhor.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18545,
+				"friends_count": 1828,
+				"listed_count": 309,
+				"created_at": "Tue Jan 15 20:47:44 +0000 2008",
+				"favourites_count": 35675,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44945,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856298365528690688/m7xM1FtJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856298365528690688/m7xM1FtJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12294382/1483212934",
+				"profile_link_color": "8BB312",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8155,
+			"favorite_count": 27430,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For $20? You bet your ass I bought one of these…\n\nYou should too, and help the GA Senate run-offs. https://t.co/BGdMtFitdn"
+	},
+	{
 		"created_at": "Sun Nov 08 17:45:31 +0000 2020",
 		"id": 1325494673444630500,
 		"id_str": "1325494673444630536",
