@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 17:15:51 +0000 2020",
+		"id": 1325849541275480000,
+		"id_str": "1325849597038764034",
+		"full_text": "I mean, after they get finished destroying all of the documents accumulated over the past 4 years, what else is left? The orb? https://t.co/vfHQ79Ufde",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vfHQ79Ufde",
+					"expanded_url": "https://twitter.com/RoguePOTUSStaff/status/1325845611242016773",
+					"display_url": "twitter.com/RoguePOTUSStaf…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3,
+			"friends_count": 550,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1325845611242016800,
+		"quoted_status_id_str": "1325845611242016773",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vfHQ79Ufde",
+			"expanded": "https://twitter.com/RoguePOTUSStaff/status/1325845611242016773",
+			"display": "twitter.com/RoguePOTUSStaf…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 09 17:00:01 +0000 2020",
+			"id": 1325845611242016800,
+			"id_str": "1325845611242016773",
+			"full_text": "Even as he refuses to accept his loss, Jared and Ivanka are eyeing a nominal Presidential library in Trump Tower that would mostly be a propaganda museum and gift shop.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 824473943931293700,
+				"id_str": "824473943931293697",
+				"name": "Rogue POTUS Staff",
+				"screen_name": "RoguePOTUSStaff",
+				"location": "Washington, DC",
+				"description": "Anonymous patriots. Authors of \"Being Rogue\". Country over traitors.   https://t.co/u7XYcfk3y0\nhttps://t.co/t38ibRhQq7",
+				"url": "https://t.co/zpdYf3BhGV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zpdYf3BhGV",
+								"expanded_url": "http://www.potusstaff.com",
+								"display_url": "potusstaff.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/u7XYcfk3y0",
+								"expanded_url": "https://tinyurl.com/rpsbook-amzn",
+								"display_url": "tinyurl.com/rpsbook-amzn",
+								"indices": [
+									71,
+									94
+								]
+							},
+							{
+								"url": "https://t.co/t38ibRhQq7",
+								"expanded_url": "https://tinyurl.com/rpsbook-bn",
+								"display_url": "tinyurl.com/rpsbook-bn",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 699532,
+				"friends_count": 69,
+				"listed_count": 5100,
+				"created_at": "Thu Jan 26 04:28:01 +0000 2017",
+				"favourites_count": 748,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7195,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880768828581478401/bpvkUiQF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880768828581478401/bpvkUiQF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/824473943931293697/1598663276",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 524,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mean, after they get finished destroying all of the documents accumulated over the past 4 years, what else is left? The orb? https://t.co/vfHQ79Ufde"
+	},
+	{
 		"created_at": "Mon Nov 09 00:13:14 +0000 2020",
 		"id": 1325592247757377500,
 		"id_str": "1325592247757377536",
