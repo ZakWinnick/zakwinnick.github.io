@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 18:59:32 +0000 2020",
+		"id": 1326238076578959400,
+		"id_str": "1326238076578959361",
+		"full_text": "I want someone to look at me like Craig looks at this MacBook Air... https://t.co/lg3OoC7JU6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326238065527042000,
+					"id_str": "1326238065527042048",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326238065527042048/pu/img/6KSmLmWqtcxr54nx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326238065527042048/pu/img/6KSmLmWqtcxr54nx.jpg",
+					"url": "https://t.co/lg3OoC7JU6",
+					"display_url": "pic.twitter.com/lg3OoC7JU6",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1326238076578959361/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1142,
+							"h": 634,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1142,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326238065527042000,
+					"id_str": "1326238065527042048",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326238065527042048/pu/img/6KSmLmWqtcxr54nx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326238065527042048/pu/img/6KSmLmWqtcxr54nx.jpg",
+					"url": "https://t.co/lg3OoC7JU6",
+					"display_url": "pic.twitter.com/lg3OoC7JU6",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1326238076578959361/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1142,
+							"h": 634,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1142,
+							"h": 634,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							571,
+							317
+						],
+						"duration_millis": 4480,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326238065527042048/pu/vid/648x360/q5ABXZItEgRZwSlu.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1326238065527042048/pu/pl/FKKdmlLaqdLi8f-J.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326238065527042048/pu/vid/486x270/zJqX9TtDCwxEKwYp.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326238065527042048/pu/vid/1142x634/0zT2_C04n-TrtCdj.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 225,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I want someone to look at me like Craig looks at this MacBook Air... https://t.co/lg3OoC7JU6"
+	},
+	{
+		"created_at": "Tue Nov 10 18:48:05 +0000 2020",
+		"id": 1326235193729048600,
+		"id_str": "1326235193729048577",
+		"full_text": "Horrible makeup job, hiding his mustache…\n\nBut…I love they brought back the PC! Next event, I demand an old school PC/Max face-off (not like Justin Long is doing anything either…)! https://t.co/oWE4dFp9AQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oWE4dFp9AQ",
+					"expanded_url": "https://twitter.com/AppleTerminal/status/1326234769865236486",
+					"display_url": "twitter.com/AppleTerminal/…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 225,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326234769865236500,
+		"quoted_status_id_str": "1326234769865236486",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oWE4dFp9AQ",
+			"expanded": "https://twitter.com/AppleTerminal/status/1326234769865236486",
+			"display": "twitter.com/AppleTerminal/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 10 18:46:24 +0000 2020",
+			"id": 1326234769865236500,
+			"id_str": "1326234769865236486",
+			"full_text": "HAHAHHAHA, they did not!\n\n#AppleEvent https://t.co/cE9LScwMRG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AppleEvent",
+						"indices": [
+							26,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1326234727523741700,
+						"id_str": "1326234727523741697",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/Eme7dT7W8AEC8QJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eme7dT7W8AEC8QJ.jpg",
+						"url": "https://t.co/cE9LScwMRG",
+						"display_url": "pic.twitter.com/cE9LScwMRG",
+						"expanded_url": "https://twitter.com/AppleTerminal/status/1326234769865236486/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1326234727523741700,
+						"id_str": "1326234727523741697",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/Eme7dT7W8AEC8QJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eme7dT7W8AEC8QJ.jpg",
+						"url": "https://t.co/cE9LScwMRG",
+						"display_url": "pic.twitter.com/cE9LScwMRG",
+						"expanded_url": "https://twitter.com/AppleTerminal/status/1326234769865236486/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1135468733957386200,
+				"id_str": "1135468733957386240",
+				"name": "Apple Terminal",
+				"screen_name": "AppleTerminal",
+				"location": "",
+				"description": "The most interactive and simplistic Apple news source covering the latest from the #AppleEvent. Have an #Apple tip? https://t.co/pnvDqsMEiv",
+				"url": "https://t.co/5rdVAFBKu4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5rdVAFBKu4",
+								"expanded_url": "http://appleterm.com",
+								"display_url": "appleterm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pnvDqsMEiv",
+								"expanded_url": "http://appleterm.com/tips/",
+								"display_url": "appleterm.com/tips/",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 21635,
+				"friends_count": 11,
+				"listed_count": 207,
+				"created_at": "Mon Jun 03 08:50:16 +0000 2019",
+				"favourites_count": 65,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9376,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323022026035077121/p5izyQ2m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323022026035077121/p5izyQ2m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135468733957386240/1604268008",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 510,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Horrible makeup job, hiding his mustache…\n\nBut…I love they brought back the PC! Next event, I demand an old school PC/Max face-off (not like Justin Long is doing anything either…)! https://t.co/oWE4dFp9AQ"
+	},
+	{
 		"created_at": "Tue Nov 10 00:15:50 +0000 2020",
 		"id": 1325955290047651800,
 		"id_str": "1325955290047651840",
