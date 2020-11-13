@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 02:40:40 +0000 2020",
+		"id": 1327078899520508000,
+		"id_str": "1327078899520507905",
+		"full_text": "I can get behind this too… https://t.co/383Gh4cGVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/383Gh4cGVE",
+					"expanded_url": "https://twitter.com/levarburton/status/1326973244847624195",
+					"display_url": "twitter.com/levarburton/st…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 225,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326973244847624200,
+		"quoted_status_id_str": "1326973244847624195",
+		"quoted_status_permalink": {
+			"url": "https://t.co/383Gh4cGVE",
+			"expanded": "https://twitter.com/levarburton/status/1326973244847624195",
+			"display": "twitter.com/levarburton/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 12 19:40:50 +0000 2020",
+			"id": 1326973244847624200,
+			"id_str": "1326973244847624195",
+			"full_text": "Even if nothing comes from it, I can’t tell how much how I appreciate all y’alls love and support! 🙏🏾♥️\n\nPetition · Make LeVar Burton the next host of Jeopardy! · https://t.co/60lC1WCD61 https://t.co/QFxedpuWpU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/60lC1WCD61",
+						"expanded_url": "http://Change.org",
+						"display_url": "Change.org",
+						"indices": [
+							163,
+							186
+						]
+					},
+					{
+						"url": "https://t.co/QFxedpuWpU",
+						"expanded_url": "https://www.change.org/p/sony-pictures-entertainment-levar-burton-should-be-the-next-host-of-jeopardy?utm_content=cl_sharecopy_25762052_en-US%3A3&recruiter=68548602&recruited_by_id=ef8cd07b-79b9-4e6f-8703-ad3585f5bf87&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_abi",
+						"display_url": "change.org/p/sony-picture…",
+						"indices": [
+							187,
+							210
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18396070,
+				"id_str": "18396070",
+				"name": "LeVar Burton",
+				"screen_name": "levarburton",
+				"location": "Los Angeles, CA",
+				"description": "Kunta, Geordi, Reading Rainbow Guy  IG: levar.burton",
+				"url": "https://t.co/ErLE5V6Ayx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ErLE5V6Ayx",
+								"expanded_url": "http://www.levarburtonpodcast.com",
+								"display_url": "levarburtonpodcast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2030574,
+				"friends_count": 889,
+				"listed_count": 18404,
+				"created_at": "Fri Dec 26 21:51:53 +0000 2008",
+				"favourites_count": 21898,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16676,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323676140528115712/hnVTzufa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323676140528115712/hnVTzufa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18396070/1565102484",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "1F092F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6591,
+			"favorite_count": 47500,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can get behind this too… https://t.co/383Gh4cGVE"
+	},
+	{
 		"created_at": "Thu Nov 12 22:47:15 +0000 2020",
 		"id": 1327020159341617200,
 		"id_str": "1327020159341617153",
