@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 16 23:19:43 +0000 2020",
+		"id": 1328477883178897400,
+		"id_str": "1328477883178897409",
+		"full_text": "Can someone overlay the map of the current EC count?\n\nNvm. You can tell which states DJT won from this alone… https://t.co/b1Q89YYsYB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b1Q89YYsYB",
+					"expanded_url": "https://twitter.com/RexChapman/status/1328359888343478273",
+					"display_url": "twitter.com/RexChapman/sta…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61,
+			"friends_count": 227,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1328359888343478300,
+		"quoted_status_id_str": "1328359888343478273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b1Q89YYsYB",
+			"expanded": "https://twitter.com/RexChapman/status/1328359888343478273",
+			"display": "twitter.com/RexChapman/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 16 15:30:51 +0000 2020",
+			"id": 1328359888343478300,
+			"id_str": "1328359888343478273",
+			"full_text": "Check-out this animated map showing COVID cases per capita across America since March. \n\nLooks like Trump’s precious “Red States” are doing great.\n\nWear a mask. \n\nThis is terrifying...https://t.co/0MTi3g34j4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1328346302674063400,
+						"id_str": "1328346302674063362",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328346302674063362/pu/img/uTzoiFCodGgFWEy_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328346302674063362/pu/img/uTzoiFCodGgFWEy_.jpg",
+						"url": "https://t.co/0MTi3g34j4",
+						"display_url": "pic.twitter.com/0MTi3g34j4",
+						"expanded_url": "https://twitter.com/FirenzeMike/status/1328346319556063232/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 396,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 374,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 396,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1328346319556063200,
+						"source_status_id_str": "1328346319556063232",
+						"source_user_id": 60023173,
+						"source_user_id_str": "60023173"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1328346302674063400,
+						"id_str": "1328346302674063362",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328346302674063362/pu/img/uTzoiFCodGgFWEy_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328346302674063362/pu/img/uTzoiFCodGgFWEy_.jpg",
+						"url": "https://t.co/0MTi3g34j4",
+						"display_url": "pic.twitter.com/0MTi3g34j4",
+						"expanded_url": "https://twitter.com/FirenzeMike/status/1328346319556063232/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 396,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 374,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 396,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1328346319556063200,
+						"source_status_id_str": "1328346319556063232",
+						"source_user_id": 60023173,
+						"source_user_id_str": "60023173",
+						"video_info": {
+							"aspect_ratio": [
+								20,
+								11
+							],
+							"duration_millis": 13633,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1328346302674063362/pu/pl/Fao5KAX8bh5UmD1s.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1328346302674063362/pu/vid/490x270/K0n9Og1SLMwHr6EU.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1328346302674063362/pu/vid/720x396/SMpcVv1BvRblVQfV.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 60023173,
+								"id_str": "60023173",
+								"name": "Icculus The Brave",
+								"screen_name": "FirenzeMike",
+								"location": "New York, NY ",
+								"description": "Phish, Red Sox, Phish, Patriots, Phish, Celtics, Phish, Bruins",
+								"url": "https://t.co/rhnGoGM1Ta",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/rhnGoGM1Ta",
+												"expanded_url": "https://www.instagram.com/getsel241/",
+												"display_url": "instagram.com/getsel241/",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 36469,
+								"friends_count": 2062,
+								"listed_count": 78,
+								"created_at": "Sat Jul 25 09:28:37 +0000 2009",
+								"favourites_count": 52330,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 64230,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1268159957150687232/J83IryZA_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268159957150687232/J83IryZA_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/60023173/1603727259",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 324703658,
+				"id_str": "324703658",
+				"name": "Rex Chapman🏇🏼",
+				"screen_name": "RexChapman",
+				"location": "Lexington/Phoenix ",
+				"description": "I hold the microphone like a grudge",
+				"url": "https://t.co/WW075Yadro",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WW075Yadro",
+								"expanded_url": "http://adultswim.com/streams",
+								"display_url": "adultswim.com/streams",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1029526,
+				"friends_count": 18721,
+				"listed_count": 3345,
+				"created_at": "Mon Jun 27 02:36:27 +0000 2011",
+				"favourites_count": 193088,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 116836,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0E21F0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/324703658/1539742514",
+				"profile_link_color": "2C12EB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "100D14",
+				"profile_text_color": "EB0E20",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2279,
+			"favorite_count": 5441,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can someone overlay the map of the current EC count?\n\nNvm. You can tell which states DJT won from this alone… https://t.co/b1Q89YYsYB"
+	},
+	{
 		"created_at": "Sat Nov 14 20:07:44 +0000 2020",
 		"id": 1327704789975707600,
 		"id_str": "1327704789975707663",
