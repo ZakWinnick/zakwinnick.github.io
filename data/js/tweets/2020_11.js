@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 20 02:01:35 +0000 2020",
+		"id": 1329605779553398800,
+		"id_str": "1329605779553398789",
+		"full_text": "On this edition of “Tweets I Would Have Posted 10 Years Ago”… https://t.co/I6nCjA1BXW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I6nCjA1BXW",
+					"expanded_url": "https://twitter.com/DisgruntledGeni/status/1329494963944529921",
+					"display_url": "twitter.com/DisgruntledGen…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 227,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1329494963944530000,
+		"quoted_status_id_str": "1329494963944529921",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I6nCjA1BXW",
+			"expanded": "https://twitter.com/DisgruntledGeni/status/1329494963944529921",
+			"display": "twitter.com/DisgruntledGen…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 19 18:41:14 +0000 2020",
+			"id": 1329494963944530000,
+			"id_str": "1329494963944529921",
+			"full_text": "PSA\n\nAppleCare folks, STOP referring people to the stores WITHOUT an appointment, specially in California. We are reduced to 25% capacity so that means NO WALK-INS. PERIOD!\n\nCustomers, BOOK an appointment BEFORE coming to the stores in California. PERIOD! https://t.co/Ioz5QM29C9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1329494954142355500,
+						"id_str": "1329494954142355458",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EnNQnehUUAIcjE1.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EnNQnehUUAIcjE1.jpg",
+						"url": "https://t.co/Ioz5QM29C9",
+						"display_url": "pic.twitter.com/Ioz5QM29C9",
+						"expanded_url": "https://twitter.com/DisgruntledGeni/status/1329494963944529921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1329494954142355500,
+						"id_str": "1329494954142355458",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EnNQnehUUAIcjE1.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EnNQnehUUAIcjE1.jpg",
+						"url": "https://t.co/Ioz5QM29C9",
+						"display_url": "pic.twitter.com/Ioz5QM29C9",
+						"expanded_url": "https://twitter.com/DisgruntledGeni/status/1329494963944529921/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EnNQnehUUAIcjE1.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1148604781952286700,
+				"id_str": "1148604781952286720",
+				"name": "DisgruntledGenius",
+				"screen_name": "DisgruntledGeni",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 290,
+				"friends_count": 118,
+				"listed_count": 3,
+				"created_at": "Tue Jul 09 14:48:14 +0000 2019",
+				"favourites_count": 217,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1149,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1148606346297794561/Gcv8jfVm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148606346297794561/Gcv8jfVm_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this edition of “Tweets I Would Have Posted 10 Years Ago”… https://t.co/I6nCjA1BXW"
+	},
+	{
 		"created_at": "Tue Nov 17 19:21:24 +0000 2020",
 		"id": 1328780296746135600,
 		"id_str": "1328780296746135555",
