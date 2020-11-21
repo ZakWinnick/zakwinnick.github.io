@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 21 00:32:38 +0000 2020",
+		"id": 1329945784759033900,
+		"id_str": "1329945784759033856",
+		"full_text": "My current state (TN)? It wouldn’t survive. \n\nMy home state (CA)? Well, let’s go with the largest economy in the country. Yeah, that’s it. \n\n#RepublicOfCalifornia https://t.co/LrU0c5IqeL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RepublicOfCalifornia",
+					"indices": [
+						141,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LrU0c5IqeL",
+					"expanded_url": "https://twitter.com/PopulismUpdates/status/1329625835125366784",
+					"display_url": "twitter.com/PopulismUpdate…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 227,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1329625835125366800,
+		"quoted_status_id_str": "1329625835125366784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LrU0c5IqeL",
+			"expanded": "https://twitter.com/PopulismUpdates/status/1329625835125366784",
+			"display": "twitter.com/PopulismUpdate…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 20 03:21:17 +0000 2020",
+			"id": 1329625835125366800,
+			"id_str": "1329625835125366784",
+			"full_text": "Name one reason why your state would succeed as it its own country https://t.co/mOOsheqhqf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1329625826254459000,
+						"id_str": "1329625826254458881",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/EnPHpPIVEAEM1sN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnPHpPIVEAEM1sN.jpg",
+						"url": "https://t.co/mOOsheqhqf",
+						"display_url": "pic.twitter.com/mOOsheqhqf",
+						"expanded_url": "https://twitter.com/PopulismUpdates/status/1329625835125366784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 478,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 703,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 703,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1329625826254459000,
+						"id_str": "1329625826254458881",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/EnPHpPIVEAEM1sN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnPHpPIVEAEM1sN.jpg",
+						"url": "https://t.co/mOOsheqhqf",
+						"display_url": "pic.twitter.com/mOOsheqhqf",
+						"expanded_url": "https://twitter.com/PopulismUpdates/status/1329625835125366784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 478,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 703,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 703,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1000503711330791400,
+				"id_str": "1000503711330791424",
+				"name": "Populism Updates",
+				"screen_name": "PopulismUpdates",
+				"location": "populismupdates@gmail.com",
+				"description": "Making the global realignment FUN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23968,
+				"friends_count": 2412,
+				"listed_count": 172,
+				"created_at": "Sat May 26 22:27:28 +0000 2018",
+				"favourites_count": 28527,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57764,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245560096593039360/_Ai9p3km_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245560096593039360/_Ai9p3km_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1000503711330791424/1531599556",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 326,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My current state (TN)? It wouldn’t survive. \n\nMy home state (CA)? Well, let’s go with the largest economy in the country. Yeah, that’s it. \n\n#RepublicOfCalifornia https://t.co/LrU0c5IqeL"
+	},
+	{
 		"created_at": "Fri Nov 20 20:34:42 +0000 2020",
 		"id": 1329885906501824500,
 		"id_str": "1329885906501824525",
