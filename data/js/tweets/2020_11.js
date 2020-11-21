@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 21 22:16:49 +0000 2020",
+		"id": 1330188049209299000,
+		"id_str": "1330273991655890944",
+		"full_text": "Rudy is his Al Cowlings https://t.co/5i0hSQcpNn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5i0hSQcpNn",
+					"expanded_url": "https://twitter.com/gtconway3d/status/1330186291137404932",
+					"display_url": "twitter.com/gtconway3d/sta…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58942338,
+			"id_str": "58942338",
+			"name": "Lloyd Grove",
+			"screen_name": "TheLloydGrove",
+			"location": "new york, ny",
+			"description": "Lloyd Grove is editor at large for The Daily Beast.",
+			"url": "http://t.co/YCtAkt3fzP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YCtAkt3fzP",
+							"expanded_url": "http://www.thedailybeast.com/author/lloyd-grove/",
+							"display_url": "thedailybeast.com/author/lloyd-g…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6912,
+			"friends_count": 1242,
+			"listed_count": 274,
+			"created_at": "Tue Jul 21 22:22:06 +0000 2009",
+			"favourites_count": 2336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800460172/DSC_0055_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800460172/DSC_0055_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58942338/1518479437",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5a110d312052166f",
+			"url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+			"place_type": "city",
+			"name": "San Francisco",
+			"full_name": "San Francisco, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.514926,
+							37.708075
+						],
+						[
+							-122.357031,
+							37.708075
+						],
+						[
+							-122.357031,
+							37.833238
+						],
+						[
+							-122.514926,
+							37.833238
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1330186291137405000,
+		"quoted_status_id_str": "1330186291137404932",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5i0hSQcpNn",
+			"expanded": "https://twitter.com/gtconway3d/status/1330186291137404932",
+			"display": "twitter.com/gtconway3d/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 21 16:28:20 +0000 2020",
+			"id": 1330186291137405000,
+			"id_str": "1330186291137404932",
+			"full_text": "This is the \"OJ in the Bronco\" stage of @realDonaldTrump's presidency.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							40,
+							56
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 471677441,
+				"id_str": "471677441",
+				"name": "George Conway",
+				"screen_name": "gtconway3d",
+				"location": "",
+				"description": "Lawyer. Contributing columnist, @WashingtonPost. Co-Founder, @ProjectLincoln. Founding member, @chkbal.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1655841,
+				"friends_count": 1370,
+				"listed_count": 6818,
+				"created_at": "Mon Jan 23 04:23:10 +0000 2012",
+				"favourites_count": 21460,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 72503,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1783627578/image_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1783627578/image_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/471677441/1605452853",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11177,
+			"favorite_count": 98570,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rudy is his Al Cowlings https://t.co/5i0hSQcpNn"
+	},
+	{
 		"created_at": "Sat Nov 21 00:32:38 +0000 2020",
 		"id": 1329945784759033900,
 		"id_str": "1329945784759033856",
