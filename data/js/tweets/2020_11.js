@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 22 15:27:14 +0000 2020",
+		"id": 1330530479318179800,
+		"id_str": "1330533305758982144",
+		"full_text": "57 years ago today, Ted Cruz's family killed JFK\n\n(According to Donald Trump)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 83668232,
+			"id_str": "83668232",
+			"name": "Jesse Ferguson",
+			"screen_name": "JesseFFerguson",
+			"location": "Brooklyn, NY",
+			"description": "Writes his thoughts. Tweets his feelings. \n\nFrm. Deputy National Press Sec & Sr. Spox 4 @HillaryClinton. Prev. DCCC IE Director, DCCC Deputy ED/CommDir. W&M'03",
+			"url": "https://t.co/q9NTzOYu76",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q9NTzOYu76",
+							"expanded_url": "https://www.linkedin.com/in/jesse-ferguson-015625b1/",
+							"display_url": "linkedin.com/in/jesse-fergu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49160,
+			"friends_count": 7803,
+			"listed_count": 718,
+			"created_at": "Mon Oct 19 19:17:22 +0000 2009",
+			"favourites_count": 12839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 66524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090189897/ham-sandwich_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090189897/ham-sandwich_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/83668232/1495203731",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "57 years ago today, Ted Cruz's family killed JFK\n\n(According to Donald Trump)"
+	},
+	{
 		"created_at": "Sat Nov 21 22:16:49 +0000 2020",
 		"id": 1330188049209299000,
 		"id_str": "1330273991655890944",
