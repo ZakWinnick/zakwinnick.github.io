@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 23 21:32:23 +0000 2020",
+		"id": 1330987584428896300,
+		"id_str": "1330987584428896266",
+		"full_text": "Ouch. \n\nHowever, I’m not surprised… https://t.co/Fk9tKkoDgp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fk9tKkoDgp",
+					"expanded_url": "https://twitter.com/AppleTerminal/status/1330984581135142912",
+					"display_url": "twitter.com/AppleTerminal/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 227,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1330984581135143000,
+		"quoted_status_id_str": "1330984581135142912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Fk9tKkoDgp",
+			"expanded": "https://twitter.com/AppleTerminal/status/1330984581135142912",
+			"display": "twitter.com/AppleTerminal/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 23 21:20:27 +0000 2020",
+			"id": 1330984581135143000,
+			"id_str": "1330984581135142912",
+			"full_text": "News:\n\n@Apple's head of security is being accused of bribing police officers with 200 iPads, worth $70,000 in exchange for 4 concealed weapons permits.\n\nhttps://t.co/ih7P6dvz90\n\n#Apple #AppleNews $AAPL https://t.co/bzB0JSHwvg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Apple",
+						"indices": [
+							178,
+							184
+						]
+					},
+					{
+						"text": "AppleNews",
+						"indices": [
+							185,
+							195
+						]
+					}
+				],
+				"symbols": [
+					{
+						"text": "AAPL",
+						"indices": [
+							196,
+							201
+						]
+					}
+				],
+				"user_mentions": [
+					{
+						"screen_name": "Apple",
+						"name": "Apple",
+						"id": 380749300,
+						"id_str": "380749300",
+						"indices": [
+							7,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ih7P6dvz90",
+						"expanded_url": "https://appleterm.com/?p=20101",
+						"display_url": "appleterm.com/?p=20101",
+						"indices": [
+							153,
+							176
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1330984579285405700,
+						"id_str": "1330984579285405697",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/media/EnibbEnUUAECOuN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnibbEnUUAECOuN.jpg",
+						"url": "https://t.co/bzB0JSHwvg",
+						"display_url": "pic.twitter.com/bzB0JSHwvg",
+						"expanded_url": "https://twitter.com/AppleTerminal/status/1330984581135142912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1330984579285405700,
+						"id_str": "1330984579285405697",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/media/EnibbEnUUAECOuN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnibbEnUUAECOuN.jpg",
+						"url": "https://t.co/bzB0JSHwvg",
+						"display_url": "pic.twitter.com/bzB0JSHwvg",
+						"expanded_url": "https://twitter.com/AppleTerminal/status/1330984581135142912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://appleterm.com/\" rel=\"nofollow\">Apple Terminal</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1135468733957386200,
+				"id_str": "1135468733957386240",
+				"name": "Apple Terminal",
+				"screen_name": "AppleTerminal",
+				"location": "",
+				"description": "The most interactive and simplistic Apple news source covering the latest Apple news, leaks, and more. Have an #Apple tip? https://t.co/pnvDqt4fH5",
+				"url": "https://t.co/5rdVAFBKu4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5rdVAFBKu4",
+								"expanded_url": "http://appleterm.com",
+								"display_url": "appleterm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pnvDqt4fH5",
+								"expanded_url": "http://appleterm.com/tips/",
+								"display_url": "appleterm.com/tips/",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22256,
+				"friends_count": 12,
+				"listed_count": 217,
+				"created_at": "Mon Jun 03 08:50:16 +0000 2019",
+				"favourites_count": 92,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9777,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323022026035077121/p5izyQ2m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323022026035077121/p5izyQ2m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135468733957386240/1604268008",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ouch. \n\nHowever, I’m not surprised… https://t.co/Fk9tKkoDgp"
+	},
+	{
 		"created_at": "Mon Nov 23 03:14:16 +0000 2020",
 		"id": 1330711118386442200,
 		"id_str": "1330711236019953665",
