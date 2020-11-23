@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 23 03:14:16 +0000 2020",
+		"id": 1330711118386442200,
+		"id_str": "1330711236019953665",
+		"full_text": "👀 https://t.co/Ys2t3q9Osl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ys2t3q9Osl",
+					"expanded_url": "https://twitter.com/carlbernstein/status/1330710304519405569",
+					"display_url": "twitter.com/carlbernstein/…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3,
+			"friends_count": 558,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1330710304519405600,
+		"quoted_status_id_str": "1330710304519405569",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ys2t3q9Osl",
+			"expanded": "https://twitter.com/carlbernstein/status/1330710304519405569",
+			"display": "twitter.com/carlbernstein/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 23 03:10:34 +0000 2020",
+			"id": 1330710304519405600,
+			"id_str": "1330710304519405569",
+			"full_text": "I'm not violating any pledge of journalistic confidentially in reporting this: 21 Republican Sens–in convos w/ colleagues, staff members, lobbyists, W. House aides–have repeatedly expressed extreme contempt for Trump &amp; his fitness to be POTUS. (1/3)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 755886754180243500,
+				"id_str": "755886754180243456",
+				"name": "Carl Bernstein",
+				"screen_name": "carlbernstein",
+				"location": "New York, NY",
+				"description": "Journalist Carl Bernstein's books include those shown above.",
+				"url": "https://t.co/H9Z3t62G7s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H9Z3t62G7s",
+								"expanded_url": "http://carlbernstein.com",
+								"display_url": "carlbernstein.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 166964,
+				"friends_count": 64,
+				"listed_count": 1421,
+				"created_at": "Wed Jul 20 22:07:00 +0000 2016",
+				"favourites_count": 38,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 99,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756153538066145280/9tmKCfyi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756153538066145280/9tmKCfyi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755886754180243456/1469118842",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 95,
+			"favorite_count": 332,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀 https://t.co/Ys2t3q9Osl"
+	},
+	{
 		"created_at": "Sun Nov 22 19:37:32 +0000 2020",
 		"id": 1330596294885318700,
 		"id_str": "1330596294885318657",
