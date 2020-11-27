@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 27 02:13:10 +0000 2020",
+		"id": 1331768378936189000,
+		"id_str": "1332145408634728448",
+		"full_text": "This rare phenomenon is called \"Baikal Zen\", where rocks lying on the surface of frozen lakes are heated by sunlight that emits infrared rays, melting the ice below. When the sun sets, the ice freezes again, creating these incredible frozen near-impossible structures. https://t.co/KlJI1tbOKT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1331768374259540000,
+					"id_str": "1331768374259539969",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EntkR8bW4AEFI_U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EntkR8bW4AEFI_U.jpg",
+					"url": "https://t.co/KlJI1tbOKT",
+					"display_url": "pic.twitter.com/KlJI1tbOKT",
+					"expanded_url": "https://twitter.com/thegallowboob/status/1331768378936188929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331768374259540000,
+					"id_str": "1331768374259539969",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EntkR8bW4AEFI_U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EntkR8bW4AEFI_U.jpg",
+					"url": "https://t.co/KlJI1tbOKT",
+					"display_url": "pic.twitter.com/KlJI1tbOKT",
+					"expanded_url": "https://twitter.com/thegallowboob/status/1331768378936188929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331768374221803500,
+					"id_str": "1331768374221803524",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EntkR8SXEAQ-pEL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EntkR8SXEAQ-pEL.jpg",
+					"url": "https://t.co/KlJI1tbOKT",
+					"display_url": "pic.twitter.com/KlJI1tbOKT",
+					"expanded_url": "https://twitter.com/thegallowboob/status/1331768378936188929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331768374272143400,
+					"id_str": "1331768374272143361",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EntkR8eXMAEn_2g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EntkR8eXMAEn_2g.jpg",
+					"url": "https://t.co/KlJI1tbOKT",
+					"display_url": "pic.twitter.com/KlJI1tbOKT",
+					"expanded_url": "https://twitter.com/thegallowboob/status/1331768378936188929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 619,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3150201569,
+			"id_str": "3150201569",
+			"name": "Rob N Roll",
+			"screen_name": "thegallowboob",
+			"location": "The moon",
+			"description": "The internet was a mistake 🌍 avi by @thecovatar | 1 follow = 1 dopamine | building great things at @shopify",
+			"url": "https://t.co/kGGi9nQqVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kGGi9nQqVq",
+							"expanded_url": "https://www.instagram.com/thegallowboob/",
+							"display_url": "instagram.com/thegallowboob/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25181,
+			"friends_count": 1358,
+			"listed_count": 108,
+			"created_at": "Thu Apr 09 03:55:47 +0000 2015",
+			"favourites_count": 46579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311523232432914432/Gt_wRtqj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311523232432914432/Gt_wRtqj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3150201569/1601091869",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8307,
+		"favorite_count": 46018,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This rare phenomenon is called \"Baikal Zen\", where rocks lying on the surface of frozen lakes are heated by sunlight that emits infrared rays, melting the ice below. When the sun sets, the ice freezes again, creating these incredible frozen near-impossible structures. https://t.co/KlJI1tbOKT"
+	},
+	{
 		"created_at": "Mon Nov 23 22:24:22 +0000 2020",
 		"id": 1331000668740612000,
 		"id_str": "1331000668740612098",
