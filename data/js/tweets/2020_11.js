@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 28 23:00:10 +0000 2020",
+		"id": 1332821617328664600,
+		"id_str": "1332821617328664577",
+		"full_text": "You absolute cracker. https://t.co/vdSnRyyNDI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vdSnRyyNDI",
+					"expanded_url": "https://twitter.com/MildredVon/status/1330979519100948481",
+					"display_url": "twitter.com/MildredVon/sta…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 229,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1330979519100948500,
+		"quoted_status_id_str": "1330979519100948481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vdSnRyyNDI",
+			"expanded": "https://twitter.com/MildredVon/status/1330979519100948481",
+			"display": "twitter.com/MildredVon/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 23 21:00:20 +0000 2020",
+			"id": 1330979519100948500,
+			"id_str": "1330979519100948481",
+			"full_text": "You absolute burger https://t.co/mTnZP1AeBn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				19
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1330979464302395400,
+						"id_str": "1330979464302395393",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/EniWxV0VgAE8Jl9.png",
+						"media_url_https": "https://pbs.twimg.com/media/EniWxV0VgAE8Jl9.png",
+						"url": "https://t.co/mTnZP1AeBn",
+						"display_url": "pic.twitter.com/mTnZP1AeBn",
+						"expanded_url": "https://twitter.com/MildredVon/status/1330979519100948481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 457,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 995,
+								"h": 669,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 995,
+								"h": 669,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1330979464302395400,
+						"id_str": "1330979464302395393",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/EniWxV0VgAE8Jl9.png",
+						"media_url_https": "https://pbs.twimg.com/media/EniWxV0VgAE8Jl9.png",
+						"url": "https://t.co/mTnZP1AeBn",
+						"display_url": "pic.twitter.com/mTnZP1AeBn",
+						"expanded_url": "https://twitter.com/MildredVon/status/1330979519100948481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 457,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 995,
+								"h": 669,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 995,
+								"h": 669,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 106031916,
+				"id_str": "106031916",
+				"name": "Mildred",
+				"screen_name": "MildredVon",
+				"location": "Downtown LA / London, UK",
+				"description": "Father. Wife. Cousin. Blacksmith. Holder of the Sacred Chalice. Wookie enabler. Travel agent. Leopard. Babysitter.\nFashion/costume design @ https://t.co/SSJhr2VzAN",
+				"url": "https://t.co/uqTn9KBHxT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uqTn9KBHxT",
+								"expanded_url": "http://www.motheroflondon.com",
+								"display_url": "motheroflondon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SSJhr2VzAN",
+								"expanded_url": "http://motheroflondon.com",
+								"display_url": "motheroflondon.com",
+								"indices": [
+									140,
+									163
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2967,
+				"friends_count": 488,
+				"listed_count": 81,
+				"created_at": "Mon Jan 18 08:11:34 +0000 2010",
+				"favourites_count": 58528,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8352,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "12252E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000026468901/c374ffbcfe98648e64ea8e6b1b0bf90f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000026468901/c374ffbcfe98648e64ea8e6b1b0bf90f_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/106031916/1563241958",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 354,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You absolute cracker. https://t.co/vdSnRyyNDI"
+	},
+	{
 		"created_at": "Fri Nov 27 02:13:10 +0000 2020",
 		"id": 1331768378936189000,
 		"id_str": "1332145408634728448",
