@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 29 16:45:18 +0000 2020",
+		"id": 1333089572234805200,
+		"id_str": "1333089665830834176",
+		"full_text": "You heard the man! https://t.co/DGnGVN4DwN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DGnGVN4DwN",
+					"expanded_url": "https://twitter.com/zakwinnick/status/1333087620805648384",
+					"display_url": "twitter.com/zakwinnick/sta…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1234675946080231400,
+			"id_str": "1234675946080231426",
+			"name": "Pocket Rocket App",
+			"screen_name": "pcktrcktapp",
+			"location": "Tokyo-to, Japan",
+			"description": "Never miss another launch. Available on the iOS App Store.  Made by @timisenman, @aaronabentheuer, @kimitalvitie",
+			"url": "https://t.co/YR4v5KZhnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YR4v5KZhnA",
+							"expanded_url": "https://pocketrocket.app",
+							"display_url": "pocketrocket.app",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 882,
+			"friends_count": 82,
+			"listed_count": 7,
+			"created_at": "Tue Mar 03 03:05:03 +0000 2020",
+			"favourites_count": 492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265991582680940544/K2a1E9XL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265991582680940544/K2a1E9XL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1234675946080231426/1587069788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1333087620805648400,
+		"quoted_status_id_str": "1333087620805648384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DGnGVN4DwN",
+			"expanded": "https://twitter.com/zakwinnick/status/1333087620805648384",
+			"display": "twitter.com/zakwinnick/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 29 16:37:11 +0000 2020",
+			"id": 1333087620805648400,
+			"id_str": "1333087620805648384",
+			"full_text": "This app is pretty great. Definitely worth the download!\n\nhttps://t.co/Et2kNaMKWq https://t.co/2AMCOrBXQ7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Et2kNaMKWq",
+						"expanded_url": "https://twitter.com/pcktrcktapp/status/1333011956752547840",
+						"display_url": "twitter.com/pcktrcktapp/st…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1333087582473875500,
+						"id_str": "1333087582473875460",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/EoAUF9_W8AQapOz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoAUF9_W8AQapOz.jpg",
+						"url": "https://t.co/2AMCOrBXQ7",
+						"display_url": "pic.twitter.com/2AMCOrBXQ7",
+						"expanded_url": "https://twitter.com/ZakWinnick/status/1333087620805648384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 947,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1333087582473875500,
+						"id_str": "1333087582473875460",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/EoAUF9_W8AQapOz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoAUF9_W8AQapOz.jpg",
+						"url": "https://t.co/2AMCOrBXQ7",
+						"display_url": "pic.twitter.com/2AMCOrBXQ7",
+						"expanded_url": "https://twitter.com/ZakWinnick/status/1333087620805648384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 947,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9586552,
+				"id_str": "9586552",
+				"name": "Zak Winnick",
+				"screen_name": "ZakWinnick",
+				"location": "Nashville, TN",
+				"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+				"url": "https://t.co/vGZZOYJJCo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vGZZOYJJCo",
+								"expanded_url": "https://ZakWinnick.com",
+								"display_url": "ZakWinnick.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63,
+				"friends_count": 230,
+				"listed_count": 18,
+				"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+				"favourites_count": 168,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9586,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "3F5B66",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+				"profile_link_color": "483D8B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "858080",
+				"profile_text_color": "086660",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1333011956752547800,
+			"quoted_status_id_str": "1333011956752547840",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Et2kNaMKWq",
+				"expanded": "https://twitter.com/pcktrcktapp/status/1333011956752547840",
+				"display": "twitter.com/pcktrcktapp/st…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You heard the man! https://t.co/DGnGVN4DwN"
+	},
+	{
+		"created_at": "Sun Nov 29 16:43:53 +0000 2020",
+		"id": 1333089309256278000,
+		"id_str": "1333089309256278018",
+		"full_text": "@pcktrcktapp Wide open and waiting! Thanks!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pcktrcktapp",
+					"name": "Pocket Rocket App",
+					"id": 1234675946080231400,
+					"id_str": "1234675946080231426",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1333089170143645700,
+		"in_reply_to_status_id_str": "1333089170143645696",
+		"in_reply_to_user_id": 1234675946080231400,
+		"in_reply_to_user_id_str": "1234675946080231426",
+		"in_reply_to_screen_name": "pcktrcktapp",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 230,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pcktrcktapp Wide open and waiting! Thanks!"
+	},
+	{
 		"created_at": "Sat Nov 28 23:00:10 +0000 2020",
 		"id": 1332821617328664600,
 		"id_str": "1332821617328664577",
