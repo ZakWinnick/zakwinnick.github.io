@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 30 11:23:24 +0000 2020",
+		"id": 1333371043638096000,
+		"id_str": "1333371043638095881",
+		"full_text": "Thought this was relevant due to the news of Super Nintendo World opening at USJ in February… https://t.co/QaUb7EdPeD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QaUb7EdPeD",
+					"expanded_url": "https://twitter.com/Kirtaner/status/923029521670041601",
+					"display_url": "twitter.com/Kirtaner/statu…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "15+ Year Veteran Podcaster | Hotel Technology Guru | Amateur Social Media Professional | Host @TraxZax | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 230,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 923029521670041600,
+		"quoted_status_id_str": "923029521670041601",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QaUb7EdPeD",
+			"expanded": "https://twitter.com/Kirtaner/status/923029521670041601",
+			"display": "twitter.com/Kirtaner/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 25 03:32:41 +0000 2017",
+			"id": 923029521670041600,
+			"id_str": "923029521670041601",
+			"full_text": "come one come all, gather around boys and girls for the mythical mario penis https://t.co/YlvmZr60kM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 923029512887025700,
+						"id_str": "923029512887025664",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DM9Cc5jVQAAlBiL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DM9Cc5jVQAAlBiL.jpg",
+						"url": "https://t.co/YlvmZr60kM",
+						"display_url": "pic.twitter.com/YlvmZr60kM",
+						"expanded_url": "https://twitter.com/Kirtaner/status/923029521670041601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 254,
+								"h": 261,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 254,
+								"h": 261,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 254,
+								"h": 261,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 923029512887025700,
+						"id_str": "923029512887025664",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DM9Cc5jVQAAlBiL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DM9Cc5jVQAAlBiL.jpg",
+						"url": "https://t.co/YlvmZr60kM",
+						"display_url": "pic.twitter.com/YlvmZr60kM",
+						"expanded_url": "https://twitter.com/Kirtaner/status/923029521670041601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 254,
+								"h": 261,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 254,
+								"h": 261,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 254,
+								"h": 261,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17864990,
+				"id_str": "17864990",
+				"name": "Ⓐubrey Cottle 🖥🏴‍☠️",
+				"screen_name": "Kirtaner",
+				"location": "Internet, Your Brain, Toronto",
+				"description": "Founder: @420chan, \"Anonymous\", OG Internet Hate Machine. SftEng/InfoSec. Wise internet sleuth; found Mario's penis. I sometimes forgive. I do not forget.",
+				"url": "https://t.co/uBdRgErR8o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uBdRgErR8o",
+								"expanded_url": "https://420chan.org",
+								"display_url": "420chan.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10759,
+				"friends_count": 1087,
+				"listed_count": 60,
+				"created_at": "Thu Dec 04 10:35:08 +0000 2008",
+				"favourites_count": 3172,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 47242,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "202020",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1324262905857122304/QXRZpvME_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324262905857122304/QXRZpvME_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17864990/1598987621",
+				"profile_link_color": "203040",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "81C200",
+				"profile_text_color": "262626",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 967,
+			"favorite_count": 2021,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thought this was relevant due to the news of Super Nintendo World opening at USJ in February… https://t.co/QaUb7EdPeD"
+	},
+	{
 		"created_at": "Sun Nov 29 16:45:18 +0000 2020",
 		"id": 1333089572234805200,
 		"id_str": "1333089665830834176",
