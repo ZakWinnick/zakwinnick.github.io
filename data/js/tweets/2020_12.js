@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 20:26:23 +0000 2020",
+		"id": 1335248705931280400,
+		"id_str": "1335319629565210624",
+		"full_text": "Today would have been Large Marge's 83rd birthday... if it hadn't been for that WRECK!\n\nhttps://t.co/O8kPjXUNyX https://t.co/IHoPAaqOp0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O8kPjXUNyX",
+					"expanded_url": "https://peewee.com/2020/12/05/on-this-day-in-1937-large-marge-was-born-83-years-ago/",
+					"display_url": "peewee.com/2020/12/05/on-…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335247360629198800,
+					"id_str": "1335247360629198848",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EofAZmmU0AAED80.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EofAZmmU0AAED80.jpg",
+					"url": "https://t.co/IHoPAaqOp0",
+					"display_url": "pic.twitter.com/IHoPAaqOp0",
+					"expanded_url": "https://twitter.com/peeweeherman/status/1335248705931280385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 653,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 653,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 653,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335247360629198800,
+					"id_str": "1335247360629198848",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EofAZmmU0AAED80.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EofAZmmU0AAED80.jpg",
+					"url": "https://t.co/IHoPAaqOp0",
+					"display_url": "pic.twitter.com/IHoPAaqOp0",
+					"expanded_url": "https://twitter.com/peeweeherman/status/1335248705931280385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 653,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 653,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 653,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41073372,
+			"id_str": "41073372",
+			"name": "Pee-wee Herman",
+			"screen_name": "peeweeherman",
+			"location": "Los Angeles",
+			"description": "I'm a loner, Dottie. A rebel.",
+			"url": "https://t.co/qWpLkshJ48",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qWpLkshJ48",
+							"expanded_url": "http://www.peewee.com",
+							"display_url": "peewee.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2121961,
+			"friends_count": 335,
+			"listed_count": 13488,
+			"created_at": "Tue May 19 07:17:31 +0000 2009",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/362060137/Pee-wee_Twitter_Profile_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/362060137/Pee-wee_Twitter_Profile_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41073372/1604508454",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FF0000",
+			"profile_sidebar_fill_color": "E3E3DF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3849,
+		"favorite_count": 17885,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today would have been Large Marge's 83rd birthday... if it hadn't been for that WRECK!\n\nhttps://t.co/O8kPjXUNyX https://t.co/IHoPAaqOp0"
+	},
+	{
 		"created_at": "Wed Dec 02 02:16:54 +0000 2020",
 		"id": 1333958289793708000,
 		"id_str": "1333958289793708032",
