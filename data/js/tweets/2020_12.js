@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 19:12:10 +0000 2020",
+		"id": 1336377456136216600,
+		"id_str": "1336388117499142153",
+		"full_text": "I'm giving $10,000 to someone random who retweets this tweet in the next 24 hours because its Christmastime and I feel like being generous😊 (must be following me so I can dm you if you win! Will post proof!)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25029495,
+			"id_str": "25029495",
+			"name": "Pulte",
+			"screen_name": "pulte",
+			"location": "Love",
+			"description": "The Philanthropist. Inventor of Twitter Philanthropy. Giving Money, Food, and Rent to People In Need.",
+			"url": "https://t.co/MhU1SYzgKq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MhU1SYzgKq",
+							"expanded_url": "http://Pulte.org",
+							"display_url": "Pulte.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3033860,
+			"friends_count": 296,
+			"listed_count": 1268,
+			"created_at": "Wed Mar 18 04:44:13 +0000 2009",
+			"favourites_count": 11628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228391693780766720/F06kNywK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228391693780766720/F06kNywK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25029495/1572823848",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93368,
+		"favorite_count": 47768,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm giving $10,000 to someone random who retweets this tweet in the next 24 hours because its Christmastime and I feel like being generous😊 (must be following me so I can dm you if you win! Will post proof!)"
+	},
+	{
 		"created_at": "Sun Dec 06 19:25:09 +0000 2020",
 		"id": 1335666610108043300,
 		"id_str": "1335666610108043272",
