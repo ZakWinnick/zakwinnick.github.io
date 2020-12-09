@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 21:30:35 +0000 2020",
+		"id": 1336781115605065700,
+		"id_str": "1336785339155959808",
+		"full_text": "Tennessee residents are struggling to pay bills, small businesses are closing, COVID is raging out of control, and our hospitals are overflowing,  yet @GovBillLee is wasting resources on this frivolous lawsuit that’s meant to lend support for autocracy. 🤦‍♀️ https://t.co/hCmbm3FC52",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GovBillLee",
+					"name": "Gov. Bill Lee",
+					"id": 1084924525232513000,
+					"id_str": "1084924525232513025",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hCmbm3FC52",
+					"expanded_url": "https://twitter.com/bradheath/status/1336763665580765187",
+					"display_url": "twitter.com/bradheath/stat…",
+					"indices": [
+						259,
+						282
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20278830,
+			"id_str": "20278830",
+			"name": "Gail Helt",
+			"screen_name": "ghelt",
+			"location": "Tennessee, USA",
+			"description": "CIA analyst, 2003-14. member, @thesteadystate3; Human Rights. China. My tweets reflect only my views, not those of my employer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3804,
+			"friends_count": 801,
+			"listed_count": 40,
+			"created_at": "Fri Feb 06 22:35:20 +0000 2009",
+			"favourites_count": 36001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329978100537548800/kxTBsdej_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329978100537548800/kxTBsdej_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20278830/1597607894",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336763665580765200,
+		"quoted_status_id_str": "1336763665580765187",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hCmbm3FC52",
+			"expanded": "https://twitter.com/bradheath/status/1336763665580765187",
+			"display": "twitter.com/bradheath/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 09 20:04:28 +0000 2020",
+			"id": 1336763665580765200,
+			"id_str": "1336763665580765187",
+			"full_text": "Seventeen states filed a brief in the Supreme Court just now in support of Texas' request that the justices throw out the results of the presidential election in four other states that didn't support President Trump. https://t.co/1sldfhrkbl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1336763452891795500,
+						"id_str": "1336763452891795457",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo0jRyZXEAEUglt.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eo0jRyZXEAEUglt.png",
+						"url": "https://t.co/1sldfhrkbl",
+						"display_url": "pic.twitter.com/1sldfhrkbl",
+						"expanded_url": "https://twitter.com/bradheath/status/1336763665580765187/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 809,
+								"h": 757,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 809,
+								"h": 757,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 636,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1336763452891795500,
+						"id_str": "1336763452891795457",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo0jRyZXEAEUglt.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eo0jRyZXEAEUglt.png",
+						"url": "https://t.co/1sldfhrkbl",
+						"display_url": "pic.twitter.com/1sldfhrkbl",
+						"expanded_url": "https://twitter.com/bradheath/status/1336763665580765187/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 809,
+								"h": 757,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 809,
+								"h": 757,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 636,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14362404,
+				"id_str": "14362404",
+				"name": "Brad Heath",
+				"screen_name": "bradheath",
+				"location": "Washington",
+				"description": "DC reporter for @reuters on crime and justice. Ex-@usatoday. \n\nData, documents and \"convoluted KGB style back-door\" stuff. \n\n202-527-9709, brad.heath@tr.com",
+				"url": "https://t.co/4PolW6u8mZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4PolW6u8mZ",
+								"expanded_url": "http://bradheath.org/contact",
+								"display_url": "bradheath.org/contact",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 114048,
+				"friends_count": 1208,
+				"listed_count": 2066,
+				"created_at": "Fri Apr 11 16:45:09 +0000 2008",
+				"favourites_count": 5907,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 42713,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1058483170667040768/PjNCtHgg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058483170667040768/PjNCtHgg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14362404/1607211416",
+				"profile_link_color": "336699",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1833,
+			"favorite_count": 3942,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tennessee residents are struggling to pay bills, small businesses are closing, COVID is raging out of control, and our hospitals are overflowing,  yet @GovBillLee is wasting resources on this frivolous lawsuit that’s meant to lend support for autocracy. 🤦‍♀️ https://t.co/hCmbm3FC52"
+	},
+	{
 		"created_at": "Tue Dec 08 19:12:10 +0000 2020",
 		"id": 1336377456136216600,
 		"id_str": "1336388117499142153",
