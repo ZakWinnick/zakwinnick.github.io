@@ -1,10 +1,217 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 10 13:13:54 +0000 2020",
+		"id": 1337022732974878700,
+		"id_str": "1337022732974878720",
+		"full_text": "But will it have Taptic Feedback? https://t.co/KHsmCye1EY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KHsmCye1EY",
+					"expanded_url": "https://twitter.com/timothycookothy/status/1336909371780046850",
+					"display_url": "twitter.com/timothycookoth…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61,
+			"friends_count": 238,
+			"listed_count": 0,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336909371780046800,
+		"quoted_status_id_str": "1336909371780046850",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KHsmCye1EY",
+			"expanded": "https://twitter.com/timothycookothy/status/1336909371780046850",
+			"display": "twitter.com/timothycookoth…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 10 05:43:27 +0000 2020",
+			"id": 1336909371780046800,
+			"id_str": "1336909371780046850",
+			"full_text": "When the Apple Car comes out, you’ll have to steer it with a Digital Crown.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				75
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1100298347578097700,
+				"id_str": "1100298347578097664",
+				"name": "Tim Cook Parody",
+				"screen_name": "TimothyCookothy",
+				"location": "Cupertino, CA",
+				"description": "This is a parody account that is not affiliated with Tim Cook or Apple.",
+				"url": "https://t.co/ObwbZFxC2C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ObwbZFxC2C",
+								"expanded_url": "http://instagram.com/timothycookothy",
+								"display_url": "instagram.com/timothycookothy",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10221,
+				"friends_count": 1,
+				"listed_count": 34,
+				"created_at": "Tue Feb 26 07:35:43 +0000 2019",
+				"favourites_count": 179,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1081,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1238650649123999747/x4d5pVzM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238650649123999747/x4d5pVzM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1100298347578097664/1551279195",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 238,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "But will it have Taptic Feedback? https://t.co/KHsmCye1EY"
+	},
+	{
 		"created_at": "Wed Dec 09 21:30:35 +0000 2020",
 		"id": 1336781115605065700,
 		"id_str": "1336785339155959808",
-		"full_text": "Tennessee residents are struggling to pay bills, small businesses are closing, COVID is raging out of control, and our hospitals are overflowing,  yet @GovBillLee is wasting resources on this frivolous lawsuit that’s meant to lend support for autocracy. 🤦‍♀️ https://t.co/hCmbm3FC52",
+		"full_text": "Tennessee residents are struggling to pay bills, small businesses are closing, COVID is raging out of control, and our hospitals are overflowing,  yet @GovBillLee is wasting resources on this frivolous lawsuit that’s meant to lend support for autocracy. 🤦♀️ https://t.co/hCmbm3FC52",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -282,7 +489,7 @@ Grailbird.data.tweets_2020_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Tennessee residents are struggling to pay bills, small businesses are closing, COVID is raging out of control, and our hospitals are overflowing,  yet @GovBillLee is wasting resources on this frivolous lawsuit that’s meant to lend support for autocracy. 🤦‍♀️ https://t.co/hCmbm3FC52"
+		"text": "Tennessee residents are struggling to pay bills, small businesses are closing, COVID is raging out of control, and our hospitals are overflowing,  yet @GovBillLee is wasting resources on this frivolous lawsuit that’s meant to lend support for autocracy. 🤦♀️ https://t.co/hCmbm3FC52"
 	},
 	{
 		"created_at": "Tue Dec 08 19:12:10 +0000 2020",
