@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 12 20:12:57 +0000 2020",
+		"id": 1337852965172998100,
+		"id_str": "1337852965172998144",
+		"full_text": "Omicron Persi 8 would be a good place to start… https://t.co/UE55BGjWlh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UE55BGjWlh",
+					"expanded_url": "https://twitter.com/john_sipher/status/1337851106010030087",
+					"display_url": "twitter.com/john_sipher/st…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 239,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337851106010030000,
+		"quoted_status_id_str": "1337851106010030087",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UE55BGjWlh",
+			"expanded": "https://twitter.com/john_sipher/status/1337851106010030087",
+			"display": "twitter.com/john_sipher/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 12 20:05:34 +0000 2020",
+			"id": 1337851106010030000,
+			"id_str": "1337851106010030087",
+			"full_text": "Trump Orders Space Force to Discover Other Planets with Courts | The New Yorker https://t.co/xyFMLETv8Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xyFMLETv8Q",
+						"expanded_url": "https://www.newyorker.com/humor/borowitz-report/trump-orders-space-force-to-discover-other-planets-with-courts",
+						"display_url": "newyorker.com/humor/borowitz…",
+						"indices": [
+							80,
+							103
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 884578187392544800,
+				"id_str": "884578187392544769",
+				"name": "John Sipher",
+				"screen_name": "john_sipher",
+				"location": "Washington, DC",
+				"description": "Former CIA Clandestine Service. Now @SpycraftEnt, @AtlanticCouncil, @ProjectLincoln. Sometimes writes. Good Father, Decent Husband and Excellent dog owner.",
+				"url": "https://t.co/QyXU1LsM9X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QyXU1LsM9X",
+								"expanded_url": "https://www.linkedin.com/in/john-sipher-93a41382/",
+								"display_url": "linkedin.com/in/john-sipher…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 199158,
+				"friends_count": 2106,
+				"listed_count": 1497,
+				"created_at": "Tue Jul 11 01:00:49 +0000 2017",
+				"favourites_count": 152640,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46666,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/884580730977779713/RieXXtDM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884580730977779713/RieXXtDM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/884578187392544769/1550423942",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 162,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Omicron Persi 8 would be a good place to start… https://t.co/UE55BGjWlh"
+	},
+	{
 		"created_at": "Sat Dec 12 18:03:48 +0000 2020",
 		"id": 1337820463532273700,
 		"id_str": "1337820463532273664",
