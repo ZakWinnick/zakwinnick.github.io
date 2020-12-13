@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 13 01:00:30 +0000 2020",
+		"id": 1337925328530976800,
+		"id_str": "1337925328530976768",
+		"full_text": "Holy shit...this thread is amazing. Let’s hope he walks the walk that he’s talking.... https://t.co/GZ1A9UcxfM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GZ1A9UcxfM",
+					"expanded_url": "https://twitter.com/georgegascon/status/1336050937597554688",
+					"display_url": "twitter.com/georgegascon/s…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 239,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336050937597554700,
+		"quoted_status_id_str": "1336050937597554688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GZ1A9UcxfM",
+			"expanded": "https://twitter.com/georgegascon/status/1336050937597554688",
+			"display": "twitter.com/georgegascon/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 07 20:52:20 +0000 2020",
+			"id": 1336050937597554700,
+			"id_str": "1336050937597554688",
+			"full_text": "40 years ago I walked my first beat as a young police officer. \n\nToday, I was sworn in as the 43rd District Attorney of Los Angeles. https://t.co/6pkjGgleQY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1336042763310092300,
+						"id_str": "1336042763310092288",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/media/EoqT0IfUUAADC0n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoqT0IfUUAADC0n.jpg",
+						"url": "https://t.co/6pkjGgleQY",
+						"display_url": "pic.twitter.com/6pkjGgleQY",
+						"expanded_url": "https://twitter.com/GeorgeGascon/status/1336050937597554688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1952,
+								"h": 1266,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 441,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 778,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1336042763310092300,
+						"id_str": "1336042763310092288",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/media/EoqT0IfUUAADC0n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoqT0IfUUAADC0n.jpg",
+						"url": "https://t.co/6pkjGgleQY",
+						"display_url": "pic.twitter.com/6pkjGgleQY",
+						"expanded_url": "https://twitter.com/GeorgeGascon/status/1336050937597554688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1952,
+								"h": 1266,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 441,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 778,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322937211,
+				"id_str": "322937211",
+				"name": "George Gascón",
+				"screen_name": "GeorgeGascon",
+				"location": "Los Angeles",
+				"description": "Los Angeles County District Attorney. I've spent my life working to make our justice system work for everyone, not just the wealthy & well connected.",
+				"url": "https://t.co/fKKRWzMK34",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fKKRWzMK34",
+								"expanded_url": "http://georgegascon.org",
+								"display_url": "georgegascon.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22062,
+				"friends_count": 2975,
+				"listed_count": 229,
+				"created_at": "Fri Jun 24 00:19:27 +0000 2011",
+				"favourites_count": 3944,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3811,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9DCFE8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1188818033667502080/EcA6mbpY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188818033667502080/EcA6mbpY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322937211/1607552160",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1292,
+			"favorite_count": 9150,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Holy shit...this thread is amazing. Let’s hope he walks the walk that he’s talking.... https://t.co/GZ1A9UcxfM"
+	},
+	{
 		"created_at": "Sat Dec 12 20:24:25 +0000 2020",
 		"id": 1337855848362750000,
 		"id_str": "1337855848362749953",
