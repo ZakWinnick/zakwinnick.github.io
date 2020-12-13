@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 13 19:48:16 +0000 2020",
+		"id": 1338209142432034800,
+		"id_str": "1338209142432034820",
+		"full_text": "😯 https://t.co/2W7xOoEtMY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2W7xOoEtMY",
+					"expanded_url": "https://twitter.com/halidecamera/status/1338198533900419076",
+					"display_url": "twitter.com/halidecamera/s…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 239,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338198533900419000,
+		"quoted_status_id_str": "1338198533900419076",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2W7xOoEtMY",
+			"expanded": "https://twitter.com/halidecamera/status/1338198533900419076",
+			"display": "twitter.com/halidecamera/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 13 19:06:07 +0000 2020",
+			"id": 1338198533900419000,
+			"id_str": "1338198533900419076",
+			"full_text": "Shadow recovery on a ProRAW shot taken with the latest Halide beta. \n\nThis is just... wow. https://t.co/ti03Js2C5n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1338198531014684700,
+						"id_str": "1338198531014684672",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EpI8eVAUcAANsWG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpI8eVAUcAANsWG.jpg",
+						"url": "https://t.co/ti03Js2C5n",
+						"display_url": "pic.twitter.com/ti03Js2C5n",
+						"expanded_url": "https://twitter.com/halidecamera/status/1338198533900419076/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1338198531014684700,
+						"id_str": "1338198531014684672",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EpI8eVAUcAANsWG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpI8eVAUcAANsWG.jpg",
+						"url": "https://t.co/ti03Js2C5n",
+						"display_url": "pic.twitter.com/ti03Js2C5n",
+						"expanded_url": "https://twitter.com/halidecamera/status/1338198533900419076/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1338198531010515000,
+						"id_str": "1338198531010514944",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EpI8eU_U0AAsIyW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpI8eU_U0AAsIyW.jpg",
+						"url": "https://t.co/ti03Js2C5n",
+						"display_url": "pic.twitter.com/ti03Js2C5n",
+						"expanded_url": "https://twitter.com/halidecamera/status/1338198533900419076/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 834400338312564700,
+				"id_str": "834400338312564736",
+				"name": "Halide",
+				"screen_name": "halidecamera",
+				"location": "",
+				"description": "Halide Mark II is here. The most powerful iPhone camera. A total redesign. The best pro tools with XDR. 50+ new features.\nFor support email: support@halide.cam",
+				"url": "https://t.co/0GvjWP4mEp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0GvjWP4mEp",
+								"expanded_url": "http://halide.cam/download",
+								"display_url": "halide.cam/download",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13957,
+				"friends_count": 3,
+				"listed_count": 351,
+				"created_at": "Wed Feb 22 13:51:57 +0000 2017",
+				"favourites_count": 11226,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4800,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1318675230185811970/LBrvesB3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318675230185811970/LBrvesB3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/834400338312564736/1603395310",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 525,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😯 https://t.co/2W7xOoEtMY"
+	},
+	{
 		"created_at": "Sun Dec 13 01:00:30 +0000 2020",
 		"id": 1337925328530976800,
 		"id_str": "1337925328530976768",
