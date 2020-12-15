@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 20:33:19 +0000 2020",
+		"id": 1338945252804194300,
+		"id_str": "1338945252804194306",
+		"full_text": "Uh…that’s not how that works. https://t.co/DUMLtSXdNl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DUMLtSXdNl",
+					"expanded_url": "https://twitter.com/guypbenson/status/1338933640257024003",
+					"display_url": "twitter.com/guypbenson/sta…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 241,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338933640257024000,
+		"quoted_status_id_str": "1338933640257024003",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DUMLtSXdNl",
+			"expanded": "https://twitter.com/guypbenson/status/1338933640257024003",
+			"display": "twitter.com/guypbenson/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 15 19:47:10 +0000 2020",
+			"id": 1338933640257024000,
+			"id_str": "1338933640257024003",
+			"full_text": "Thomas Jefferson canceled in Northern Virginia, now Abe Lincoln canceled in San Francisco. \n\nReminder: This man *freed the slaves.* \n\nMadness has momentum. https://t.co/3eMwrUZr3W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				155
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1338933636356317200,
+						"id_str": "1338933636356317184",
+						"indices": [
+							156,
+							179
+						],
+						"media_url": "http://pbs.twimg.com/media/EpTZDFzXIAAwMSa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpTZDFzXIAAwMSa.jpg",
+						"url": "https://t.co/3eMwrUZr3W",
+						"display_url": "pic.twitter.com/3eMwrUZr3W",
+						"expanded_url": "https://twitter.com/guypbenson/status/1338933640257024003/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 672,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 672,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 609,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1338933636356317200,
+						"id_str": "1338933636356317184",
+						"indices": [
+							156,
+							179
+						],
+						"media_url": "http://pbs.twimg.com/media/EpTZDFzXIAAwMSa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpTZDFzXIAAwMSa.jpg",
+						"url": "https://t.co/3eMwrUZr3W",
+						"display_url": "pic.twitter.com/3eMwrUZr3W",
+						"expanded_url": "https://twitter.com/guypbenson/status/1338933640257024003/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 672,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 672,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 609,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16193222,
+				"id_str": "16193222",
+				"name": "Guy Benson",
+				"screen_name": "guypbenson",
+				"location": "Washington, DC",
+				"description": "Political editor of @townhallcom, @FoxNews contributor, @GuyBensonShow (M-F, 3-6pm ET) host, ‘End of Discussion' co-author, @NorthwesternU alum. 🇺🇸",
+				"url": "https://t.co/pZIPV0MgAI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pZIPV0MgAI",
+								"expanded_url": "http://www.GuyBensonShow.com",
+								"display_url": "GuyBensonShow.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 256333,
+				"friends_count": 603,
+				"listed_count": 2689,
+				"created_at": "Mon Sep 08 22:20:41 +0000 2008",
+				"favourites_count": 48155,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 117508,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1314254515856715778/P-t1xVC5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314254515856715778/P-t1xVC5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16193222/1601617674",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 436,
+			"favorite_count": 1408,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Uh…that’s not how that works. https://t.co/DUMLtSXdNl"
+	},
+	{
 		"created_at": "Tue Dec 15 00:50:39 +0000 2020",
 		"id": 1338641207191367700,
 		"id_str": "1338647625382457346",
