@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 00:48:31 +0000 2020",
+		"id": 1340096641517367300,
+		"id_str": "1340096641517367297",
+		"full_text": "@jewy17 @ThemedReality @Ryanthemepark @UniStudios Of course! Best laid plans and all...",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jewy17",
+					"name": "joey mandel",
+					"id": 190771734,
+					"id_str": "190771734",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "ThemedReality",
+					"name": "Joe Kleiman",
+					"id": 47574582,
+					"id_str": "47574582",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"screen_name": "Ryanthemepark",
+					"name": "RyanTheme Park",
+					"id": 391413280,
+					"id_str": "391413280",
+					"indices": [
+						23,
+						37
+					]
+				},
+				{
+					"screen_name": "UniStudios",
+					"name": "Universal Studios Hollywood",
+					"id": 33578424,
+					"id_str": "33578424",
+					"indices": [
+						38,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1340096442250084400,
+		"in_reply_to_status_id_str": "1340096442250084352",
+		"in_reply_to_user_id": 190771734,
+		"in_reply_to_user_id_str": "190771734",
+		"in_reply_to_screen_name": "jewy17",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 247,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jewy17 @ThemedReality @Ryanthemepark @UniStudios Of course! Best laid plans and all..."
+	},
+	{
+		"created_at": "Sat Dec 19 00:44:48 +0000 2020",
+		"id": 1340095705109676000,
+		"id_str": "1340095705109676034",
+		"full_text": "@jewy17 @ThemedReality @Ryanthemepark @UniStudios Also, true story...that building was the original design for the ride in Florida, but it was cheaper to go with the box.",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jewy17",
+					"name": "joey mandel",
+					"id": 190771734,
+					"id_str": "190771734",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "ThemedReality",
+					"name": "Joe Kleiman",
+					"id": 47574582,
+					"id_str": "47574582",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"screen_name": "Ryanthemepark",
+					"name": "RyanTheme Park",
+					"id": 391413280,
+					"id_str": "391413280",
+					"indices": [
+						23,
+						37
+					]
+				},
+				{
+					"screen_name": "UniStudios",
+					"name": "Universal Studios Hollywood",
+					"id": 33578424,
+					"id_str": "33578424",
+					"indices": [
+						38,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1340095423852273700,
+		"in_reply_to_status_id_str": "1340095423852273664",
+		"in_reply_to_user_id": 9586552,
+		"in_reply_to_user_id_str": "9586552",
+		"in_reply_to_screen_name": "ZakWinnick",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 247,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jewy17 @ThemedReality @Ryanthemepark @UniStudios Also, true story...that building was the original design for the ride in Florida, but it was cheaper to go with the box."
+	},
+	{
 		"created_at": "Fri Dec 18 23:33:29 +0000 2020",
 		"id": 1340064685094101000,
 		"id_str": "1340077755719933956",
