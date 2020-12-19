@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 17:10:22 +0000 2020",
+		"id": 1340334726289256400,
+		"id_str": "1340343730356637696",
+		"full_text": "WTF is this!? 👇🏽 https://t.co/nYtVXodjsR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340334722216554500,
+					"id_str": "1340334722216554497",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EpnTVBXW8AEORjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpnTVBXW8AEORjA.jpg",
+					"url": "https://t.co/nYtVXodjsR",
+					"display_url": "pic.twitter.com/nYtVXodjsR",
+					"expanded_url": "https://twitter.com/miblogestublog/status/1340334726289256449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 354,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 615,
+							"h": 1181,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 615,
+							"h": 1181,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340334722216554500,
+					"id_str": "1340334722216554497",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EpnTVBXW8AEORjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpnTVBXW8AEORjA.jpg",
+					"url": "https://t.co/nYtVXodjsR",
+					"display_url": "pic.twitter.com/nYtVXodjsR",
+					"expanded_url": "https://twitter.com/miblogestublog/status/1340334726289256449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 354,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 615,
+							"h": 1181,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 615,
+							"h": 1181,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20183596,
+			"id_str": "20183596",
+			"name": "Laura Martínez®",
+			"screen_name": "miblogestublog",
+			"location": "NYC / CDMX / NEW PALTZ",
+			"description": "Professional Mexican and taco enthusiast. Opinions are mine, and not those of the @nytimes because I don't work there.",
+			"url": "https://t.co/X6gFqu1636",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X6gFqu1636",
+							"expanded_url": "https://miblogestublog.com/about/",
+							"display_url": "miblogestublog.com/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26858,
+			"friends_count": 1526,
+			"listed_count": 303,
+			"created_at": "Thu Feb 05 20:25:19 +0000 2009",
+			"favourites_count": 69727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331653770183385088/bmk2eyng_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331653770183385088/bmk2eyng_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20183596/1502984145",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WTF is this!? 👇🏽 https://t.co/nYtVXodjsR"
+	},
+	{
 		"created_at": "Sat Dec 19 00:48:31 +0000 2020",
 		"id": 1340096641517367300,
 		"id_str": "1340096641517367297",
