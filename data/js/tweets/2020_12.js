@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 20 04:10:26 +0000 2020",
+		"id": 1340509841241071600,
+		"id_str": "1340509841241071616",
+		"full_text": "Agreed. \n\nHow many of your fellow State Senators will follow your lead, @JasonLPowell? \n\nHopefully, @BillLeeTN will get his mouth off of Trump’s butthole long enough to actually do this… https://t.co/NWJxp5apuF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasonLPowell",
+					"name": "Jason Powell",
+					"id": 41152962,
+					"id_str": "41152962",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"screen_name": "BillLeeTN",
+					"name": "Bill Lee",
+					"id": 823248562851037200,
+					"id_str": "823248562851037185",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NWJxp5apuF",
+					"expanded_url": "https://twitter.com/JasonLPowell/status/1340503002784948226",
+					"display_url": "twitter.com/JasonLPowell/s…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 247,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1340503002784948200,
+		"quoted_status_id_str": "1340503002784948226",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NWJxp5apuF",
+			"expanded": "https://twitter.com/JasonLPowell/status/1340503002784948226",
+			"display": "twitter.com/JasonLPowell/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 20 03:43:15 +0000 2020",
+			"id": 1340503002784948200,
+			"id_str": "1340503002784948226",
+			"full_text": "The fact is Tennessee is the leading state / nation for COVID-19 in the world. Tomorrow night @BillLeeTN needs to issue a statewide mask mandate. If our governor fails to finally do this then he should resign.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BillLeeTN",
+						"name": "Bill Lee",
+						"id": 823248562851037200,
+						"id_str": "823248562851037185",
+						"indices": [
+							94,
+							104
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41152962,
+				"id_str": "41152962",
+				"name": "Jason Powell",
+				"screen_name": "JasonLPowell",
+				"location": "Nashville, TN",
+				"description": "husband & father_ TN State Representative District 53_real estate_entrepreneur_small biz owner_polymath_Nashville TN politics_CU Buffs footballer_runner_swimmer",
+				"url": "https://t.co/I2RRydMPrz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I2RRydMPrz",
+								"expanded_url": "http://powellfortennessee.com",
+								"display_url": "powellfortennessee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3839,
+				"friends_count": 790,
+				"listed_count": 95,
+				"created_at": "Tue May 19 16:42:38 +0000 2009",
+				"favourites_count": 1922,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2065,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000309187089/2ec30bb356f848f6a045073c5e3459c1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000309187089/2ec30bb356f848f6a045073c5e3459c1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41152962/1376682523",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 92,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Agreed. \n\nHow many of your fellow State Senators will follow your lead, @JasonLPowell? \n\nHopefully, @BillLeeTN will get his mouth off of Trump’s butthole long enough to actually do this… https://t.co/NWJxp5apuF"
+	},
+	{
 		"created_at": "Sat Dec 19 17:10:22 +0000 2020",
 		"id": 1340334726289256400,
 		"id_str": "1340343730356637696",
