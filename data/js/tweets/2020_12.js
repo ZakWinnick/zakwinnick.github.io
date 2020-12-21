@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 01:48:40 +0000 2020",
+		"id": 1340836551949992000,
+		"id_str": "1340836551949991941",
+		"full_text": "This is what you get when you put the HVAC guy in charge of the State…a bunch of hot air. \n\n#RecallBillLee https://t.co/qKebrnBXIr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RecallBillLee",
+					"indices": [
+						92,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qKebrnBXIr",
+					"expanded_url": "https://twitter.com/natalie_allison/status/1340823344623575041",
+					"display_url": "twitter.com/natalie_alliso…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 248,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1340823344623575000,
+		"quoted_status_id_str": "1340823344623575041",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qKebrnBXIr",
+			"expanded": "https://twitter.com/natalie_allison/status/1340823344623575041",
+			"display": "twitter.com/natalie_alliso…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 21 00:56:11 +0000 2020",
+			"id": 1340823344623575000,
+			"id_str": "1340823344623575041",
+			"full_text": "NEW: @GovBillLee will NOT announce a mask mandate during tonight's address, instead opting to limit social gatherings to 10 people. Does not apply to home or church. https://t.co/xqAVHPXMui",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GovBillLee",
+						"name": "Gov. Bill Lee",
+						"id": 1084924525232513000,
+						"id_str": "1084924525232513025",
+						"indices": [
+							5,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xqAVHPXMui",
+						"expanded_url": "https://www.tennessean.com/story/news/politics/2020/12/20/tennessee-mask-mandate-covid-19-cases-surge-bill-lee/3977135001/",
+						"display_url": "tennessean.com/story/news/pol…",
+						"indices": [
+							166,
+							189
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38026753,
+				"id_str": "38026753",
+				"name": "Natalie Allison",
+				"screen_name": "natalie_allison",
+				"location": "Nashville, TN",
+				"description": "Reporting on state politics for @Tennessean / @USATODAY network. North Carolinian. Hit me up: nallison@tennessean.com.",
+				"url": "https://t.co/vEOwaV1lbd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vEOwaV1lbd",
+								"expanded_url": "http://tennessean.com",
+								"display_url": "tennessean.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17290,
+				"friends_count": 1345,
+				"listed_count": 400,
+				"created_at": "Tue May 05 21:34:24 +0000 2009",
+				"favourites_count": 40292,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21215,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C1DCDE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931727147911090176/cBHY7rOT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931727147911090176/cBHY7rOT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38026753/1602012761",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 122,
+			"favorite_count": 131,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what you get when you put the HVAC guy in charge of the State…a bunch of hot air. \n\n#RecallBillLee https://t.co/qKebrnBXIr"
+	},
+	{
 		"created_at": "Sun Dec 20 04:10:26 +0000 2020",
 		"id": 1340509841241071600,
 		"id_str": "1340509841241071616",
