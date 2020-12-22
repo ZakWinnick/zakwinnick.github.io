@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 19:20:18 +0000 2020",
+		"id": 1341463544844472300,
+		"id_str": "1341463595410989059",
+		"full_text": "That’s not how this works…\n\nBiden isn’t president for another 29 days, and he hasn’t even picked an AG candidate. https://t.co/b9iQ1BLKDb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b9iQ1BLKDb",
+					"expanded_url": "https://twitter.com/RudyGiuliani/status/1341418729100423169",
+					"display_url": "twitter.com/RudyGiuliani/s…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3,
+			"friends_count": 594,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1341418729100423200,
+		"quoted_status_id_str": "1341418729100423169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b9iQ1BLKDb",
+			"expanded": "https://twitter.com/RudyGiuliani/status/1341418729100423169",
+			"display": "twitter.com/RudyGiuliani/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 22 16:22:02 +0000 2020",
+			"id": 1341418729100423200,
+			"id_str": "1341418729100423169",
+			"full_text": "I’m proud to be number one on Biden Vindictive government list.\n\nSounds like the DOJ anti-Trumpers can't wait for Biden to make DOJ the GOVERNMENT Secret Police like they were under Obama.\n\nThey want to seize my emails.\n\nNo reason\n\nNo wrongdoing \n \nAttorney-Client privilege.?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 770781940341289000,
+				"id_str": "770781940341288960",
+				"name": "Rudy W. Giuliani",
+				"screen_name": "RudyGiuliani",
+				"location": "New York, NY",
+				"description": "Listen to the Common Sense podcast through the link below. 🇺🇸",
+				"url": "https://t.co/oCTUJ0ZiFb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oCTUJ0ZiFb",
+								"expanded_url": "http://RudyGiulianiCS.com",
+								"display_url": "RudyGiulianiCS.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1329259,
+				"friends_count": 546,
+				"listed_count": 4575,
+				"created_at": "Wed Aug 31 00:35:10 +0000 2016",
+				"favourites_count": 3044,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3277,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1225153508963487744/vJ3PwX5y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225153508963487744/vJ3PwX5y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/770781940341288960/1580934833",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01fbe706f872cb32",
+				"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+				"place_type": "city",
+				"name": "Washington",
+				"full_name": "Washington, DC",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-77.119401,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.9953797
+							],
+							[
+								-77.119401,
+								38.9953797
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12746,
+			"favorite_count": 42944,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That’s not how this works…\n\nBiden isn’t president for another 29 days, and he hasn’t even picked an AG candidate. https://t.co/b9iQ1BLKDb"
+	},
+	{
 		"created_at": "Tue Dec 22 19:11:57 +0000 2020",
 		"id": 1341461427484299300,
 		"id_str": "1341461493083238400",
