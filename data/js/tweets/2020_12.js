@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 11:25:32 +0000 2020",
+		"id": 1341344113963233300,
+		"id_str": "1341344113963233280",
+		"full_text": "Looks like @McDonalds has declared war on China… https://t.co/d8vXlhkSCo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "McDonalds",
+					"name": "McDonald's",
+					"id": 71026122,
+					"id_str": "71026122",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d8vXlhkSCo",
+					"expanded_url": "https://twitter.com/TravelLeisure/status/1341265755191595009",
+					"display_url": "twitter.com/TravelLeisure/…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 248,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1341265755191595000,
+		"quoted_status_id_str": "1341265755191595009",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d8vXlhkSCo",
+			"expanded": "https://twitter.com/TravelLeisure/status/1341265755191595009",
+			"display": "twitter.com/TravelLeisure/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 22 06:14:10 +0000 2020",
+			"id": 1341265755191595000,
+			"id_str": "1341265755191595009",
+			"full_text": "McDonald’s Newest Burger is Made With Spam and Oreos https://t.co/Y7LNa5KN4x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Y7LNa5KN4x",
+						"expanded_url": "https://www.travelandleisure.com/food-drink/mcdonalds-spam-oreo-lunchmeat-burger-china?utm_campaign=travelandleisure_travelleisure&utm_content=manual&utm_medium=social&utm_source=twitter.com&utm_term=5fe10abf2f86a00001304872",
+						"display_url": "travelandleisure.com/food-drink/mcd…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://trueanthem.com/\" rel=\"nofollow\">True Anthem</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16211434,
+				"id_str": "16211434",
+				"name": "Travel + Leisure",
+				"screen_name": "TravelLeisure",
+				"location": "New York, NY",
+				"description": "Inspiration to kick your wanderlust into gear. Current status: #LeanIntoLeisure",
+				"url": "http://t.co/vmvNyo6nXZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vmvNyo6nXZ",
+								"expanded_url": "http://www.travelandleisure.com",
+								"display_url": "travelandleisure.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4097710,
+				"friends_count": 991,
+				"listed_count": 14656,
+				"created_at": "Tue Sep 09 21:16:34 +0000 2008",
+				"favourites_count": 13964,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 141641,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230218506878234625/nmse0trW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230218506878234625/nmse0trW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16211434/1428429270",
+				"profile_link_color": "FA0824",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looks like @McDonalds has declared war on China… https://t.co/d8vXlhkSCo"
+	},
+	{
 		"created_at": "Mon Dec 21 22:52:10 +0000 2020",
 		"id": 1341154523646210000,
 		"id_str": "1341154523646210058",
