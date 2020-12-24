@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 21:41:00 +0000 2020",
+		"id": 1341776063026901000,
+		"id_str": "1342223775446822913",
+		"full_text": "Weird Al Yankovic just won 2020. https://t.co/dvcxbf8Rr5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341776059998593000,
+					"id_str": "1341776059998593026",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep7yN7BW4AIXgOj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep7yN7BW4AIXgOj.jpg",
+					"url": "https://t.co/dvcxbf8Rr5",
+					"display_url": "pic.twitter.com/dvcxbf8Rr5",
+					"expanded_url": "https://twitter.com/TimFullerton/status/1341776063026900993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 219,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 386,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 386,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341776059998593000,
+					"id_str": "1341776059998593026",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep7yN7BW4AIXgOj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep7yN7BW4AIXgOj.jpg",
+					"url": "https://t.co/dvcxbf8Rr5",
+					"display_url": "pic.twitter.com/dvcxbf8Rr5",
+					"expanded_url": "https://twitter.com/TimFullerton/status/1341776063026900993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 219,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 386,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 386,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3349241,
+			"id_str": "3349241",
+			"name": "Tim Fullerton",
+			"screen_name": "TimFullerton",
+			"location": "New York, NY",
+			"description": "Former digital for @BarackObama @Interior @NYGovCuomo @Everytown @OxfamAmerica and more. From the great state of Maine. Views are my own.",
+			"url": "https://t.co/XePMB2557q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XePMB2557q",
+							"expanded_url": "http://www.medium.com/@TimFullerton",
+							"display_url": "medium.com/@TimFullerton",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12392,
+			"friends_count": 2332,
+			"listed_count": 300,
+			"created_at": "Tue Apr 03 18:49:48 +0000 2007",
+			"favourites_count": 17222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124656369985044481/_cogVBCy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124656369985044481/_cogVBCy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3349241/1468728803",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "011add077f4d2da3",
+			"url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+			"place_type": "city",
+			"name": "Brooklyn",
+			"full_name": "Brooklyn, NY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.041878,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.739434
+						],
+						[
+							-74.041878,
+							40.739434
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38991,
+		"favorite_count": 341816,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Weird Al Yankovic just won 2020. https://t.co/dvcxbf8Rr5"
+	},
+	{
 		"created_at": "Thu Dec 24 02:39:39 +0000 2020",
 		"id": 1341904298112761900,
 		"id_str": "1341936547730436098",
