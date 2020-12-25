@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 03:29:18 +0000 2020",
+		"id": 1077334816004231200,
+		"id_str": "1342311429483982848",
+		"full_text": "If you see something, say something. https://t.co/pVzLyvAJ3c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077334790725124100,
+					"id_str": "1077334790725124101",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN2SMFXQAUGL6w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN2SMFXQAUGL6w.jpg",
+					"url": "https://t.co/pVzLyvAJ3c",
+					"display_url": "pic.twitter.com/pVzLyvAJ3c",
+					"expanded_url": "https://twitter.com/CrimeADay/status/1077334816004231168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077334790725124100,
+					"id_str": "1077334790725124101",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN2SMFXQAUGL6w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN2SMFXQAUGL6w.jpg",
+					"url": "https://t.co/pVzLyvAJ3c",
+					"display_url": "pic.twitter.com/pVzLyvAJ3c",
+					"expanded_url": "https://twitter.com/CrimeADay/status/1077334816004231168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2655321690,
+			"id_str": "2655321690",
+			"name": "A Crime a Day",
+			"screen_name": "CrimeADay",
+			"location": "crimeaday@gmail.com",
+			"description": "In 1982, the DOJ  attempted to count the total number of federal crimes.  The WSJ said 'Since then, no one has tried anything nearly as extensive.'  Until...",
+			"url": "https://t.co/QgcyqpSxPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QgcyqpSxPo",
+							"expanded_url": "http://crimehandbook.com",
+							"display_url": "crimehandbook.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164691,
+			"friends_count": 0,
+			"listed_count": 1011,
+			"created_at": "Fri Jul 18 00:59:08 +0000 2014",
+			"favourites_count": 3592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/489939563305922562/YLOLIdFq_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/489939563305922562/YLOLIdFq_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2655321690/1563885434",
+			"profile_link_color": "1E2629",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2271,
+		"favorite_count": 4362,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you see something, say something. https://t.co/pVzLyvAJ3c"
+	},
+	{
 		"created_at": "Fri Dec 25 01:05:33 +0000 2020",
 		"id": 1342275252886368300,
 		"id_str": "1342275252886368256",
