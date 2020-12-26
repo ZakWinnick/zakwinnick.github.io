@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 26 02:16:21 +0000 2020",
+		"id": 1342655457568157700,
+		"id_str": "1342655457568157696",
+		"full_text": "@StockLizardKing 🦎",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StockLizardKing",
+					"name": "Penny Stock Lizard King",
+					"id": 1254968862120063000,
+					"id_str": "1254968862120062983",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1342649807253483500,
+		"in_reply_to_status_id_str": "1342649807253483525",
+		"in_reply_to_user_id": 1254968862120063000,
+		"in_reply_to_user_id_str": "1254968862120062983",
+		"in_reply_to_screen_name": "StockLizardKing",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 249,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@StockLizardKing 🦎"
+	},
+	{
+		"created_at": "Sat Dec 26 02:16:09 +0000 2020",
+		"id": 1342649807253483500,
+		"id_str": "1342655407857262592",
+		"full_text": "I want to give another person $500 to use for investing &amp; a 30 minute 1 on 1 zoom call with me where I will answer all your trading questions.\n\nTo enter, like, retweet this post and leave a 🦎 in the comments. (Must be following me) \n\nWinner announced on January 1, 2021 at 12 am",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1254968862120063000,
+			"id_str": "1254968862120062983",
+			"name": "Penny Stock Lizard King",
+			"screen_name": "StockLizardKing",
+			"location": "The Moon",
+			"description": "Not a financial advisor but I am a young penny stock legend, hoping to help everyone grow as a trader. 📈 Link in bio to join the LKTG discord community! 🦎👑",
+			"url": "https://t.co/SK5lK9fjdw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SK5lK9fjdw",
+							"expanded_url": "https://discord.gg/yC92MGe",
+							"display_url": "discord.gg/yC92MGe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46936,
+			"friends_count": 101,
+			"listed_count": 605,
+			"created_at": "Tue Apr 28 03:01:15 +0000 2020",
+			"favourites_count": 24147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335282458112258048/YlSSUHK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335282458112258048/YlSSUHK1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254968862120062983/1595981222",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 426,
+		"favorite_count": 491,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I want to give another person $500 to use for investing &amp; a 30 minute 1 on 1 zoom call with me where I will answer all your trading questions.\n\nTo enter, like, retweet this post and leave a 🦎 in the comments. (Must be following me) \n\nWinner announced on January 1, 2021 at 12 am"
+	},
+	{
 		"created_at": "Fri Dec 25 03:29:18 +0000 2020",
 		"id": 1077334816004231200,
 		"id_str": "1342311429483982848",
