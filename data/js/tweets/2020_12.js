@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 27 00:46:10 +0000 2020",
+		"id": 1342995150096765000,
+		"id_str": "1342995150096764928",
+		"full_text": "Probably one of the best podcasts, and now one of the best series on streaming TV. \n\nCongrats @HrishiHirway and @SongExploder! https://t.co/tchOJf5CzF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HrishiHirway",
+					"name": "Hrishikesh Hirway",
+					"id": 18695490,
+					"id_str": "18695490",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "SongExploder",
+					"name": "Song Exploder",
+					"id": 2249590315,
+					"id_str": "2249590315",
+					"indices": [
+						112,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tchOJf5CzF",
+					"expanded_url": "https://twitter.com/HrishiHirway/status/1342691262067920898",
+					"display_url": "twitter.com/HrishiHirway/s…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 252,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1342691262067921000,
+		"quoted_status_id_str": "1342691262067920898",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tchOJf5CzF",
+			"expanded": "https://twitter.com/HrishiHirway/status/1342691262067920898",
+			"display": "twitter.com/HrishiHirway/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 26 04:38:37 +0000 2020",
+			"id": 1342691262067921000,
+			"id_str": "1342691262067920898",
+			"full_text": "It’s so wild to see that people are watching @SongExploder tonight. I can’t really express how happy it makes me to imagine being part of anyone’s Christmas. 🎄 https://t.co/LwmIZgeTWl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SongExploder",
+						"name": "Song Exploder",
+						"id": 2249590315,
+						"id_str": "2249590315",
+						"indices": [
+							45,
+							58
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1342691258393739300,
+						"id_str": "1342691258393739269",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/EqIyleuUwAUE3RB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqIyleuUwAUE3RB.jpg",
+						"url": "https://t.co/LwmIZgeTWl",
+						"display_url": "pic.twitter.com/LwmIZgeTWl",
+						"expanded_url": "https://twitter.com/HrishiHirway/status/1342691262067920898/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1111,
+								"h": 624,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1111,
+								"h": 624,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1342691258393739300,
+						"id_str": "1342691258393739269",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/EqIyleuUwAUE3RB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqIyleuUwAUE3RB.jpg",
+						"url": "https://t.co/LwmIZgeTWl",
+						"display_url": "pic.twitter.com/LwmIZgeTWl",
+						"expanded_url": "https://twitter.com/HrishiHirway/status/1342691262067920898/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1111,
+								"h": 624,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1111,
+								"h": 624,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18695490,
+				"id_str": "18695490",
+				"name": "Hrishikesh Hirway",
+				"screen_name": "HrishiHirway",
+				"location": "Los Angeles, CA",
+				"description": "I make music & podcasts. host/creator of @songexploder · co-host/producer of Home Cooking · singer/songwriter in The One AM Radio",
+				"url": "https://t.co/Cemmd7hlN4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cemmd7hlN4",
+								"expanded_url": "http://hrishikesh.co",
+								"display_url": "hrishikesh.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 75088,
+				"friends_count": 1195,
+				"listed_count": 585,
+				"created_at": "Tue Jan 06 21:08:58 +0000 2009",
+				"favourites_count": 37541,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10091,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1336395008316870656/OzV2gIKy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336395008316870656/OzV2gIKy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18695490/1591140860",
+				"profile_link_color": "333344",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 1667,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Probably one of the best podcasts, and now one of the best series on streaming TV. \n\nCongrats @HrishiHirway and @SongExploder! https://t.co/tchOJf5CzF"
+	},
+	{
 		"created_at": "Sat Dec 26 22:58:54 +0000 2020",
 		"id": 1342968155455500300,
 		"id_str": "1342968155455500290",
