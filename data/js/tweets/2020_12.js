@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 30 01:22:14 +0000 2020",
+		"id": 1344091393946476500,
+		"id_str": "1344091393946476544",
+		"full_text": "John Elway kicked my bass drum in HS, and laughed about it.\n\nHe can still go fuck himself. https://t.co/JiXFXN7S44",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JiXFXN7S44",
+					"expanded_url": "https://twitter.com/getlowder/status/1343975977764999168",
+					"display_url": "twitter.com/getlowder/stat…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 253,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1343975977764999200,
+		"quoted_status_id_str": "1343975977764999168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JiXFXN7S44",
+			"expanded": "https://twitter.com/getlowder/status/1343975977764999168",
+			"display": "twitter.com/getlowder/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 29 17:43:37 +0000 2020",
+			"id": 1343975977764999200,
+			"id_str": "1343975977764999168",
+			"full_text": "quote tweet this with a mundane experience you’ve shared with someone who is more famous than you\n\n(but you obviously have enough chill to leave it out of your twitter bio) https://t.co/b3VV9qoFEJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1343974497947410400,
+						"id_str": "1343974497947410432",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/EqbBr2lW4AAnT59.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqbBr2lW4AAnT59.jpg",
+						"url": "https://t.co/b3VV9qoFEJ",
+						"display_url": "pic.twitter.com/b3VV9qoFEJ",
+						"expanded_url": "https://twitter.com/getlowder/status/1343975977764999168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 697,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 395,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1216,
+								"h": 706,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1343974497947410400,
+						"id_str": "1343974497947410432",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/EqbBr2lW4AAnT59.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqbBr2lW4AAnT59.jpg",
+						"url": "https://t.co/b3VV9qoFEJ",
+						"display_url": "pic.twitter.com/b3VV9qoFEJ",
+						"expanded_url": "https://twitter.com/getlowder/status/1343975977764999168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 697,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 395,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1216,
+								"h": 706,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52432609,
+				"id_str": "52432609",
+				"name": "elizabeth ann lowder",
+				"screen_name": "getlowder",
+				"location": "Mountain Brook, AL",
+				"description": "very sleepy adult // 🎓hat trick @bamaapr + @ua_jcm // crimson tide. wolfpack. panthers. // Team Rhino 🦏🌻",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1749,
+				"friends_count": 638,
+				"listed_count": 49,
+				"created_at": "Tue Jun 30 15:58:46 +0000 2009",
+				"favourites_count": 19170,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22436,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/738936737515245569/g0GXnD0T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/738936737515245569/g0GXnD0T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52432609/1444541097",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 171,
+			"favorite_count": 2283,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "John Elway kicked my bass drum in HS, and laughed about it.\n\nHe can still go fuck himself. https://t.co/JiXFXN7S44"
+	},
+	{
 		"created_at": "Mon Dec 28 16:16:47 +0000 2020",
 		"id": 1343591737156116500,
 		"id_str": "1343591737156116481",
