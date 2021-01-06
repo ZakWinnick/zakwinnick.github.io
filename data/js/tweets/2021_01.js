@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 06 12:43:43 +0000 2021",
+		"id": 1346748853857493000,
+		"id_str": "1346799605955121158",
+		"full_text": "Sex is amazing but have you ever flipped the Senate?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1685873604,
+			"id_str": "1685873604",
+			"name": "Angela Belcamino",
+			"screen_name": "AngelaBelcamino",
+			"location": "New York, NY",
+			"description": "Actor at @sagaftra | Sometimes I dance 💃 | #blockedbyTrump | @Rollinscollege Alum | https://t.co/XE7XBymelJ",
+			"url": "https://t.co/DkaD6gMByP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DkaD6gMByP",
+							"expanded_url": "http://onlyfans.com/angelabelcamino",
+							"display_url": "onlyfans.com/angelabelcamino",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XE7XBymelJ",
+							"expanded_url": "http://Instagram.com/angelabelcamino",
+							"display_url": "Instagram.com/angelabelcamino",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 160371,
+			"friends_count": 70775,
+			"listed_count": 547,
+			"created_at": "Tue Aug 20 14:17:21 +0000 2013",
+			"favourites_count": 398808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166348439346696194/66rUWRr9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166348439346696194/66rUWRr9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1685873604/1579703058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 911,
+		"favorite_count": 9430,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Sex is amazing but have you ever flipped the Senate?"
+	},
+	{
 		"created_at": "Tue Jan 05 23:26:57 +0000 2021",
 		"id": 1346599093867573200,
 		"id_str": "1346599093867573249",
