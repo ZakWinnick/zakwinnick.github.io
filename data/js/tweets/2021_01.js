@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 09 16:29:29 +0000 2021",
+		"id": 1347897860034093000,
+		"id_str": "1347943588404015104",
+		"full_text": "Today is the 13th anniversary of the unveiling of the @Apple iPhone by Steve Jobs, with its novel design that used ten-finger multitouch instead of keyboard or stylus. It was a monumental day in tech history. I was there and was blown away. https://t.co/xrELRayFDY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Apple",
+					"name": "Apple",
+					"id": 380749300,
+					"id_str": "380749300",
+					"indices": [
+						54,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347897857538470000,
+					"id_str": "1347897857538469888",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/ErSx9cAXMAACBrw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErSx9cAXMAACBrw.jpg",
+					"url": "https://t.co/xrELRayFDY",
+					"display_url": "pic.twitter.com/xrELRayFDY",
+					"expanded_url": "https://twitter.com/waltmossberg/status/1347897860034093059/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 639,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 639,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347897857538470000,
+					"id_str": "1347897857538469888",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/ErSx9cAXMAACBrw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErSx9cAXMAACBrw.jpg",
+					"url": "https://t.co/xrELRayFDY",
+					"display_url": "pic.twitter.com/xrELRayFDY",
+					"expanded_url": "https://twitter.com/waltmossberg/status/1347897860034093059/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 639,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 639,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5746452,
+			"id_str": "5746452",
+			"name": "Walt Mossberg",
+			"screen_name": "waltmossberg",
+			"location": "Washington, DC",
+			"description": "Board, News Literacy Project. Former columnist, WSJ. Co-founder: AllThingsD, Recode, D & Code Conferences, Ctrl-Walt-Delete. Former Exec Editor, The Verge.",
+			"url": "https://t.co/AH9VhHsJmY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AH9VhHsJmY",
+							"expanded_url": "http://www.theverge.com/label/walt-mossberg-verge",
+							"display_url": "theverge.com/label/walt-mos…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 862995,
+			"friends_count": 1407,
+			"listed_count": 17983,
+			"created_at": "Thu May 03 17:30:11 +0000 2007",
+			"favourites_count": 53969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275982705059155969/OMeSfS_p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275982705059155969/OMeSfS_p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5746452/1362583071",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 581,
+		"favorite_count": 2907,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is the 13th anniversary of the unveiling of the @Apple iPhone by Steve Jobs, with its novel design that used ten-finger multitouch instead of keyboard or stylus. It was a monumental day in tech history. I was there and was blown away. https://t.co/xrELRayFDY"
+	},
+	{
 		"created_at": "Sat Jan 09 14:52:19 +0000 2021",
 		"id": 1347761348680142800,
 		"id_str": "1347919133950795776",
