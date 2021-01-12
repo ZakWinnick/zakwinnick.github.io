@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 11:22:36 +0000 2021",
+		"id": 1348953520695869400,
+		"id_str": "1348953520695869440",
+		"full_text": "That wave was gorgeous. Incredible ride, @peter_mel! https://t.co/TPVyXni5Vp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peter_mel",
+					"name": "Peter Mel",
+					"id": 42670813,
+					"id_str": "42670813",
+					"indices": [
+						41,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TPVyXni5Vp",
+					"expanded_url": "https://twitter.com/mmcphate/status/1348872595224080384",
+					"display_url": "twitter.com/mmcphate/statu…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 260,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1348872595224080400,
+		"quoted_status_id_str": "1348872595224080384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TPVyXni5Vp",
+			"expanded": "https://twitter.com/mmcphate/status/1348872595224080384",
+			"display": "twitter.com/mmcphate/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 12 06:01:02 +0000 2021",
+			"id": 1348872595224080400,
+			"id_str": "1348872595224080384",
+			"full_text": "“Peter Mel rode one of the biggest and most perfect waves ever surfed at Mavericks, Half Moon Bay, California.\"\nhttps://t.co/CYxrsSyyd3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CYxrsSyyd3",
+						"expanded_url": "https://www.surfertoday.com/surfing/peter-mel-rides-the-wave-of-a-lifetime-at-mavericks",
+						"display_url": "surfertoday.com/surfing/peter-…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11136082,
+				"id_str": "11136082",
+				"name": "California Sun",
+				"screen_name": "mmcphate",
+				"location": "California, USA",
+				"description": "Must-read stories about the Golden State, delivered daily to your inbox. Sign up: https://t.co/IuNB8rqs7T",
+				"url": "https://t.co/bTRUYfHeCY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bTRUYfHeCY",
+								"expanded_url": "http://www.californiasun.co",
+								"display_url": "californiasun.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IuNB8rqs7T",
+								"expanded_url": "http://californiasun.co",
+								"display_url": "californiasun.co",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 15629,
+				"friends_count": 10312,
+				"listed_count": 344,
+				"created_at": "Thu Dec 13 18:08:10 +0000 2007",
+				"favourites_count": 10218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10841,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6479E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11136082/1528743412",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That wave was gorgeous. Incredible ride, @peter_mel! https://t.co/TPVyXni5Vp"
+	},
+	{
 		"created_at": "Tue Jan 12 11:15:38 +0000 2021",
 		"id": 1348951770253451300,
 		"id_str": "1348951770253451264",
