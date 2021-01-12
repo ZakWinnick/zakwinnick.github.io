@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 02:06:30 +0000 2021",
+		"id": 1348645289930989600,
+		"id_str": "1348813573577986050",
+		"full_text": "Wow, a hacker has now archived 99.9% of all Parler data including riot videos and GPS locations—now more than 56 terabytes in size, @donk_enby says raw video includes GPS coordinates, which point to the locations of users when the videos were filmed. \n https://t.co/ZdXOzrgT6T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "donk_enby",
+					"name": "crash override",
+					"id": 1213212165500326000,
+					"id_str": "1213212165500325888",
+					"indices": [
+						132,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZdXOzrgT6T",
+					"expanded_url": "https://gizmodo.com/every-deleted-parler-post-many-with-users-location-dat-1846032466",
+					"display_url": "gizmodo.com/every-deleted-…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18831926,
+			"id_str": "18831926",
+			"name": "Eric Feigl-Ding",
+			"screen_name": "DrEricDing",
+			"location": "Washington DC & Virginia",
+			"description": "Epidemiologist & Health Economist. Senior Fellow, FAS. Fmr 16 yrs @Harvard. Health & justice advocate. RoomRater 10/10. COVID19 reports from Jan’20.",
+			"url": "https://t.co/ZeJ6OF713l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeJ6OF713l",
+							"expanded_url": "http://fas.org/expert/eric-feigl-ding/",
+							"display_url": "fas.org/expert/eric-fe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 390747,
+			"friends_count": 7284,
+			"listed_count": 5088,
+			"created_at": "Sat Jan 10 11:01:33 +0000 2009",
+			"favourites_count": 142768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296690786688479234/wflBN5Ks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296690786688479234/wflBN5Ks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18831926/1601198276",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3676,
+		"favorite_count": 10635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow, a hacker has now archived 99.9% of all Parler data including riot videos and GPS locations—now more than 56 terabytes in size, @donk_enby says raw video includes GPS coordinates, which point to the locations of users when the videos were filmed. \n https://t.co/ZdXOzrgT6T"
+	},
+	{
 		"created_at": "Mon Jan 11 21:10:21 +0000 2021",
 		"id": 1348736550536937500,
 		"id_str": "1348739045178929155",
