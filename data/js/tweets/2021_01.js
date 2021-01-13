@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 13 03:02:06 +0000 2021",
+		"id": 1349189952597352400,
+		"id_str": "1349189952597352449",
+		"full_text": "Wait… @chucknorris doesn’t have a @verified account? WTF?\n\nAlso, this is one of the most Chuck Norris things I’ve ever read… https://t.co/jGdvAVr4tP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chucknorris",
+					"name": "Chuck Norris",
+					"id": 317234761,
+					"id_str": "317234761",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"screen_name": "verified",
+					"name": "Twitter Verified",
+					"id": 63796828,
+					"id_str": "63796828",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jGdvAVr4tP",
+					"expanded_url": "https://twitter.com/chucknorris/status/1349130606035177473",
+					"display_url": "twitter.com/chucknorris/st…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 259,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1349130606035177500,
+		"quoted_status_id_str": "1349130606035177473",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jGdvAVr4tP",
+			"expanded": "https://twitter.com/chucknorris/status/1349130606035177473",
+			"display": "twitter.com/chucknorris/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 12 23:06:16 +0000 2021",
+			"id": 1349130606035177500,
+			"id_str": "1349130606035177473",
+			"full_text": "I recently learned there was a Chuck Norris lookalike at the DC Capitol riots. It wasn’t me and I wasn’t there. There is no room for violence of any kind in our society. I am and always will be for Law and Order.\n\nYour friend, Chuck Norris https://t.co/LruKwViWRL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1349123227734274000,
+						"id_str": "1349123227734274049",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/ErkMbXtUcAELm6O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErkMbXtUcAELm6O.jpg",
+						"url": "https://t.co/LruKwViWRL",
+						"display_url": "pic.twitter.com/LruKwViWRL",
+						"expanded_url": "https://twitter.com/chucknorris/status/1349130606035177473/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 675,
+								"h": 889,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 889,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 516,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1349123227734274000,
+						"id_str": "1349123227734274049",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/ErkMbXtUcAELm6O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErkMbXtUcAELm6O.jpg",
+						"url": "https://t.co/LruKwViWRL",
+						"display_url": "pic.twitter.com/LruKwViWRL",
+						"expanded_url": "https://twitter.com/chucknorris/status/1349130606035177473/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 675,
+								"h": 889,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 889,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 516,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 317234761,
+				"id_str": "317234761",
+				"name": "Chuck Norris",
+				"screen_name": "chucknorris",
+				"location": "Navasota, TX",
+				"description": "Welcome to the Official Chuck Norris Twitter page. Chuck is an international television and film star. His TV series “Walker, Texas Ranger”ran for 81/2 years.",
+				"url": "http://t.co/8ty3x173jK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8ty3x173jK",
+								"expanded_url": "http://www.chucknorris.com",
+								"display_url": "chucknorris.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 135968,
+				"friends_count": 2,
+				"listed_count": 660,
+				"created_at": "Tue Jun 14 16:47:13 +0000 2011",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 984,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1407346896/89_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407346896/89_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/317234761/1489784814",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1056,
+			"favorite_count": 6443,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wait… @chucknorris doesn’t have a @verified account? WTF?\n\nAlso, this is one of the most Chuck Norris things I’ve ever read… https://t.co/jGdvAVr4tP"
+	},
+	{
 		"created_at": "Tue Jan 12 17:01:34 +0000 2021",
 		"id": 1349038823808901000,
 		"id_str": "1349038823808901123",
