@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 17:52:50 +0000 2021",
+		"id": 1350138889332289500,
+		"id_str": "1350138889332289539",
+		"full_text": "👀 https://t.co/iuLYQB6CVf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iuLYQB6CVf",
+					"expanded_url": "https://twitter.com/MacRumors/status/1350136054725021697",
+					"display_url": "twitter.com/MacRumors/stat…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 260,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1350136054725021700,
+		"quoted_status_id_str": "1350136054725021697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iuLYQB6CVf",
+			"expanded": "https://twitter.com/MacRumors/status/1350136054725021697",
+			"display": "twitter.com/MacRumors/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 15 17:41:34 +0000 2021",
+			"id": 1350136054725021700,
+			"id_str": "1350136054725021697",
+			"full_text": "Apple Developing Podcast Subscription Service to Better Compete With Spotify https://t.co/C4WJVJAO2A by @julipuli https://t.co/SvsXJfhtx4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "julipuli",
+						"name": "Juli Clover",
+						"id": 7354292,
+						"id_str": "7354292",
+						"indices": [
+							104,
+							113
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/C4WJVJAO2A",
+						"expanded_url": "https://www.macrumors.com/2021/01/15/apple-podcast-subscription-service/",
+						"display_url": "macrumors.com/2021/01/15/app…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1350136053307379700,
+						"id_str": "1350136053307379713",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/Eryllk_VkAEBQjL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eryllk_VkAEBQjL.jpg",
+						"url": "https://t.co/SvsXJfhtx4",
+						"display_url": "pic.twitter.com/SvsXJfhtx4",
+						"expanded_url": "https://twitter.com/MacRumors/status/1350136054725021697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1350136053307379700,
+						"id_str": "1350136053307379713",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/Eryllk_VkAEBQjL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eryllk_VkAEBQjL.jpg",
+						"url": "https://t.co/SvsXJfhtx4",
+						"display_url": "pic.twitter.com/SvsXJfhtx4",
+						"expanded_url": "https://twitter.com/MacRumors/status/1350136054725021697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.macrumors.com\" rel=\"nofollow\">MacRumors.com Web</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14861285,
+				"id_str": "14861285",
+				"name": "MacRumors.com",
+				"screen_name": "MacRumors",
+				"location": "",
+				"description": "Apple, iPhone, iPad and Mac rumors, news, tips and videos. Tap Follow! Message us with questions / comments.",
+				"url": "https://t.co/qq2P8QLVoq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qq2P8QLVoq",
+								"expanded_url": "https://www.macrumors.com",
+								"display_url": "macrumors.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 941444,
+				"friends_count": 129,
+				"listed_count": 18308,
+				"created_at": "Wed May 21 20:01:19 +0000 2008",
+				"favourites_count": 1298,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43746,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C2D6F2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1171574992821194752/rVrN8JVA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171574992821194752/rVrN8JVA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14861285/1399010969",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 117,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀 https://t.co/iuLYQB6CVf"
+	},
+	{
 		"created_at": "Wed Jan 13 13:46:10 +0000 2021",
 		"id": 1349352039499899000,
 		"id_str": "1349352039499898884",
