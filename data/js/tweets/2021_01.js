@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 17 14:44:47 +0000 2021",
+		"id": 1350797545145041000,
+		"id_str": "1350816342279127050",
+		"full_text": "The original Ghostbusters, 1984 https://t.co/eXi5bQGL2o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350797543769309200,
+					"id_str": "1350797543769309184",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Er7_NY_XAAAvtwj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er7_NY_XAAAvtwj.jpg",
+					"url": "https://t.co/eXi5bQGL2o",
+					"display_url": "pic.twitter.com/eXi5bQGL2o",
+					"expanded_url": "https://twitter.com/ThatEricAlper/status/1350797545145040897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350797543769309200,
+					"id_str": "1350797543769309184",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Er7_NY_XAAAvtwj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er7_NY_XAAAvtwj.jpg",
+					"url": "https://t.co/eXi5bQGL2o",
+					"display_url": "pic.twitter.com/eXi5bQGL2o",
+					"expanded_url": "https://twitter.com/ThatEricAlper/status/1350797545145040897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22018221,
+			"id_str": "22018221",
+			"name": "Eric Alper 🎧",
+			"screen_name": "ThatEricAlper",
+			"location": "Toronto",
+			"description": "Freelance Music Publicist. SiriusXM Host. Shameless Idealist. Lifelong Musicaholic. I talk about Music News in the Media. Eric@ThatEricAlper.com",
+			"url": "https://t.co/yyQlWgX2YH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yyQlWgX2YH",
+							"expanded_url": "https://ThatEricAlper.com",
+							"display_url": "ThatEricAlper.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 752708,
+			"friends_count": 301195,
+			"listed_count": 4909,
+			"created_at": "Thu Feb 26 15:08:31 +0000 2009",
+			"favourites_count": 432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 179593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258864159195873280/OZZlL3VJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258864159195873280/OZZlL3VJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22018221/1530493821",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The original Ghostbusters, 1984 https://t.co/eXi5bQGL2o"
+	},
+	{
 		"created_at": "Fri Jan 15 23:16:30 +0000 2021",
 		"id": 1350220345886863400,
 		"id_str": "1350220345886863363",
