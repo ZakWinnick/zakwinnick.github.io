@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 18 11:10:03 +0000 2021",
+		"id": 1350956382380552200,
+		"id_str": "1351124688966217731",
+		"full_text": "Watching Brady and Brees. Unbelievable. These guys are so old they’re getting the vaccine.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263292498,
+			"id_str": "263292498",
+			"name": "Albert Brooks",
+			"screen_name": "AlbertBrooks",
+			"location": "Los Angeles",
+			"description": "Filmmaker, actor, author Albert Brooks.  Originally joined Twitter to promote my book. Now trapped. Can't get out. Help. http://t.co/Ab9SWCgN",
+			"url": "http://t.co/tbR7pDAcVK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tbR7pDAcVK",
+							"expanded_url": "http://www.albertbrooks.com",
+							"display_url": "albertbrooks.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/Ab9SWCgN",
+							"expanded_url": "http://amzn.to/gUl6Fb",
+							"display_url": "amzn.to/gUl6Fb",
+							"indices": [
+								121,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1688863,
+			"friends_count": 1,
+			"listed_count": 7643,
+			"created_at": "Wed Mar 09 19:29:47 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288695416/BookCover_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288695416/BookCover_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 419,
+		"favorite_count": 3937,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Watching Brady and Brees. Unbelievable. These guys are so old they’re getting the vaccine."
+	},
+	{
 		"created_at": "Sun Jan 17 20:37:04 +0000 2021",
 		"id": 1350904995311399000,
 		"id_str": "1350904995311398917",
