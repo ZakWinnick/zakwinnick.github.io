@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 11:13:23 +0000 2021",
+		"id": 1351487917580030000,
+		"id_str": "1351487917580029953",
+		"full_text": "Plus, there are WAY more flags as there were people who attended his inauguration. https://t.co/fft2CpgmoR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fft2CpgmoR",
+					"expanded_url": "https://twitter.com/AdamBlickstein/status/1351385883220566021",
+					"display_url": "twitter.com/AdamBlickstein…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 261,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351385883220566000,
+		"quoted_status_id_str": "1351385883220566021",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fft2CpgmoR",
+			"expanded": "https://twitter.com/AdamBlickstein/status/1351385883220566021",
+			"display": "twitter.com/AdamBlickstein…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 19 04:27:56 +0000 2021",
+			"id": 1351385883220566000,
+			"id_str": "1351385883220566021",
+			"full_text": "Not for nothing but this is the image Trump will see when he leaves the White House for the final time Wednesday morning. Have a feeling Trump will be incensed he never had anything as striking, poignant &amp; well executed during his entire presidency https://t.co/fQGZ4kNc2L",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				252
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1351385871531053000,
+						"id_str": "1351385871531053058",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/media/EsEWSksXEAIcx8Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsEWSksXEAIcx8Y.jpg",
+						"url": "https://t.co/fQGZ4kNc2L",
+						"display_url": "pic.twitter.com/fQGZ4kNc2L",
+						"expanded_url": "https://twitter.com/AdamBlickstein/status/1351385883220566021/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1351385871531053000,
+						"id_str": "1351385871531053058",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/media/EsEWSksXEAIcx8Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsEWSksXEAIcx8Y.jpg",
+						"url": "https://t.co/fQGZ4kNc2L",
+						"display_url": "pic.twitter.com/fQGZ4kNc2L",
+						"expanded_url": "https://twitter.com/AdamBlickstein/status/1351385883220566021/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17493787,
+				"id_str": "17493787",
+				"name": "Adam Blickstein",
+				"screen_name": "AdamBlickstein",
+				"location": "Washington, DC",
+				"description": "Former DOD Public Affairs/National Security Network/House Intel Ranking Member Comms. Tweets, which come back to me in shades of mediocrity, are my own",
+				"url": "https://t.co/9lNsKwM7zk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9lNsKwM7zk",
+								"expanded_url": "https://www.washingtonian.com/2016/05/18/dc-cbs-tv-show-madam-secretary-isnt-realistic-who-cares/",
+								"display_url": "washingtonian.com/2016/05/18/dc-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13003,
+				"friends_count": 2525,
+				"listed_count": 289,
+				"created_at": "Wed Nov 19 20:02:33 +0000 2008",
+				"favourites_count": 21293,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1125,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1222664398742990849/39YEpsVV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222664398742990849/39YEpsVV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17493787/1592185129",
+				"profile_link_color": "2954D1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 774,
+			"favorite_count": 5141,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Plus, there are WAY more flags as there were people who attended his inauguration. https://t.co/fft2CpgmoR"
+	},
+	{
 		"created_at": "Mon Jan 18 11:10:03 +0000 2021",
 		"id": 1350956382380552200,
 		"id_str": "1351124688966217731",
