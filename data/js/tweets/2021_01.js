@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 18:33:59 +0000 2021",
+		"id": 1351961186934419500,
+		"id_str": "1351961186934419458",
+		"full_text": "The resignation I was looking forward to the most. \n\nHe oversaw @VOANews, and tried to destroy it. \n\nVOA was one of the first things I got most excited about, Government-wise, listening to it constantly on my DAK Industries Shortwave radio when I was growing up… https://t.co/xtrOO641ox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VOANews",
+					"name": "The Voice of America",
+					"id": 16273831,
+					"id_str": "16273831",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xtrOO641ox",
+					"expanded_url": "https://twitter.com/schwartzbCNBC/status/1351956503243186178",
+					"display_url": "twitter.com/schwartzbCNBC/…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | Host @_syncinprogress | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 261,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351956503243186200,
+		"quoted_status_id_str": "1351956503243186178",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xtrOO641ox",
+			"expanded": "https://twitter.com/schwartzbCNBC/status/1351956503243186178",
+			"display": "twitter.com/schwartzbCNBC/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 20 18:15:23 +0000 2021",
+			"id": 1351956503243186200,
+			"id_str": "1351956503243186178",
+			"full_text": "Michael Pack, Trump's pick to lead @USAGMgov, has resigned after a request by the new Biden administration. https://t.co/IU4CMINAHE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "USAGMgov",
+						"name": "US Agency for Global Media",
+						"id": 318586935,
+						"id_str": "318586935",
+						"indices": [
+							35,
+							44
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IU4CMINAHE",
+						"expanded_url": "https://twitter.com/ByronYork/status/1351954651772559362",
+						"display_url": "twitter.com/ByronYork/stat…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1340997858,
+				"id_str": "1340997858",
+				"name": "Brian Schwartz",
+				"screen_name": "schwartzbCNBC",
+				"location": "New York",
+				"description": "@CNBC Political Finance Reporter, Dickinson College Grad. Thoughts are my own. Retweets are not endorsements.",
+				"url": "https://t.co/A1L1qJmg8T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A1L1qJmg8T",
+								"expanded_url": "https://www.cnbc.com/brian-schwartz/",
+								"display_url": "cnbc.com/brian-schwartz/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11300,
+				"friends_count": 7401,
+				"listed_count": 288,
+				"created_at": "Wed Apr 10 04:43:17 +0000 2013",
+				"favourites_count": 17442,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 274,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1174508472089677825/WN26UYAl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174508472089677825/WN26UYAl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1340997858/1485368642",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1351954651772559400,
+			"quoted_status_id_str": "1351954651772559362",
+			"quoted_status_permalink": {
+				"url": "https://t.co/IU4CMINAHE",
+				"expanded": "https://twitter.com/ByronYork/status/1351954651772559362",
+				"display": "twitter.com/ByronYork/stat…"
+			},
+			"retweet_count": 157,
+			"favorite_count": 549,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The resignation I was looking forward to the most. \n\nHe oversaw @VOANews, and tried to destroy it. \n\nVOA was one of the first things I got most excited about, Government-wise, listening to it constantly on my DAK Industries Shortwave radio when I was growing up… https://t.co/xtrOO641ox"
+	},
+	{
 		"created_at": "Tue Jan 19 15:36:24 +0000 2021",
 		"id": 1351554108684120000,
 		"id_str": "1351554108684120067",
