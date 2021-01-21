@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 21:14:06 +0000 2021",
+		"id": 1352339480720633900,
+		"id_str": "1352363868962611202",
+		"full_text": "Biden Team drops hammer at US Agency for Global Media &amp; Voice of America\n\nVOA Director Robert Reilly &amp; deputy Elizabeth Robbins out \n\nNew VOA chief: senior news exec Yolanda Lopez, recently demoted after one of her WH reporters asked Secy Pompeo abt Trump\n\nhttps://t.co/yEqJ6XR8fB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yEqJ6XR8fB",
+					"expanded_url": "https://www.usagm.gov/2021/01/21/biden-administration-requests-usagm-ceo-packs-resignation/",
+					"display_url": "usagm.gov/2021/01/21/bid…",
+					"indices": [
+						265,
+						288
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11621822,
+			"id_str": "11621822",
+			"name": "David Folkenflik",
+			"screen_name": "davidfolkenflik",
+			"location": "New York, N.Y.",
+			"description": "NPR media correspondent || Author, Murdoch's World",
+			"url": "https://t.co/FvW1b2JH5U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FvW1b2JH5U",
+							"expanded_url": "http://MurdochsWorld.com",
+							"display_url": "MurdochsWorld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107797,
+			"friends_count": 2114,
+			"listed_count": 2929,
+			"created_at": "Sat Dec 29 05:10:31 +0000 2007",
+			"favourites_count": 15567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 46779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032379056354996225/Ymeg15UF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032379056354996225/Ymeg15UF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11621822/1479814797",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 456,
+		"favorite_count": 1438,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Biden Team drops hammer at US Agency for Global Media &amp; Voice of America\n\nVOA Director Robert Reilly &amp; deputy Elizabeth Robbins out \n\nNew VOA chief: senior news exec Yolanda Lopez, recently demoted after one of her WH reporters asked Secy Pompeo abt Trump\n\nhttps://t.co/yEqJ6XR8fB"
+	},
+	{
 		"created_at": "Thu Jan 21 15:40:08 +0000 2021",
 		"id": 1352279821611630600,
 		"id_str": "1352279821611630593",
