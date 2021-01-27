@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 27 22:58:02 +0000 2021",
+		"id": 1354560090674614300,
+		"id_str": "1354564352452517890",
+		"full_text": "I'm going all-in on Babbages, Sharper Image, KB Toys, and Sam Goody!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613212190,
+			"id_str": "613212190",
+			"name": "Tyler Rogoway",
+			"screen_name": "Aviation_Intel",
+			"location": "",
+			"description": "Unafraid commentary on a world at war. Currently editor of The War Zone.",
+			"url": "https://t.co/hoq1hLcWHp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hoq1hLcWHp",
+							"expanded_url": "http://www.thewarzone.com",
+							"display_url": "thewarzone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43643,
+			"friends_count": 2460,
+			"listed_count": 730,
+			"created_at": "Wed Jun 20 07:04:29 +0000 2012",
+			"favourites_count": 19084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/855161862521929728/GogzqPpo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/855161862521929728/GogzqPpo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/613212190/1578536455",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm going all-in on Babbages, Sharper Image, KB Toys, and Sam Goody!"
+	},
+	{
 		"created_at": "Mon Jan 25 00:39:20 +0000 2021",
 		"id": 1353502681369878500,
 		"id_str": "1353502681369878529",
