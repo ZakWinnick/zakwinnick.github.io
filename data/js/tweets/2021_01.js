@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 28 16:15:42 +0000 2021",
+		"id": 1354786444422893600,
+		"id_str": "1354825488594837505",
+		"full_text": "35 years ago we lost our beloved Challenger crew. Today we pause &amp; remember Francis R. “Dick” Scobee, Michael J. Smith, Judith A. Resnik, Ellison S. Onizuka, Ronald E. McNair, Gregory B. Jarvis, &amp; Christa McAuliffe. We continue to honor the crew’s legacy each and every day. https://t.co/R29mumcQZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354786435640025000,
+					"id_str": "1354786435640025094",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/Es0rFdLXYAY1K5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es0rFdLXYAY1K5K.jpg",
+					"url": "https://t.co/R29mumcQZ6",
+					"display_url": "pic.twitter.com/R29mumcQZ6",
+					"expanded_url": "https://twitter.com/ChallengerCtr/status/1354786444422893574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354786435640025000,
+					"id_str": "1354786435640025094",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/Es0rFdLXYAY1K5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es0rFdLXYAY1K5K.jpg",
+					"url": "https://t.co/R29mumcQZ6",
+					"display_url": "pic.twitter.com/R29mumcQZ6",
+					"expanded_url": "https://twitter.com/ChallengerCtr/status/1354786444422893574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11232892,
+			"id_str": "11232892",
+			"name": "Challenger Center",
+			"screen_name": "ChallengerCtr",
+			"location": "Washington, D.C.",
+			"description": "As the living tribute to the Challenger Crew, Challenger Center delivers hands-on, experiential STEM programs to students around the globe.",
+			"url": "http://t.co/9rOnhDPoDx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/9rOnhDPoDx",
+							"expanded_url": "http://www.challenger.org",
+							"display_url": "challenger.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7940,
+			"friends_count": 1368,
+			"listed_count": 216,
+			"created_at": "Sun Dec 16 20:29:41 +0000 2007",
+			"favourites_count": 2656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "009EDC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817127586769866753/NR_dkkmM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817127586769866753/NR_dkkmM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11232892/1611845932",
+			"profile_link_color": "F5A211",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "35 years ago we lost our beloved Challenger crew. Today we pause &amp; remember Francis R. “Dick” Scobee, Michael J. Smith, Judith A. Resnik, Ellison S. Onizuka, Ronald E. McNair, Gregory B. Jarvis, &amp; Christa McAuliffe. We continue to honor the crew’s legacy each and every day. https://t.co/R29mumcQZ6"
+	},
+	{
 		"created_at": "Wed Jan 27 22:58:02 +0000 2021",
 		"id": 1354560090674614300,
 		"id_str": "1354564352452517890",
