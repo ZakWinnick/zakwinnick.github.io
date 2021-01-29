@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 29 15:35:07 +0000 2021",
+		"id": 1355177661467922400,
+		"id_str": "1355177661467922433",
+		"full_text": "Rehab.\n\nHe was consuming too many visitors, and they had to stage an intervention. https://t.co/VN8HRoRvPg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VN8HRoRvPg",
+					"expanded_url": "https://twitter.com/insideuniversal/status/1355160129931501572",
+					"display_url": "twitter.com/insideuniversa…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | 8w3",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 253,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283034053076299778/xcEYv_ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1589495854",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1355160129931501600,
+		"quoted_status_id_str": "1355160129931501572",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VN8HRoRvPg",
+			"expanded": "https://twitter.com/insideuniversal/status/1355160129931501572",
+			"display": "twitter.com/insideuniversa…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 29 14:25:27 +0000 2021",
+			"id": 1355160129931501600,
+			"id_str": "1355160129931501572",
+			"full_text": "Where is Bruce!?! @UniversalORL https://t.co/8xfWKFXN76",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UniversalORL",
+						"name": "Universal Orlando Resort",
+						"id": 125988399,
+						"id_str": "125988399",
+						"indices": [
+							18,
+							31
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1355160125045149700,
+						"id_str": "1355160125045149699",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/Es5-9CsXEAMZYvh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Es5-9CsXEAMZYvh.jpg",
+						"url": "https://t.co/8xfWKFXN76",
+						"display_url": "pic.twitter.com/8xfWKFXN76",
+						"expanded_url": "https://twitter.com/insideuniversal/status/1355160129931501572/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1355160125045149700,
+						"id_str": "1355160125045149699",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/Es5-9CsXEAMZYvh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Es5-9CsXEAMZYvh.jpg",
+						"url": "https://t.co/8xfWKFXN76",
+						"display_url": "pic.twitter.com/8xfWKFXN76",
+						"expanded_url": "https://twitter.com/insideuniversal/status/1355160129931501572/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49541799,
+				"id_str": "49541799",
+				"name": "Inside Universal",
+				"screen_name": "insideuniversal",
+				"location": "Orlando, FL - Hollywood, CA",
+				"description": "News & Info on Universal Studios Hollywood, Universal Orlando, & More! Join our forums! https://t.co/QCJg6AYteV",
+				"url": "https://t.co/D19vrJLiGH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D19vrJLiGH",
+								"expanded_url": "http://www.insideuniversal.net",
+								"display_url": "insideuniversal.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/QCJg6AYteV",
+								"expanded_url": "http://forums.insideuniversal.net",
+								"display_url": "forums.insideuniversal.net",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 30497,
+				"friends_count": 532,
+				"listed_count": 304,
+				"created_at": "Mon Jun 22 04:58:11 +0000 2009",
+				"favourites_count": 8265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25410,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "081F2B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1343675250605744131/XGH8Z2q8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343675250605744131/XGH8Z2q8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49541799/1609192120",
+				"profile_link_color": "175DA9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D6D6D6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 106,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rehab.\n\nHe was consuming too many visitors, and they had to stage an intervention. https://t.co/VN8HRoRvPg"
+	},
+	{
 		"created_at": "Fri Jan 29 01:39:43 +0000 2021",
 		"id": 1354941666742980600,
 		"id_str": "1354967427818389504",
