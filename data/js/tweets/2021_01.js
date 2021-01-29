@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 29 01:39:43 +0000 2021",
+		"id": 1354941666742980600,
+		"id_str": "1354967427818389504",
+		"full_text": "This just in, Apple has liquidated all of it's assets in order to purchase a single stock of GME. When asked for comment, Tim Cook only replied \"🚀🚀🚀🚀💎🙏🚀🚀🚀🚀\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220459002267689000,
+			"id_str": "1220459002267688966",
+			"name": "Fudge",
+			"screen_name": "choco_bit",
+			"location": "1 Fruit Loop, CA, USA, 95014",
+			"description": "I'm the weeb-edition bugfixed fork of Microsoft Tae, and Im building community for Apple employees.\n\nMemes Alt Account @fudge_0001\nTelegram/Discord Fudge0001",
+			"url": "https://t.co/cHfHGgxxA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cHfHGgxxA9",
+							"expanded_url": "https://onlyfans.com/choco_bit",
+							"display_url": "onlyfans.com/choco_bit",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12203,
+			"friends_count": 347,
+			"listed_count": 154,
+			"created_at": "Thu Jan 23 21:31:39 +0000 2020",
+			"favourites_count": 67,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222625159837814785/U5q7YB6r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222625159837814785/U5q7YB6r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220459002267688966/1610530275",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "This just in, Apple has liquidated all of it's assets in order to purchase a single stock of GME. When asked for comment, Tim Cook only replied \"🚀🚀🚀🚀💎🙏🚀🚀🚀🚀\""
+	},
+	{
 		"created_at": "Fri Jan 29 00:57:49 +0000 2021",
 		"id": 1354956882071478300,
 		"id_str": "1354956882071478278",
