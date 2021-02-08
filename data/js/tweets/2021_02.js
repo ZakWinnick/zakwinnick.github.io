@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 07 23:32:10 +0000 2021",
+		"id": 1358558939785420800,
+		"id_str": "1358559207172280320",
+		"full_text": "Not sure what’s going on, but it looks like everyone is talking about this #SuperbOwl again! https://t.co/ENWfWurXX1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperbOwl",
+					"indices": [
+						75,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ENWfWurXX1",
+					"expanded_url": "https://twitter.com/southwestair/status/1092045189298966529",
+					"display_url": "twitter.com/southwestair/s…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7212562,
+			"id_str": "7212562",
+			"name": "Southwest Airlines",
+			"screen_name": "SouthwestAir",
+			"location": "Dallas, Texas",
+			"description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+			"url": "https://t.co/iMRrkv6xri",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iMRrkv6xri",
+							"expanded_url": "https://www.southwest.com/html/contact-us/index.html?clk=GFOOTER-CUSTOMER-CONTACT-US",
+							"display_url": "southwest.com/html/contact-u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2130448,
+			"friends_count": 1,
+			"listed_count": 14339,
+			"created_at": "Mon Jul 02 19:56:44 +0000 2007",
+			"favourites_count": 8139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 984191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1605807015",
+			"profile_link_color": "304CB2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092045189298966500,
+		"quoted_status_id_str": "1092045189298966529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ENWfWurXX1",
+			"expanded": "https://twitter.com/southwestair/status/1092045189298966529",
+			"display": "twitter.com/southwestair/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 03 13:00:37 +0000 2019",
+			"id": 1092045189298966500,
+			"id_str": "1092045189298966529",
+			"full_text": "Who's excited for this #SuperbOwl? https://t.co/F99m1FPhx7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SuperbOwl",
+						"indices": [
+							23,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1092045050391998500,
+						"id_str": "1092045050391998471",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1092045050391998471/img/JURBIpW40c7Dcg31.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1092045050391998471/img/JURBIpW40c7Dcg31.jpg",
+						"url": "https://t.co/F99m1FPhx7",
+						"display_url": "pic.twitter.com/F99m1FPhx7",
+						"expanded_url": "https://twitter.com/SouthwestAir/status/1092045189298966529/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1092045050391998500,
+						"id_str": "1092045050391998471",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1092045050391998471/img/JURBIpW40c7Dcg31.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1092045050391998471/img/JURBIpW40c7Dcg31.jpg",
+						"url": "https://t.co/F99m1FPhx7",
+						"display_url": "pic.twitter.com/F99m1FPhx7",
+						"expanded_url": "https://twitter.com/SouthwestAir/status/1092045189298966529/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 56640,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1092045050391998471/pl/kPaRWEB7bzmGi0OC.m3u8?tag=9"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1092045050391998471/vid/320x180/wPJJYecq992ojD3I.mp4?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1092045050391998471/vid/1280x720/TfyUDMpkWaHTSs-4.mp4?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1092045050391998471/vid/640x360/sftHeP2FKahSWJt7.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7212562,
+				"id_str": "7212562",
+				"name": "Southwest Airlines",
+				"screen_name": "SouthwestAir",
+				"location": "Dallas, Texas",
+				"description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+				"url": "https://t.co/iMRrkv6xri",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iMRrkv6xri",
+								"expanded_url": "https://www.southwest.com/html/contact-us/index.html?clk=GFOOTER-CUSTOMER-CONTACT-US",
+								"display_url": "southwest.com/html/contact-u…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2130448,
+				"friends_count": 1,
+				"listed_count": 14339,
+				"created_at": "Mon Jul 02 19:56:44 +0000 2007",
+				"favourites_count": 8139,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 984191,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1605807015",
+				"profile_link_color": "304CB2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E3E3",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 91,
+			"favorite_count": 616,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not sure what’s going on, but it looks like everyone is talking about this #SuperbOwl again! https://t.co/ENWfWurXX1"
+	},
+	{
 		"created_at": "Fri Feb 05 18:12:04 +0000 2021",
 		"id": 1357753874615001000,
 		"id_str": "1357753874615001091",
