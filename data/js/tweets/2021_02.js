@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 12 02:12:16 +0000 2021",
+		"id": 1360049001555492900,
+		"id_str": "1360049050612072449",
+		"full_text": "I wish it worked that way. I’ve worked at a couple of places that I’d love to live in… https://t.co/jqW7r8GLoj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jqW7r8GLoj",
+					"expanded_url": "https://twitter.com/Fahrenthold/status/1359879874496901125",
+					"display_url": "twitter.com/Fahrenthold/st…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 666,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359879874496901000,
+		"quoted_status_id_str": "1359879874496901125",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jqW7r8GLoj",
+			"expanded": "https://twitter.com/Fahrenthold/status/1359879874496901125",
+			"display": "twitter.com/Fahrenthold/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 11 15:00:02 +0000 2021",
+			"id": 1359879874496901000,
+			"id_str": "1359879874496901125",
+			"full_text": "NEW: Trump's argument for why he should get to live at Mar-a-Lago: he's an employee, who greets people when they arrive and thanks them when they leave. \n\nhttps://t.co/qbyDZQ2j9j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qbyDZQ2j9j",
+						"expanded_url": "https://www.washingtonpost.com/lifestyle/style/trump-palm-beach-fight-for-residency/2021/02/10/003e3fd0-671c-11eb-8c64-9595888caa15_story.html",
+						"display_url": "washingtonpost.com/lifestyle/styl…",
+						"indices": [
+							155,
+							178
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61734492,
+				"id_str": "61734492",
+				"name": "David Fahrenthold",
+				"screen_name": "Fahrenthold",
+				"location": "Washington, DC",
+				"description": "Washington Post reporter, covering former President Trump's businesses. MSNBC contributor. If you don't want it printed, don't let it happen.",
+				"url": "https://t.co/fJMCeIYylK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fJMCeIYylK",
+								"expanded_url": "http://www.washingtonpost.com",
+								"display_url": "washingtonpost.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 846409,
+				"friends_count": 5312,
+				"listed_count": 9487,
+				"created_at": "Fri Jul 31 09:29:37 +0000 2009",
+				"favourites_count": 12134,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 52014,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021824606087331841/_gPQBRax_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021824606087331841/_gPQBRax_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61734492/1478793649",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 631,
+			"favorite_count": 1558,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wish it worked that way. I’ve worked at a couple of places that I’d love to live in… https://t.co/jqW7r8GLoj"
+	},
+	{
 		"created_at": "Sun Feb 07 23:32:10 +0000 2021",
 		"id": 1358558939785420800,
 		"id_str": "1358559207172280320",
