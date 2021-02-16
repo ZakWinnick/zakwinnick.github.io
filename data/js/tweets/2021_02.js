@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 16 11:32:00 +0000 2021",
+		"id": 1361639462955016200,
+		"id_str": "1361639462955016199",
+		"full_text": "I’ve got this one from 3/17/2020 of the main sign that was going to be placed in the lobby of one of my hotels, welcoming everyone to the SEC Basketball Tournament that never happened. https://t.co/ZOML3cKFkO https://t.co/5f0hGbX0MO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZOML3cKFkO",
+					"expanded_url": "https://twitter.com/tweetgood_mac/status/1361286227488563207",
+					"display_url": "twitter.com/tweetgood_mac/…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1361639458865635300,
+					"id_str": "1361639458865635330",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EuWD36HXYAICldn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuWD36HXYAICldn.jpg",
+					"url": "https://t.co/5f0hGbX0MO",
+					"display_url": "pic.twitter.com/5f0hGbX0MO",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1361639462955016199/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361639458865635300,
+					"id_str": "1361639458865635330",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EuWD36HXYAICldn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuWD36HXYAICldn.jpg",
+					"url": "https://t.co/5f0hGbX0MO",
+					"display_url": "pic.twitter.com/5f0hGbX0MO",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1361639462955016199/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | 8w3 | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 64,
+			"friends_count": 264,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361286227488563200,
+		"quoted_status_id_str": "1361286227488563207",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZOML3cKFkO",
+			"expanded": "https://twitter.com/tweetgood_mac/status/1361286227488563207",
+			"display": "twitter.com/tweetgood_mac/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 15 12:08:22 +0000 2021",
+			"id": 1361286227488563200,
+			"id_str": "1361286227488563207",
+			"full_text": "What’s the earliest image you have saved on your phone to do with Corona? This from March 2nd for me. https://t.co/5NL0L6nKav",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1361286223361376300,
+						"id_str": "1361286223361376263",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/EuRCm5UWgAc-R6A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuRCm5UWgAc-R6A.jpg",
+						"url": "https://t.co/5NL0L6nKav",
+						"display_url": "pic.twitter.com/5NL0L6nKav",
+						"expanded_url": "https://twitter.com/Tweetgood_Mac/status/1361286227488563207/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1361286223361376300,
+						"id_str": "1361286223361376263",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/EuRCm5UWgAc-R6A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuRCm5UWgAc-R6A.jpg",
+						"url": "https://t.co/5NL0L6nKav",
+						"display_url": "pic.twitter.com/5NL0L6nKav",
+						"expanded_url": "https://twitter.com/Tweetgood_Mac/status/1361286227488563207/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273472552,
+				"id_str": "273472552",
+				"name": "Mac",
+				"screen_name": "Tweetgood_Mac",
+				"location": "",
+				"description": "Spurs. Occasional devastating subtweets. He/him.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2786,
+				"friends_count": 497,
+				"listed_count": 38,
+				"created_at": "Mon Mar 28 15:18:54 +0000 2011",
+				"favourites_count": 38982,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 75568,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1143174589289250818/P_k0BNGy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143174589289250818/P_k0BNGy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/273472552/1561388889",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 248,
+			"favorite_count": 4179,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’ve got this one from 3/17/2020 of the main sign that was going to be placed in the lobby of one of my hotels, welcoming everyone to the SEC Basketball Tournament that never happened. https://t.co/ZOML3cKFkO https://t.co/5f0hGbX0MO"
+	},
+	{
 		"created_at": "Sat Feb 13 17:30:48 +0000 2021",
 		"id": 1360642413585383400,
 		"id_str": "1360642595509141512",
