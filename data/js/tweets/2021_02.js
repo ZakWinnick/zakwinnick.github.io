@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 18 00:52:50 +0000 2021",
+		"id": 1362203388067340300,
+		"id_str": "1362203388067340293",
+		"full_text": "This took me WAY longer to get than it should have… https://t.co/xVVZa4b58g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xVVZa4b58g",
+					"expanded_url": "https://twitter.com/CarrieeeeC/status/1361849101231542273",
+					"display_url": "twitter.com/CarrieeeeC/sta…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "MacOS System Administrator | 15+ Year Veteran Podcaster | Amateur Social Media Professional | 8w3 | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 64,
+			"friends_count": 260,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361849101231542300,
+		"quoted_status_id_str": "1361849101231542273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xVVZa4b58g",
+			"expanded": "https://twitter.com/CarrieeeeC/status/1361849101231542273",
+			"display": "twitter.com/CarrieeeeC/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 17 01:25:02 +0000 2021",
+			"id": 1361849101231542300,
+			"id_str": "1361849101231542273",
+			"full_text": "To make a little extra money, I got an evening job in a toy factory on the assembly line making mini Dracula figurines. Because of Covid, it's just me and one other guy on the line. \n\nSo I have to make every second count. \n\nEvery. \nSecond. \nCount.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15343796,
+				"id_str": "15343796",
+				"name": "✨Carrie✨",
+				"screen_name": "CarrieeeeC",
+				"location": "the Capitol",
+				"description": "Army vet. Veterans' advocate. Working on a second master's for the lulz. I'd love to knit you a hat.",
+				"url": "https://t.co/Ij2w2spV33",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ij2w2spV33",
+								"expanded_url": "http://www.etsy.com/shop/CLCKnitting",
+								"display_url": "etsy.com/shop/CLCKnitti…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1730,
+				"friends_count": 640,
+				"listed_count": 12,
+				"created_at": "Mon Jul 07 16:53:38 +0000 2008",
+				"favourites_count": 24968,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12278,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1349195476067868672/IjQ3jhvO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349195476067868672/IjQ3jhvO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15343796/1608786869",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 342,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This took me WAY longer to get than it should have… https://t.co/xVVZa4b58g"
+	},
+	{
 		"created_at": "Tue Feb 16 11:32:00 +0000 2021",
 		"id": 1361639462955016200,
 		"id_str": "1361639462955016199",
