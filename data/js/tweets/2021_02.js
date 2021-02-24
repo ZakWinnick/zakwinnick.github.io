@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 24 19:31:14 +0000 2021",
+		"id": 1364650498993901600,
+		"id_str": "1364659170251784194",
+		"full_text": "I didn’t realize that House seats were voted on by voters from all 50 states… https://t.co/4lqt2yVaVB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4lqt2yVaVB",
+					"expanded_url": "https://twitter.com/GovMikeHuckabee/status/1364631453288521736",
+					"display_url": "twitter.com/GovMikeHuckabe…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189600242615890000,
+			"id_str": "1189600242615889922",
+			"name": "Zak Winnick",
+			"screen_name": "PolitiZak",
+			"location": "",
+			"description": "The political musings of @ZakWinnick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4,
+			"friends_count": 669,
+			"listed_count": 0,
+			"created_at": "Wed Oct 30 17:49:40 +0000 2019",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210981653230825472/4CTiQItl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189600242615889922/1574625510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364631453288521700,
+		"quoted_status_id_str": "1364631453288521736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4lqt2yVaVB",
+			"expanded": "https://twitter.com/GovMikeHuckabee/status/1364631453288521736",
+			"display": "twitter.com/GovMikeHuckabe…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 24 17:41:06 +0000 2021",
+			"id": 1364631453288521700,
+			"id_str": "1364631453288521736",
+			"full_text": "Hey Liz- Trump got 74 million votes; you 186,000.   A lot of us think Trump has a role but you don’t. https://t.co/UntiKXMqrv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UntiKXMqrv",
+						"expanded_url": "https://twitter.com/cspan/status/1364605432673746946",
+						"display_url": "twitter.com/cspan/status/1…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15416505,
+				"id_str": "15416505",
+				"name": "Gov. Mike Huckabee",
+				"screen_name": "GovMikeHuckabee",
+				"location": "United States",
+				"description": "Hosts “Huckabee\" on TBN Sat 8/11pm ET, Sun9pm ET;Fox News contributor, author, Fmr AR Gov, Bass Guitarist, grandfather of 6 cutest kids in world!",
+				"url": "https://t.co/8vprJHGCJw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8vprJHGCJw",
+								"expanded_url": "https://www.mikehuckabee.com/subscribe",
+								"display_url": "mikehuckabee.com/subscribe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1650003,
+				"friends_count": 564,
+				"listed_count": 9272,
+				"created_at": "Sun Jul 13 17:09:21 +0000 2008",
+				"favourites_count": 269,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13498,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C5C5C5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868086660663091201/_d6A-iRR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868086660663091201/_d6A-iRR_normal.jpg",
+				"profile_link_color": "8A121C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1364605432673747000,
+			"quoted_status_id_str": "1364605432673746946",
+			"quoted_status_permalink": {
+				"url": "https://t.co/UntiKXMqrv",
+				"expanded": "https://twitter.com/cspan/status/1364605432673746946",
+				"display": "twitter.com/cspan/status/1…"
+			},
+			"retweet_count": 866,
+			"favorite_count": 3618,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I didn’t realize that House seats were voted on by voters from all 50 states… https://t.co/4lqt2yVaVB"
+	},
+	{
 		"created_at": "Tue Feb 23 18:51:33 +0000 2021",
 		"id": 1364286792963420200,
 		"id_str": "1364286792963420160",
