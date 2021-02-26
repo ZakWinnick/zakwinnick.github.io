@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 26 12:05:05 +0000 2021",
+		"id": 1365271667451248600,
+		"id_str": "1365271667451248641",
+		"full_text": "Best everything Mexican in LA! \n\n@therealcasavega is a legend! https://t.co/4n1AbDiEIG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "therealcasavega",
+					"name": "Casa Vega Restaurant",
+					"id": 1003210885,
+					"id_str": "1003210885",
+					"indices": [
+						33,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4n1AbDiEIG",
+					"expanded_url": "https://twitter.com/MattOswaltVA/status/1365144557789216769",
+					"display_url": "twitter.com/MattOswaltVA/s…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 64,
+			"friends_count": 263,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365144557789216800,
+		"quoted_status_id_str": "1365144557789216769",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4n1AbDiEIG",
+			"expanded": "https://twitter.com/MattOswaltVA/status/1365144557789216769",
+			"display": "twitter.com/MattOswaltVA/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 26 03:40:00 +0000 2021",
+			"id": 1365144557789216800,
+			"id_str": "1365144557789216769",
+			"full_text": "swung by @therealcasavega - great sign but tough to shoot. Odd angles, trees, streetlights, and billboards all in the way. That said, hands down best margaritas in LA.\nAnd they do take out!  \nhttps://t.co/bitYwTfbh4 \nhttps://t.co/I1EFABfGMn https://t.co/Vt9itUkdIF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				240
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "therealcasavega",
+						"name": "Casa Vega Restaurant",
+						"id": 1003210885,
+						"id_str": "1003210885",
+						"indices": [
+							9,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bitYwTfbh4",
+						"expanded_url": "http://MattOswaltPhoto.com",
+						"display_url": "MattOswaltPhoto.com",
+						"indices": [
+							192,
+							215
+						]
+					},
+					{
+						"url": "https://t.co/I1EFABfGMn",
+						"expanded_url": "https://www.instagram.com/mattoswaltva/",
+						"display_url": "instagram.com/mattoswaltva/",
+						"indices": [
+							217,
+							240
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1365143437809315800,
+						"id_str": "1365143437809315842",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/EvH2uU4UcAIi7KN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvH2uU4UcAIi7KN.jpg",
+						"url": "https://t.co/Vt9itUkdIF",
+						"display_url": "pic.twitter.com/Vt9itUkdIF",
+						"expanded_url": "https://twitter.com/MattOswaltVA/status/1365144557789216769/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 473,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 473,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1365143437809315800,
+						"id_str": "1365143437809315842",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/EvH2uU4UcAIi7KN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvH2uU4UcAIi7KN.jpg",
+						"url": "https://t.co/Vt9itUkdIF",
+						"display_url": "pic.twitter.com/Vt9itUkdIF",
+						"expanded_url": "https://twitter.com/MattOswaltVA/status/1365144557789216769/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 473,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 473,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 249346453,
+				"id_str": "249346453",
+				"name": "Matt Oswalt",
+				"screen_name": "MattOswaltVA",
+				"location": "",
+				"description": "I write comedy, occasionally date your aunt, and take photos of liquor stores which you can purchase on my website.",
+				"url": "https://t.co/4mbY1nuXip",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4mbY1nuXip",
+								"expanded_url": "https://www.mattoswaltphoto.com",
+								"display_url": "mattoswaltphoto.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 356883,
+				"friends_count": 1060,
+				"listed_count": 1577,
+				"created_at": "Tue Feb 08 21:32:12 +0000 2011",
+				"favourites_count": 74803,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17133,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/722184632288960512/ZUh_hO61_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/722184632288960512/ZUh_hO61_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/249346453/1535948757",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 232,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Best everything Mexican in LA! \n\n@therealcasavega is a legend! https://t.co/4n1AbDiEIG"
+	},
+	{
 		"created_at": "Wed Feb 24 19:31:14 +0000 2021",
 		"id": 1364650498993901600,
 		"id_str": "1364659170251784194",
