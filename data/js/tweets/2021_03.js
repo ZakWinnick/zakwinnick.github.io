@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 03 23:25:13 +0000 2021",
+		"id": 1367254234727669800,
+		"id_str": "1367254767311937544",
+		"full_text": "This view is AMAZING. \nStraight out of science fiction. \nHoly hell.\n\n#SN10 #SpaceX https://t.co/VZKPMO2x9A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SN10",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "SpaceX",
+					"indices": [
+						75,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1367254154150883300,
+					"id_str": "1367254154150883332",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Evl2aL_XMAQjWeY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Evl2aL_XMAQjWeY.jpg",
+					"url": "https://t.co/VZKPMO2x9A",
+					"display_url": "pic.twitter.com/VZKPMO2x9A",
+					"expanded_url": "https://twitter.com/tanyaofmars/status/1367254234727669767/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1367254154150883300,
+					"id_str": "1367254154150883332",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Evl2aL_XMAQjWeY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Evl2aL_XMAQjWeY.jpg",
+					"url": "https://t.co/VZKPMO2x9A",
+					"display_url": "pic.twitter.com/VZKPMO2x9A",
+					"expanded_url": "https://twitter.com/tanyaofmars/status/1367254234727669767/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Evl2aL_XMAQjWeY.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25219709,
+			"id_str": "25219709",
+			"name": "Dr. Tanya Harrison",
+			"screen_name": "tanyaofmars",
+			"location": "Washington DC + Toronto",
+			"description": "Professional Martian 🔴 Former mission ops @MarsCuriosity, @MarsRovers & more 🌍 Director of Science Strategy @planetlabs Fed 👩‍🚀 Views=my own 🇺🇸🏳️‍🌈🇨🇦",
+			"url": "https://t.co/TPGmjIm9S0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPGmjIm9S0",
+							"expanded_url": "http://www.tanyaharrison.com",
+							"display_url": "tanyaharrison.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44285,
+			"friends_count": 10768,
+			"listed_count": 1071,
+			"created_at": "Thu Mar 19 02:39:50 +0000 2009",
+			"favourites_count": 106216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085079252041490434/g7eIlVjB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085079252041490434/g7eIlVjB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25219709/1613580110",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1079,
+		"favorite_count": 4084,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This view is AMAZING. \nStraight out of science fiction. \nHoly hell.\n\n#SN10 #SpaceX https://t.co/VZKPMO2x9A"
+	},
+	{
 		"created_at": "Wed Mar 03 22:59:05 +0000 2021",
 		"id": 1367248191393960000,
 		"id_str": "1367248191393959938",
