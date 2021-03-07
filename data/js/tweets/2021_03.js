@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 07 16:44:17 +0000 2021",
+		"id": 1368603419225829400,
+		"id_str": "1368603419225829378",
+		"full_text": "My home location. Still the best place for all things hot dogs and hamburgers.\n\nEven had my wedding rehearsal dinner there. ❤️ https://t.co/i7R8yf2oy2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i7R8yf2oy2",
+					"expanded_url": "https://twitter.com/carneytrain/status/1368579157806833666",
+					"display_url": "twitter.com/carneytrain/st…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 64,
+			"friends_count": 260,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1368579157806833700,
+		"quoted_status_id_str": "1368579157806833666",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i7R8yf2oy2",
+			"expanded": "https://twitter.com/carneytrain/status/1368579157806833666",
+			"display": "twitter.com/carneytrain/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 07 15:07:52 +0000 2021",
+			"id": 1368579157806833700,
+			"id_str": "1368579157806833666",
+			"full_text": "Carneys Studio City circa 1981. Seems like just the other day. It was so exciting and still is! https://t.co/NmdUJOtx4K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1368579146150944800,
+						"id_str": "1368579146150944773",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/Ev4re31VoAU98I1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ev4re31VoAU98I1.jpg",
+						"url": "https://t.co/NmdUJOtx4K",
+						"display_url": "pic.twitter.com/NmdUJOtx4K",
+						"expanded_url": "https://twitter.com/carneytrain/status/1368579157806833666/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2016,
+								"h": 1512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1368579146150944800,
+						"id_str": "1368579146150944773",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/Ev4re31VoAU98I1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ev4re31VoAU98I1.jpg",
+						"url": "https://t.co/NmdUJOtx4K",
+						"display_url": "pic.twitter.com/NmdUJOtx4K",
+						"expanded_url": "https://twitter.com/carneytrain/status/1368579157806833666/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2016,
+								"h": 1512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58402822,
+				"id_str": "58402822",
+				"name": "CarneyTrain",
+				"screen_name": "carneytrain",
+				"location": "SoCal Hollywood Studio City US",
+				"description": "Bill & John carry on for their dad, serving the same great food on the iconic train that has been around since 1975! Hot Dogs, Hamburgers & more!",
+				"url": "http://t.co/Elp0BpMx5L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Elp0BpMx5L",
+								"expanded_url": "http://carneytrain.com",
+								"display_url": "carneytrain.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1722,
+				"friends_count": 1851,
+				"listed_count": 53,
+				"created_at": "Mon Jul 20 05:49:02 +0000 2009",
+				"favourites_count": 2183,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4465,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2660155242/dfc5d7dc154a3eafe78a143661e025b8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2660155242/dfc5d7dc154a3eafe78a143661e025b8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58402822/1355618648",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My home location. Still the best place for all things hot dogs and hamburgers.\n\nEven had my wedding rehearsal dinner there. ❤️ https://t.co/i7R8yf2oy2"
+	},
+	{
 		"created_at": "Fri Mar 05 01:24:08 +0000 2021",
 		"id": 1367639371252457500,
 		"id_str": "1367647080790056961",
