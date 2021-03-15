@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 15 15:13:43 +0000 2021",
+		"id": 1371454731004997600,
+		"id_str": "1371479732424949765",
+		"full_text": "Happy 66th Birthday to Steve Lillywhite (@Sillywhite)🎂\n\n[October 1994] - Members of Dave Matthews Band talk about how it was working with Steve on their first studio album, \"Under The Table And Dreaming\" https://t.co/rzPzaefBOl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sillywhite",
+					"name": "Steve Lillywhite CBE",
+					"id": 25867475,
+					"id_str": "25867475",
+					"indices": [
+						41,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1371453248486273000,
+					"id_str": "1371453248486273024",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Ewhi9yOVgAAUbCu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ewhi9yOVgAAUbCu.jpg",
+					"url": "https://t.co/rzPzaefBOl",
+					"display_url": "pic.twitter.com/rzPzaefBOl",
+					"expanded_url": "https://twitter.com/copperpot5/status/1371454731004997632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1371453248486273000,
+					"id_str": "1371453248486273024",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Ewhi9yOVgAAUbCu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ewhi9yOVgAAUbCu.jpg",
+					"url": "https://t.co/rzPzaefBOl",
+					"display_url": "pic.twitter.com/rzPzaefBOl",
+					"expanded_url": "https://twitter.com/copperpot5/status/1371454731004997632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 139106,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1371453248486273024/pu/vid/480x360/aWww3YnYXF7SvTDz.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1371453248486273024/pu/vid/360x270/-_rXJbskWDFVLX7t.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1371453248486273024/pu/pl/OtQ8xxKuzsFcJ_Pk.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1371453248486273024/pu/vid/960x720/8DzgYo1oAfxvAV3W.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158838945,
+			"id_str": "158838945",
+			"name": "Chester Copperpot5",
+			"screen_name": "copperpot5",
+			"location": "California, USA",
+			"description": "Custom concert videos - Videos are my own renders. '90s/'00s Tape Trader. Tweets here are mostly DMB / Dave Matthews Band media. Youtuber. Nothing is monetized.",
+			"url": "https://t.co/gOn14BsQFB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gOn14BsQFB",
+							"expanded_url": "https://www.youtube.com/c/ChesterCopperpot5/videos?sub_confirmation=1",
+							"display_url": "youtube.com/c/ChesterCoppe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18470,
+			"friends_count": 177,
+			"listed_count": 191,
+			"created_at": "Wed Jun 23 20:00:12 +0000 2010",
+			"favourites_count": 25378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156033236784410624/xbvbiYmB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156033236784410624/xbvbiYmB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158838945/1558311971",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy 66th Birthday to Steve Lillywhite (@Sillywhite)🎂\n\n[October 1994] - Members of Dave Matthews Band talk about how it was working with Steve on their first studio album, \"Under The Table And Dreaming\" https://t.co/rzPzaefBOl"
+	},
+	{
 		"created_at": "Mon Mar 15 13:26:00 +0000 2021",
 		"id": 1371451090659639300,
 		"id_str": "1371452624457842690",
