@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 21 16:15:28 +0000 2021",
+		"id": 1373439236498718700,
+		"id_str": "1373669599091302404",
+		"full_text": "*Enter password:\nScoobyDoo\n*Sorry password must contain special characters\nScoobydooMeetsTheHarlemGlobetrotters https://t.co/tfqRbL1X1K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1373439235462692900,
+					"id_str": "1373439235462692869",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Ew9vtTZWgAUAPmm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ew9vtTZWgAUAPmm.jpg",
+					"url": "https://t.co/tfqRbL1X1K",
+					"display_url": "pic.twitter.com/tfqRbL1X1K",
+					"expanded_url": "https://twitter.com/ThatEricAlper/status/1373439236498718724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1373439235462692900,
+					"id_str": "1373439235462692869",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Ew9vtTZWgAUAPmm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ew9vtTZWgAUAPmm.jpg",
+					"url": "https://t.co/tfqRbL1X1K",
+					"display_url": "pic.twitter.com/tfqRbL1X1K",
+					"expanded_url": "https://twitter.com/ThatEricAlper/status/1373439236498718724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22018221,
+			"id_str": "22018221",
+			"name": "Eric Alper 🎧",
+			"screen_name": "ThatEricAlper",
+			"location": "Toronto",
+			"description": "Freelance Music Publicist. SiriusXM Host. Shameless Idealist. Lifelong Musicaholic. I talk about Music News in the Media. Eric@ThatEricAlper.com",
+			"url": "https://t.co/yyQlWgX2YH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yyQlWgX2YH",
+							"expanded_url": "https://ThatEricAlper.com",
+							"display_url": "ThatEricAlper.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 768224,
+			"friends_count": 331424,
+			"listed_count": 4964,
+			"created_at": "Thu Feb 26 15:08:31 +0000 2009",
+			"favourites_count": 433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 182818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258864159195873280/OZZlL3VJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258864159195873280/OZZlL3VJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22018221/1530493821",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "*Enter password:\nScoobyDoo\n*Sorry password must contain special characters\nScoobydooMeetsTheHarlemGlobetrotters https://t.co/tfqRbL1X1K"
+	},
+	{
 		"created_at": "Sun Mar 21 16:05:18 +0000 2021",
 		"id": 1373667039454318600,
 		"id_str": "1373667039454318592",
