@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 25 11:30:08 +0000 2021",
+		"id": 1375047342601166800,
+		"id_str": "1375047342601166850",
+		"full_text": "Well…that’s certainly worth the $10/mo. \n\nNow, just add Roundhouse and the original Are You Afraid of the Dark, and we’re golden. https://t.co/kc1UJgjcAo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kc1UJgjcAo",
+					"expanded_url": "https://twitter.com/nickandmore/status/1374787300169805842",
+					"display_url": "twitter.com/nickandmore/st…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 234,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1374787300169805800,
+		"quoted_status_id_str": "1374787300169805842",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kc1UJgjcAo",
+			"expanded": "https://twitter.com/nickandmore/status/1374787300169805842",
+			"display": "twitter.com/nickandmore/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 24 18:16:49 +0000 2021",
+			"id": 1374787300169805800,
+			"id_str": "1374787300169805842",
+			"full_text": "MAJOR additions to Paramount+ today:\n\n- Nickelodeon GUTS\n- Hey Dude\n- KaBlam!\n- Legends of the Hidden Temple\n- Nick Arcade\n- Salute Your Shorts\n- True Jackson, VP\n- You Can't Do That On Television",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 761287211656613900,
+				"id_str": "761287211656613888",
+				"name": "Nickandmore!",
+				"screen_name": "nickandmore",
+				"location": "",
+				"description": "Kids TV news and history",
+				"url": "https://t.co/pWv2A5kA2A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pWv2A5kA2A",
+								"expanded_url": "https://www.nickandmore.com/",
+								"display_url": "nickandmore.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7348,
+				"friends_count": 6,
+				"listed_count": 30,
+				"created_at": "Thu Aug 04 19:46:30 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1091,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1297449290923675648/FcmdxWff_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297449290923675648/FcmdxWff_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/761287211656613888/1615443373",
+				"profile_link_color": "0066AA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 165,
+			"favorite_count": 773,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well…that’s certainly worth the $10/mo. \n\nNow, just add Roundhouse and the original Are You Afraid of the Dark, and we’re golden. https://t.co/kc1UJgjcAo"
+	},
+	{
 		"created_at": "Wed Mar 24 20:44:38 +0000 2021",
 		"id": 1374824499703640000,
 		"id_str": "1374824499703640065",
