@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 09 21:51:11 +0000 2021",
+		"id": 1380628678007156700,
+		"id_str": "1380639453765591046",
+		"full_text": "Exciting news! The proposed ornamental turf ban in the Las Vegas Valley now has a legislative vehicle - #AB356. The Colorado River is in crisis and we need #nvleg to pass this bill.\n\nThree cheers to Assembly Nat. Res. Chairman @HowardWattsNV for championing this important bill! https://t.co/LLILbrDZB7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AB356",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "nvleg",
+					"indices": [
+						156,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HowardWattsNV",
+					"name": "Howard Watts III",
+					"id": 271076779,
+					"id_str": "271076779",
+					"indices": [
+						227,
+						241
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1380628301262155800,
+					"id_str": "1380628301262155778",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Eyj6IAeU8AIDRqc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eyj6IAeU8AIDRqc.jpg",
+					"url": "https://t.co/LLILbrDZB7",
+					"display_url": "pic.twitter.com/LLILbrDZB7",
+					"expanded_url": "https://twitter.com/BitterWaterBlue/status/1380628678007156737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1380628301262155800,
+					"id_str": "1380628301262155778",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Eyj6IAeU8AIDRqc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eyj6IAeU8AIDRqc.jpg",
+					"url": "https://t.co/LLILbrDZB7",
+					"display_url": "pic.twitter.com/LLILbrDZB7",
+					"expanded_url": "https://twitter.com/BitterWaterBlue/status/1380628678007156737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710199858968272900,
+			"id_str": "710199858968272896",
+			"name": "Patrick Donnelly",
+			"screen_name": "BitterWaterBlue",
+			"location": "Nevada, USA",
+			"description": "Nevada Director, @CenterForBioDiv & @CBD_Action_Fund. Desert rat. Passionate about groundwater dependent ecosystems. 'Scrappy and outspoken.' Tweets my own.",
+			"url": "https://t.co/rddFSPzkx7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rddFSPzkx7",
+							"expanded_url": "http://instagram.com/bitterwaterblue",
+							"display_url": "instagram.com/bitterwaterblue",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5664,
+			"friends_count": 3633,
+			"listed_count": 82,
+			"created_at": "Wed Mar 16 20:23:36 +0000 2016",
+			"favourites_count": 78497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323021315788345344/N7aY5dxI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323021315788345344/N7aY5dxI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710199858968272896/1525527469",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exciting news! The proposed ornamental turf ban in the Las Vegas Valley now has a legislative vehicle - #AB356. The Colorado River is in crisis and we need #nvleg to pass this bill.\n\nThree cheers to Assembly Nat. Res. Chairman @HowardWattsNV for championing this important bill! https://t.co/LLILbrDZB7"
+	},
+	{
 		"created_at": "Thu Apr 08 22:00:17 +0000 2021",
 		"id": 1380189552929861600,
 		"id_str": "1380279356325560324",
