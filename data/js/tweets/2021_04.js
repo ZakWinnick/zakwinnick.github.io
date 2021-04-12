@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 12 00:22:58 +0000 2021",
+		"id": 1380961060379836400,
+		"id_str": "1381402428692652036",
+		"full_text": "This is what geniuses at the Apple Store will use to diagnose your iPhone. https://t.co/KROBuWwDOQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1380961057393553400,
+					"id_str": "1380961057393553409",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Eyoow9qXMAEWru0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eyoow9qXMAEWru0.jpg",
+					"url": "https://t.co/KROBuWwDOQ",
+					"display_url": "pic.twitter.com/KROBuWwDOQ",
+					"expanded_url": "https://twitter.com/TimothyCookothy/status/1380961060379836425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1023,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1380961057393553400,
+					"id_str": "1380961057393553409",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Eyoow9qXMAEWru0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eyoow9qXMAEWru0.jpg",
+					"url": "https://t.co/KROBuWwDOQ",
+					"display_url": "pic.twitter.com/KROBuWwDOQ",
+					"expanded_url": "https://twitter.com/TimothyCookothy/status/1380961060379836425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1023,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1100298347578097700,
+			"id_str": "1100298347578097664",
+			"name": "Tim Cook Parody",
+			"screen_name": "TimothyCookothy",
+			"location": "Cupertino, CA",
+			"description": "This is a parody account that is not affiliated with Tim Cook or Apple.",
+			"url": "https://t.co/ObwbZFxC2C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ObwbZFxC2C",
+							"expanded_url": "http://instagram.com/timothycookothy",
+							"display_url": "instagram.com/timothycookothy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10796,
+			"friends_count": 1,
+			"listed_count": 44,
+			"created_at": "Tue Feb 26 07:35:43 +0000 2019",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238650649123999747/x4d5pVzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238650649123999747/x4d5pVzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1100298347578097664/1551279195",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 241,
+		"favorite_count": 2411,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what geniuses at the Apple Store will use to diagnose your iPhone. https://t.co/KROBuWwDOQ"
+	},
+	{
 		"created_at": "Fri Apr 09 21:51:11 +0000 2021",
 		"id": 1380628678007156700,
 		"id_str": "1380639453765591046",
