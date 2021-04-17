@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 17 13:39:26 +0000 2021",
+		"id": 1383247918417596400,
+		"id_str": "1383414805533368329",
+		"full_text": "Nirvana's \"Smells Like Teen Spirit\", perhaps the most iconic song of the 90s, was played for the first time 30yrs ago. (Early Version)\n\n2-Cam+ mix I did for my alternative rock Youtube channel. Full debut performance is watchable here: https://t.co/9XqgYJsI1K https://t.co/nz3pCRgktE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9XqgYJsI1K",
+					"expanded_url": "https://www.youtube.com/watch?v=Yp2cm3fSFfI",
+					"display_url": "youtube.com/watch?v=Yp2cm3…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1383247480649752600,
+					"id_str": "1383247480649752577",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1383247480649752577/pu/img/c4unbIztTzeLu_H9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1383247480649752577/pu/img/c4unbIztTzeLu_H9.jpg",
+					"url": "https://t.co/nz3pCRgktE",
+					"display_url": "pic.twitter.com/nz3pCRgktE",
+					"expanded_url": "https://twitter.com/copperpot5/status/1383247918417596418/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1383247480649752600,
+					"id_str": "1383247480649752577",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1383247480649752577/pu/img/c4unbIztTzeLu_H9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1383247480649752577/pu/img/c4unbIztTzeLu_H9.jpg",
+					"url": "https://t.co/nz3pCRgktE",
+					"display_url": "pic.twitter.com/nz3pCRgktE",
+					"expanded_url": "https://twitter.com/copperpot5/status/1383247918417596418/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 139172,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1383247480649752577/pu/pl/NyRmiqx81YDZ5Kvx.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1383247480649752577/pu/vid/960x720/eEdMrGvWiNCy24QL.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1383247480649752577/pu/vid/360x270/ndVUY5Sm42pnUVza.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1383247480649752577/pu/vid/480x360/jwv40uA-38D3DfUV.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158838945,
+			"id_str": "158838945",
+			"name": "Chester Copperpot5",
+			"screen_name": "copperpot5",
+			"location": "California, USA",
+			"description": "Custom concert videos - Videos are my own renders. '90s/'00s Tape Trader. Tweets here are mostly DMB / Dave Matthews Band media. Youtuber. Nothing is monetized.",
+			"url": "https://t.co/gOn14BsQFB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gOn14BsQFB",
+							"expanded_url": "https://www.youtube.com/c/ChesterCopperpot5/videos?sub_confirmation=1",
+							"display_url": "youtube.com/c/ChesterCoppe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18541,
+			"friends_count": 175,
+			"listed_count": 192,
+			"created_at": "Wed Jun 23 20:00:12 +0000 2010",
+			"favourites_count": 25476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156033236784410624/xbvbiYmB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156033236784410624/xbvbiYmB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158838945/1558311971",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 168,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nirvana's \"Smells Like Teen Spirit\", perhaps the most iconic song of the 90s, was played for the first time 30yrs ago. (Early Version)\n\n2-Cam+ mix I did for my alternative rock Youtube channel. Full debut performance is watchable here: https://t.co/9XqgYJsI1K https://t.co/nz3pCRgktE"
+	},
+	{
 		"created_at": "Sat Apr 17 02:03:27 +0000 2021",
 		"id": 1381760556110078000,
 		"id_str": "1383239654158213124",
@@ -25,7 +241,7 @@ Grailbird.data.tweets_2021_04 =
 		"user": {
 			"id": 17925939,
 			"id_str": "17925939",
-			"name": "half-vacci Nate d ☕️ 🧙‍♂️",
+			"name": "half-vacci Nate d ☕️ 🧙♂️",
 			"screen_name": "perlhack",
 			"location": "East Beep",
 			"description": "tweets about puns, portmanteaux, mental health, therapy, and pancakes vs waffles. Black Lives Matter. He/Him",
