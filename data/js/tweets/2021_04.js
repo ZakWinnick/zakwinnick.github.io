@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 17:06:40 +0000 2021",
+		"id": 1384190259836047400,
+		"id_str": "1384191730832986123",
+		"full_text": "Society if people backed up the data and remembered their Apple ID password https://t.co/jt4wz5Wj9U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384190243776057300,
+					"id_str": "1384190243776057352",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EzWhsWXVUAgs5TL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzWhsWXVUAgs5TL.jpg",
+					"url": "https://t.co/jt4wz5Wj9U",
+					"display_url": "pic.twitter.com/jt4wz5Wj9U",
+					"expanded_url": "https://twitter.com/Creative_Rants/status/1384190259836047364/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1030,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1030,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384190243776057300,
+					"id_str": "1384190243776057352",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EzWhsWXVUAgs5TL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzWhsWXVUAgs5TL.jpg",
+					"url": "https://t.co/jt4wz5Wj9U",
+					"display_url": "pic.twitter.com/jt4wz5Wj9U",
+					"expanded_url": "https://twitter.com/Creative_Rants/status/1384190259836047364/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1030,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1030,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824661439,
+			"id_str": "824661439",
+			"name": "Creative Rants",
+			"screen_name": "Creative_Rants",
+			"location": "Today at Apple sessions",
+			"description": "The personal rants of an Apple Store Creative",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8925,
+			"friends_count": 99,
+			"listed_count": 96,
+			"created_at": "Sat Sep 15 06:08:00 +0000 2012",
+			"favourites_count": 3926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2611871813/48h23l4h3wkw4v0sx5vw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2611871813/48h23l4h3wkw4v0sx5vw_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/824661439/1458601433",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Society if people backed up the data and remembered their Apple ID password https://t.co/jt4wz5Wj9U"
+	},
+	{
 		"created_at": "Mon Apr 19 11:50:21 +0000 2021",
 		"id": 1384112128030765000,
 		"id_str": "1384112128030765061",
