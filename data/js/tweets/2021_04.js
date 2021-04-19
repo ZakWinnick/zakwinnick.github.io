@@ -1,6 +1,438 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 11:50:21 +0000 2021",
+		"id": 1384112128030765000,
+		"id_str": "1384112128030765061",
+		"full_text": "I mean…it’s not hideous. https://t.co/qdQEadjnZs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qdQEadjnZs",
+					"expanded_url": "https://twitter.com/klwtts/status/1384003381589544965",
+					"display_url": "twitter.com/klwtts/status/…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 236,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384003381589545000,
+		"quoted_status_id_str": "1384003381589544965",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qdQEadjnZs",
+			"expanded": "https://twitter.com/klwtts/status/1384003381589544965",
+			"display": "twitter.com/klwtts/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 19 04:38:14 +0000 2021",
+			"id": 1384003381589545000,
+			"id_str": "1384003381589544965",
+			"full_text": "Everyone please welcome @Toyota to the  EV industry! 🥳\nDeveloped in partnership with @subaru_usa the bZ4X BEV Concept is the first of 15 EVs #Toyota will launch through 2025.\nWe’ve been waiting on Toyota’s first real EV &amp; we’re excited for this announcement - What do you think? https://t.co/oLbnlLw5my",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Toyota",
+						"indices": [
+							141,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Toyota",
+						"name": "Toyota USA",
+						"id": 14219877,
+						"id_str": "14219877",
+						"indices": [
+							24,
+							31
+						]
+					},
+					{
+						"screen_name": "subaru_usa",
+						"name": "Subaru",
+						"id": 16529238,
+						"id_str": "16529238",
+						"indices": [
+							85,
+							96
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1384003367500877800,
+						"id_str": "1384003367500877836",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/EzT3ut_VkAwsjlL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzT3ut_VkAwsjlL.jpg",
+						"url": "https://t.co/oLbnlLw5my",
+						"display_url": "pic.twitter.com/oLbnlLw5my",
+						"expanded_url": "https://twitter.com/klwtts/status/1384003381589544965/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1384003367500877800,
+						"id_str": "1384003367500877836",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/EzT3ut_VkAwsjlL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzT3ut_VkAwsjlL.jpg",
+						"url": "https://t.co/oLbnlLw5my",
+						"display_url": "pic.twitter.com/oLbnlLw5my",
+						"expanded_url": "https://twitter.com/klwtts/status/1384003381589544965/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1384003367509266400,
+						"id_str": "1384003367509266433",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/EzT3uuBVkAEgfYe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzT3uuBVkAEgfYe.jpg",
+						"url": "https://t.co/oLbnlLw5my",
+						"display_url": "pic.twitter.com/oLbnlLw5my",
+						"expanded_url": "https://twitter.com/klwtts/status/1384003381589544965/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1384003367509258200,
+						"id_str": "1384003367509258240",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/EzT3uuBVcAAxnaB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzT3uuBVcAAxnaB.jpg",
+						"url": "https://t.co/oLbnlLw5my",
+						"display_url": "pic.twitter.com/oLbnlLw5my",
+						"expanded_url": "https://twitter.com/klwtts/status/1384003381589544965/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 912969880852299800,
+				"id_str": "912969880852299776",
+				"name": "The Kilowatts 🚗⚡️",
+				"screen_name": "klwtts",
+				"location": "San Francisco, CA",
+				"description": "The best cars are electric cars. Connect with us: hi@kilowatt.media Subscribe to our Youtube",
+				"url": "https://t.co/ix8MFpISw4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ix8MFpISw4",
+								"expanded_url": "https://youtube.com/TheKilowatts",
+								"display_url": "youtube.com/TheKilowatts",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8788,
+				"friends_count": 1026,
+				"listed_count": 73,
+				"created_at": "Wed Sep 27 09:19:16 +0000 2017",
+				"favourites_count": 37044,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6823,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1269880290563915777/3lgpw9Li_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269880290563915777/3lgpw9Li_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/912969880852299776/1609452665",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "5a110d312052166f",
+				"url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+				"place_type": "city",
+				"name": "San Francisco",
+				"full_name": "San Francisco, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.514926,
+								37.708075
+							],
+							[
+								-122.357031,
+								37.708075
+							],
+							[
+								-122.357031,
+								37.833238
+							],
+							[
+								-122.514926,
+								37.833238
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 190,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mean…it’s not hideous. https://t.co/qdQEadjnZs"
+	},
+	{
 		"created_at": "Sat Apr 17 13:39:26 +0000 2021",
 		"id": 1383247918417596400,
 		"id_str": "1383414805533368329",
