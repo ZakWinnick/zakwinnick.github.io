@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 26 19:56:55 +0000 2021",
+		"id": 1386771293362659300,
+		"id_str": "1386771293362659330",
+		"full_text": "What the fresh hell is this? https://t.co/Bs4IkXe4Ng",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bs4IkXe4Ng",
+					"expanded_url": "https://twitter.com/darrenrovell/status/1386694016297750536",
+					"display_url": "twitter.com/darrenrovell/s…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 236,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1386694016297750500,
+		"quoted_status_id_str": "1386694016297750536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Bs4IkXe4Ng",
+			"expanded": "https://twitter.com/darrenrovell/status/1386694016297750536",
+			"display": "twitter.com/darrenrovell/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 26 14:49:51 +0000 2021",
+			"id": 1386694016297750500,
+			"id_str": "1386694016297750536",
+			"full_text": "JUST IN: The LA Times' @BillShaikin reports that the long time maker of Dodger Dogs, Farmer John, is out.\n\nThe Dodgers have been selling another hot dog as the Dodger Dog and because they have the trademark, Farmer John can't do anything about it.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BillShaikin",
+						"name": "Bill Shaikin",
+						"id": 237627239,
+						"id_str": "237627239",
+						"indices": [
+							23,
+							35
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24277551,
+				"id_str": "24277551",
+				"name": "Darren Rovell",
+				"screen_name": "darrenrovell",
+				"location": "New Jersey, “Vegas East”",
+				"description": "Business of Sports Betting, Memorabilia, NFTs, Sports Business Reporter & Senior Executive Producer for @ActionNetworkHQ.",
+				"url": "https://t.co/xdVJWesmdv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xdVJWesmdv",
+								"expanded_url": "http://actionnetwork.com/Rovell",
+								"display_url": "actionnetwork.com/Rovell",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2013313,
+				"friends_count": 3260,
+				"listed_count": 11831,
+				"created_at": "Fri Mar 13 23:11:21 +0000 2009",
+				"favourites_count": 5422,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 178082,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FF0000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1320203359991844864/VFz8w41C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320203359991844864/VFz8w41C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24277551/1459256465",
+				"profile_link_color": "161A18",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6EAEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 117,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What the fresh hell is this? https://t.co/Bs4IkXe4Ng"
+	},
+	{
 		"created_at": "Mon Apr 19 17:06:40 +0000 2021",
 		"id": 1384190259836047400,
 		"id_str": "1384191730832986123",
