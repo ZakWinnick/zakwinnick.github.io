@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 18 10:45:59 +0000 2021",
+		"id": 1394605177701900300,
+		"id_str": "1394605177701900289",
+		"full_text": "My first DMB show…😎 https://t.co/NzfmK5tiZi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NzfmK5tiZi",
+					"expanded_url": "https://twitter.com/copperpot5/status/1394434005425000448",
+					"display_url": "twitter.com/copperpot5/sta…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 242,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1394434005425000400,
+		"quoted_status_id_str": "1394434005425000448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NzfmK5tiZi",
+			"expanded": "https://twitter.com/copperpot5/status/1394434005425000448",
+			"display": "twitter.com/copperpot5/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 17 23:25:48 +0000 2021",
+			"id": 1394434005425000400,
+			"id_str": "1394434005425000448",
+			"full_text": "May 18, 2001 - \"Mother Father\" [Song Debut] - Carlos Santana guesting w/ Dave Matthews Band - Pacific Bell Park - San Francisco, CA.  \n\n\"Mother Father\" was last played in 2001. https://t.co/CRFe6LNLQJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1262259751066284000,
+						"id_str": "1262259751066284033",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/EYTuRVhWkAo3-dW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYTuRVhWkAo3-dW.jpg",
+						"url": "https://t.co/CRFe6LNLQJ",
+						"display_url": "pic.twitter.com/CRFe6LNLQJ",
+						"expanded_url": "https://twitter.com/copperpot5/status/1394434005425000448/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1262259751066284000,
+						"id_str": "1262259751066284033",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/EYTuRVhWkAo3-dW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYTuRVhWkAo3-dW.jpg",
+						"url": "https://t.co/CRFe6LNLQJ",
+						"display_url": "pic.twitter.com/CRFe6LNLQJ",
+						"expanded_url": "https://twitter.com/copperpot5/status/1394434005425000448/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 140374,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1262259751066284033/pu/vid/360x270/5ANcP3fWT-vYko-U.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1262259751066284033/pu/pl/dI8KsJc8zdQmOHcF.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1262259751066284033/pu/vid/480x360/F6DLCbjMCbn7B5QX.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1262259751066284033/pu/vid/960x720/hhU2pwDP8iDRQ6Ny.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158838945,
+				"id_str": "158838945",
+				"name": "Copperpot5",
+				"screen_name": "copperpot5",
+				"location": "California, USA",
+				"description": "Custom concert videos - Videos are my own renders. '90s/'00s Tape Trader. Tweets here are mostly DMB / Dave Matthews Band media. Youtuber. Nothing is monetized.",
+				"url": "https://t.co/gOn14BsQFB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gOn14BsQFB",
+								"expanded_url": "https://www.youtube.com/c/ChesterCopperpot5/videos?sub_confirmation=1",
+								"display_url": "youtube.com/c/ChesterCoppe…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18592,
+				"friends_count": 177,
+				"listed_count": 194,
+				"created_at": "Wed Jun 23 20:00:12 +0000 2010",
+				"favourites_count": 25649,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34248,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1156033236784410624/xbvbiYmB_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156033236784410624/xbvbiYmB_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158838945/1619402647",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My first DMB show…😎 https://t.co/NzfmK5tiZi"
+	},
+	{
 		"created_at": "Sun May 02 13:36:36 +0000 2021",
 		"id": 1388849909940502500,
 		"id_str": "1388849909940502533",
