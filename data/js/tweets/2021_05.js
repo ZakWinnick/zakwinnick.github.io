@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 19 12:23:13 +0000 2021",
+		"id": 1394992033157234700,
+		"id_str": "1394992033157234694",
+		"full_text": "@mattbirchler This is very true. I felt like I was a very small handful of people that actually advocated for DVD-A back in the day. \n\nI’m a bit lost with Spatial Audio now, as I do t think anyone really cares anymore. \n\nI’m more stoked for the HiRes stuff…",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattbirchler",
+					"name": "Matt Birchler",
+					"id": 27251386,
+					"id_str": "27251386",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1394990255028285400,
+		"in_reply_to_status_id_str": "1394990255028285446",
+		"in_reply_to_user_id": 27251386,
+		"in_reply_to_user_id_str": "27251386",
+		"in_reply_to_screen_name": "mattbirchler",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 243,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357102829052309504/LTs-DnBU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mattbirchler This is very true. I felt like I was a very small handful of people that actually advocated for DVD-A back in the day. \n\nI’m a bit lost with Spatial Audio now, as I do t think anyone really cares anymore. \n\nI’m more stoked for the HiRes stuff…"
+	},
+	{
 		"created_at": "Wed May 19 11:45:50 +0000 2021",
 		"id": 1394982626998554600,
 		"id_str": "1394982626998554625",
