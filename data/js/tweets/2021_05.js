@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 29 01:41:35 +0000 2021",
+		"id": 1398433429834801200,
+		"id_str": "1398454440085102597",
+		"full_text": "Somebody has to say it: Critics of @ElonMusk's Vegas Loop don't know squat. @BoringCompany https://t.co/6Ub0a9ca9E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elonmusk",
+					"name": "Elon Musk",
+					"id": 44196397,
+					"id_str": "44196397",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"screen_name": "boringcompany",
+					"name": "The Boring Company",
+					"id": 859816394556284900,
+					"id_str": "859816394556284929",
+					"indices": [
+						76,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6Ub0a9ca9E",
+					"expanded_url": "https://vitalvegas.com/confirmed-critics-of-elon-musks-vegas-loop-are-clueless",
+					"display_url": "vitalvegas.com/confirmed-crit…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 514487309,
+			"id_str": "514487309",
+			"name": "Vital Vegas",
+			"screen_name": "VitalVegas",
+			"location": "Las Vegas, NV",
+			"description": "https://t.co/iNB8aPQlsS is your essential source for Las Vegas news, rumors, tips and WTF. #LasVegas",
+			"url": "https://t.co/qBgUfzLqfn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qBgUfzLqfn",
+							"expanded_url": "http://www.vitalvegas.com",
+							"display_url": "vitalvegas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iNB8aPQlsS",
+							"expanded_url": "http://VitalVegas.com",
+							"display_url": "VitalVegas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 87880,
+			"friends_count": 14728,
+			"listed_count": 563,
+			"created_at": "Sun Mar 04 16:04:28 +0000 2012",
+			"favourites_count": 146846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 106881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000477710502/0e173bc3f5353ff8861305b64f20b625_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/514487309/1510021234",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "893F0D",
+			"profile_text_color": "050404",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Somebody has to say it: Critics of @ElonMusk's Vegas Loop don't know squat. @BoringCompany https://t.co/6Ub0a9ca9E"
+	},
+	{
 		"created_at": "Fri May 21 01:08:05 +0000 2021",
 		"id": 1395454280153325600,
 		"id_str": "1395546906017796097",
