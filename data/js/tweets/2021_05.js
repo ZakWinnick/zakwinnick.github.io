@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 30 16:41:44 +0000 2021",
+		"id": 1399043360334090200,
+		"id_str": "1399043360334090241",
+		"full_text": "@mattbirchler Roger that. I’m curious to see what everyone says about that.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattbirchler",
+					"name": "Matt Birchler",
+					"id": 27251386,
+					"id_str": "27251386",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1399042951813210000,
+		"in_reply_to_status_id_str": "1399042951813210123",
+		"in_reply_to_user_id": 27251386,
+		"in_reply_to_user_id_str": "27251386",
+		"in_reply_to_screen_name": "mattbirchler",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 212,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395036528343199744/z2-qavA9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395036528343199744/z2-qavA9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mattbirchler Roger that. I’m curious to see what everyone says about that."
+	},
+	{
+		"created_at": "Sun May 30 16:38:12 +0000 2021",
+		"id": 1399042470944678000,
+		"id_str": "1399042470944677893",
+		"full_text": "@mattbirchler I think that would be a bad idea, especially with the rise of specialized feeds from Patreon, etc. (ad-free, subscriber-only, etc.). \n\nNot allowing that would be an instant no from me.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattbirchler",
+					"name": "Matt Birchler",
+					"id": 27251386,
+					"id_str": "27251386",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1399037210935148500,
+		"in_reply_to_status_id_str": "1399037210935148544",
+		"in_reply_to_user_id": 27251386,
+		"in_reply_to_user_id_str": "27251386",
+		"in_reply_to_screen_name": "mattbirchler",
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 212,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395036528343199744/z2-qavA9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395036528343199744/z2-qavA9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mattbirchler I think that would be a bad idea, especially with the rise of specialized feeds from Patreon, etc. (ad-free, subscriber-only, etc.). \n\nNot allowing that would be an instant no from me."
+	},
+	{
+		"created_at": "Sun May 30 16:36:48 +0000 2021",
+		"id": 1399033079004496000,
+		"id_str": "1399042117033467904",
+		"full_text": "You can still download DMB's 2000 \"Lillywhite Sessions\" freely at this site: (thx to ZackR):  https://t.co/9RWWCreqw1\n\nThe CD has been in common circulation / part of open DMB discussions for 20+yrs - (sadly some new fans get suckered into paying for it - so best to pass it)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9RWWCreqw1",
+					"expanded_url": "http://mindshatter.com/dmb/2009/11/17/dmb-the-lillywhite-sessions/",
+					"display_url": "mindshatter.com/dmb/2009/11/17…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158838945,
+			"id_str": "158838945",
+			"name": "Copperpot5",
+			"screen_name": "copperpot5",
+			"location": "California, USA",
+			"description": "Custom concert videos - Videos are my own renders. '90s/'00s Tape Trader. Tweets here are mostly DMB / Dave Matthews Band media. Youtuber. Nothing is monetized.",
+			"url": "https://t.co/gOn14BsQFB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gOn14BsQFB",
+							"expanded_url": "https://www.youtube.com/c/ChesterCopperpot5/videos?sub_confirmation=1",
+							"display_url": "youtube.com/c/ChesterCoppe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18564,
+			"friends_count": 181,
+			"listed_count": 196,
+			"created_at": "Wed Jun 23 20:00:12 +0000 2010",
+			"favourites_count": 25719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156033236784410624/xbvbiYmB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156033236784410624/xbvbiYmB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158838945/1619402647",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can still download DMB's 2000 \"Lillywhite Sessions\" freely at this site: (thx to ZackR):  https://t.co/9RWWCreqw1\n\nThe CD has been in common circulation / part of open DMB discussions for 20+yrs - (sadly some new fans get suckered into paying for it - so best to pass it)"
+	},
+	{
 		"created_at": "Sat May 29 17:01:49 +0000 2021",
 		"id": 1398686027322175500,
 		"id_str": "1398686027322175491",
