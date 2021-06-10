@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 10 17:57:55 +0000 2021",
+		"id": 1403021329109065700,
+		"id_str": "1403048798541258752",
+		"full_text": "Amy Schumer is trending because of a truck stop pic and  NO ONE IS TALKING ABOUT THIS??? https://t.co/db9N92o9eE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403021305864241200,
+					"id_str": "1403021305864241154",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E3iIcbRXwAIysg_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3iIcbRXwAIysg_.jpg",
+					"url": "https://t.co/db9N92o9eE",
+					"display_url": "pic.twitter.com/db9N92o9eE",
+					"expanded_url": "https://twitter.com/AikinNorb/status/1403021329109065730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 626,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 626,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403021305864241200,
+					"id_str": "1403021305864241154",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E3iIcbRXwAIysg_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3iIcbRXwAIysg_.jpg",
+					"url": "https://t.co/db9N92o9eE",
+					"display_url": "pic.twitter.com/db9N92o9eE",
+					"expanded_url": "https://twitter.com/AikinNorb/status/1403021329109065730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 626,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 626,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1362238280373309400,
+			"id_str": "1362238280373309443",
+			"name": "Norb Aikin",
+			"screen_name": "AikinNorb",
+			"location": "Cortland, NY via Buffalo",
+			"description": "Award winning @Writingcom poet and blogger. MH advocate. 2x published poet.  #WritingCommunity #BillsMafia #Sabres #Mets #ND #NorbAF",
+			"url": "https://t.co/BwwsvT6S4n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BwwsvT6S4n",
+							"expanded_url": "https://www.norbaikin.com/blog/",
+							"display_url": "norbaikin.com/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2139,
+			"friends_count": 2886,
+			"listed_count": 11,
+			"created_at": "Thu Feb 18 03:11:51 +0000 2021",
+			"favourites_count": 27913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1362238563228798979/sQZY6Crn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362238563228798979/sQZY6Crn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1362238280373309443/1614115161",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 469,
+		"favorite_count": 3498,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amy Schumer is trending because of a truck stop pic and  NO ONE IS TALKING ABOUT THIS??? https://t.co/db9N92o9eE"
+	},
+	{
 		"created_at": "Thu Jun 10 14:45:09 +0000 2021",
 		"id": 1403000288747786200,
 		"id_str": "1403000288747786244",
