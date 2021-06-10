@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 10 14:45:09 +0000 2021",
+		"id": 1403000288747786200,
+		"id_str": "1403000288747786244",
+		"full_text": "TIL… https://t.co/FXZguB6krI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FXZguB6krI",
+					"expanded_url": "https://twitter.com/robjyeo/status/1402977905316188169",
+					"display_url": "twitter.com/robjyeo/status…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 61,
+			"friends_count": 222,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395036528343199744/z2-qavA9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395036528343199744/z2-qavA9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1402977905316188200,
+		"quoted_status_id_str": "1402977905316188169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FXZguB6krI",
+			"expanded": "https://twitter.com/robjyeo/status/1402977905316188169",
+			"display": "twitter.com/robjyeo/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 10 13:16:13 +0000 2021",
+			"id": 1402977905316188200,
+			"id_str": "1402977905316188169",
+			"full_text": "Watching The Terminal for the millionth time but only just spotted the crew member watching monitors behind the Starbucks counter https://t.co/Ry9QUEsGtr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1402977768330178600,
+						"id_str": "1402977768330178569",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/E3hg2NUXMAkdtZX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3hg2NUXMAkdtZX.jpg",
+						"url": "https://t.co/Ry9QUEsGtr",
+						"display_url": "pic.twitter.com/Ry9QUEsGtr",
+						"expanded_url": "https://twitter.com/robjyeo/status/1402977905316188169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1717,
+								"h": 963,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1402977768330178600,
+						"id_str": "1402977768330178569",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/E3hg2NUXMAkdtZX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3hg2NUXMAkdtZX.jpg",
+						"url": "https://t.co/Ry9QUEsGtr",
+						"display_url": "pic.twitter.com/Ry9QUEsGtr",
+						"expanded_url": "https://twitter.com/robjyeo/status/1402977905316188169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1717,
+								"h": 963,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9660482,
+				"id_str": "9660482",
+				"name": "Rob Yeo",
+				"screen_name": "robjyeo",
+				"location": "Coventry, England",
+				"description": "Themed Entertainment Creative Director // Illustrator // https://t.co/anQTgL8932 // Not even funny in 3D // Married to @aroopert // https://t.co/Sm8UUkr7RX",
+				"url": "https://t.co/Qc7nFxhlED",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Qc7nFxhlED",
+								"expanded_url": "https://linktr.ee/robjyeo",
+								"display_url": "linktr.ee/robjyeo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/anQTgL8932",
+								"expanded_url": "http://robyeodesign.com",
+								"display_url": "robyeodesign.com",
+								"indices": [
+									57,
+									80
+								]
+							},
+							{
+								"url": "https://t.co/Sm8UUkr7RX",
+								"expanded_url": "http://instagram.com/robjyeo",
+								"display_url": "instagram.com/robjyeo",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7892,
+				"friends_count": 2313,
+				"listed_count": 118,
+				"created_at": "Wed Oct 24 17:30:11 +0000 2007",
+				"favourites_count": 119513,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 61362,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1401295064760991751/xDI2LOrD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401295064760991751/xDI2LOrD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9660482/1561368353",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "TIL… https://t.co/FXZguB6krI"
+	},
+	{
 		"created_at": "Tue Jun 08 18:53:29 +0000 2021",
 		"id": 1402338004384030700,
 		"id_str": "1402338004384030723",
