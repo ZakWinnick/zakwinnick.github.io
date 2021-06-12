@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 12 15:34:11 +0000 2021",
+		"id": 1403737403626606600,
+		"id_str": "1403737403626606592",
+		"full_text": "14 years with @DreamHost. \n\nStill the best hosting service I’ve ever used.\n\nhttps://t.co/SSfxskzc96 https://t.co/aQ66asfZkS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DreamHost",
+					"name": "DreamHost",
+					"id": 14217022,
+					"id_str": "14217022",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SSfxskzc96",
+					"expanded_url": "https://mbsy.co/3qjvT6",
+					"display_url": "mbsy.co/3qjvT6",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403737388447318000,
+					"id_str": "1403737388447318027",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/E3sTt6xWQAsxLCh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3sTt6xWQAsxLCh.jpg",
+					"url": "https://t.co/aQ66asfZkS",
+					"display_url": "pic.twitter.com/aQ66asfZkS",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1403737403626606592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1205,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 706,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403737388447318000,
+					"id_str": "1403737388447318027",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/E3sTt6xWQAsxLCh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3sTt6xWQAsxLCh.jpg",
+					"url": "https://t.co/aQ66asfZkS",
+					"display_url": "pic.twitter.com/aQ66asfZkS",
+					"expanded_url": "https://twitter.com/ZakWinnick/status/1403737403626606592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1205,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 706,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 61,
+			"friends_count": 223,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395036528343199744/z2-qavA9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395036528343199744/z2-qavA9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "14 years with @DreamHost. \n\nStill the best hosting service I’ve ever used.\n\nhttps://t.co/SSfxskzc96 https://t.co/aQ66asfZkS"
+	},
+	{
 		"created_at": "Thu Jun 10 17:57:55 +0000 2021",
 		"id": 1403021329109065700,
 		"id_str": "1403048798541258752",
