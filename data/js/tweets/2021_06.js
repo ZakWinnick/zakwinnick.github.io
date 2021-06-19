@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 19 15:19:59 +0000 2021",
+		"id": 1405986475771011000,
+		"id_str": "1406270541653327872",
+		"full_text": "Making a sign that no longer exists and putting it back where it belongs (however so briefly) is the absolute pinnacle of what I do as an artist. Bringing the Dunes sign back to life this week will be very difficult to top. https://t.co/gMfsw2PH4G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1405986463959765000,
+					"id_str": "1405986463959764992",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/E4MRPV9UUAAX4vL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4MRPV9UUAAX4vL.jpg",
+					"url": "https://t.co/gMfsw2PH4G",
+					"display_url": "pic.twitter.com/gMfsw2PH4G",
+					"expanded_url": "https://twitter.com/route9signs/status/1405986475771011072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405986463959765000,
+					"id_str": "1405986463959764992",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/E4MRPV9UUAAX4vL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4MRPV9UUAAX4vL.jpg",
+					"url": "https://t.co/gMfsw2PH4G",
+					"display_url": "pic.twitter.com/gMfsw2PH4G",
+					"expanded_url": "https://twitter.com/route9signs/status/1405986475771011072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1405986463964037000,
+					"id_str": "1405986463964037122",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/E4MRPV-VgAIbgZ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4MRPV-VgAIbgZ8.jpg",
+					"url": "https://t.co/gMfsw2PH4G",
+					"display_url": "pic.twitter.com/gMfsw2PH4G",
+					"expanded_url": "https://twitter.com/route9signs/status/1405986475771011072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 945,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1405986463955570700,
+					"id_str": "1405986463955570688",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/E4MRPV8UUAAKvtx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4MRPV8UUAAKvtx.jpg",
+					"url": "https://t.co/gMfsw2PH4G",
+					"display_url": "pic.twitter.com/gMfsw2PH4G",
+					"expanded_url": "https://twitter.com/route9signs/status/1405986475771011072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1405986463951429600,
+					"id_str": "1405986463951429635",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/E4MRPV7VIAMcDXe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4MRPV7VIAMcDXe.jpg",
+					"url": "https://t.co/gMfsw2PH4G",
+					"display_url": "pic.twitter.com/gMfsw2PH4G",
+					"expanded_url": "https://twitter.com/route9signs/status/1405986475771011072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1216384003852210200,
+			"id_str": "1216384003852210176",
+			"name": "Route9signs",
+			"screen_name": "route9signs",
+			"location": "",
+			"description": "Chris R. Fresno CA. Maker of awesome signs. Masked for your protection.",
+			"url": "https://t.co/geVQR9rHnM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/geVQR9rHnM",
+							"expanded_url": "http://instagram.com/route9signs/",
+							"display_url": "instagram.com/route9signs/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1124,
+			"friends_count": 468,
+			"listed_count": 7,
+			"created_at": "Sun Jan 12 15:38:48 +0000 2020",
+			"favourites_count": 13743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405991335564255232/nRJI1Z1O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405991335564255232/nRJI1Z1O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1216384003852210176/1623783837",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Making a sign that no longer exists and putting it back where it belongs (however so briefly) is the absolute pinnacle of what I do as an artist. Bringing the Dunes sign back to life this week will be very difficult to top. https://t.co/gMfsw2PH4G"
+	},
+	{
 		"created_at": "Sun Jun 13 19:06:18 +0000 2021",
 		"id": 1404136340371947500,
 		"id_str": "1404153170037817354",
