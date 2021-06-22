@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 21 23:46:53 +0000 2021",
+		"id": 1407122886163239000,
+		"id_str": "1407122886163238926",
+		"full_text": "I was obsessed with this movie when it came out. I was actually at the premier at the El Capitan!\n\nI was also obsessed with Jennifer Connelly…(still am) https://t.co/AXIe714K0S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AXIe714K0S",
+					"expanded_url": "https://twitter.com/MainStArtCorner/status/1406987275662020610",
+					"display_url": "twitter.com/MainStArtCorne…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 224,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1404534441825947648/L1WXNci0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1404534441825947648/L1WXNci0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1406987275662020600,
+		"quoted_status_id_str": "1406987275662020610",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AXIe714K0S",
+			"expanded": "https://twitter.com/MainStArtCorner/status/1406987275662020610",
+			"display": "twitter.com/MainStArtCorne…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 21 14:48:01 +0000 2021",
+			"id": 1406987275662020600,
+			"id_str": "1406987275662020610",
+			"full_text": "#TheRocketeer made a hard landing in theaters on this day in 1991. First premiering at the #ElCapitanTheatre in Hollywood two days earlier, The Rocketeer was the first film to play at the historic movie house since the $14 million renovation. #disney #disneyhistory #rocketeer https://t.co/dUIfgzPVot",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheRocketeer",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"text": "ElCapitanTheatre",
+						"indices": [
+							91,
+							108
+						]
+					},
+					{
+						"text": "disney",
+						"indices": [
+							243,
+							250
+						]
+					},
+					{
+						"text": "disneyhistory",
+						"indices": [
+							251,
+							265
+						]
+					},
+					{
+						"text": "rocketeer",
+						"indices": [
+							266,
+							276
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1406987268523401200,
+						"id_str": "1406987268523401222",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E4afd1fVoAYqtnU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4afd1fVoAYqtnU.jpg",
+						"url": "https://t.co/dUIfgzPVot",
+						"display_url": "pic.twitter.com/dUIfgzPVot",
+						"expanded_url": "https://twitter.com/MainStArtCorner/status/1406987275662020610/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 658,
+								"h": 370,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 658,
+								"h": 370,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 658,
+								"h": 370,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1406987268523401200,
+						"id_str": "1406987268523401222",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E4afd1fVoAYqtnU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4afd1fVoAYqtnU.jpg",
+						"url": "https://t.co/dUIfgzPVot",
+						"display_url": "pic.twitter.com/dUIfgzPVot",
+						"expanded_url": "https://twitter.com/MainStArtCorner/status/1406987275662020610/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 658,
+								"h": 370,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 658,
+								"h": 370,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 658,
+								"h": 370,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1406987268527517700,
+						"id_str": "1406987268527517702",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E4afd1gUcAY4oAX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4afd1gUcAY4oAX.jpg",
+						"url": "https://t.co/dUIfgzPVot",
+						"display_url": "pic.twitter.com/dUIfgzPVot",
+						"expanded_url": "https://twitter.com/MainStArtCorner/status/1406987275662020610/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1386,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 812,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1406987268535906300,
+						"id_str": "1406987268535906304",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E4afd1iUcAAXniq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4afd1iUcAAXniq.jpg",
+						"url": "https://t.co/dUIfgzPVot",
+						"display_url": "pic.twitter.com/dUIfgzPVot",
+						"expanded_url": "https://twitter.com/MainStArtCorner/status/1406987275662020610/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 225,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 225,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 225,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1406987268514926600,
+						"id_str": "1406987268514926594",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E4afd1dUUAIynTy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4afd1dUUAIynTy.jpg",
+						"url": "https://t.co/dUIfgzPVot",
+						"display_url": "pic.twitter.com/dUIfgzPVot",
+						"expanded_url": "https://twitter.com/MainStArtCorner/status/1406987275662020610/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 780,
+								"h": 440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 780,
+								"h": 440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3107961157,
+				"id_str": "3107961157",
+				"name": "Main St. Art Corner",
+				"screen_name": "MainStArtCorner",
+				"location": "",
+				"description": "Personalized, made-to-order museum-quality paper & canvas prints with a touch of Disney magic. The perfect gift for kids, Disney fans, weddings and new babies.",
+				"url": "https://t.co/YB5WmJReBh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YB5WmJReBh",
+								"expanded_url": "http://msartcorner.com",
+								"display_url": "msartcorner.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1951,
+				"friends_count": 4915,
+				"listed_count": 25,
+				"created_at": "Wed Mar 25 20:31:53 +0000 2015",
+				"favourites_count": 1216,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2271,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1399829943316410371/yjlp7Zwm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399829943316410371/yjlp7Zwm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3107961157/1609780444",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was obsessed with this movie when it came out. I was actually at the premier at the El Capitan!\n\nI was also obsessed with Jennifer Connelly…(still am) https://t.co/AXIe714K0S"
+	},
+	{
 		"created_at": "Sat Jun 19 15:19:59 +0000 2021",
 		"id": 1405986475771011000,
 		"id_str": "1406270541653327872",
