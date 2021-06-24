@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 24 13:00:13 +0000 2021",
+		"id": 1408047308328083500,
+		"id_str": "1408047308328083458",
+		"full_text": "Boo... https://t.co/qHKUwxPPOD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qHKUwxPPOD",
+					"expanded_url": "https://twitter.com/Angry_Staffer/status/1407749852671455235",
+					"display_url": "twitter.com/Angry_Staffer/…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 223,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1404534441825947648/L1WXNci0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1404534441825947648/L1WXNci0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407749852671455200,
+		"quoted_status_id_str": "1407749852671455235",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qHKUwxPPOD",
+			"expanded": "https://twitter.com/Angry_Staffer/status/1407749852671455235",
+			"display": "twitter.com/Angry_Staffer/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 23 17:18:14 +0000 2021",
+			"id": 1407749852671455200,
+			"id_str": "1407749852671455235",
+			"full_text": "Everyone’s always worried about their cell phone, their TV, or even their microwave spying on them, but nobody wants to talk about how your vacuum has been gathering dirt on you for years?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 848148994102612000,
+				"id_str": "848148994102611969",
+				"name": "Angry Staffer",
+				"screen_name": "Angry_Staffer",
+				"location": "",
+				"description": "Not a current WH Staffer | Politics, NatSec, and Snark — Mileage may vary | Views mine | https://t.co/Kj4zTIcPyk",
+				"url": "https://t.co/3ETxqthwV4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3ETxqthwV4",
+								"expanded_url": "http://angrystaffer.com",
+								"display_url": "angrystaffer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Kj4zTIcPyk",
+								"expanded_url": "https://www.patreon.com/AWHSBlog",
+								"display_url": "patreon.com/AWHSBlog",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 399542,
+				"friends_count": 479,
+				"listed_count": 2180,
+				"created_at": "Sat Apr 01 12:24:12 +0000 2017",
+				"favourites_count": 8524,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27912,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1352160680783323136/D8xnchE__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352160680783323136/D8xnchE__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/848148994102611969/1611143546",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1278,
+			"favorite_count": 13784,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Boo... https://t.co/qHKUwxPPOD"
+	},
+	{
 		"created_at": "Mon Jun 21 23:46:53 +0000 2021",
 		"id": 1407122886163239000,
 		"id_str": "1407122886163238926",
