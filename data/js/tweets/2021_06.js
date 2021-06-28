@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 28 11:25:37 +0000 2021",
+		"id": 1409299709307588600,
+		"id_str": "1409473054187556866",
+		"full_text": "For a song called “Piano Man”, the guy with harmonica sure won’t shut the fuck up.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64507345,
+			"id_str": "64507345",
+			"name": "Lindsey Ian Cole",
+			"screen_name": "Lindsanity50",
+			"location": "NC, KS, AK, WY, FL",
+			"description": "(He/Him) Official Twitter of the 1993 Rural Hall Elementary School Spelling Bee Runner-Up",
+			"url": "https://t.co/yB1O8fISa6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yB1O8fISa6",
+							"expanded_url": "https://youtube.com/user/LindseyIanCole83",
+							"display_url": "youtube.com/user/LindseyIa…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1051,
+			"friends_count": 1016,
+			"listed_count": 1,
+			"created_at": "Mon Aug 10 20:36:40 +0000 2009",
+			"favourites_count": 46934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395437673393819648/8__alBZC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395437673393819648/8__alBZC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64507345/1618773380",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4ec01c9dbc693497",
+			"url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json",
+			"place_type": "admin",
+			"name": "Florida",
+			"full_name": "Florida, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-87.634643,
+							24.396308
+						],
+						[
+							-79.974307,
+							24.396308
+						],
+						[
+							-79.974307,
+							31.001056
+						],
+						[
+							-87.634643,
+							31.001056
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "For a song called “Piano Man”, the guy with harmonica sure won’t shut the fuck up."
+	},
+	{
 		"created_at": "Mon Jun 28 00:10:16 +0000 2021",
 		"id": 1409303098795999200,
 		"id_str": "1409303098795999235",
