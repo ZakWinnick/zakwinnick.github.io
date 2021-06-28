@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 28 00:10:16 +0000 2021",
+		"id": 1409303098795999200,
+		"id_str": "1409303098795999235",
+		"full_text": "‘97, ‘98, ‘99. https://t.co/aLKbsBALdd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aLKbsBALdd",
+					"expanded_url": "https://twitter.com/TheBlueDevils/status/1409297345305452550",
+					"display_url": "twitter.com/TheBlueDevils/…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 221,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408409387480326148/05B7qFeB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408409387480326148/05B7qFeB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1409297345305452500,
+		"quoted_status_id_str": "1409297345305452550",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aLKbsBALdd",
+			"expanded": "https://twitter.com/TheBlueDevils/status/1409297345305452550",
+			"display": "twitter.com/TheBlueDevils/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 27 23:47:25 +0000 2021",
+			"id": 1409297345305452500,
+			"id_str": "1409297345305452550",
+			"full_text": "What are 3 BD shows you're sure you've seen at least 10 times?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16789643,
+				"id_str": "16789643",
+				"name": "The Blue Devils",
+				"screen_name": "TheBlueDevils",
+				"location": "Concord, CA",
+				"description": "Welcome to our #bdworld Want more? 👉 https://t.co/unDZF3aILu",
+				"url": "https://t.co/09GzFICVEH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/09GzFICVEH",
+								"expanded_url": "https://bluedevils.org/",
+								"display_url": "bluedevils.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/unDZF3aILu",
+								"expanded_url": "https://linktr.ee/thebluedevils",
+								"display_url": "linktr.ee/thebluedevils",
+								"indices": [
+									37,
+									60
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 63866,
+				"friends_count": 12355,
+				"listed_count": 0,
+				"created_at": "Wed Oct 15 19:26:19 +0000 2008",
+				"favourites_count": 20620,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25328,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0848A7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1399799414990852099/oedHiIUb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399799414990852099/oedHiIUb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16789643/1620666378",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "‘97, ‘98, ‘99. https://t.co/aLKbsBALdd"
+	},
+	{
 		"created_at": "Sun Jun 27 14:49:33 +0000 2021",
 		"id": 1408443336348868600,
 		"id_str": "1409161986194169856",
