@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 10:40:58 +0000 2021",
+		"id": 1410186595068698600,
+		"id_str": "1410186595068698625",
+		"full_text": "I have had it with these motherfucking vampires on this motherfucking plane! https://t.co/z7ToStjnOT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z7ToStjnOT",
+					"expanded_url": "https://twitter.com/netflix/status/1409893989319286784",
+					"display_url": "twitter.com/netflix/status…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9586552,
+			"id_str": "9586552",
+			"name": "Zak Winnick",
+			"screen_name": "ZakWinnick",
+			"location": "Nashville, TN",
+			"description": "Nashville-based MacOS System Administrator, 15+ Year Veteran Podcaster, and Electric Vehicle Evangelist | https://t.co/8yLe5VGR5c",
+			"url": "https://t.co/vGZZOYJJCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGZZOYJJCo",
+							"expanded_url": "https://ZakWinnick.com",
+							"display_url": "ZakWinnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8yLe5VGR5c",
+							"expanded_url": "http://ts.la/zak8917",
+							"display_url": "ts.la/zak8917",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 222,
+			"listed_count": 18,
+			"created_at": "Sun Oct 21 22:28:31 +0000 2007",
+			"favourites_count": 170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3F5B66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408409387480326148/05B7qFeB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408409387480326148/05B7qFeB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9586552/1612393503",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "858080",
+			"profile_text_color": "086660",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1409893989319286800,
+		"quoted_status_id_str": "1409893989319286784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z7ToStjnOT",
+			"expanded": "https://twitter.com/netflix/status/1409893989319286784",
+			"display": "twitter.com/netflix/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 29 15:18:16 +0000 2021",
+			"id": 1409893989319286800,
+			"id_str": "1409893989319286784",
+			"full_text": "These hijackers planed for everything… except the vampire who is secretly on the plane  \n\nBlood Red Sky premieres July 23 https://t.co/ZxiNXWqie8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				145
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1409869460383703000,
+						"id_str": "1409869460383703046",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/E5Dd6eAWUAQqPMC.png",
+						"media_url_https": "https://pbs.twimg.com/media/E5Dd6eAWUAQqPMC.png",
+						"url": "https://t.co/ZxiNXWqie8",
+						"display_url": "pic.twitter.com/ZxiNXWqie8",
+						"expanded_url": "https://twitter.com/NetflixGeeked/status/1409889396824829952/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1421,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 1409889396824830000,
+						"source_status_id_str": "1409889396824829952",
+						"source_user_id": 999720386014019600,
+						"source_user_id_str": "999720386014019584"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1409869460383703000,
+						"id_str": "1409869460383703046",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/E5Dd6eAWUAQqPMC.png",
+						"media_url_https": "https://pbs.twimg.com/media/E5Dd6eAWUAQqPMC.png",
+						"url": "https://t.co/ZxiNXWqie8",
+						"display_url": "pic.twitter.com/ZxiNXWqie8",
+						"expanded_url": "https://twitter.com/NetflixGeeked/status/1409889396824829952/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1421,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 1409889396824830000,
+						"source_status_id_str": "1409889396824829952",
+						"source_user_id": 999720386014019600,
+						"source_user_id_str": "999720386014019584",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 133440,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1409869460383703046/pl/RFSHT8nMgbz0cA-p.m3u8?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1409869460383703046/vid/480x270/42MxTFhVzy_5dlx5.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1409869460383703046/vid/1280x720/31AvRC_eprnQERak.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1409869460383703046/vid/640x360/cFQYwBQirCJP5wM_.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 999720386014019600,
+								"id_str": "999720386014019584",
+								"name": "Netflix Geeked",
+								"screen_name": "NetflixGeeked",
+								"location": "Los Angeles, CA",
+								"description": "Welcome to our worlds.",
+								"url": "https://t.co/A63CsnSMQ9",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/A63CsnSMQ9",
+												"expanded_url": "http://geekedweek.com",
+												"display_url": "geekedweek.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 424440,
+								"friends_count": 849,
+								"listed_count": 1065,
+								"created_at": "Thu May 24 18:34:48 +0000 2018",
+								"favourites_count": 10324,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 10974,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1384234872999354370/eOwUWP3o_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384234872999354370/eOwUWP3o_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/999720386014019584/1622849874",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16573941,
+				"id_str": "16573941",
+				"name": "Netflix",
+				"screen_name": "netflix",
+				"location": "California, USA",
+				"description": "Celebrate queer stories this pride month and beyond with @Most https://t.co/HjmDSfjFK7",
+				"url": "https://t.co/XzOdAb0vdS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XzOdAb0vdS",
+								"expanded_url": "http://netflix.com/blacklivesmatter",
+								"display_url": "netflix.com/blacklivesmatt…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HjmDSfjFK7",
+								"expanded_url": "http://netflix.com/pride",
+								"display_url": "netflix.com/pride",
+								"indices": [
+									63,
+									86
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12274148,
+				"friends_count": 1836,
+				"listed_count": 17895,
+				"created_at": "Fri Oct 03 04:16:17 +0000 2008",
+				"favourites_count": 14952,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39425,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16573941/1624030839",
+				"profile_link_color": "E50914",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 548,
+			"favorite_count": 3646,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have had it with these motherfucking vampires on this motherfucking plane! https://t.co/z7ToStjnOT"
+	},
+	{
 		"created_at": "Mon Jun 28 11:25:37 +0000 2021",
 		"id": 1409299709307588600,
 		"id_str": "1409473054187556866",
